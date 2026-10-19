@@ -1,0 +1,2330 @@
+{
+  "95PctMemoryReduction": {
+    "message": "Reducció de memòria del 95%"
+  },
+  "about": {
+    "message": "Quant a"
+  },
+  "actionPopupOverrideNote": {
+    "message": "Aquesta configuració es pot anul·lar dins de la finestra emergent d'acció (si has activat la finestra emergent d'acció)."
+  },
+  "aDashZ": {
+    "message": "A-Z"
+  },
+  "addOneTabNow": {
+    "message": "Afegeix OneTab ara"
+  },
+  "all": {
+    "message": "Tot"
+  },
+  "allBookmarks": {
+    "message": "Totes les adreces d'interès"
+  },
+  "allOpenTabsAlreadyStoredHere_few": {
+    "message": "Totes les pestanyes obertes ja estan desades aquí:"
+  },
+  "allOpenTabsAlreadyStoredHere_many": {
+    "message": "Totes les pestanyes obertes ja estan desades aquí:"
+  },
+  "allOpenTabsAlreadyStoredHere_one": {
+    "message": "La pestanya oberta ja està desada aquí:"
+  },
+  "allOpenTabsAlreadyStoredHere_other": {
+    "message": "Totes les pestanyes obertes ja estan desades aquí:"
+  },
+  "allOpenTabsAlreadyStoredHere_two": {
+    "message": "Totes les pestanyes obertes ja estan desades aquí:"
+  },
+  "allOpenTabsAlreadyStoredHere_zero": {
+    "message": "Totes les pestanyes obertes ja estan desades aquí:"
+  },
+  "allowFileAccessInstructions": {
+    "message": "Per permetre que els fitxers s'obrin directament, ves a Configuració ➝ Extensions ➝ OneTab ➝ Detalls ➝ Permet l'accés als URL de fitxer"
+  },
+  "alreadyExistingOpenTabsWillBeClosedAfterMerge": {
+    "message": "Totes les pestanyes obertes que ja existeixen en aquest grup es tancaran després de la combinació."
+  },
+  "alternatePlainTextFormat": {
+    "message": "També podeu fer servir text sense format amb aquest format:"
+  },
+  "approve": {
+    "message": "Aprova"
+  },
+  "archived": {
+    "message": "Arxivats"
+  },
+  "autoTheme": {
+    "message": "Automàtic (segons la configuració del sistema operatiu)"
+  },
+  "backupAndSync": {
+    "message": "Còpia de seguretat i sincronització"
+  },
+  "betaReleaseReportBugsHere": {
+    "message": "Versió beta - Informeu d'errors aquí"
+  },
+  "bookmarkCount_few": {
+    "message": "{COUNT} adreces d'interès"
+  },
+  "bookmarkCount_many": {
+    "message": "{COUNT} adreces d'interès"
+  },
+  "bookmarkCount_one": {
+    "message": "{COUNT} adreça d'interès"
+  },
+  "bookmarkCount_other": {
+    "message": "{COUNT} adreces d'interès"
+  },
+  "bookmarkCount_two": {
+    "message": "{COUNT} adreces d'interès"
+  },
+  "bookmarkCount_zero": {
+    "message": "{COUNT} adreces d'interès"
+  },
+  "bookmarksPermissionNecesssary": {
+    "message": "Cal el permís d'adreces d'interès perquè OneTab pugui importar les adreces d'interès del navegador"
+  },
+  "bulkActions": {
+    "message": "Accions en bloc"
+  },
+  "cancel": {
+    "message": "Cancel·la"
+  },
+  "canDragTextNote": {
+    "message": "Nota: també pots arrossegar i deixar anar text que contingui enllaços web directament des d'una altra pàgina web o des d'un document. Pots arrossegar el text directament a la teva pàgina de OneTab, sense haver d'utilitzar aquest quadre d'importació."
+  },
+  "cannotConnectToServerDeletionRequestQueued": {
+    "message": "No es pot connectar al servidor de OneTab. Comproveu la connexió a Internet. La sol·licitud de supressió de la pàgina compartida s'ha posat a la cua localment i es transmetrà automàticament al servidor de OneTab tan aviat com torni a estar disponible."
+  },
+  "cannotCreateTabGroupInTabGroup": {
+    "message": "La destinació que heu triat és un grup de pestanyes. No podeu crear un grup de pestanyes dins d'un grup de pestanyes existent. Trieu una altra destinació."
+  },
+  "cannotMixTabsGroupsFoldersDuringDrag": {
+    "message": "No es poden barrejar pestanyes, grups i carpetes en arrossegar. Això és perquè, per exemple, no pots arrossegar una carpeta als mateixos llocs on pots arrossegar una pestanya."
+  },
+  "cannotMoveItemAncestorHere": {
+    "message": "No es pot moure un element principal dins del seu propi element fill, perquè això crearia un bucle."
+  },
+  "cannotMoveItemIntoItself": {
+    "message": "No es pot moure un element dins de si mateix."
+  },
+  "canPasteWebContentForExample": {
+    "message": "Pots enganxar text copiat d'una pàgina web o d'un document, i els enllaços s'extrauran automàticament. Per exemple:"
+  },
+  "caseSensitive": {
+    "message": "Distingeix majúscules i minúscules"
+  },
+  "changesMadeSinceSharedPageCreation": {
+    "message": "Les pestanyes desades han canviat des que vas compartir aquesta pàgina. Fes clic al botó «Actualitza» per actualitzar la pàgina compartida existent."
+  },
+  "changeThisSettingAtAnyTimeInfo": {
+    "message": "Pots canviar aquesta opció en qualsevol moment fent clic al botó «Opcions» de la part superior de la teva pàgina de OneTab."
+  },
+  "changeThisSettingAtAnyTimeInfoHtml": {
+    "message": "Pots canviar-ho més endavant a <b>Opcions</b>."
+  },
+  "checkboxesDeterminePinnedAndGroupedTabMergeInclusion": {
+    "message": "Les caselles de selecció de la part superior d'aquesta pàgina determinen si les pestanyes fixades o agrupades s'inclouen en la combinació."
+  },
+  "chooseALocation": {
+    "message": "Tria una ubicació"
+  },
+  "chooseALocationToImportTo": {
+    "message": "Tria una ubicació on importar"
+  },
+  "chooseExportLocation": {
+    "message": "Tria una ubicació d'on exportar"
+  },
+  "chooseLightDarkTheme": {
+    "message": "Tria el tema clar/fosc"
+  },
+  "chooseLocationToCopyTo": {
+    "message": "Tria una ubicació on copiar els elements"
+  },
+  "chooseLocationToMoveTo": {
+    "message": "Tria una ubicació on moure els elements"
+  },
+  "chooseLocationToRestoreTo": {
+    "message": "Tria una ubicació on restaurar-ho"
+  },
+  "chooseToIncludeNotes": {
+    "message": "Si has afegit notes a pestanyes o grups, tria si vols incloure-les a la pàgina web compartida"
+  },
+  "chooseToIncludeRatings": {
+    "message": "Si has afegit estrelles a pestanyes o grups, tria si vols incloure-les a la pàgina web compartida"
+  },
+  "chromeIncognitoInstructions": {
+    "message": "A la configuració del navegador, ves a «Configuració» → «Extensions» → «OneTab» → «Detalls» i, tot seguit, activa «Permet en mode d'incògnit»."
+  },
+  "clickButtonToAllowTabAccess": {
+    "message": "Fes clic al botó de sota per permetre que OneTab accedeixi a les teves pestanyes obertes."
+  },
+  "clickHereToContinue": {
+    "message": "Fes clic aquí per continuar."
+  },
+  "clickOneTabIconToStoreTabsHere": {
+    "message": "Fes clic a la icona de OneTab a la barra d'eines del navegador per desar aquí les pestanyes obertes."
+  },
+  "closeSelectedTabs_few": {
+    "message": "Tanca {COUNT} pestanyes seleccionades"
+  },
+  "closeSelectedTabs_many": {
+    "message": "Tanca {COUNT} pestanyes seleccionades"
+  },
+  "closeSelectedTabs_one": {
+    "message": "Tanca {COUNT} pestanya seleccionada"
+  },
+  "closeSelectedTabs_other": {
+    "message": "Tanca {COUNT} pestanyes seleccionades"
+  },
+  "closeSelectedTabs_two": {
+    "message": "Tanca {COUNT} pestanyes seleccionades"
+  },
+  "closeSelectedTabs_zero": {
+    "message": "Tanca {COUNT} pestanyes seleccionades"
+  },
+  "closeSelectedTabsAndStoreInONETAB_few": {
+    "message": "Tanca {COUNT} pestanyes seleccionades i desa-les a ONETAB"
+  },
+  "closeSelectedTabsAndStoreInONETAB_many": {
+    "message": "Tanca {COUNT} pestanyes seleccionades i desa-les a ONETAB"
+  },
+  "closeSelectedTabsAndStoreInONETAB_one": {
+    "message": "Tanca {COUNT} pestanya seleccionada i desa-la a ONETAB"
+  },
+  "closeSelectedTabsAndStoreInONETAB_other": {
+    "message": "Tanca {COUNT} pestanyes seleccionades i desa-les a ONETAB"
+  },
+  "closeSelectedTabsAndStoreInONETAB_two": {
+    "message": "Tanca {COUNT} pestanyes seleccionades i desa-les a ONETAB"
+  },
+  "closeSelectedTabsAndStoreInONETAB_zero": {
+    "message": "Tanca {COUNT} pestanyes seleccionades i desa-les a ONETAB"
+  },
+  "closeTabs_few": {
+    "message": "Tanca les pestanyes"
+  },
+  "closeTabs_many": {
+    "message": "Tanca les pestanyes"
+  },
+  "closeTabs_one": {
+    "message": "Tanca la pestanya"
+  },
+  "closeTabs_other": {
+    "message": "Tanca les pestanyes"
+  },
+  "closeTabs_two": {
+    "message": "Tanca les pestanyes"
+  },
+  "closeTabs_zero": {
+    "message": "Tanca les pestanyes"
+  },
+  "closeTabsAfterMerge": {
+    "message": "Tanca les pestanyes després de combinar-les"
+  },
+  "closeTabsAlreadyStoredInOneTab_few": {
+    "message": "Tanca {COUNT} pestanyes ja desades a OneTab"
+  },
+  "closeTabsAlreadyStoredInOneTab_many": {
+    "message": "Tanca {COUNT} pestanyes ja desades a OneTab"
+  },
+  "closeTabsAlreadyStoredInOneTab_one": {
+    "message": "Tanca {COUNT} pestanya ja desada a OneTab"
+  },
+  "closeTabsAlreadyStoredInOneTab_other": {
+    "message": "Tanca {COUNT} pestanyes ja desades a OneTab"
+  },
+  "closeTabsAlreadyStoredInOneTab_two": {
+    "message": "Tanca {COUNT} pestanyes ja desades a OneTab"
+  },
+  "closeTabsAlreadyStoredInOneTab_zero": {
+    "message": "Tanca {COUNT} pestanyes ja desades a OneTab"
+  },
+  "closeTabsAndStore_few": {
+    "message": "Tanca les pestanyes i desa-les a ONETAB"
+  },
+  "closeTabsAndStore_many": {
+    "message": "Tanca les pestanyes i desa-les a ONETAB"
+  },
+  "closeTabsAndStore_one": {
+    "message": "Tanca la pestanya i desa-la a ONETAB"
+  },
+  "closeTabsAndStore_other": {
+    "message": "Tanca les pestanyes i desa-les a ONETAB"
+  },
+  "closeTabsAndStore_two": {
+    "message": "Tanca les pestanyes i desa-les a ONETAB"
+  },
+  "closeTabsAndStore_zero": {
+    "message": "Tanca les pestanyes i desa-les a ONETAB"
+  },
+  "closeTheseDuplicates_few": {
+    "message": "Tanca aquestes pestanyes duplicades"
+  },
+  "closeTheseDuplicates_many": {
+    "message": "Tanca aquestes pestanyes duplicades"
+  },
+  "closeTheseDuplicates_one": {
+    "message": "Tanca aquesta pestanya duplicada"
+  },
+  "closeTheseDuplicates_other": {
+    "message": "Tanca aquestes pestanyes duplicades"
+  },
+  "closeTheseDuplicates_two": {
+    "message": "Tanca aquestes pestanyes duplicades"
+  },
+  "closeTheseDuplicates_zero": {
+    "message": "Tanca aquestes pestanyes duplicades"
+  },
+  "completedTaskFlagHelp": {
+    "message": "Aquest element és una tasca. Fes clic en aquesta icona per marcar-la com a pendent (no completada)."
+  },
+  "completeEditingShortcutInfo": {
+    "message": "En editar un camp de notes, completar l’edició"
+  },
+  "configureShortcuts": {
+    "message": "Configura les dreceres"
+  },
+  "conflictingShortcutsHint": {
+    "message": "Si alguna de les dreceres de teclat anteriors no funciona o entra en conflicte amb alguna altra aplicació, pots configurar una drecera de teclat diferent."
+  },
+  "continue": {
+    "message": "Continua"
+  },
+  "convertTabsIntoAList": {
+    "message": "Converteix les pestanyes en una llista"
+  },
+  "copiedToClipboard": {
+    "message": "S'ha copiat al porta-retalls"
+  },
+  "copy": {
+    "message": "Copia"
+  },
+  "copyLinksToClipboard": {
+    "message": "Copia els enllaços al porta-retalls"
+  },
+  "copySharedPageUrl": {
+    "message": "Copia l'URL de la pàgina compartida"
+  },
+  "copyToClipboard": {
+    "message": "Copia al porta-retalls"
+  },
+  "copyToClipboardMenuItemHelp": {
+    "message": "Copia aquests enllaços web al porta-retalls perquè els puguis enganxar en altres aplicacions. Pots canviar el format del text del porta-retalls a la pàgina d'opcions de OneTab."
+  },
+  "createANewGroupHere": {
+    "message": "Crea un grup nou aquí"
+  },
+  "createdOnDate": {
+    "message": "Creat el {DATE}"
+  },
+  "createdOnOrAfterColon": {
+    "message": "Creat a partir de:"
+  },
+  "createdOnOrBeforeColon": {
+    "message": "Creat fins a:"
+  },
+  "createFolderAbove": {
+    "message": "Crea una carpeta a sobre"
+  },
+  "createFolderAboveBelow": {
+    "message": "Crea una carpeta a sobre / a sota"
+  },
+  "createFolderAboveWithinBelow": {
+    "message": "Crea una carpeta a sobre / dins / a sota"
+  },
+  "createFolderBelow": {
+    "message": "Crea una carpeta a sota"
+  },
+  "createFolderWithin": {
+    "message": "Crea una carpeta a dins"
+  },
+  "createFolderWithinMenuItemHelp": {
+    "message": "Les carpetes serveixen per organitzar grups que contenen pestanyes. Les carpetes contenen grups, i els grups contenen pestanyes."
+  },
+  "createGroupAbove": {
+    "message": "Crea un grup a sobre"
+  },
+  "createGroupAboveBelow": {
+    "message": "Crea un grup a sobre / a sota"
+  },
+  "createGroupAboveWithinBelow": {
+    "message": "Crea un grup a sobre / dins / a sota"
+  },
+  "createGroupBelow": {
+    "message": "Crea un grup a sota"
+  },
+  "createGroupInsideDestination": {
+    "message": "Crea un grup nou dins de la destinació"
+  },
+  "createGroupInsideDestinationHelp": {
+    "message": "Si no està marcada, les teves pestanyes s'afegiran directament al grup de destinació. Si està marcada, es crearà un grup de pestanyes nou per a les teves pestanyes dins del grup de destinació. Marca aquesta casella només si vols fer servir la funció de «grups de pestanyes» del navegador."
+  },
+  "createGroupMenuItemHelp": {
+    "message": "Crea un grup nou i buit. Un grup conté una llista de pestanyes, que es poden restaurar conjuntament en una finestra."
+  },
+  "createGroupWithin": {
+    "message": "Crea un grup a dins"
+  },
+  "createNewGroupTip": {
+    "message": "Per crear un grup nou, primer desmarca «Mostra només les carpetes». Així podràs veure el grup acabat de crear a la llista."
+  },
+  "darkTheme": {
+    "message": "Tema fosc"
+  },
+  "dayCount_few": {
+    "message": "{COUNT} dies"
+  },
+  "dayCount_many": {
+    "message": "{COUNT} dies"
+  },
+  "dayCount_one": {
+    "message": "{COUNT} dia"
+  },
+  "dayCount_other": {
+    "message": "{COUNT} dies"
+  },
+  "dayCount_two": {
+    "message": "{COUNT} dies"
+  },
+  "dayCount_zero": {
+    "message": "{COUNT} dies"
+  },
+  "delete": {
+    "message": "Suprimeix"
+  },
+  "deleteAllTrash": {
+    "message": "Buida la paperera"
+  },
+  "deleteThisCopy": {
+    "message": "Suprimeix aquesta còpia"
+  },
+  "deselectAll": {
+    "message": "Desselecciona-ho tot"
+  },
+  "destinationColon": {
+    "message": "Destinació:"
+  },
+  "disabled": {
+    "message": "Desactivat"
+  },
+  "doneTaskCount_few": {
+    "message": "{COUNT} fetes"
+  },
+  "doneTaskCount_many": {
+    "message": "{COUNT} fetes"
+  },
+  "doneTaskCount_one": {
+    "message": "{COUNT} feta"
+  },
+  "doneTaskCount_other": {
+    "message": "{COUNT} fetes"
+  },
+  "doneTaskCount_two": {
+    "message": "{COUNT} fetes"
+  },
+  "doneTaskCount_zero": {
+    "message": "{COUNT} fetes"
+  },
+  "dontCloseGroupedTabs": {
+    "message": "No tanquis cap pestanya dins de grups de pestanyes"
+  },
+  "dontClosePinnedTabs": {
+    "message": "No tanquis cap pestanya fixada"
+  },
+  "dontCloseTabsFromDomains": {
+    "message": "No tanquis cap pestanya d'EXAMPLE.COM"
+  },
+  "dragCopyKeysHtml": {
+    "message": "<x-key>{CTRL}</x-key> o <x-key>{ALT}</x-key>"
+  },
+  "dragCopyModifierInfo": {
+    "message": "Mantén premuda la tecla Ctrl o Alt mentre arrossegues una pestanya per crear-ne una còpia en lloc de moure-la."
+  },
+  "dragTabsHereForQuickList": {
+    "message": "Arrossega aquí les pestanyes o els grups desats. S'afegiran a la teva llista ràpida."
+  },
+  "editTabGroupTitleAndNotes": {
+    "message": "Edita el títol i les notes del grup de pestanyes"
+  },
+  "emojiShortcutInfo": {
+    "message": "En editar un camp de notes, obrir el selector d’emojis"
+  },
+  "emptyInBrackets": {
+    "message": "(buida)"
+  },
+  "emptyOneTabInfoMsg": {
+    "message": "Quan tinguis diverses pestanyes obertes, fes clic a la icona de OneTab a la barra d'eines del navegador i les pestanyes obertes apareixeran aquí."
+  },
+  "enabled": {
+    "message": "Activat"
+  },
+  "everything": {
+    "message": "Tot"
+  },
+  "exampleLink": {
+    "message": "Enllaç d'exemple"
+  },
+  "exampleLinkTitle": {
+    "message": "Títol de l'enllaç d'exemple"
+  },
+  "exampleLinkTitleOptional": {
+    "message": "Títol de l'enllaç d'exemple (opcional)"
+  },
+  "exampleRichTextParagraph": {
+    "message": "Paràgraf de text d'exemple amb PLACEHOLDER i PLACEHOLDER"
+  },
+  "exampleWebsitePageTitle": {
+    "message": "Títol de pàgina web d'exemple"
+  },
+  "excludeDomainFromOneTab": {
+    "message": "Exclou EXAMPLE.COM de OneTab"
+  },
+  "excludeWebSiteFromOneTab": {
+    "message": "Exclou aquest lloc web de OneTab"
+  },
+  "expiresColon": {
+    "message": "Caduca:"
+  },
+  "export": {
+    "message": "Exporta"
+  },
+  "exportImportUrls": {
+    "message": "Exporta / importa URL"
+  },
+  "exportThenImportNote": {
+    "message": "La llista d'URL següent també es pot tornar a importar a OneTab en aquest ordinador o en un altre"
+  },
+  "exportUrls": {
+    "message": "Exporta URL"
+  },
+  "feedback": {
+    "message": "Comentaris"
+  },
+  "filter": {
+    "message": "Filtre"
+  },
+  "firefoxIncognitoInstructions": {
+    "message": "A la configuració del navegador, ves a «Paràmetres» → «Complements i temes» → «Extensions» → «OneTab» → «…» → «Gestiona» i, tot seguit, activa «Executa en finestres privades»."
+  },
+  "firefoxIndexedDbUnavailable": {
+    "message": "OneTab no pot desar ni recuperar dades. Si has configurat Firefox perquè no recordi mai l'historial, això impediria que OneTab funcionés correctament. En cas contrari, posa't en contacte amb nosaltres a través del nostre lloc web i potser et podrem ajudar."
+  },
+  "firefoxShortcutConfigInstructions": {
+    "message": "Introdueix l'URL \"about:addons?type=extension\" a la barra d'adreces del navegador. Quan aparegui la pàgina, fes clic a la icona d'engranatge i tria «Gestiona les dreceres de les extensions»"
+  },
+  "Folder": {
+    "message": "Carpeta"
+  },
+  "folderCount_few": {
+    "message": "{COUNT} carpetes"
+  },
+  "folderCount_many": {
+    "message": "{COUNT} carpetes"
+  },
+  "folderCount_one": {
+    "message": "{COUNT} carpeta"
+  },
+  "folderCount_other": {
+    "message": "{COUNT} carpetes"
+  },
+  "folderCount_two": {
+    "message": "{COUNT} carpetes"
+  },
+  "folderCount_zero": {
+    "message": "{COUNT} carpetes"
+  },
+  "folders": {
+    "message": "Carpetes"
+  },
+  "foldersOnly": {
+    "message": "Només carpetes"
+  },
+  "foldGroup": {
+    "message": "Replega el grup"
+  },
+  "gettingStarted": {
+    "message": "Primers passos"
+  },
+  "gotIt": {
+    "message": "Entesos"
+  },
+  "goToParentFolder": {
+    "message": "Ves a la carpeta superior"
+  },
+  "groupCount_few": {
+    "message": "{COUNT} grups"
+  },
+  "groupCount_many": {
+    "message": "{COUNT} grups"
+  },
+  "groupCount_one": {
+    "message": "{COUNT} grup"
+  },
+  "groupCount_other": {
+    "message": "{COUNT} grups"
+  },
+  "groupCount_two": {
+    "message": "{COUNT} grups"
+  },
+  "groupCount_zero": {
+    "message": "{COUNT} grups"
+  },
+  "groups": {
+    "message": "Grups"
+  },
+  "hasNotes": {
+    "message": "Amb notes"
+  },
+  "help": {
+    "message": "Ajuda"
+  },
+  "hideArchivedItems": {
+    "message": "Amaga els elements arxivats"
+  },
+  "import": {
+    "message": "Importa"
+  },
+  "importAndExport": {
+    "message": "Importació i exportació"
+  },
+  "importBookmarks": {
+    "message": "Importa adreces d'interès"
+  },
+  "importedBookmarks": {
+    "message": "Adreces d'interès importades"
+  },
+  "importExportShareMenuNoteHtml": {
+    "message": "També pots exportar les pestanyes com a pàgina web compartible o com a fitxer HTML mitjançant les opcions <b>Comparteix com a pàgina web</b> i <b>Desa com a fitxer HTML</b> del menú <b>Més…</b> d’un grup o d’una carpeta."
+  },
+  "importFolderAndSubfolders": {
+    "message": "Importa la carpeta i les subcarpetes"
+  },
+  "importLinksHere": {
+    "message": "Importa enllaços aquí"
+  },
+  "importLinksHereMenuItemHelp": {
+    "message": "Pots enganxar-hi una llista d'enllaços web o importar adreces d'interès del navegador."
+  },
+  "importNotesTruncatedNotice": {
+    "message": "Algunes notes importades superaven el límit de {MAX} caràcters, així que se n'ha retallat el final."
+  },
+  "importReadingList": {
+    "message": "Importa la llista de lectura"
+  },
+  "importText": {
+    "message": "Importa text"
+  },
+  "importUrls": {
+    "message": "Importa URL"
+  },
+  "includeGroupedTabs": {
+    "message": "Inclou les pestanyes agrupades"
+  },
+  "includeNotes": {
+    "message": "Inclou notes"
+  },
+  "includePinnedTabs": {
+    "message": "Inclou les pestanyes fixades"
+  },
+  "includeStarRatings": {
+    "message": "Inclou estrelles"
+  },
+  "includeTabsAlreadyStored": {
+    "message": "Inclou les pestanyes que ja has desat"
+  },
+  "includeTabsFromDomains": {
+    "message": "Inclou les pestanyes de EXAMPLE.COM"
+  },
+  "incogitoPermissionRequired": {
+    "message": "OneTab necessita permís per crear finestres d'incògnit."
+  },
+  "incognitoWindows": {
+    "message": "Finestres d'incògnit"
+  },
+  "invertSelection": {
+    "message": "Inverteix la selecció"
+  },
+  "itemTextTruncatedNotice": {
+    "message": "El text superava el límit (les notes poden tenir {NOTESMAX} caràcters i els títols, {TITLEMAX}), així que se n'ha retallat el final."
+  },
+  "justNow": {
+    "message": "ara mateix"
+  },
+  "kbdNavBackspaceInfo": {
+    "message": "Pujar a la carpeta superior"
+  },
+  "kbdNavEnterInfo": {
+    "message": "Restaurar pestanyes o obrir una carpeta"
+  },
+  "kbdNavEscInfo": {
+    "message": "Finalitzar la navegació amb teclat"
+  },
+  "kbdNavFocusInfo": {
+    "message": "Canviar el focus de grups a pestanyes"
+  },
+  "kbdNavFoldInfo": {
+    "message": "Replegar / desplegar un grup"
+  },
+  "kbdNavMoveInfo": {
+    "message": "Moure’s entre elements"
+  },
+  "kbdNavTabInfo": {
+    "message": "Iniciar la navegació amb teclat"
+  },
+  "keyboardShortcutsColon": {
+    "message": "Dreceres de teclat:"
+  },
+  "languageTitle": {
+    "message": "Idioma:"
+  },
+  "licenseAlreadyHaveKey": {
+    "message": "Ja tinc una clau de llicència"
+  },
+  "licenseAlreadySetUpRestarting": {
+    "message": "Aquesta llicència ja està configurada, així que connectarem aquest dispositiu a la configuració existent. Hem enviat un codi nou a l'adreça electrònica registrada."
+  },
+  "licenseBackLink": {
+    "message": "Enrere"
+  },
+  "licenseBrowserOnOs": {
+    "message": "{BROWSER} a {OS}"
+  },
+  "licenseBrowsersActiveOn": {
+    "message": "Actiu el {DATE}"
+  },
+  "licenseBrowsersActiveToday": {
+    "message": "Actiu avui"
+  },
+  "licenseBrowsersAdded": {
+    "message": "Afegit el {DATE}"
+  },
+  "licenseBrowsersThisBrowser": {
+    "message": "Aquest navegador"
+  },
+  "licenseBrowserUnknown": {
+    "message": "Navegador"
+  },
+  "licenseChangeEmail": {
+    "message": "Canvia l'adreça electrònica"
+  },
+  "licenseChangeEmailWebLink": {
+    "message": "Canvia l'adreça electrònica"
+  },
+  "licenseChooseRecoveryTitle": {
+    "message": "Tria com vols protegir la clau de xifratge"
+  },
+  "licenseCloseModal": {
+    "message": "Tanca"
+  },
+  "licenseCodeExpired": {
+    "message": "Aquest codi ha caducat. Demana que t'enviem un correu nou."
+  },
+  "licenseCodeIncorrectTriesRemaining": {
+    "message": "Codi incorrecte. Intents restants: {COUNT}."
+  },
+  "licenseCodeInvalidFormat": {
+    "message": "Introdueix el codi de 6 dígits del correu electrònic."
+  },
+  "licenseCodePlaceholder": {
+    "message": "Codi de 6 dígits"
+  },
+  "licenseCodeSentTo": {
+    "message": "Introdueix el codi de 6 dígits que hem enviat per correu electrònic a {EMAIL}."
+  },
+  "licenseCodeSourceDeviceOption": {
+    "message": "Obtén un codi d'un navegador que ja estigui connectat"
+  },
+  "licenseCodeSourceDeviceOptionDescription": {
+    "message": "Obre-hi Còpia de seguretat i sincronització i fes clic a «Connecta un altre navegador o perfil»."
+  },
+  "licenseCodeSourceEmailOption": {
+    "message": "Envia un codi per correu a {EMAIL}"
+  },
+  "licenseCodeSourceTitle": {
+    "message": "Obtén un codi de verificació"
+  },
+  "licenseCodeTriesExhausted": {
+    "message": "No queden intents per a aquest codi. Demana que t'enviem un correu nou."
+  },
+  "licenseConnectAnotherBrowser": {
+    "message": "Connecta un altre navegador o perfil"
+  },
+  "licenseConnectedBrowsers": {
+    "message": "Navegadors connectats"
+  },
+  "licenseDeviceAddConnected": {
+    "message": "{BROWSER} s'acaba de connectar a la teva llicència."
+  },
+  "licenseDeviceAddExpired": {
+    "message": "Aquest codi ha caducat."
+  },
+  "licenseDeviceAddExpiresIn": {
+    "message": "Caduca d'aquí a {TIME}"
+  },
+  "licenseDeviceAddGetNewCode": {
+    "message": "Obtén un codi nou"
+  },
+  "licenseDeviceAddIntro": {
+    "message": "Per connectar un altre navegador o perfil, introdueix-hi la clau de llicència i, quan se't demani, aquest codi."
+  },
+  "licenseDeviceAddKeyReminder": {
+    "message": "Encara necessitaràs la clau de llicència, que no es mostra aquí. La trobaràs al correu electrònic en què la vas rebre o a la pàgina de facturació."
+  },
+  "licenseDeviceAddNeverShare": {
+    "message": "Fes servir aquest codi només al teu navegador nou. No el comparteixis mai amb ningú: OneTab no te'l demanarà mai. Només funciona amb la llicència d'aquest navegador."
+  },
+  "licenseDeviceCodeInsteadLink": {
+    "message": "Obtén un codi d'un navegador connectat"
+  },
+  "licenseDeviceCodePrompt": {
+    "message": "En un navegador que ja estigui connectat a la teva llicència, obre Còpia de seguretat i sincronització i fes clic a «Connecta un altre navegador o perfil». Introdueix el codi de 6 dígits que s'hi mostra."
+  },
+  "licenseDeviceLimitReached": {
+    "message": "Aquesta llicència ha arribat al límit de dispositius."
+  },
+  "licenseDoneButton": {
+    "message": "Fet"
+  },
+  "licenseEasyOptionDescription": {
+    "message": "La clau de xifratge es manté sota la custòdia segura del servidor perquè la puguis recuperar per correu electrònic."
+  },
+  "licenseEasyOptionLabel": {
+    "message": "Fàcil"
+  },
+  "licenseEmailCodeInsteadLink": {
+    "message": "Envia'm un codi per correu"
+  },
+  "licenseEmailPlaceholder": {
+    "message": "Adreça electrònica"
+  },
+  "licenseEmailPrompt": {
+    "message": "La teva adreça electrònica"
+  },
+  "licenseForgotKeyBack": {
+    "message": "Torna a introduir la clau de llicència"
+  },
+  "licenseForgotKeyEnterKeyButton": {
+    "message": "Introdueix la clau de llicència"
+  },
+  "licenseForgotKeyLink": {
+    "message": "Has oblidat la clau de llicència?"
+  },
+  "licenseForgotKeyNoEmailOnRecord": {
+    "message": "No hi ha cap clau de llicència associada a aquesta adreça electrònica. Comprova que no hi hagi cap error o prova una altra adreça que hagis pogut utilitzar."
+  },
+  "licenseForgotKeyPrompt": {
+    "message": "Introdueix la teva adreça electrònica. Si està registrada per a una clau de llicència, t'enviarem la clau per correu electrònic."
+  },
+  "licenseForgotKeySendButton": {
+    "message": "Envia"
+  },
+  "licenseForgotKeySentTo": {
+    "message": "Hem enviat la teva clau de llicència per correu electrònic a {EMAIL}. Quan arribi, podràs introduir-la aquí."
+  },
+  "licenseForgotKeyTooManyRequests": {
+    "message": "Recentment, la teva clau de llicència ja s'ha enviat diverses vegades a aquesta adreça. Comprova la carpeta de correu brossa o torna-ho a provar demà."
+  },
+  "licenseGenericError": {
+    "message": "Hi ha hagut un problema. Torna-ho a provar."
+  },
+  "licenseGoButton": {
+    "message": "Continua"
+  },
+  "licenseInvalidEmail": {
+    "message": "Introdueix una adreça electrònica vàlida."
+  },
+  "licenseKeyInvalidFormat": {
+    "message": "Això no sembla una clau de llicència vàlida. Ha de tenir 20 lletres (A-F) i números, com ara XXXX-XXXX-XXXX-XXXX-XXXX."
+  },
+  "licenseKeyNotFound": {
+    "message": "No s’ha trobat la clau de llicència. Comprova-la i torna-ho a provar."
+  },
+  "licenseNoLongerActiveError": {
+    "message": "Aquesta llicència ja no està activa. Si creus que és un error, contacta amb l’assistència."
+  },
+  "licenseRateLimitedError": {
+    "message": "Hi ha hagut massa intents fallits des de la teva xarxa. Espera una estona i torna-ho a provar."
+  },
+  "licenseResendEmail": {
+    "message": "Envia un correu nou"
+  },
+  "licenseServiceProblemTryLater": {
+    "message": "Ara mateix no es pot completar aquesta acció a causa d’un problema per part nostra. Torna-ho a provar més tard; si continua passant, contacta amb l’assistència."
+  },
+  "licenseSuccess": {
+    "message": "Tot a punt! A partir d'ara, les pestanyes desades es xifraran i se'n farà una còpia de seguretat segura al núvol."
+  },
+  "licenseSuccessJoin": {
+    "message": "Tot a punt! Aquest navegador s'ha afegit a la teva còpia de seguretat xifrada. A partir d'ara, les pestanyes desades aquí i als altres navegadors es mantindran sincronitzades."
+  },
+  "licenseSuggestedEmailIntro": {
+    "message": "La clau de llicència es va enviar per correu electrònic a:"
+  },
+  "licenseSuggestedEmailNote": {
+    "message": "Els codis de verificació i la recuperació del compte faran servir aquesta adreça, així que assegura’t que sigui teva."
+  },
+  "licenseSuspendedBillingError": {
+    "message": "Ara mateix no es pot connectar aquesta llicència a causa d’un problema de facturació. Si gestiones la facturació, inicia la sessió a one-tab.com per resoldre’l; si no, contacta amb la persona responsable de comprar la llicència."
+  },
+  "licenseUltraKeyConfirmCheckbox": {
+    "message": "He desat una còpia de la clau i entenc que no es tornarà a mostrar mai."
+  },
+  "licenseUltraKeyConfirmRequired": {
+    "message": "Confirma que has desat una còpia de la clau."
+  },
+  "licenseUltraKeyEnterPrompt": {
+    "message": "Introdueix la clau de xifratge per acabar de connectar aquest dispositiu."
+  },
+  "licenseUltraKeyIntro": {
+    "message": "Aquesta és la teva clau de xifratge. Conserva'n una còpia segura, per exemple en un gestor de contrasenyes, per poder recuperar les dades en cas d'avaria o robatori de l'ordinador."
+  },
+  "licenseUltraKeyMismatch": {
+    "message": "Aquesta clau no és correcta per a aquesta llicència. Comprova-la i torna-ho a provar."
+  },
+  "licenseUltraKeyNeverShownAgain": {
+    "message": "Aquesta clau no es tornarà a mostrar MAI."
+  },
+  "licenseUltraKeyPlaceholder": {
+    "message": "Clau de xifratge"
+  },
+  "licenseUltraOptionDescription": {
+    "message": "Només tu tens la clau de xifratge i, si la perds, no es podrà recuperar. Tria aquesta opció només si tens la certesa que en podràs conservar una còpia segura."
+  },
+  "licenseUltraOptionLabel": {
+    "message": "Privadesa màxima"
+  },
+  "licenseUseDifferentEmail": {
+    "message": "Fes servir una altra adreça electrònica"
+  },
+  "lightTheme": {
+    "message": "Tema clar"
+  },
+  "localBackupRestoredModal": {
+    "message": "La part del perfil del navegador on es desen les dades de OneTab s'ha malmès o s'ha suprimit. Això pot passar després d'una fallada del navegador o quan un programari de neteja del sistema o de privadesa que no funciona correctament elimina dades del navegador."
+  },
+  "localBackupRestoredModalRecovery": {
+    "message": "Aquesta vegada has tingut sort: els danys no han afectat la part separada del perfil on OneTab conserva una còpia de seguretat setmanal, de manera que les pestanyes s'han restaurat a partir de la còpia feta el {DATE}. No s'ha pogut recuperar res del que vas desar o canviar després d'aquesta data. Si s'hagués perdut tot el perfil o també s'hagués malmès la còpia de seguretat, no hi hauria hagut res des d'on restaurar-les."
+  },
+  "localBackupRestoredModalTitle": {
+    "message": "OneTab ha recuperat les teves pestanyes després d'una pèrdua de dades"
+  },
+  "localeId": {
+    "message": "ca"
+  },
+  "locationColon": {
+    "message": "Ubicació:"
+  },
+  "lock": {
+    "message": "Bloqueja"
+  },
+  "lockedGroupUnlockHelp": {
+    "message": "Per desbloquejar-lo, fes servir el menú «Més…». Quan un grup està bloquejat, no pots suprimir el grup ni les seves pestanyes, i no es pot canviar l'ordre de les pestanyes."
+  },
+  "lockMenuItemHelp": {
+    "message": "Quan un grup està bloquejat, no pots suprimir ni reordenar els elements dins del grup (fins que no el desbloquegis)."
+  },
+  "makeThisATask": {
+    "message": "Marca com a tasca"
+  },
+  "manifestDescription": {
+    "message": "Estalvia fins a un 95% de memòria i redueix el desordre de pestanyes"
+  },
+  "markAsArchived": {
+    "message": "Marca com a arxivat"
+  },
+  "markAsArchivedMenuItemHelp": {
+    "message": "Quan marques un element com a arxivat, tindrà un fons gris. Això és un indicador visual que ja has acabat amb aquest element (per exemple, si és un article que ja has acabat de llegir). Si arxives un element marcat com a tasca, la tasca deixarà d'aparèixer a la columna de tasques de la teva pàgina de OneTab."
+  },
+  "markAsDoneTask": {
+    "message": "Marca com a tasca feta"
+  },
+  "markAsDoneTaskMenuItemHelp": {
+    "message": "Indica visualment que s'ha completat una tasca"
+  },
+  "markAsPendingTask": {
+    "message": "Marca com a tasca pendent"
+  },
+  "markAsPendingTaskMenuItemHelp": {
+    "message": "Indica visualment que aquest element és una tasca. Apareixerà una icona de tasca, que podràs clicar per indicar visualment que la tasca s'ha completat. Totes les tasques (llevat de les marcades com a arxivades) també apareixeran a la columna de tasques de la teva pàgina de OneTab."
+  },
+  "matchCount_few": {
+    "message": "{COUNT} coincidències"
+  },
+  "matchCount_many": {
+    "message": "{COUNT} coincidències"
+  },
+  "matchCount_one": {
+    "message": "{COUNT} coincidència"
+  },
+  "matchCount_other": {
+    "message": "{COUNT} coincidències"
+  },
+  "matchCount_two": {
+    "message": "{COUNT} coincidències"
+  },
+  "matchCount_zero": {
+    "message": "{COUNT} coincidències"
+  },
+  "matchWholeWordsOnly": {
+    "message": "Només paraules senceres"
+  },
+  "mayNeedToRestartBrowser": {
+    "message": "Si veus aquest missatge cada vegada, actualitza i reinicia el navegador."
+  },
+  "mergeIntoParent": {
+    "message": "Combina amb l'element superior"
+  },
+  "mergeOpenTabsHere_few": {
+    "message": "Combina aquí {COUNT} pestanyes obertes"
+  },
+  "mergeOpenTabsHere_many": {
+    "message": "Combina aquí {COUNT} pestanyes obertes"
+  },
+  "mergeOpenTabsHere_one": {
+    "message": "Combina aquí {COUNT} pestanya oberta"
+  },
+  "mergeOpenTabsHere_other": {
+    "message": "Combina aquí {COUNT} pestanyes obertes"
+  },
+  "mergeOpenTabsHere_two": {
+    "message": "Combina aquí {COUNT} pestanyes obertes"
+  },
+  "mergeOpenTabsHere_zero": {
+    "message": "Combina aquí {COUNT} pestanyes obertes"
+  },
+  "mergeSelectedTabsHere_few": {
+    "message": "Combina aquí {COUNT} pestanyes seleccionades"
+  },
+  "mergeSelectedTabsHere_many": {
+    "message": "Combina aquí {COUNT} pestanyes seleccionades"
+  },
+  "mergeSelectedTabsHere_one": {
+    "message": "Combina aquí {COUNT} pestanya seleccionada"
+  },
+  "mergeSelectedTabsHere_other": {
+    "message": "Combina aquí {COUNT} pestanyes seleccionades"
+  },
+  "mergeSelectedTabsHere_two": {
+    "message": "Combina aquí {COUNT} pestanyes seleccionades"
+  },
+  "mergeSelectedTabsHere_zero": {
+    "message": "Combina aquí {COUNT} pestanyes seleccionades"
+  },
+  "mergeWithInnerGroups": {
+    "message": "Combina amb els grups interns"
+  },
+  "modalMoveToTrashHintExampleGroupTitle": {
+    "message": "Títol de grup d'exemple"
+  },
+  "modalMoveToTrashHintHeading": {
+    "message": "Consell: passa el cursor per sobre del títol d'un grup i fes clic a la X per moure'l a la paperera."
+  },
+  "modalOptionAutoActionOnOpenHeading": {
+    "message": "Després de restaurar les pestanyes:"
+  },
+  "modalOptionAutoActionOnOpenOpenDesc": {
+    "message": "Suprimeix-les manualment quan hagis acabat"
+  },
+  "modalOptionAutoActionOnOpenTrashDesc": {
+    "message": "Més fàcil per desar i restaurar ràpidament"
+  },
+  "modalRemigrationDontAskAgain": {
+    "message": "No ho tornis a demanar"
+  },
+  "modalRemigrationFooterHtml": {
+    "message": "Fes clic a <b>Sí</b>, tret que la migració ja s'hagi fet i hagis suprimit intencionadament les pestanyes migrades."
+  },
+  "modalRemigrationNotNow": {
+    "message": "Ara no"
+  },
+  "modalRemigrationTabsFoundPrompt_few": {
+    "message": "S'han trobat {COUNT} pestanyes de OneTab v1. Vols migrar-les?"
+  },
+  "modalRemigrationTabsFoundPrompt_many": {
+    "message": "S'han trobat {COUNT} pestanyes de OneTab v1. Vols migrar-les?"
+  },
+  "modalRemigrationTabsFoundPrompt_one": {
+    "message": "S'ha trobat {COUNT} pestanya de OneTab v1. Vols migrar-la?"
+  },
+  "modalRemigrationTabsFoundPrompt_other": {
+    "message": "S'han trobat {COUNT} pestanyes de OneTab v1. Vols migrar-les?"
+  },
+  "modalRemigrationTabsFoundPrompt_two": {
+    "message": "S'han trobat {COUNT} pestanyes de OneTab v1. Vols migrar-les?"
+  },
+  "modalRemigrationTabsFoundPrompt_zero": {
+    "message": "S'han trobat {COUNT} pestanyes de OneTab v1. Vols migrar-les?"
+  },
+  "modalRemigrationYes": {
+    "message": "Sí"
+  },
+  "modalUpdateToV2Heading": {
+    "message": "OneTab s'ha actualitzat"
+  },
+  "modalUpdateToV2QuickTourHtml": {
+    "message": "Vols fer un recorregut ràpid? Fes clic a <b>Ajuda</b> a la part superior."
+  },
+  "modalUpdateToV2UseOneTabLikeBefore": {
+    "message": "Pots continuar fent servir OneTab com abans: desa les pestanyes amb un sol clic."
+  },
+  "modifySharing": {
+    "message": "Modifica la compartició"
+  },
+  "moreEllipsis": {
+    "message": "Més…"
+  },
+  "moreSearchFilters": {
+    "message": "Més filtres de cerca"
+  },
+  "move": {
+    "message": "Mou"
+  },
+  "moveBack": {
+    "message": "Recupera"
+  },
+  "moveToTrash": {
+    "message": "Mou a la paperera"
+  },
+  "namedOnly": {
+    "message": "Només amb nom"
+  },
+  "navigationFilter": {
+    "message": "Filtre de navegació"
+  },
+  "navigationFilterColumnOnlyNote": {
+    "message": "Aquest filtre només s’aplica a la columna de navegació."
+  },
+  "newExclamation": {
+    "message": "Nou!"
+  },
+  "noDupsExistExceptForColon": {
+    "message": "No hi ha duplicats, excepte:"
+  },
+  "noDupsFoundHere": {
+    "message": "No s'ha trobat cap duplicat aquí"
+  },
+  "noMatches": {
+    "message": "Cap coincidència"
+  },
+  "noMatchesFound": {
+    "message": "No s'ha trobat cap coincidència"
+  },
+  "nonArchived": {
+    "message": "No arxivats"
+  },
+  "nonTabPinFlagHelp": {
+    "message": "Aquest element està fixat a la part superior de la carpeta. Fes clic en aquesta icona per desfixar-lo."
+  },
+  "noOpenTabsToStore": {
+    "message": "No hi ha cap pestanya oberta en aquesta finestra per desar."
+  },
+  "noReadingListEntries": {
+    "message": "No s'ha trobat cap entrada a la llista de lectura"
+  },
+  "noTabsInOneTabYet": {
+    "message": "Encara no tens cap pestanya a OneTab"
+  },
+  "noTabsMeetCriteriaUseCheckboxes": {
+    "message": "No hi ha cap pestanya oberta que compleixi els teus criteris. Fes servir les caselles de selecció de dalt."
+  },
+  "notAssigned": {
+    "message": "No assignada"
+  },
+  "notes": {
+    "message": "Notes"
+  },
+  "notesAboutTheLinkOptional": {
+    "message": "Notes sobre l'enllaç (opcional)"
+  },
+  "notesAboutTheSecondLinkOptional": {
+    "message": "Notes sobre el segon enllaç (opcional)"
+  },
+  "noTextHasBeenEntered": {
+    "message": "No s'ha introduït cap text"
+  },
+  "ok": {
+    "message": "D'acord"
+  },
+  "omniboxShortcutInfo": {
+    "message": "Per cercar a la llista de OneTab des de qualsevol pestanya: ves a la barra d’adreces del navegador, escriu 11, després un espai i després una paraula clau de cerca. Per fer una cerca normal (que no sigui de OneTab) que comenci per 11, prem 11, després espai i després Retrocés"
+  },
+  "OneTabAlsoAvailableForFirefox": {
+    "message": "OneTab també està disponible per a Firefox"
+  },
+  "oneTabDesignedToProtectPrivacy": {
+    "message": "OneTab s'ha dissenyat per protegir la teva privadesa. Les teves pestanyes no se'ns comuniquen."
+  },
+  "oneTabExportPageTitle": {
+    "message": "Exportació de OneTab"
+  },
+  "oneTabFolderSlashShortcutInfo": {
+    "message": "Posar el focus al quadre de cerca i cercar només dins de la carpeta actual"
+  },
+  "oneTabImportExportPageTitle": {
+    "message": "Importació/exportació de OneTab"
+  },
+  "oneTabNeedsPermissionToAccessYourTabs": {
+    "message": "OneTab necessita permís per accedir a les teves pestanyes."
+  },
+  "oneTabOptionsPageTitle": {
+    "message": "Opcions de OneTab"
+  },
+  "oneTabPermissionRequired": {
+    "message": "OneTab - Cal permís"
+  },
+  "oneTabRestartRequired": {
+    "message": "OneTab s'ha de reiniciar. No es tancarà cap altra pestanya."
+  },
+  "oneTabSlashShortcutInfo": {
+    "message": "Posar el focus al quadre de cerca"
+  },
+  "open": {
+    "message": "Obre"
+  },
+  "openActionPopup": {
+    "message": "Acció de OneTab (equivalent a fer clic a la icona de OneTab de la barra d'eines)"
+  },
+  "openAsCollapsedTabGroup": {
+    "message": "Obre com a grup de pestanyes «replegat»"
+  },
+  "openAsCollapsedTabGroupMenuItemHelp": {
+    "message": "Si obres aquestes pestanyes com a «grup de pestanyes» replegat, només es mostrarà l'etiqueta del grup fins que hi facis clic per mostrar les pestanyes que conté."
+  },
+  "openAsPinnedTab": {
+    "message": "Fixa la pestanya en obrir-la"
+  },
+  "openAsPinnedTabMenuItemHelp": {
+    "message": "Quan aquesta pestanya es restauri, es restaurarà com a pestanya fixada del navegador. Les pestanyes fixades sempre apareixeran primer a la finestra del navegador."
+  },
+  "openAsTabGroup": {
+    "message": "Obre com a grup de pestanyes del navegador"
+  },
+  "openAsTabGroupMenuItemHelp": {
+    "message": "El teu navegador permet agrupar pestanyes en «grups de pestanyes» de colors dins d'una finestra."
+  },
+  "openFolder": {
+    "message": "Obre la carpeta"
+  },
+  "openGroupsLimitNotice_few": {
+    "message": "Per evitar que el navegador es sobrecarregui, només s'obriran els primers {COUNT} grups."
+  },
+  "openGroupsLimitNotice_many": {
+    "message": "Per evitar que el navegador es sobrecarregui, només s'obriran els primers {COUNT} grups."
+  },
+  "openGroupsLimitNotice_one": {
+    "message": "Per evitar que el navegador es sobrecarregui, només s'obrirà {COUNT} grup, el primer."
+  },
+  "openGroupsLimitNotice_other": {
+    "message": "Per evitar que el navegador es sobrecarregui, només s'obriran els primers {COUNT} grups."
+  },
+  "openGroupsLimitNotice_two": {
+    "message": "Per evitar que el navegador es sobrecarregui, només s'obriran els primers {COUNT} grups."
+  },
+  "openGroupsLimitNotice_zero": {
+    "message": "Per evitar que el navegador es sobrecarregui, només s'obriran els primers {COUNT} grups."
+  },
+  "openInIncognitoWindow": {
+    "message": "Restaura en una nova finestra d'incògnit"
+  },
+  "openInNewWindow": {
+    "message": "Restaura en una finestra nova"
+  },
+  "openInThisWindow": {
+    "message": "Restaura en aquesta finestra"
+  },
+  "openOneTab": {
+    "message": "Obre OneTab"
+  },
+  "openOneTabAfter": {
+    "message": "Obre OneTab després de desar les pestanyes"
+  },
+  "openONETABLogo": {
+    "message": "Obre ONETAB"
+  },
+  "openParentFolder": {
+    "message": "Obre la carpeta superior"
+  },
+  "openTabFromWebsite": {
+    "message": "Obre una pestanya i ves al lloc web"
+  },
+  "openTabLimit_few": {
+    "message": "Per evitar que el navegador es sobrecarregui, es poden obrir com a màxim {COUNT} pestanyes alhora."
+  },
+  "openTabLimit_many": {
+    "message": "Per evitar que el navegador es sobrecarregui, es poden obrir com a màxim {COUNT} pestanyes alhora."
+  },
+  "openTabLimit_one": {
+    "message": "Per evitar que el navegador es sobrecarregui, es pot obrir com a màxim {COUNT} pestanya alhora."
+  },
+  "openTabLimit_other": {
+    "message": "Per evitar que el navegador es sobrecarregui, es poden obrir com a màxim {COUNT} pestanyes alhora."
+  },
+  "openTabLimit_two": {
+    "message": "Per evitar que el navegador es sobrecarregui, es poden obrir com a màxim {COUNT} pestanyes alhora."
+  },
+  "openTabLimit_zero": {
+    "message": "Per evitar que el navegador es sobrecarregui, es poden obrir com a màxim {COUNT} pestanyes alhora."
+  },
+  "openTabsAlreadyStoredHere_few": {
+    "message": "{COUNT} pestanyes obertes ja desades aquí:"
+  },
+  "openTabsAlreadyStoredHere_many": {
+    "message": "{COUNT} pestanyes obertes ja desades aquí:"
+  },
+  "openTabsAlreadyStoredHere_one": {
+    "message": "{COUNT} pestanya oberta ja desada aquí:"
+  },
+  "openTabsAlreadyStoredHere_other": {
+    "message": "{COUNT} pestanyes obertes ja desades aquí:"
+  },
+  "openTabsAlreadyStoredHere_two": {
+    "message": "{COUNT} pestanyes obertes ja desades aquí:"
+  },
+  "openTabsAlreadyStoredHere_zero": {
+    "message": "{COUNT} pestanyes obertes ja desades aquí:"
+  },
+  "openTabsConfirm_few": {
+    "message": "Estàs a punt d'obrir {COUNT} pestanyes. Segur que vols continuar?"
+  },
+  "openTabsConfirm_many": {
+    "message": "Estàs a punt d'obrir {COUNT} pestanyes. Segur que vols continuar?"
+  },
+  "openTabsConfirm_one": {
+    "message": "Estàs a punt d'obrir {COUNT} pestanya. Segur que vols continuar?"
+  },
+  "openTabsConfirm_other": {
+    "message": "Estàs a punt d'obrir {COUNT} pestanyes. Segur que vols continuar?"
+  },
+  "openTabsConfirm_two": {
+    "message": "Estàs a punt d'obrir {COUNT} pestanyes. Segur que vols continuar?"
+  },
+  "openTabsConfirm_zero": {
+    "message": "Estàs a punt d'obrir {COUNT} pestanyes. Segur que vols continuar?"
+  },
+  "openTabsNotStoredInOneTab_few": {
+    "message": "{COUNT} pestanyes obertes no desades a OneTab"
+  },
+  "openTabsNotStoredInOneTab_many": {
+    "message": "{COUNT} pestanyes obertes no desades a OneTab"
+  },
+  "openTabsNotStoredInOneTab_one": {
+    "message": "{COUNT} pestanya oberta no desada a OneTab"
+  },
+  "openTabsNotStoredInOneTab_other": {
+    "message": "{COUNT} pestanyes obertes no desades a OneTab"
+  },
+  "openTabsNotStoredInOneTab_two": {
+    "message": "{COUNT} pestanyes obertes no desades a OneTab"
+  },
+  "openTabsNotStoredInOneTab_zero": {
+    "message": "{COUNT} pestanyes obertes no desades a OneTab"
+  },
+  "optionAutoActionOnOpenArchiveDesc": {
+    "message": "Quan marques pestanyes com a arxivades, se'ls aplica un fons gris amb ratlles. Això indica visualment que ja has llegit les pestanyes o que has acabat de fer-les servir."
+  },
+  "optionAutoActionOnOpenArchiveTitle": {
+    "message": "Marca-les com a arxivades"
+  },
+  "optionAutoActionOnOpenHeading": {
+    "message": "En restaurar les pestanyes:"
+  },
+  "optionAutoActionOnOpenNote": {
+    "message": "Els grups bloquejats sempre conserven les pestanyes"
+  },
+  "optionAutoActionOnOpenOpenDesc": {
+    "message": "Per marcar les pestanyes com a arxivades en restaurar-les, mantén premuda la tecla Alt o Opció"
+  },
+  "optionAutoActionOnOpenOpenTitle": {
+    "message": "Conserva-les a la llista"
+  },
+  "optionAutoActionOnOpenTrashDesc": {
+    "message": "Per conservar les pestanyes a la llista en restaurar-les, mantén premuda la tecla Ctrl o Cmd"
+  },
+  "optionAutoActionOnOpenTrashTitle": {
+    "message": "Suprimeix-les de la llista"
+  },
+  "optionBrowserActionHeading": {
+    "message": "Quan facis clic a la icona de OneTab de la barra d'eines:"
+  },
+  "optionBrowserActionOpenPopupDesc": {
+    "message": "La finestra emergent d'acció et mostrarà una llista de pestanyes obertes i et permetrà triar exactament quines pestanyes vols enviar a OneTab. Et permetrà establir un títol per al grup que estàs desant, de manera que no ho hagis de fer més tard a la pàgina de OneTab. La finestra emergent també et donarà accés fàcil a la teva llista ràpida des de qualsevol finestra del navegador."
+  },
+  "optionBrowserActionOpenPopupDesc2": {
+    "message": "Tria exactament quines pestanyes vols desar"
+  },
+  "optionBrowserActionOpenPopupTitle": {
+    "message": "Mostra la finestra emergent d'acció de OneTab"
+  },
+  "optionBrowserActionSendCurrentTabDesc": {
+    "message": "La pestanya es posarà dins del primer grup de la teva pàgina de OneTab (ignorant els grups que estiguin fixats o bloquejats)"
+  },
+  "optionBrowserActionSendCurrentTabTitle": {
+    "message": "Envia només la pestanya actual a OneTab"
+  },
+  "optionBrowserActionSendTabsInWindowDesc": {
+    "message": "Les pestanyes es tancaran i es desaran a la teva llista de OneTab. Si has seleccionat diverses pestanyes a la barra de pestanyes del navegador (amb la tecla Cmd, Ctrl o Maj), només s'enviaran a OneTab les pestanyes seleccionades. Si utilitzes la funció de grups de pestanyes del navegador, només s'enviarà a OneTab el grup de pestanyes actual."
+  },
+  "optionBrowserActionSendTabsInWindowDesc2": {
+    "message": "La manera més ràpida de desar pestanyes"
+  },
+  "optionBrowserActionSendTabsInWindowTitle": {
+    "message": "Envia les pestanyes de la finestra actual a OneTab"
+  },
+  "optionBrowserActionSendWholeWindowDesc": {
+    "message": "Igual que l’opció anterior, però es desarà tota la finestra en lloc de només el grup de pestanyes actual"
+  },
+  "optionBrowserActionSendWholeWindowTitle": {
+    "message": "Envia la finestra actual a OneTab, incloent-hi totes les pestanyes i els grups de pestanyes"
+  },
+  "optionCopyToClipboardFormatHeading": {
+    "message": "En copiar enllaços al porta-retalls:"
+  },
+  "optionCopyToClipboardFormatMarkdownTitle": {
+    "message": "Markdown"
+  },
+  "optionCopyToClipboardFormatNote": {
+    "message": "Aquesta configuració s'aplica quan fas servir l'acció «Copia al porta-retalls». També pots arrossegar pestanyes i grups directament des de OneTab a un document."
+  },
+  "optionCopyToClipboardFormatRichTextDesc": {
+    "message": "Les aplicacions com ara els processadors de textos et permetran enganxar text enriquit. Si no és compatible, s'enganxarà text sense format."
+  },
+  "optionCopyToClipboardFormatRichTextTitle": {
+    "message": "Text enriquit, quan estigui disponible"
+  },
+  "optionCopyToClipboardFormatTitleUrlTitle": {
+    "message": "Títol i URL"
+  },
+  "optionCopyToClipboardFormatUrlOnlyTitle": {
+    "message": "Només l'URL"
+  },
+  "optionCopyToClipboardFormatUrlTitleTitle": {
+    "message": "URL i títol"
+  },
+  "optionDefaultTabGroupOpenTypeCurrentWindow": {
+    "message": "Obre el grup de pestanyes a la finestra actual"
+  },
+  "optionDefaultTabGroupOpenTypeHeading": {
+    "message": "En fer clic per obrir un grup configurat perquè s'obri com a «grup de pestanyes»:"
+  },
+  "optionDefaultTabGroupOpenTypeNewWindow": {
+    "message": "Obre el grup de pestanyes en una finestra nova"
+  },
+  "optionDefaultTabGroupOpenTypeNote": {
+    "message": "Si fas servir el menú desplegable per triar una opció concreta (com ara obrir pestanyes en una finestra d'incògnit), aquesta opció es recordarà per a aquest grup concret."
+  },
+  "optionDefaultWindowGroupOpenTypeCurrentWindow": {
+    "message": "Obre les pestanyes a la finestra actual"
+  },
+  "optionDefaultWindowGroupOpenTypeHeading": {
+    "message": "En restaurar un grup:"
+  },
+  "optionDefaultWindowGroupOpenTypeNewWindow": {
+    "message": "Obre les pestanyes en una finestra nova, tret que OneTab sigui l’única pestanya de la finestra actual"
+  },
+  "optionDefaultWindowGroupOpenTypeNewWindowAlways": {
+    "message": "Obre les pestanyes en una finestra nova"
+  },
+  "optionDefaultWindowGroupOpenTypeNote": {
+    "message": "Les opcions de restauració triades des del menú «Més…» d’un grup es recorden per a aquell grup."
+  },
+  "optionDiscardNonActiveTabOnOpenHeading": {
+    "message": "Estalvia memòria (RAM) immediatament quan s'obrin les pestanyes per primera vegada:"
+  },
+  "optionDiscardNonActiveTabOnOpenNote": {
+    "message": "Si aquesta opció està activada, es descarregaran immediatament les pestanyes de la memòria quan les obris per primera vegada des de la teva llista de OneTab. Això és útil si sovint obres desenes de pestanyes alhora, ja que evitarà que es carreguin totes a la memòria fins que hi accedeixis. Si aquesta opció està desactivada, molts navegadors web igualment optaran automàticament per descarregar pestanyes de la memòria si no les estàs fent servir."
+  },
+  "optionDisplayContextMenuHeading": {
+    "message": "Fes clic amb el botó dret dins d'una pàgina web per accedir al menú contextual de OneTab:"
+  },
+  "optionDisplayContextMenuNote": {
+    "message": "Si desactives el menú, no podràs accedir a la funció «Exclou el lloc web de OneTab»"
+  },
+  "optionDuplicatesAllow": {
+    "message": "Permet duplicats"
+  },
+  "optionDuplicatesReject": {
+    "message": "Rebutja els duplicats sense avisar"
+  },
+  "optionDuplicatesRejectDesc": {
+    "message": "Si OneTab ja conté la pestanya, no s'hi afegirà de nou."
+  },
+  "optionDuplicatesTitle": {
+    "message": "Duplicats:"
+  },
+  "optionGroupTitleClickActionEditTitle": {
+    "message": "Edita el títol"
+  },
+  "optionGroupTitleClickActionHeading": {
+    "message": "Quan facis clic al títol d’un grup o d’una carpeta:"
+  },
+  "optionGroupTitleClickActionOpenDesc": {
+    "message": "Encara pots canviar el nom d’un grup des del seu menú «Més…»."
+  },
+  "optionGroupTitleClickActionOpenTitle": {
+    "message": "Restaura el grup o obre la carpeta"
+  },
+  "optionMoveOneTabToCurrentWindowOnOpenFalseTitle": {
+    "message": "Canvia a la finestra on la pestanya de OneTab ja és oberta"
+  },
+  "optionMoveOneTabToCurrentWindowOnOpenHeading": {
+    "message": "Acció \"Obre OneTab\":"
+  },
+  "optionMoveOneTabToCurrentWindowOnOpenNote": {
+    "message": "Acció \"Obre OneTab\":"
+  },
+  "optionMoveOneTabToCurrentWindowOnOpenTrueTitle": {
+    "message": "Mou qualsevol pestanya existent de OneTab a la finestra actual"
+  },
+  "optionPinnedTabsAllow": {
+    "message": "Permet enviar pestanyes fixades a OneTab"
+  },
+  "optionPinnedTabsDontSend": {
+    "message": "No enviïs pestanyes fixades a OneTab"
+  },
+  "optionPinnedTabsDontSendDesc": {
+    "message": "Pots enviar manualment una pestanya fixada a OneTab fent clic amb el botó dret dins de la pàgina web per accedir al menú de OneTab i, tot seguit, fent clic a «Envia només aquesta pestanya a OneTab»"
+  },
+  "optionPinnedTabsNote": {
+    "message": "Nota: una pestanya queda «fixada» quan fas clic amb el botó dret a la pestanya i fas clic a «Fixa la pestanya». A algunes persones els agrada fixar llocs com Facebook o Gmail per trobar-los fàcilment. OneTab recordarà si una pestanya estava fixada quan la restauris."
+  },
+  "optionPinnedTabsTitle": {
+    "message": "Pestanyes fixades:"
+  },
+  "options": {
+    "message": "Opcions"
+  },
+  "optionStartupLaunchDisplay": {
+    "message": "Obre OneTab automàticament"
+  },
+  "optionStartupLaunchNone": {
+    "message": "No obris OneTab automàticament"
+  },
+  "optionStartupLaunchNoneDesc3": {
+    "message": "Per obrir OneTab manualment, pots fer clic amb el botó dret dins de qualsevol pàgina web i fer clic a «Obre OneTab» al menú de OneTab."
+  },
+  "optionStartupLaunchTitle": {
+    "message": "En iniciar el navegador:"
+  },
+  "optionSwitchToOpenedTabFalseTitle": {
+    "message": "Obre la pestanya i continua a OneTab"
+  },
+  "optionSwitchToOpenedTabHeading": {
+    "message": "En restaurar pestanyes des de la pàgina de OneTab:"
+  },
+  "optionSwitchToOpenedTabNote": {
+    "message": "Si mantens premuda la tecla Maj en fer clic, la pestanya s'obrirà en una finestra nova"
+  },
+  "optionSwitchToOpenedTabTrueTitle": {
+    "message": "Obre la pestanya i canvia-hi (llevat que mantinguis premuda la tecla Command ⌘/Ctrl en fer clic)"
+  },
+  "optionUpdateTitleOnDuplicateKeep": {
+    "message": "Conserva el títol existent"
+  },
+  "optionUpdateTitleOnDuplicateKeepDesc": {
+    "message": "Pots canviar el nom de la pestanya a OneTab i es conservarà el títol personalitzat."
+  },
+  "optionUpdateTitleOnDuplicateNote": {
+    "message": "Els títols i les notes es comparteixen entre totes les còpies de la mateixa pestanya."
+  },
+  "optionUpdateTitleOnDuplicateTitle": {
+    "message": "En desar una pestanya que ja és a OneTab:"
+  },
+  "optionUpdateTitleOnDuplicateUpdate": {
+    "message": "Fes servir el títol més recent"
+  },
+  "optionUpdateTitleOnDuplicateUpdateDesc": {
+    "message": "Actualitza el títol desat perquè coincideixi amb la pestanya que acabes d’enviar."
+  },
+  "optionUrlAbbr": {
+    "message": "Abreujada"
+  },
+  "optionUrlDisplayTitle": {
+    "message": "Visualització de l'URL:"
+  },
+  "optionUrlDomain": {
+    "message": "Només el domini"
+  },
+  "optionUrlFull": {
+    "message": "Completa"
+  },
+  "optionUrlNone": {
+    "message": "Cap"
+  },
+  "otherCopiesColon": {
+    "message": "Altres còpies:"
+  },
+  "pasteRichOrPlainTextBelow": {
+    "message": "Pots enganxar text enriquit o text sense format a continuació."
+  },
+  "pendingTaskCount_few": {
+    "message": "{COUNT} pendents"
+  },
+  "pendingTaskCount_many": {
+    "message": "{COUNT} pendents"
+  },
+  "pendingTaskCount_one": {
+    "message": "{COUNT} pendent"
+  },
+  "pendingTaskCount_other": {
+    "message": "{COUNT} pendents"
+  },
+  "pendingTaskCount_two": {
+    "message": "{COUNT} pendents"
+  },
+  "pendingTaskCount_zero": {
+    "message": "{COUNT} pendents"
+  },
+  "pendingTaskFlagHelp": {
+    "message": "Aquest element és una tasca. Fes clic en aquesta icona per marcar-la com a completada."
+  },
+  "permissionRequiredPleaseTryAgain": {
+    "message": "Per crear una pàgina compartida a la qual es pugui accedir des de qualsevol ordinador, cal permís per comunicar-se amb el servidor web de OneTab. Torna-ho a provar."
+  },
+  "pinnedTabs": {
+    "message": "pestanyes fixades"
+  },
+  "pinToTopOfFolder": {
+    "message": "Fixa a la part superior de la carpeta"
+  },
+  "pinToTopOfFolderMenuItemHelp": {
+    "message": "Fixa aquest grup perquè sempre aparegui a la part superior de la carpeta"
+  },
+  "pinToTopOfList": {
+    "message": "Fixa a la part superior de la llista"
+  },
+  "placeholderAndOtherLocations_few": {
+    "message": "PLACEHOLDER i {COUNT} més"
+  },
+  "placeholderAndOtherLocations_many": {
+    "message": "PLACEHOLDER i {COUNT} més"
+  },
+  "placeholderAndOtherLocations_one": {
+    "message": "PLACEHOLDER i {COUNT} més"
+  },
+  "placeholderAndOtherLocations_other": {
+    "message": "PLACEHOLDER i {COUNT} més"
+  },
+  "placeholderAndOtherLocations_two": {
+    "message": "PLACEHOLDER i {COUNT} més"
+  },
+  "placeholderAndOtherLocations_zero": {
+    "message": "PLACEHOLDER i {COUNT} més"
+  },
+  "placeholderExplanation": {
+    "message": "A causa de les normes de seguretat del navegador web, OneTab no pot restaurar directament aquesta pàgina. Copia l'URL i enganxa-la a la barra d'adreces del navegador."
+  },
+  "plainTextLineFormat": {
+    "message": "Si enganxes text sense format, assegura't que cada URL tingui un protocol especificat (https://wikipedia.org, en lloc de només wikipedia.org). Cada línia ha de tenir el format següent:"
+  },
+  "pleaseWaitTripleDot": {
+    "message": "Espereu…"
+  },
+  "popupSlashShortcutInfo": {
+    "message": "Si tens activada la finestra emergent d’acció de OneTab, obre el selector de destinació i posa el focus al quadre de cerca"
+  },
+  "printUseSaveTabsAsHtmlFileAlertHtml": {
+    "message": "Per obtenir els millors resultats d'impressió, feu servir l'acció <b>Desa com a fitxer HTML</b> del menú <b>Més…</b> de la carpeta i, tot seguit, imprimiu el fitxer HTML baixat."
+  },
+  "privacyAssurance": {
+    "message": "Garantia de privadesa"
+  },
+  "privacyAssuranceDetail": {
+    "message": "La teva llista de pestanyes no es transmet ni es divulga mai als desenvolupadors de OneTab ni a cap altra part. L'única excepció és si fas servir intencionadament la funció «Comparteix com a pàgina web» per penjar la teva llista de pestanyes a una pàgina web per compartir-la amb altres persones."
+  },
+  "privacyFirst": {
+    "message": "La privadesa, primer"
+  },
+  "privacyFirstMessage": {
+    "message": "OneTab s'ha dissenyat per protegir les teves dades privades. Les teves pestanyes només es desen a l'ordinador i no es comparteixen mai amb els desenvolupadors de OneTab ni amb cap altra part.\nSi fas servir la nostra funció de còpia de seguretat/sincronització, les teves dades es xifraran d'extrem a extrem amb xifratge AES-256 d'alta seguretat. Això fa que sigui impossible que els desenvolupadors de OneTab vegin les pestanyes de les quals has fet una còpia de seguretat o que has sincronitzat entre dispositius, perquè només tu tens la clau de xifratge. \nL'única excepció és si decideixes compartir intencionadament algunes de les teves pestanyes amb altres persones mitjançant la nostra funció «Comparteix com a pàgina web».\nCreiem que la privadesa va primer."
+  },
+  "privateBrowsingPermissionRequired": {
+    "message": "OneTab necessita permís per crear finestres privades."
+  },
+  "privateBrowsingWindows": {
+    "message": "Finestres de navegació privada"
+  },
+  "quickList": {
+    "message": "Llista ràpida"
+  },
+  "readingList": {
+    "message": "Llista de lectura"
+  },
+  "readingListPermissionNecesssary": {
+    "message": "Cal el permís de la llista de lectura perquè OneTab pugui importar elements de la teva llista de lectura. Si aquesta funció no funciona, és possible que el navegador no admeti llistes de lectura."
+  },
+  "recent": {
+    "message": "Recents"
+  },
+  "recentDestinationsColon": {
+    "message": "Destinacions recents:"
+  },
+  "recentDuplicateRetainedHelp": {
+    "message": "Si una pestanya apareix més d'una vegada, només es conservarà el duplicat més recent"
+  },
+  "recentFolders": {
+    "message": "Carpetes recents"
+  },
+  "recentGroups": {
+    "message": "Grups recents"
+  },
+  "recentlyAccessed": {
+    "message": "Consultats recentment"
+  },
+  "recentlyCreated": {
+    "message": "Creats recentment"
+  },
+  "recentlyModified": {
+    "message": "Modificats recentment"
+  },
+  "reduceMemoryUsageBy95Pct": {
+    "message": "Redueix l'ús de memòria un 95%"
+  },
+  "removeDuplicates": {
+    "message": "Suprimeix els duplicats"
+  },
+  "removeDuplicatesMenuItemHelp": {
+    "message": "Podreu suprimir duplicats que hi hagi aquí però no en altres ubicacions, o en altres ubicacions però no aquí."
+  },
+  "removeDuplicateTabsHere_few": {
+    "message": "Suprimeix {COUNT} pestanyes duplicades d'aquí"
+  },
+  "removeDuplicateTabsHere_many": {
+    "message": "Suprimeix {COUNT} pestanyes duplicades d'aquí"
+  },
+  "removeDuplicateTabsHere_one": {
+    "message": "Suprimeix {COUNT} pestanya duplicada d'aquí"
+  },
+  "removeDuplicateTabsHere_other": {
+    "message": "Suprimeix {COUNT} pestanyes duplicades d'aquí"
+  },
+  "removeDuplicateTabsHere_two": {
+    "message": "Suprimeix {COUNT} pestanyes duplicades d'aquí"
+  },
+  "removeDuplicateTabsHere_zero": {
+    "message": "Suprimeix {COUNT} pestanyes duplicades d'aquí"
+  },
+  "removeFromQuickList": {
+    "message": "Treu de la llista ràpida"
+  },
+  "removeFromQuickListMenuItemHelp": {
+    "message": "L'element no s'enviarà a la paperera; només es traurà de la teva llista ràpida."
+  },
+  "removeStar": {
+    "message": "Treu l'estrella"
+  },
+  "removeTabsElsewhereAlsoHere_few": {
+    "message": "Suprimeix {COUNT} pestanyes d'altres ubicacions que també hi ha aquí"
+  },
+  "removeTabsElsewhereAlsoHere_many": {
+    "message": "Suprimeix {COUNT} pestanyes d'altres ubicacions que també hi ha aquí"
+  },
+  "removeTabsElsewhereAlsoHere_one": {
+    "message": "Suprimeix {COUNT} pestanya d'altres ubicacions que també hi ha aquí"
+  },
+  "removeTabsElsewhereAlsoHere_other": {
+    "message": "Suprimeix {COUNT} pestanyes d'altres ubicacions que també hi ha aquí"
+  },
+  "removeTabsElsewhereAlsoHere_two": {
+    "message": "Suprimeix {COUNT} pestanyes d'altres ubicacions que també hi ha aquí"
+  },
+  "removeTabsElsewhereAlsoHere_zero": {
+    "message": "Suprimeix {COUNT} pestanyes d'altres ubicacions que també hi ha aquí"
+  },
+  "removeTabsHereAlsoElsewhere_few": {
+    "message": "Suprimeix {COUNT} pestanyes d'aquí que també hi ha en altres ubicacions"
+  },
+  "removeTabsHereAlsoElsewhere_many": {
+    "message": "Suprimeix {COUNT} pestanyes d'aquí que també hi ha en altres ubicacions"
+  },
+  "removeTabsHereAlsoElsewhere_one": {
+    "message": "Suprimeix {COUNT} pestanya d'aquí que també hi ha en altres ubicacions"
+  },
+  "removeTabsHereAlsoElsewhere_other": {
+    "message": "Suprimeix {COUNT} pestanyes d'aquí que també hi ha en altres ubicacions"
+  },
+  "removeTabsHereAlsoElsewhere_two": {
+    "message": "Suprimeix {COUNT} pestanyes d'aquí que també hi ha en altres ubicacions"
+  },
+  "removeTabsHereAlsoElsewhere_zero": {
+    "message": "Suprimeix {COUNT} pestanyes d'aquí que també hi ha en altres ubicacions"
+  },
+  "rename": {
+    "message": "Canvia el nom"
+  },
+  "renameOrAddNote": {
+    "message": "Canvia el nom / afegeix una nota"
+  },
+  "restore": {
+    "message": "Restaura"
+  },
+  "restoreAll": {
+    "message": "Restaura-ho tot"
+  },
+  "restrictSearchToFolderColon": {
+    "message": "Restringeix la cerca a la carpeta següent:"
+  },
+  "results": {
+    "message": "Resultats"
+  },
+  "returnToOneTab": {
+    "message": "Torna a OneTab"
+  },
+  "reverse": {
+    "message": "Inverteix l'ordre"
+  },
+  "rightClickAndOpenOneTabMenu": {
+    "message": "Fes clic amb el botó dret a la pàgina web i ves al menú de OneTab"
+  },
+  "rightClickMenuDisabledNote": {
+    "message": "Nota: has desactivat el menú del botó dret de OneTab. Activa'l a la pàgina d'opcions de OneTab."
+  },
+  "rightClickSelectionOptionsTip": {
+    "message": "Consell: després de marcar un element, fes clic amb el botó dret a la icona de marca per mostrar més opcions de selecció"
+  },
+  "rightClickTickTip": {
+    "message": "Consell: feu clic amb el botó dret a la icona de marca al costat de cada pestanya per veure les eines de selecció"
+  },
+  "safariApproveOneTabInSettings": {
+    "message": "Ves a Configuració i autoritza OneTab a accedir a tots els llocs web."
+  },
+  "save95PctReduceTabClutterGoogleChrome": {
+    "message": "Estalvia fins a un 95% de memòria i redueix el desordre de pestanyes a Google Chrome"
+  },
+  "saveChoice": {
+    "message": "Desa la tria"
+  },
+  "saveTabsAsHtmlFile": {
+    "message": "Desa com a fitxer HTML"
+  },
+  "saveTabsAsHtmlFileMenuItemHelp": {
+    "message": "Crea i baixa un fitxer HTML que conté tots els grups amb pestanyes d'aquesta carpeta."
+  },
+  "searchHere": {
+    "message": "Cerca aquí"
+  },
+  "searchOneTab": {
+    "message": "Cerca a OneTab"
+  },
+  "secondExampleLink": {
+    "message": "Segon enllaç d'exemple"
+  },
+  "secondExampleLinkTitle": {
+    "message": "Títol del segon enllaç d'exemple"
+  },
+  "secondExampleLinkTitleOptional": {
+    "message": "Títol del segon enllaç d'exemple (opcional)"
+  },
+  "seeOtherTabsInThisGroup_few": {
+    "message": "Mostra {COUNT} pestanyes més d'aquest grup"
+  },
+  "seeOtherTabsInThisGroup_many": {
+    "message": "Mostra {COUNT} pestanyes més d'aquest grup"
+  },
+  "seeOtherTabsInThisGroup_one": {
+    "message": "Mostra {COUNT} pestanya més d'aquest grup"
+  },
+  "seeOtherTabsInThisGroup_other": {
+    "message": "Mostra {COUNT} pestanyes més d'aquest grup"
+  },
+  "seeOtherTabsInThisGroup_two": {
+    "message": "Mostra {COUNT} pestanyes més d'aquest grup"
+  },
+  "seeOtherTabsInThisGroup_zero": {
+    "message": "Mostra {COUNT} pestanyes més d'aquest grup"
+  },
+  "seePasteInstructions": {
+    "message": "Mostra les instruccions per enganxar…"
+  },
+  "seeTabsInThisGroup_few": {
+    "message": "Mostra {COUNT} pestanyes d'aquest grup"
+  },
+  "seeTabsInThisGroup_many": {
+    "message": "Mostra {COUNT} pestanyes d'aquest grup"
+  },
+  "seeTabsInThisGroup_one": {
+    "message": "Mostra {COUNT} pestanya d'aquest grup"
+  },
+  "seeTabsInThisGroup_other": {
+    "message": "Mostra {COUNT} pestanyes d'aquest grup"
+  },
+  "seeTabsInThisGroup_two": {
+    "message": "Mostra {COUNT} pestanyes d'aquest grup"
+  },
+  "seeTabsInThisGroup_zero": {
+    "message": "Mostra {COUNT} pestanyes d'aquest grup"
+  },
+  "selectAll": {
+    "message": "Selecciona-ho tot"
+  },
+  "selectAllExceptThis": {
+    "message": "Selecciona-ho tot excepte aquest element"
+  },
+  "selectedItemCount_few": {
+    "message": "{COUNT} elements"
+  },
+  "selectedItemCount_many": {
+    "message": "{COUNT} elements"
+  },
+  "selectedItemCount_one": {
+    "message": "{COUNT} element"
+  },
+  "selectedItemCount_other": {
+    "message": "{COUNT} elements"
+  },
+  "selectedItemCount_two": {
+    "message": "{COUNT} elements"
+  },
+  "selectedItemCount_zero": {
+    "message": "{COUNT} elements"
+  },
+  "selection": {
+    "message": "Selecció"
+  },
+  "selectThisAndAbove": {
+    "message": "Selecciona aquest element i tots els de sobre"
+  },
+  "selectThisAndBelow": {
+    "message": "Selecciona aquest element i tots els de sota"
+  },
+  "sendAllTabsAllWindows": {
+    "message": "Envia totes les pestanyes de totes les finestres"
+  },
+  "sendAllTabsAllWindowsToOneTab": {
+    "message": "Envia totes les pestanyes de totes les finestres a OneTab"
+  },
+  "sendAllTabsExceptThis": {
+    "message": "Envia totes les pestanyes excepte aquesta pestanya"
+  },
+  "sendAllTabsExceptThisToOneTab": {
+    "message": "Envia totes les pestanyes excepte aquesta pestanya a OneTab"
+  },
+  "sendAllTabsInGroup": {
+    "message": "Envia totes les pestanyes d'aquest grup de pestanyes"
+  },
+  "sendAllTabsInGroupToOneTab": {
+    "message": "Envia totes les pestanyes d'aquest grup de pestanyes a OneTab"
+  },
+  "sendAllTabsInWindow": {
+    "message": "Envia totes les pestanyes d'aquesta finestra"
+  },
+  "sendAllTabsInWindowToOneTab": {
+    "message": "Envia totes les pestanyes d'aquesta finestra a OneTab"
+  },
+  "sendCurrentTabToOneTab": {
+    "message": "Envia la pestanya actual a OneTab"
+  },
+  "sendLeftTabs": {
+    "message": "Envia les pestanyes de l'esquerra"
+  },
+  "sendLeftTabsToOneTab": {
+    "message": "Envia les pestanyes de l'esquerra a OneTab"
+  },
+  "sendOnlyThisTab": {
+    "message": "Envia només aquesta pestanya"
+  },
+  "sendOnlyThisTabToOneTab": {
+    "message": "Envia només aquesta pestanya a OneTab"
+  },
+  "sendRightTabs": {
+    "message": "Envia les pestanyes de la dreta"
+  },
+  "sendRightTabsToOneTab": {
+    "message": "Envia les pestanyes de la dreta a OneTab"
+  },
+  "sendSelectedTabs": {
+    "message": "Envia les pestanyes seleccionades"
+  },
+  "sendSelectedTabsToOneTab": {
+    "message": "Envia les pestanyes seleccionades a OneTab"
+  },
+  "sendThisWebLink": {
+    "message": "Envia aquest enllaç web"
+  },
+  "sendThisWebLinkToOneTab": {
+    "message": "Envia aquest enllaç web a OneTab"
+  },
+  "serverUnreachable": {
+    "message": "No es pot accedir al servidor. Comproveu la connexió a Internet."
+  },
+  "share": {
+    "message": "Comparteix"
+  },
+  "shareAsAWebPage": {
+    "message": "Comparteix com a pàgina web"
+  },
+  "shareAsAWebPageMenuItemHelp": {
+    "message": "Això crea una pàgina web que conté les teves pestanyes, perquè puguis compartir-la de manera privada o pública amb altres persones."
+  },
+  "shared": {
+    "message": "Compartits"
+  },
+  "sharedExpiresColon": {
+    "message": "S'ha compartit com a pàgina web. Caduca:"
+  },
+  "sharedPageOptions": {
+    "message": "Opcions de la pàgina compartida"
+  },
+  "sharedPageTabLimit_few": {
+    "message": "Les pàgines compartides tenen un límit de {COUNT} pestanyes"
+  },
+  "sharedPageTabLimit_many": {
+    "message": "Les pàgines compartides tenen un límit de {COUNT} pestanyes"
+  },
+  "sharedPageTabLimit_one": {
+    "message": "Les pàgines compartides tenen un límit de {COUNT} pestanya"
+  },
+  "sharedPageTabLimit_other": {
+    "message": "Les pàgines compartides tenen un límit de {COUNT} pestanyes"
+  },
+  "sharedPageTabLimit_two": {
+    "message": "Les pàgines compartides tenen un límit de {COUNT} pestanyes"
+  },
+  "sharedPageTabLimit_zero": {
+    "message": "Les pàgines compartides tenen un límit de {COUNT} pestanyes"
+  },
+  "sharedPageWillAutomaticallyExpire": {
+    "message": "La pàgina compartida caducarà automàticament, però pots ampliar-ne la data de caducitat en qualsevol moment."
+  },
+  "showEverything": {
+    "message": "Mostra-ho tot"
+  },
+  "showFoldersOnly": {
+    "message": "Mostra només les carpetes"
+  },
+  "showNamedItemsOnly": {
+    "message": "Mostra només els elements amb nom"
+  },
+  "showNamedOnly": {
+    "message": "Mostra només els elements amb nom"
+  },
+  "showNextCount_few": {
+    "message": "{COUNT} següents"
+  },
+  "showNextCount_many": {
+    "message": "{COUNT} següents"
+  },
+  "showNextCount_one": {
+    "message": "{COUNT} següent"
+  },
+  "showNextCount_other": {
+    "message": "{COUNT} següents"
+  },
+  "showNextCount_two": {
+    "message": "{COUNT} següents"
+  },
+  "showNextCount_zero": {
+    "message": "{COUNT} següents"
+  },
+  "showPreviousCount_few": {
+    "message": "{COUNT} anteriors"
+  },
+  "showPreviousCount_many": {
+    "message": "{COUNT} anteriors"
+  },
+  "showPreviousCount_one": {
+    "message": "{COUNT} anterior"
+  },
+  "showPreviousCount_other": {
+    "message": "{COUNT} anteriors"
+  },
+  "showPreviousCount_two": {
+    "message": "{COUNT} anteriors"
+  },
+  "showPreviousCount_zero": {
+    "message": "{COUNT} anteriors"
+  },
+  "soon": {
+    "message": "aviat"
+  },
+  "sort": {
+    "message": "Ordenació"
+  },
+  "sortByColon": {
+    "message": "Ordena per:"
+  },
+  "sortGroups": {
+    "message": "Ordena els grups"
+  },
+  "sortGroupsMenuFooterNote": {
+    "message": "Això ordena els grups d’aquesta carpeta. No ordena les pestanyes que contenen."
+  },
+  "sourceColon": {
+    "message": "Origen:"
+  },
+  "star": {
+    "message": "Destaca"
+  },
+  "starFlagHelp": {
+    "message": "Aquest element està marcat amb una estrella per indicar-ne visualment la importància. Fes clic en aquesta icona per treure-li l'estrella."
+  },
+  "starMenuItemHelp": {
+    "message": "Fes servir l'estrella com a indicador visual que alguna cosa és important"
+  },
+  "starred": {
+    "message": "Destacats"
+  },
+  "storeAllOpenWindowsHere": {
+    "message": "Desa aquí totes les finestres obertes"
+  },
+  "storeAllOpenWindowsHereMenuItemHelp": {
+    "message": "Tanca totes les finestres obertes del navegador i desa-les en aquesta carpeta"
+  },
+  "storeSelectedTabsInONETAB_few": {
+    "message": "Desa {COUNT} pestanyes seleccionades a ONETAB"
+  },
+  "storeSelectedTabsInONETAB_many": {
+    "message": "Desa {COUNT} pestanyes seleccionades a ONETAB"
+  },
+  "storeSelectedTabsInONETAB_one": {
+    "message": "Desa {COUNT} pestanya seleccionada a ONETAB"
+  },
+  "storeSelectedTabsInONETAB_other": {
+    "message": "Desa {COUNT} pestanyes seleccionades a ONETAB"
+  },
+  "storeSelectedTabsInONETAB_two": {
+    "message": "Desa {COUNT} pestanyes seleccionades a ONETAB"
+  },
+  "storeSelectedTabsInONETAB_zero": {
+    "message": "Desa {COUNT} pestanyes seleccionades a ONETAB"
+  },
+  "storeTabsInAdditionalLocation_few": {
+    "message": "Torna a desar les pestanyes igualment"
+  },
+  "storeTabsInAdditionalLocation_many": {
+    "message": "Torna a desar les pestanyes igualment"
+  },
+  "storeTabsInAdditionalLocation_one": {
+    "message": "Torna a desar la pestanya igualment"
+  },
+  "storeTabsInAdditionalLocation_other": {
+    "message": "Torna a desar les pestanyes igualment"
+  },
+  "storeTabsInAdditionalLocation_two": {
+    "message": "Torna a desar les pestanyes igualment"
+  },
+  "storeTabsInAdditionalLocation_zero": {
+    "message": "Torna a desar les pestanyes igualment"
+  },
+  "storeTabsInONETAB_few": {
+    "message": "Desa les pestanyes a ONETAB"
+  },
+  "storeTabsInONETAB_many": {
+    "message": "Desa les pestanyes a ONETAB"
+  },
+  "storeTabsInONETAB_one": {
+    "message": "Desa la pestanya a ONETAB"
+  },
+  "storeTabsInONETAB_other": {
+    "message": "Desa les pestanyes a ONETAB"
+  },
+  "storeTabsInONETAB_two": {
+    "message": "Desa les pestanyes a ONETAB"
+  },
+  "storeTabsInONETAB_zero": {
+    "message": "Desa les pestanyes a ONETAB"
+  },
+  "subFoldersNotShared": {
+    "message": "Tingues en compte que les subcarpetes no es comparteixen. Només es comparteixen els grups que són directament dins de la carpeta."
+  },
+  "tab": {
+    "message": "pestanya"
+  },
+  "tabAlreadyStoredHere": {
+    "message": "La pestanya oberta ja està desada aquí:"
+  },
+  "tabCaretTooltipTitleNotes": {
+    "message": "Edita el títol i les notes de la pestanya"
+  },
+  "tabCaretTooltipTitleNotesUrl": {
+    "message": "Edita el títol, l'URL i les notes de la pestanya"
+  },
+  "tabCount_few": {
+    "message": "{COUNT} pestanyes"
+  },
+  "tabCount_many": {
+    "message": "{COUNT} pestanyes"
+  },
+  "tabCount_one": {
+    "message": "{COUNT} pestanya"
+  },
+  "tabCount_other": {
+    "message": "{COUNT} pestanyes"
+  },
+  "tabCount_two": {
+    "message": "{COUNT} pestanyes"
+  },
+  "tabCount_zero": {
+    "message": "{COUNT} pestanyes"
+  },
+  "tabGroupColorColon": {
+    "message": "Color del grup de pestanyes:"
+  },
+  "tabGroupIndicatorTooltipHelp": {
+    "message": "Aquest grup està configurat per obrir-se com a grup de pestanyes. Pots canviar aquesta opció al menú «Més…»"
+  },
+  "tabPinFlagHelp": {
+    "message": "Aquesta pestanya es restaurarà com a pestanya fixada del navegador. Fes clic en aquesta icona per desfixar-la."
+  },
+  "tabs": {
+    "message": "Pestanyes"
+  },
+  "tabsFromExcludedDomains": {
+    "message": "pestanyes de dominis exclosos"
+  },
+  "tabsInTabGroups": {
+    "message": "pestanyes en grups de pestanyes"
+  },
+  "tabTotalCount_few": {
+    "message": "Total: {COUNT} pestanyes"
+  },
+  "tabTotalCount_many": {
+    "message": "Total: {COUNT} pestanyes"
+  },
+  "tabTotalCount_one": {
+    "message": "Total: {COUNT} pestanya"
+  },
+  "tabTotalCount_other": {
+    "message": "Total: {COUNT} pestanyes"
+  },
+  "tabTotalCount_two": {
+    "message": "Total: {COUNT} pestanyes"
+  },
+  "tabTotalCount_zero": {
+    "message": "Total: {COUNT} pestanyes"
+  },
+  "tasks": {
+    "message": "Tasques"
+  },
+  "tasksDone": {
+    "message": "Tasques (fetes)"
+  },
+  "tasksPending": {
+    "message": "Tasques (pendents)"
+  },
+  "tasksWillAppearHere": {
+    "message": "Si marques alguna pestanya o algun grup com a tasca, apareixeran aquí."
+  },
+  "taskTotalCount_few": {
+    "message": "{COUNT} en total"
+  },
+  "taskTotalCount_many": {
+    "message": "{COUNT} en total"
+  },
+  "taskTotalCount_one": {
+    "message": "{COUNT} en total"
+  },
+  "taskTotalCount_other": {
+    "message": "{COUNT} en total"
+  },
+  "taskTotalCount_two": {
+    "message": "{COUNT} en total"
+  },
+  "taskTotalCount_zero": {
+    "message": "{COUNT} en total"
+  },
+  "themeQuickSwitchHint": {
+    "message": "Per canviar de tema ràpidament, mantén premuda la tecla Ctrl o Cmd quan facis clic a la icona del tema"
+  },
+  "thenClickToolbarIcon": {
+    "message": "Tot seguit, torna a fer clic a la icona de OneTab de la barra d'eines per utilitzar OneTab."
+  },
+  "thisFolderIsEmpty": {
+    "message": "Aquesta carpeta és buida"
+  },
+  "thisTab": {
+    "message": "Aquesta pestanya"
+  },
+  "thisTabGroup": {
+    "message": "Aquest grup de pestanyes"
+  },
+  "thisTabNotStored": {
+    "message": "Aquesta pestanya no està desada a OneTab"
+  },
+  "thisWindow": {
+    "message": "Aquesta finestra"
+  },
+  "tickOrUntickToExclude": {
+    "message": "Marca o desmarca l'opció per excloure el lloc web"
+  },
+  "title": {
+    "message": "Títol"
+  },
+  "toAddOrRemoveExclusions": {
+    "message": "Per afegir o treure un lloc web de la llista d'exclusions:"
+  },
+  "toAllowOneTabInIncognito": {
+    "message": "Per permetre que la icona de OneTab aparegui a les finestres d'incògnit: "
+  },
+  "toImportBrowserBookmarksUseMenuOption": {
+    "message": "Per importar des de les adreces d'interès del navegador, fes servir l'opció de menú «Importa enllaços aquí» a la pàgina de OneTab"
+  },
+  "toMakeOpenButtonWorkApprovePermission": {
+    "message": "Perquè el botó \"Obre\" funcioni a les pàgines compartides, aproveu la sol·licitud de permís."
+  },
+  "tooManyTabsSpeedUpFirefox": {
+    "message": "Massa pestanyes? Converteix les pestanyes en una llista i accelera Firefox"
+  },
+  "tooManyTabsSpeedUpSafari": {
+    "message": "Massa pestanyes? Converteix les pestanyes en una llista i accelera Safari"
+  },
+  "toSaveChangesClickButton": {
+    "message": "Per desar els canvis, fes clic al botó"
+  },
+  "total0Tabs": {
+    "message": "Total: 0 pestanyes"
+  },
+  "trash": {
+    "message": "Paperera"
+  },
+  "unfoldGroup": {
+    "message": "Desplega el grup"
+  },
+  "unlock": {
+    "message": "Desbloqueja"
+  },
+  "unmarkAsArchived": {
+    "message": "Treu la marca d'arxivat"
+  },
+  "unMarkAsTask": {
+    "message": "Desmarca com a tasca"
+  },
+  "unpin": {
+    "message": "Desfixa"
+  },
+  "unshare": {
+    "message": "Deixa de compartir"
+  },
+  "untitled": {
+    "message": "Sense títol"
+  },
+  "update": {
+    "message": "Actualitza"
+  },
+  "userLanguage": {
+    "message": "Català"
+  },
+  "website": {
+    "message": "Lloc web"
+  },
+  "yearCount_few": {
+    "message": "{COUNT} anys"
+  },
+  "yearCount_many": {
+    "message": "{COUNT} anys"
+  },
+  "yearCount_one": {
+    "message": "{COUNT} any"
+  },
+  "yearCount_other": {
+    "message": "{COUNT} anys"
+  },
+  "yearCount_two": {
+    "message": "{COUNT} anys"
+  },
+  "yearCount_zero": {
+    "message": "{COUNT} anys"
+  },
+  "yourTabAlreadyStoredHere": {
+    "message": "La teva pestanya ja està desada aquí:"
+  }
+}

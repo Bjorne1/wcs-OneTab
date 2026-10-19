@@ -1,0 +1,2330 @@
+{
+  "95PctMemoryReduction": {
+    "message": "Atmiņas lietojuma samazinājums par 95%"
+  },
+  "about": {
+    "message": "Par"
+  },
+  "actionPopupOverrideNote": {
+    "message": "Šo iestatījumu var mainīt darbības uznirstošajā logā (ja darbības uznirstošais logs ir iespējots)."
+  },
+  "aDashZ": {
+    "message": "A–Z"
+  },
+  "addOneTabNow": {
+    "message": "Pievienot OneTab tūlīt"
+  },
+  "all": {
+    "message": "Viss"
+  },
+  "allBookmarks": {
+    "message": "Visas grāmatzīmes"
+  },
+  "allOpenTabsAlreadyStoredHere_few": {
+    "message": "Visas atvērtās cilnes jau ir saglabātas šeit:"
+  },
+  "allOpenTabsAlreadyStoredHere_many": {
+    "message": "Visas atvērtās cilnes jau ir saglabātas šeit:"
+  },
+  "allOpenTabsAlreadyStoredHere_one": {
+    "message": "Atvērtā cilne jau ir saglabāta šeit:"
+  },
+  "allOpenTabsAlreadyStoredHere_other": {
+    "message": "Visas atvērtās cilnes jau ir saglabātas šeit:"
+  },
+  "allOpenTabsAlreadyStoredHere_two": {
+    "message": "Visas atvērtās cilnes jau ir saglabātas šeit:"
+  },
+  "allOpenTabsAlreadyStoredHere_zero": {
+    "message": "Visas atvērtās cilnes jau ir saglabātas šeit:"
+  },
+  "allowFileAccessInstructions": {
+    "message": "Lai failus varētu atvērt tieši, atveriet Iestatījumi ➝ Paplašinājumi ➝ OneTab ➝ Detalizēta informācija ➝ Atļaut piekļuvi failu URL"
+  },
+  "alreadyExistingOpenTabsWillBeClosedAfterMerge": {
+    "message": "Visas atvērtās cilnes, kas jau ir šajā grupā, pēc apvienošanas tiks aizvērtas."
+  },
+  "alternatePlainTextFormat": {
+    "message": "Alternatīvi vienkāršs teksts var būt šādā formātā:"
+  },
+  "approve": {
+    "message": "Apstiprināt"
+  },
+  "archived": {
+    "message": "Arhivētie"
+  },
+  "autoTheme": {
+    "message": "Automātiski (izmantot operētājsistēmas iestatījumu)"
+  },
+  "backupAndSync": {
+    "message": "Dublēšana un sinhronizācija"
+  },
+  "betaReleaseReportBugsHere": {
+    "message": "Beta versija — ziņot par kļūdām šeit"
+  },
+  "bookmarkCount_few": {
+    "message": "{COUNT} grāmatzīmes"
+  },
+  "bookmarkCount_many": {
+    "message": "{COUNT} grāmatzīmju"
+  },
+  "bookmarkCount_one": {
+    "message": "{COUNT} grāmatzīme"
+  },
+  "bookmarkCount_other": {
+    "message": "{COUNT} grāmatzīmes"
+  },
+  "bookmarkCount_two": {
+    "message": "{COUNT} grāmatzīmes"
+  },
+  "bookmarkCount_zero": {
+    "message": "{COUNT} grāmatzīmju"
+  },
+  "bookmarksPermissionNecesssary": {
+    "message": "Grāmatzīmju atļauja ir nepieciešama, lai OneTab varētu importēt jūsu pārlūka grāmatzīmes"
+  },
+  "bulkActions": {
+    "message": "Lielapjoma darbības"
+  },
+  "cancel": {
+    "message": "Atcelt"
+  },
+  "canDragTextNote": {
+    "message": "Piezīme. Tekstu, kurā ir tīmekļa saites, var arī vilkt un nomest tieši no citas tīmekļa lapas vai dokumenta. Varat vilkt tekstu tieši uz savu OneTab lapu, neizmantojot šo importēšanas lodziņu."
+  },
+  "cannotConnectToServerDeletionRequestQueued": {
+    "message": "Nevar izveidot savienojumu ar OneTab serveri. Lūdzu, pārbaudiet interneta savienojumu. Jūsu kopīgotās lapas dzēšanas pieprasījums ir ievietots vietējā rindā un tiks automātiski nosūtīts OneTab serverim, tiklīdz tas atkal būs sasniedzams."
+  },
+  "cannotCreateTabGroupInTabGroup": {
+    "message": "Jūsu izvēlētais galamērķis ir ciļņu grupa. Esošā ciļņu grupā nevar izveidot ciļņu grupu. Lūdzu, izvēlieties citu galamērķi."
+  },
+  "cannotMixTabsGroupsFoldersDuringDrag": {
+    "message": "Velkot nevar jaukt cilnes, grupas un mapes. Piemēram, mapi nevar vilkt uz tām pašām vietām, uz kurām var vilkt cilni."
+  },
+  "cannotMoveItemAncestorHere": {
+    "message": "Vecākelementu nevar pārvietot tā paša bērnelementā, jo tas izveidotu ciklu."
+  },
+  "cannotMoveItemIntoItself": {
+    "message": "Vienumu nevar pārvietot pašā sevī."
+  },
+  "canPasteWebContentForExample": {
+    "message": "Varat ielīmēt no tīmekļa lapas vai dokumenta nokopētu tekstu, un saites tiks automātiski izgūtas. Piemēram:"
+  },
+  "caseSensitive": {
+    "message": "Reģistrjutīga meklēšana"
+  },
+  "changesMadeSinceSharedPageCreation": {
+    "message": "Kopš šīs lapas kopīgošanas jūsu saglabātās cilnes ir mainījušās. Noklikšķiniet uz pogas “Atjaunināt”, lai atjauninātu esošo kopīgoto lapu."
+  },
+  "changeThisSettingAtAnyTimeInfo": {
+    "message": "Šo iestatījumu jebkurā laikā varat mainīt, OneTab lapas augšdaļā noklikšķinot uz pogas “Opcijas”."
+  },
+  "changeThisSettingAtAnyTimeInfoHtml": {
+    "message": "Vēlāk to varēsiet mainīt sadaļā <b>Opcijas</b>."
+  },
+  "checkboxesDeterminePinnedAndGroupedTabMergeInclusion": {
+    "message": "Šīs lapas augšdaļā esošās izvēles rūtiņas nosaka, vai apvienošanā tiek iekļautas piespraustās cilnes vai ciļņu grupās esošās cilnes."
+  },
+  "chooseALocation": {
+    "message": "Izvēlieties vietu"
+  },
+  "chooseALocationToImportTo": {
+    "message": "Izvēlieties importēšanas vietu"
+  },
+  "chooseExportLocation": {
+    "message": "Izvēlieties eksportēšanas avotu"
+  },
+  "chooseLightDarkTheme": {
+    "message": "Izvēlēties gaišo/tumšo motīvu"
+  },
+  "chooseLocationToCopyTo": {
+    "message": "Izvēlieties vietu, uz kuru kopēt"
+  },
+  "chooseLocationToMoveTo": {
+    "message": "Izvēlieties vietu, uz kuru pārvietot"
+  },
+  "chooseLocationToRestoreTo": {
+    "message": "Izvēlieties vietu, kur atjaunot"
+  },
+  "chooseToIncludeNotes": {
+    "message": "Ja cilnēm vai grupām ir pievienotas piezīmes, izvēlieties, vai tās iekļaut kopīgotajā tīmekļa lapā"
+  },
+  "chooseToIncludeRatings": {
+    "message": "Ja cilnēm vai grupām ir pievienotas zvaigznītes, izvēlieties, vai tās iekļaut kopīgotajā tīmekļa lapā"
+  },
+  "chromeIncognitoInstructions": {
+    "message": "Pārlūka iestatījumos dodieties uz “Iestatījumi” → “Paplašinājumi” → “OneTab” → “Detalizēta informācija” un pēc tam iespējojiet “Atļaut inkognito režīmā”."
+  },
+  "clickButtonToAllowTabAccess": {
+    "message": "Noklikšķiniet uz tālāk esošās pogas, lai atļautu OneTab piekļūt jūsu atvērtajām cilnēm."
+  },
+  "clickHereToContinue": {
+    "message": "Noklikšķiniet šeit, lai turpinātu."
+  },
+  "clickOneTabIconToStoreTabsHere": {
+    "message": "Noklikšķiniet uz OneTab ikonas pārlūka rīkjoslā, lai šeit saglabātu atvērtās cilnes."
+  },
+  "closeSelectedTabs_few": {
+    "message": "Aizvērt {COUNT} atlasītās cilnes"
+  },
+  "closeSelectedTabs_many": {
+    "message": "Aizvērt {COUNT} atlasītās cilnes"
+  },
+  "closeSelectedTabs_one": {
+    "message": "Aizvērt {COUNT} atlasīto cilni"
+  },
+  "closeSelectedTabs_other": {
+    "message": "Aizvērt {COUNT} atlasītās cilnes"
+  },
+  "closeSelectedTabs_two": {
+    "message": "Aizvērt {COUNT} atlasītās cilnes"
+  },
+  "closeSelectedTabs_zero": {
+    "message": "Aizvērt {COUNT} atlasītās cilnes"
+  },
+  "closeSelectedTabsAndStoreInONETAB_few": {
+    "message": "Aizvērt {COUNT} atlasītās cilnes un saglabāt paplašinājumā ONETAB"
+  },
+  "closeSelectedTabsAndStoreInONETAB_many": {
+    "message": "Aizvērt {COUNT} atlasītās cilnes un saglabāt paplašinājumā ONETAB"
+  },
+  "closeSelectedTabsAndStoreInONETAB_one": {
+    "message": "Aizvērt {COUNT} atlasīto cilni un saglabāt paplašinājumā ONETAB"
+  },
+  "closeSelectedTabsAndStoreInONETAB_other": {
+    "message": "Aizvērt {COUNT} atlasītās cilnes un saglabāt paplašinājumā ONETAB"
+  },
+  "closeSelectedTabsAndStoreInONETAB_two": {
+    "message": "Aizvērt {COUNT} atlasītās cilnes un saglabāt paplašinājumā ONETAB"
+  },
+  "closeSelectedTabsAndStoreInONETAB_zero": {
+    "message": "Aizvērt {COUNT} atlasītās cilnes un saglabāt paplašinājumā ONETAB"
+  },
+  "closeTabs_few": {
+    "message": "Aizvērt cilnes"
+  },
+  "closeTabs_many": {
+    "message": "Aizvērt cilnes"
+  },
+  "closeTabs_one": {
+    "message": "Aizvērt cilni"
+  },
+  "closeTabs_other": {
+    "message": "Aizvērt cilnes"
+  },
+  "closeTabs_two": {
+    "message": "Aizvērt cilnes"
+  },
+  "closeTabs_zero": {
+    "message": "Aizvērt cilnes"
+  },
+  "closeTabsAfterMerge": {
+    "message": "Aizvērt cilnes pēc apvienošanas"
+  },
+  "closeTabsAlreadyStoredInOneTab_few": {
+    "message": "Aizvērt {COUNT} cilnes, kas jau saglabātas paplašinājumā OneTab"
+  },
+  "closeTabsAlreadyStoredInOneTab_many": {
+    "message": "Aizvērt {COUNT} cilnes, kas jau saglabātas paplašinājumā OneTab"
+  },
+  "closeTabsAlreadyStoredInOneTab_one": {
+    "message": "Aizvērt {COUNT} cilni, kas jau saglabāta paplašinājumā OneTab"
+  },
+  "closeTabsAlreadyStoredInOneTab_other": {
+    "message": "Aizvērt {COUNT} cilnes, kas jau saglabātas paplašinājumā OneTab"
+  },
+  "closeTabsAlreadyStoredInOneTab_two": {
+    "message": "Aizvērt {COUNT} cilnes, kas jau saglabātas paplašinājumā OneTab"
+  },
+  "closeTabsAlreadyStoredInOneTab_zero": {
+    "message": "Aizvērt {COUNT} cilnes, kas jau saglabātas paplašinājumā OneTab"
+  },
+  "closeTabsAndStore_few": {
+    "message": "Aizvērt cilnes un saglabāt paplašinājumā ONETAB"
+  },
+  "closeTabsAndStore_many": {
+    "message": "Aizvērt cilnes un saglabāt paplašinājumā ONETAB"
+  },
+  "closeTabsAndStore_one": {
+    "message": "Aizvērt cilni un saglabāt paplašinājumā ONETAB"
+  },
+  "closeTabsAndStore_other": {
+    "message": "Aizvērt cilnes un saglabāt paplašinājumā ONETAB"
+  },
+  "closeTabsAndStore_two": {
+    "message": "Aizvērt cilnes un saglabāt paplašinājumā ONETAB"
+  },
+  "closeTabsAndStore_zero": {
+    "message": "Aizvērt cilnes un saglabāt paplašinājumā ONETAB"
+  },
+  "closeTheseDuplicates_few": {
+    "message": "Aizvērt šos dublikātus"
+  },
+  "closeTheseDuplicates_many": {
+    "message": "Aizvērt šos dublikātus"
+  },
+  "closeTheseDuplicates_one": {
+    "message": "Aizvērt šo dublikātu"
+  },
+  "closeTheseDuplicates_other": {
+    "message": "Aizvērt šos dublikātus"
+  },
+  "closeTheseDuplicates_two": {
+    "message": "Aizvērt šos dublikātus"
+  },
+  "closeTheseDuplicates_zero": {
+    "message": "Aizvērt šos dublikātus"
+  },
+  "completedTaskFlagHelp": {
+    "message": "Šis vienums ir uzdevums. Noklikšķiniet uz šīs ikonas, lai atzīmētu to kā gaidošu (nepabeigtu)."
+  },
+  "completeEditingShortcutInfo": {
+    "message": "Rediģējot piezīmju lauku, pabeigt rediģēšanu"
+  },
+  "configureShortcuts": {
+    "message": "Konfigurēt īsinājumtaustiņus"
+  },
+  "conflictingShortcutsHint": {
+    "message": "Ja kāds no iepriekš minētajiem tastatūras īsinājumtaustiņiem nedarbojas vai konfliktē ar citām lietotnēm, varat konfigurēt citu īsinājumtaustiņu."
+  },
+  "continue": {
+    "message": "Turpināt"
+  },
+  "convertTabsIntoAList": {
+    "message": "Pārvērst cilnes sarakstā"
+  },
+  "copiedToClipboard": {
+    "message": "Nokopēts starpliktuvē"
+  },
+  "copy": {
+    "message": "Kopēt"
+  },
+  "copyLinksToClipboard": {
+    "message": "Kopēt saites starpliktuvē"
+  },
+  "copySharedPageUrl": {
+    "message": "Kopēt kopīgotās lapas URL"
+  },
+  "copyToClipboard": {
+    "message": "Kopēt starpliktuvē"
+  },
+  "copyToClipboardMenuItemHelp": {
+    "message": "Kopējiet šīs tīmekļa saites starpliktuvē, lai tās varētu ielīmēt citās lietotnēs. Starpliktuves teksta formātu varat mainīt OneTab opciju lapā."
+  },
+  "createANewGroupHere": {
+    "message": "Šeit izveidot jaunu grupu"
+  },
+  "createdOnDate": {
+    "message": "Izveidota {DATE}"
+  },
+  "createdOnOrAfterColon": {
+    "message": "Izveidots ne agrāk kā:"
+  },
+  "createdOnOrBeforeColon": {
+    "message": "Izveidots ne vēlāk kā:"
+  },
+  "createFolderAbove": {
+    "message": "Izveidot mapi virs"
+  },
+  "createFolderAboveBelow": {
+    "message": "Izveidot mapi virs/zem"
+  },
+  "createFolderAboveWithinBelow": {
+    "message": "Izveidot mapi virs/iekšpusē/zem"
+  },
+  "createFolderBelow": {
+    "message": "Izveidot mapi zem"
+  },
+  "createFolderWithin": {
+    "message": "Izveidot mapi šeit"
+  },
+  "createFolderWithinMenuItemHelp": {
+    "message": "Mapes ir paredzētas grupu ar cilnēm kārtošanai. Mapēs ir grupas, un grupās ir cilnes."
+  },
+  "createGroupAbove": {
+    "message": "Izveidot grupu virs"
+  },
+  "createGroupAboveBelow": {
+    "message": "Izveidot grupu virs/zem"
+  },
+  "createGroupAboveWithinBelow": {
+    "message": "Izveidot grupu virs/iekšpusē/zem"
+  },
+  "createGroupBelow": {
+    "message": "Izveidot grupu zem"
+  },
+  "createGroupInsideDestination": {
+    "message": "Izveidot jaunu grupu galamērķī"
+  },
+  "createGroupInsideDestinationHelp": {
+    "message": "Ja nav atzīmēta, jūsu cilnes tiks pievienotas tieši galamērķa grupai. Ja atzīmēta, jūsu cilnēm galamērķa grupā tiks izveidota jauna pārlūka ciļņu grupa. Atzīmējiet šo izvēles rūtiņu tikai tad, ja vēlaties izmantot pārlūka funkciju “ciļņu grupas”."
+  },
+  "createGroupMenuItemHelp": {
+    "message": "Izveidot jaunu, tukšu grupu. Grupā ir ciļņu saraksts, ko var kopā atjaunot logā."
+  },
+  "createGroupWithin": {
+    "message": "Izveidot grupu šeit"
+  },
+  "createNewGroupTip": {
+    "message": "Lai izveidotu jaunu grupu, vispirms noņemiet atzīmi no “Rādīt tikai mapes”. Tas nepieciešams, lai sarakstā varētu redzēt jaunizveidoto grupu."
+  },
+  "darkTheme": {
+    "message": "Tumšais motīvs"
+  },
+  "dayCount_few": {
+    "message": "{COUNT} dienas"
+  },
+  "dayCount_many": {
+    "message": "{COUNT} dienu"
+  },
+  "dayCount_one": {
+    "message": "{COUNT} diena"
+  },
+  "dayCount_other": {
+    "message": "{COUNT} dienas"
+  },
+  "dayCount_two": {
+    "message": "{COUNT} dienas"
+  },
+  "dayCount_zero": {
+    "message": "{COUNT} dienu"
+  },
+  "delete": {
+    "message": "Dzēst"
+  },
+  "deleteAllTrash": {
+    "message": "Iztukšot atkritni"
+  },
+  "deleteThisCopy": {
+    "message": "Dzēst šo kopiju"
+  },
+  "deselectAll": {
+    "message": "Noņemt visu atlasi"
+  },
+  "destinationColon": {
+    "message": "Galamērķis:"
+  },
+  "disabled": {
+    "message": "Atspējots"
+  },
+  "doneTaskCount_few": {
+    "message": "{COUNT} pabeigti"
+  },
+  "doneTaskCount_many": {
+    "message": "{COUNT} pabeigtu"
+  },
+  "doneTaskCount_one": {
+    "message": "{COUNT} pabeigts"
+  },
+  "doneTaskCount_other": {
+    "message": "{COUNT} pabeigti"
+  },
+  "doneTaskCount_two": {
+    "message": "{COUNT} pabeigti"
+  },
+  "doneTaskCount_zero": {
+    "message": "{COUNT} pabeigtu"
+  },
+  "dontCloseGroupedTabs": {
+    "message": "Neaizvērt nevienu cilni ciļņu grupās"
+  },
+  "dontClosePinnedTabs": {
+    "message": "Neaizvērt nevienu piesprausto cilni"
+  },
+  "dontCloseTabsFromDomains": {
+    "message": "Neaizvērt nevienu cilni no EXAMPLE.COM"
+  },
+  "dragCopyKeysHtml": {
+    "message": "<x-key>{CTRL}</x-key> vai <x-key>{ALT}</x-key>"
+  },
+  "dragCopyModifierInfo": {
+    "message": "Velkot cilni, turiet nospiestu taustiņu Ctrl vai Alt, lai izveidotu tās kopiju, nevis pārvietotu to."
+  },
+  "dragTabsHereForQuickList": {
+    "message": "Velciet šeit saglabātās cilnes vai grupas. Tās tiks pievienotas jūsu ātrajam sarakstam."
+  },
+  "editTabGroupTitleAndNotes": {
+    "message": "Rediģēt ciļņu grupas nosaukumu un piezīmes"
+  },
+  "emojiShortcutInfo": {
+    "message": "Rediģējot piezīmju lauku, atvērt emocijzīmju atlasītāju"
+  },
+  "emptyInBrackets": {
+    "message": "(tukša)"
+  },
+  "emptyOneTabInfoMsg": {
+    "message": "Kad ir atvērtas vairākas cilnes, pārlūka rīkjoslā noklikšķiniet uz OneTab ikonas, un atvērtās cilnes parādīsies šeit."
+  },
+  "enabled": {
+    "message": "Iespējots"
+  },
+  "everything": {
+    "message": "Viss"
+  },
+  "exampleLink": {
+    "message": "Saites piemērs"
+  },
+  "exampleLinkTitle": {
+    "message": "Saites nosaukuma piemērs"
+  },
+  "exampleLinkTitleOptional": {
+    "message": "Saites nosaukuma piemērs (neobligāti)"
+  },
+  "exampleRichTextParagraph": {
+    "message": "Teksta rindkopas piemērs ar PLACEHOLDER un PLACEHOLDER"
+  },
+  "exampleWebsitePageTitle": {
+    "message": "Tīmekļa vietnes lapas nosaukuma piemērs"
+  },
+  "excludeDomainFromOneTab": {
+    "message": "Izslēgt EXAMPLE.COM no OneTab"
+  },
+  "excludeWebSiteFromOneTab": {
+    "message": "Izslēgt šo tīmekļa vietni no OneTab"
+  },
+  "expiresColon": {
+    "message": "Derīguma termiņš:"
+  },
+  "export": {
+    "message": "Eksportēt"
+  },
+  "exportImportUrls": {
+    "message": "URL eksportēšana/importēšana"
+  },
+  "exportThenImportNote": {
+    "message": "Tālāk norādīto URL sarakstu var arī importēt atpakaļ paplašinājumā OneTab šajā vai citā datorā"
+  },
+  "exportUrls": {
+    "message": "Eksportēt URL"
+  },
+  "feedback": {
+    "message": "Atsauksmes"
+  },
+  "filter": {
+    "message": "Filtrs"
+  },
+  "firefoxIncognitoInstructions": {
+    "message": "Pārlūka iestatījumos dodieties uz “Iestatījumi” → “Paplašinājumi un motīvi” → “Paplašinājumi” → “OneTab” → “...” → “Pārvaldīt” un pēc tam iespējojiet “Darboties privātajos logos”."
+  },
+  "firefoxIndexedDbUnavailable": {
+    "message": "OneTab nevar saglabāt vai izgūt datus. Ja esat konfigurējis Firefox tā, lai tas nekad neatcerētos vēsturi, tas neļaus OneTab darboties pareizi. Pretējā gadījumā, lūdzu, sazinieties ar mums mūsu tīmekļa vietnē, un mēs, iespējams, varēsim palīdzēt."
+  },
+  "firefoxShortcutConfigInstructions": {
+    "message": "Ievadiet URL \"about:addons?type=extension\" pārlūka adreses joslā. Kad lapa tiek parādīta, noklikšķiniet uz zobrata ikonas un pēc tam izvēlieties \"Pārvaldīt paplašinājumu īsinājumtaustiņus\""
+  },
+  "Folder": {
+    "message": "Mape"
+  },
+  "folderCount_few": {
+    "message": "{COUNT} mapes"
+  },
+  "folderCount_many": {
+    "message": "{COUNT} mapju"
+  },
+  "folderCount_one": {
+    "message": "{COUNT} mape"
+  },
+  "folderCount_other": {
+    "message": "{COUNT} mapes"
+  },
+  "folderCount_two": {
+    "message": "{COUNT} mapes"
+  },
+  "folderCount_zero": {
+    "message": "{COUNT} mapju"
+  },
+  "folders": {
+    "message": "Mapes"
+  },
+  "foldersOnly": {
+    "message": "Tikai mapes"
+  },
+  "foldGroup": {
+    "message": "Sakļaut grupu"
+  },
+  "gettingStarted": {
+    "message": "Darba sākšana"
+  },
+  "gotIt": {
+    "message": "Sapratu"
+  },
+  "goToParentFolder": {
+    "message": "Pāriet uz vecākmapi"
+  },
+  "groupCount_few": {
+    "message": "{COUNT} grupas"
+  },
+  "groupCount_many": {
+    "message": "{COUNT} grupu"
+  },
+  "groupCount_one": {
+    "message": "{COUNT} grupa"
+  },
+  "groupCount_other": {
+    "message": "{COUNT} grupas"
+  },
+  "groupCount_two": {
+    "message": "{COUNT} grupas"
+  },
+  "groupCount_zero": {
+    "message": "{COUNT} grupu"
+  },
+  "groups": {
+    "message": "Grupas"
+  },
+  "hasNotes": {
+    "message": "Ar piezīmēm"
+  },
+  "help": {
+    "message": "Palīdzība"
+  },
+  "hideArchivedItems": {
+    "message": "Slēpt arhivētos vienumus"
+  },
+  "import": {
+    "message": "Importēt"
+  },
+  "importAndExport": {
+    "message": "Importēšana un eksportēšana"
+  },
+  "importBookmarks": {
+    "message": "Grāmatzīmju importēšana"
+  },
+  "importedBookmarks": {
+    "message": "Importētās grāmatzīmes"
+  },
+  "importExportShareMenuNoteHtml": {
+    "message": "Varat arī eksportēt cilnes kā kopīgojamu tīmekļa lapu vai HTML failu, izmantojot opcijas <b>Kopīgot kā tīmekļa lapu</b> un <b>Saglabāt kā HTML failu</b> grupas vai mapes izvēlnē <b>Vairāk…</b>."
+  },
+  "importFolderAndSubfolders": {
+    "message": "Importēt mapi un apakšmapes"
+  },
+  "importLinksHere": {
+    "message": "Importēt saites šeit"
+  },
+  "importLinksHereMenuItemHelp": {
+    "message": "Varat ielīmēt tīmekļa saišu sarakstu vai importēt pārlūka grāmatzīmes."
+  },
+  "importNotesTruncatedNotice": {
+    "message": "Dažas importētās piezīmes pārsniedza {MAX} rakstzīmju ierobežojumu, tāpēc to beigas tika nogrieztas."
+  },
+  "importReadingList": {
+    "message": "Lasīšanas saraksta importēšana"
+  },
+  "importText": {
+    "message": "Teksta importēšana"
+  },
+  "importUrls": {
+    "message": "Importēt URL"
+  },
+  "includeGroupedTabs": {
+    "message": "Iekļaut grupētās cilnes"
+  },
+  "includeNotes": {
+    "message": "Iekļaut piezīmes"
+  },
+  "includePinnedTabs": {
+    "message": "Iekļaut piespraustās cilnes"
+  },
+  "includeStarRatings": {
+    "message": "Iekļaut zvaigznītes"
+  },
+  "includeTabsAlreadyStored": {
+    "message": "Iekļaut jau saglabātās cilnes"
+  },
+  "includeTabsFromDomains": {
+    "message": "Iekļaut cilnes no EXAMPLE.COM"
+  },
+  "incogitoPermissionRequired": {
+    "message": "OneTab ir nepieciešama atļauja izveidot inkognito režīma logus."
+  },
+  "incognitoWindows": {
+    "message": "Inkognito režīma logi"
+  },
+  "invertSelection": {
+    "message": "Apvērst atlasi"
+  },
+  "itemTextTruncatedNotice": {
+    "message": "Teksts pārsniedza ierobežojumu (piezīmēs var būt {NOTESMAX} rakstzīmes, nosaukumos — {TITLEMAX}), tāpēc tā beigas tika nogrieztas."
+  },
+  "justNow": {
+    "message": "tikko"
+  },
+  "kbdNavBackspaceInfo": {
+    "message": "Pāriet uz vecākmapi"
+  },
+  "kbdNavEnterInfo": {
+    "message": "Atjaunot cilnes vai atvērt mapi"
+  },
+  "kbdNavEscInfo": {
+    "message": "Beigt navigāciju ar tastatūru"
+  },
+  "kbdNavFocusInfo": {
+    "message": "Mainīt fokusu no grupām uz cilnēm"
+  },
+  "kbdNavFoldInfo": {
+    "message": "Sakļaut/izvērst grupu"
+  },
+  "kbdNavMoveInfo": {
+    "message": "Pārvietoties starp vienumiem"
+  },
+  "kbdNavTabInfo": {
+    "message": "Sākt navigāciju ar tastatūru"
+  },
+  "keyboardShortcutsColon": {
+    "message": "Tastatūras īsinājumtaustiņi:"
+  },
+  "languageTitle": {
+    "message": "Valoda:"
+  },
+  "licenseAlreadyHaveKey": {
+    "message": "Man jau ir licences atslēga"
+  },
+  "licenseAlreadySetUpRestarting": {
+    "message": "Šī licence jau ir iestatīta, tāpēc pievienosim šo ierīci esošajam iestatījumam. Uz reģistrēto adresi ir nosūtīts jauns kods."
+  },
+  "licenseBackLink": {
+    "message": "Atpakaļ"
+  },
+  "licenseBrowserOnOs": {
+    "message": "{BROWSER} operētājsistēmā {OS}"
+  },
+  "licenseBrowsersActiveOn": {
+    "message": "Aktīvs {DATE}"
+  },
+  "licenseBrowsersActiveToday": {
+    "message": "Aktīvs šodien"
+  },
+  "licenseBrowsersAdded": {
+    "message": "Pievienots {DATE}"
+  },
+  "licenseBrowsersThisBrowser": {
+    "message": "Šis pārlūks"
+  },
+  "licenseBrowserUnknown": {
+    "message": "Pārlūks"
+  },
+  "licenseChangeEmail": {
+    "message": "Mainīt e-pasta adresi"
+  },
+  "licenseChangeEmailWebLink": {
+    "message": "Mainīt e-pasta adresi"
+  },
+  "licenseChooseRecoveryTitle": {
+    "message": "Izvēlieties šifrēšanas atslēgas aizsardzības veidu"
+  },
+  "licenseCloseModal": {
+    "message": "Aizvērt"
+  },
+  "licenseCodeExpired": {
+    "message": "Šī koda derīguma termiņš ir beidzies. Lūdzu, pieprasiet jaunu e-pasta ziņojumu."
+  },
+  "licenseCodeIncorrectTriesRemaining": {
+    "message": "Nepareizs kods. Atlikušie mēģinājumi: {COUNT}."
+  },
+  "licenseCodeInvalidFormat": {
+    "message": "Lūdzu, ievadiet e-pasta ziņojumā norādīto 6 ciparu kodu."
+  },
+  "licenseCodePlaceholder": {
+    "message": "6 ciparu kods"
+  },
+  "licenseCodeSentTo": {
+    "message": "Ievadiet 6 ciparu kodu, ko nosūtījām uz {EMAIL}."
+  },
+  "licenseCodeSourceDeviceOption": {
+    "message": "Iegūt kodu no jau pievienota pārlūka"
+  },
+  "licenseCodeSourceDeviceOptionDescription": {
+    "message": "Atveriet tajā sadaļu “Dublēšana un sinhronizācija” un noklikšķiniet uz “Pievienot citu pārlūku vai profilu”."
+  },
+  "licenseCodeSourceEmailOption": {
+    "message": "Nosūtīt kodu uz {EMAIL}"
+  },
+  "licenseCodeSourceTitle": {
+    "message": "Verifikācijas koda iegūšana"
+  },
+  "licenseCodeTriesExhausted": {
+    "message": "Šim kodam vairs nav atlikušu mēģinājumu. Lūdzu, pieprasiet jaunu e-pasta ziņojumu."
+  },
+  "licenseConnectAnotherBrowser": {
+    "message": "Pievienot citu pārlūku vai profilu"
+  },
+  "licenseConnectedBrowsers": {
+    "message": "Pievienotie pārlūki"
+  },
+  "licenseDeviceAddConnected": {
+    "message": "{BROWSER} tikko tika pievienots jūsu licencei."
+  },
+  "licenseDeviceAddExpired": {
+    "message": "Šī koda derīguma termiņš ir beidzies."
+  },
+  "licenseDeviceAddExpiresIn": {
+    "message": "Derīgs vēl {TIME}"
+  },
+  "licenseDeviceAddGetNewCode": {
+    "message": "Iegūt jaunu kodu"
+  },
+  "licenseDeviceAddIntro": {
+    "message": "Lai pievienotu citu pārlūku vai profilu, ievadiet tajā licences atslēgu un pēc pieprasījuma ievadiet šo kodu."
+  },
+  "licenseDeviceAddKeyReminder": {
+    "message": "Jums joprojām būs nepieciešama licences atslēga — tā šeit netiek rādīta. Tā ir sākotnēji saņemtajā e-pasta ziņojumā vai jūsu norēķinu lapā."
+  },
+  "licenseDeviceAddNeverShare": {
+    "message": "Izmantojiet šo kodu tikai savā jaunajā pārlūkā. Nekad nevienam to neizpaudiet — OneTab nekad to jums neprasīs. Tas darbojas tikai ar šī pārlūka licenci."
+  },
+  "licenseDeviceCodeInsteadLink": {
+    "message": "Tā vietā iegūt kodu no pievienota pārlūka"
+  },
+  "licenseDeviceCodePrompt": {
+    "message": "Pārlūkā, kas jau ir pievienots jūsu licencei, atveriet sadaļu “Dublēšana un sinhronizācija” un noklikšķiniet uz “Pievienot citu pārlūku vai profilu”. Ievadiet tur redzamo 6 ciparu kodu."
+  },
+  "licenseDeviceLimitReached": {
+    "message": "Šai licencei ir sasniegts ierīču limits."
+  },
+  "licenseDoneButton": {
+    "message": "Gatavs"
+  },
+  "licenseEasyOptionDescription": {
+    "message": "Jūsu šifrēšanas atslēga tiek droši glabāta serverī, tāpēc varat to atgūt pa e-pastu."
+  },
+  "licenseEasyOptionLabel": {
+    "message": "Vienkārši"
+  },
+  "licenseEmailCodeInsteadLink": {
+    "message": "Tā vietā nosūtīt kodu pa e-pastu"
+  },
+  "licenseEmailPlaceholder": {
+    "message": "E-pasta adrese"
+  },
+  "licenseEmailPrompt": {
+    "message": "Jūsu e-pasta adrese"
+  },
+  "licenseForgotKeyBack": {
+    "message": "Atpakaļ pie licences atslēgas ievades"
+  },
+  "licenseForgotKeyEnterKeyButton": {
+    "message": "Ievadīt licences atslēgu"
+  },
+  "licenseForgotKeyLink": {
+    "message": "Aizmirsāt licences atslēgu?"
+  },
+  "licenseForgotKeyNoEmailOnRecord": {
+    "message": "Ar šo e-pasta adresi nav saistīta neviena licences atslēga. Pārbaudiet, vai nav drukas kļūdu, vai izmēģiniet citu adresi, ko, iespējams, izmantojāt."
+  },
+  "licenseForgotKeyPrompt": {
+    "message": "Ievadiet savu e-pasta adresi. Ja tā ir reģistrēta licences atslēgai, nosūtīsim atslēgu uz šo adresi."
+  },
+  "licenseForgotKeySendButton": {
+    "message": "Sūtīt"
+  },
+  "licenseForgotKeySentTo": {
+    "message": "Mēs nosūtījām jūsu licences atslēgu uz {EMAIL}. Kad tā būs saņemta, varēsiet to ievadīt šeit."
+  },
+  "licenseForgotKeyTooManyRequests": {
+    "message": "Pēdējā laikā jūsu licences atslēga jau vairākkārt nosūtīta uz šo adresi. Lūdzu, pārbaudiet surogātpasta mapi vai mēģiniet vēlreiz rīt."
+  },
+  "licenseGenericError": {
+    "message": "Radās problēma. Lūdzu, mēģiniet vēlreiz."
+  },
+  "licenseGoButton": {
+    "message": "Turpināt"
+  },
+  "licenseInvalidEmail": {
+    "message": "Lūdzu, ievadiet derīgu e-pasta adresi."
+  },
+  "licenseKeyInvalidFormat": {
+    "message": "Tā neizskatās pēc derīgas licences atslēgas. Tajā jābūt 20 burtiem (A–F) un cipariem, piemēram, XXXX-XXXX-XXXX-XXXX-XXXX."
+  },
+  "licenseKeyNotFound": {
+    "message": "Licences atslēga nav atrasta. Lūdzu, pārbaudiet to un mēģiniet vēlreiz."
+  },
+  "licenseNoLongerActiveError": {
+    "message": "Šī licence vairs nav aktīva. Ja uzskatāt, ka tā ir kļūda, sazinieties ar atbalsta dienestu."
+  },
+  "licenseRateLimitedError": {
+    "message": "No jūsu tīkla veikts pārāk daudz neveiksmīgu mēģinājumu. Lūdzu, uzgaidiet un mēģiniet vēlreiz."
+  },
+  "licenseResendEmail": {
+    "message": "Nosūtīt jaunu e-pasta ziņojumu"
+  },
+  "licenseServiceProblemTryLater": {
+    "message": "Pašlaik to nevar pabeigt mūsu pusē radušās problēmas dēļ. Lūdzu, mēģiniet vēlreiz vēlāk; ja problēma atkārtojas, sazinieties ar atbalsta dienestu."
+  },
+  "licenseSuccess": {
+    "message": "Izdevās! Jūsu saglabātās cilnes tagad tiks šifrētas un droši dublētas mākonī."
+  },
+  "licenseSuccessJoin": {
+    "message": "Izdevās! Šis pārlūks ir pievienots jūsu šifrētajam dublējumam. Šeit un citos pārlūkos saglabātās cilnes tagad tiks sinhronizētas."
+  },
+  "licenseSuggestedEmailIntro": {
+    "message": "Jūsu licences atslēga tika nosūtīta uz:"
+  },
+  "licenseSuggestedEmailNote": {
+    "message": "Verifikācijas kodi un konta atkopšana izmantos šo adresi, tāpēc pārliecinieties, ka tā pieder jums."
+  },
+  "licenseSuspendedBillingError": {
+    "message": "Pašlaik šo licenci nevar pievienot norēķinu problēmas dēļ. Ja pārvaldāt norēķinus, pierakstieties vietnē one-tab.com, lai to atrisinātu; pretējā gadījumā sazinieties ar personu, kas iegādājās jūsu licenci."
+  },
+  "licenseUltraKeyConfirmCheckbox": {
+    "message": "Es saglabāju savas atslēgas kopiju un saprotu, ka tā nekad vairs netiks parādīta."
+  },
+  "licenseUltraKeyConfirmRequired": {
+    "message": "Lūdzu, apstipriniet, ka saglabājāt savas atslēgas kopiju."
+  },
+  "licenseUltraKeyEnterPrompt": {
+    "message": "Ievadiet šifrēšanas atslēgu, lai pabeigtu šīs ierīces pievienošanu."
+  },
+  "licenseUltraKeyIntro": {
+    "message": "Šī ir jūsu šifrēšanas atslēga. Droši saglabājiet tās kopiju (piemēram, paroļu pārvaldniekā), lai varētu atgūt datus pēc datora bojājuma vai zādzības."
+  },
+  "licenseUltraKeyMismatch": {
+    "message": "Šī atslēga neatbilst šai licencei. Lūdzu, pārbaudiet to un mēģiniet vēlreiz."
+  },
+  "licenseUltraKeyNeverShownAgain": {
+    "message": "Šī atslēga NEKAD vairs netiks parādīta."
+  },
+  "licenseUltraKeyPlaceholder": {
+    "message": "Šifrēšanas atslēga"
+  },
+  "licenseUltraOptionDescription": {
+    "message": "Šifrēšanas atslēga ir tikai jums, un tās nozaudēšanas gadījumā to nevar atgūt. Izvēlieties šo opciju tikai tad, ja varat droši saglabāt atslēgas kopiju."
+  },
+  "licenseUltraOptionLabel": {
+    "message": "Maksimāls privātums"
+  },
+  "licenseUseDifferentEmail": {
+    "message": "Izmantot citu e-pasta adresi"
+  },
+  "lightTheme": {
+    "message": "Gaišais motīvs"
+  },
+  "localBackupRestoredModal": {
+    "message": "Pārlūka profila daļa, kurā tiek glabāti OneTab dati, tika bojāta vai izdzēsta. Tas var notikt pēc pārlūka avārijas vai tad, ja nepareizi funkcionējoša sistēmas vai privātuma tīrīšanas programmatūra noņem pārlūka datus."
+  },
+  "localBackupRestoredModalRecovery": {
+    "message": "Šoreiz jums paveicās: bojājums neskāra atsevišķo profila daļu, kurā OneTab glabā iknedēļas dublējumu, tāpēc cilnes tika atjaunotas no {DATE} izveidotā dublējuma. Nevarēja atgūt neko, ko saglabājāt vai mainījāt pēc šī datuma. Ja būtu zaudēts viss profils vai bojāts arī dublējums, nebūtu bijis datu, no kuriem veikt atjaunošanu."
+  },
+  "localBackupRestoredModalTitle": {
+    "message": "OneTab atguva jūsu cilnes pēc datu zuduma"
+  },
+  "localeId": {
+    "message": "lv"
+  },
+  "locationColon": {
+    "message": "Atrašanās vieta:"
+  },
+  "lock": {
+    "message": "Bloķēt"
+  },
+  "lockedGroupUnlockHelp": {
+    "message": "Lai atbloķētu, izmantojiet izvēlni “Vairāk…”. Ja grupa ir bloķēta, nevarat dzēst grupu vai tās cilnes, un cilnes nevar pārkārtot."
+  },
+  "lockMenuItemHelp": {
+    "message": "Kad grupa ir bloķēta, tajā nevar noņemt vai pārkārtot vienumus (līdz atbloķēsiet grupu)."
+  },
+  "makeThisATask": {
+    "message": "Atzīmēt kā uzdevumu"
+  },
+  "manifestDescription": {
+    "message": "Ietaupiet līdz 95% atmiņas un samaziniet ciļņu jucekli"
+  },
+  "markAsArchived": {
+    "message": "Atzīmēt kā arhivētu"
+  },
+  "markAsArchivedMenuItemHelp": {
+    "message": "Kad atzīmējat vienumu kā arhivētu, tam būs pelēks fons. Tā ir vizuāla norāde, ka darbs ar šo vienumu ir pabeigts (piemēram, raksts ir izlasīts). Ja arhivēsiet vienumu, kas ir atzīmēts kā uzdevums, uzdevums vairs netiks rādīts uzdevumu kolonnā jūsu OneTab lapā."
+  },
+  "markAsDoneTask": {
+    "message": "Atzīmēt kā pabeigtu uzdevumu"
+  },
+  "markAsDoneTaskMenuItemHelp": {
+    "message": "Vizuāli norādīt, ka uzdevums ir pabeigts"
+  },
+  "markAsPendingTask": {
+    "message": "Atzīmēt kā nepabeigtu uzdevumu"
+  },
+  "markAsPendingTaskMenuItemHelp": {
+    "message": "Vizuāli norādīt, ka šis vienums ir uzdevums. Parādīsies uzdevuma ikona, uz kuras pēc tam varēsiet noklikšķināt, lai vizuāli norādītu, ka uzdevums ir pabeigts. Visi uzdevumi (ja vien nav atzīmēti kā arhivēti) būs redzami arī jūsu OneTab lapas uzdevumu kolonnā."
+  },
+  "matchCount_few": {
+    "message": "{COUNT} atbilstības"
+  },
+  "matchCount_many": {
+    "message": "{COUNT} atbilstību"
+  },
+  "matchCount_one": {
+    "message": "{COUNT} atbilstība"
+  },
+  "matchCount_other": {
+    "message": "{COUNT} atbilstības"
+  },
+  "matchCount_two": {
+    "message": "{COUNT} atbilstības"
+  },
+  "matchCount_zero": {
+    "message": "{COUNT} atbilstību"
+  },
+  "matchWholeWordsOnly": {
+    "message": "Tikai pilnu vārdu atbilstība"
+  },
+  "mayNeedToRestartBrowser": {
+    "message": "Ja šo ziņojumu redzat katru reizi, lūdzu, atjauniniet un restartējiet pārlūku."
+  },
+  "mergeIntoParent": {
+    "message": "Apvienot vecākelementā"
+  },
+  "mergeOpenTabsHere_few": {
+    "message": "Apvienot šeit {COUNT} atvērtās cilnes"
+  },
+  "mergeOpenTabsHere_many": {
+    "message": "Apvienot šeit {COUNT} atvērtās cilnes"
+  },
+  "mergeOpenTabsHere_one": {
+    "message": "Apvienot šeit {COUNT} atvērto cilni"
+  },
+  "mergeOpenTabsHere_other": {
+    "message": "Apvienot šeit {COUNT} atvērtās cilnes"
+  },
+  "mergeOpenTabsHere_two": {
+    "message": "Apvienot šeit {COUNT} atvērtās cilnes"
+  },
+  "mergeOpenTabsHere_zero": {
+    "message": "Apvienot šeit {COUNT} atvērtās cilnes"
+  },
+  "mergeSelectedTabsHere_few": {
+    "message": "Apvienot šeit {COUNT} atlasītās cilnes"
+  },
+  "mergeSelectedTabsHere_many": {
+    "message": "Apvienot šeit {COUNT} atlasītās cilnes"
+  },
+  "mergeSelectedTabsHere_one": {
+    "message": "Apvienot šeit {COUNT} atlasīto cilni"
+  },
+  "mergeSelectedTabsHere_other": {
+    "message": "Apvienot šeit {COUNT} atlasītās cilnes"
+  },
+  "mergeSelectedTabsHere_two": {
+    "message": "Apvienot šeit {COUNT} atlasītās cilnes"
+  },
+  "mergeSelectedTabsHere_zero": {
+    "message": "Apvienot šeit {COUNT} atlasītās cilnes"
+  },
+  "mergeWithInnerGroups": {
+    "message": "Apvienot ar iekšējām grupām"
+  },
+  "modalMoveToTrashHintExampleGroupTitle": {
+    "message": "Grupas nosaukuma piemērs"
+  },
+  "modalMoveToTrashHintHeading": {
+    "message": "Padoms: novietojiet kursoru virs grupas nosaukuma un pēc tam noklikšķiniet uz X, lai to pārvietotu uz atkritni."
+  },
+  "modalOptionAutoActionOnOpenHeading": {
+    "message": "Pēc ciļņu atjaunošanas:"
+  },
+  "modalOptionAutoActionOnOpenOpenDesc": {
+    "message": "Manuāla dzēšana pēc pabeigšanas"
+  },
+  "modalOptionAutoActionOnOpenTrashDesc": {
+    "message": "Ērtāk ātrai saglabāšanai un atjaunošanai"
+  },
+  "modalRemigrationDontAskAgain": {
+    "message": "Vairs nejautāt"
+  },
+  "modalRemigrationFooterHtml": {
+    "message": "Noklikšķiniet uz <b>Jā</b>, ja vien migrācija jau nav notikusi un migrētās cilnes nav apzināti izdzēstas."
+  },
+  "modalRemigrationNotNow": {
+    "message": "Ne tagad"
+  },
+  "modalRemigrationTabsFoundPrompt_few": {
+    "message": "Atrastas {COUNT} cilnes no OneTab v1. Vai migrēt tās?"
+  },
+  "modalRemigrationTabsFoundPrompt_many": {
+    "message": "Atrasts {COUNT} ciļņu no OneTab v1. Vai migrēt tās?"
+  },
+  "modalRemigrationTabsFoundPrompt_one": {
+    "message": "Atrasta {COUNT} cilne no OneTab v1. Vai migrēt to?"
+  },
+  "modalRemigrationTabsFoundPrompt_other": {
+    "message": "Atrastas {COUNT} cilnes no OneTab v1. Vai migrēt tās?"
+  },
+  "modalRemigrationTabsFoundPrompt_two": {
+    "message": "Atrastas {COUNT} cilnes no OneTab v1. Vai migrēt tās?"
+  },
+  "modalRemigrationTabsFoundPrompt_zero": {
+    "message": "Atrasts {COUNT} ciļņu no OneTab v1. Vai migrēt tās?"
+  },
+  "modalRemigrationYes": {
+    "message": "Jā"
+  },
+  "modalUpdateToV2Heading": {
+    "message": "OneTab ir atjaunināts"
+  },
+  "modalUpdateToV2QuickTourHtml": {
+    "message": "Vēlaties ātru apskatu? Augšdaļā noklikšķiniet uz <b>Palīdzība</b>."
+  },
+  "modalUpdateToV2UseOneTabLikeBefore": {
+    "message": "Jūs joprojām varat lietot OneTab tāpat kā iepriekš — saglabājiet cilnes ar vienu klikšķi."
+  },
+  "modifySharing": {
+    "message": "Mainīt kopīgošanu"
+  },
+  "moreEllipsis": {
+    "message": "Vairāk…"
+  },
+  "moreSearchFilters": {
+    "message": "Papildu meklēšanas filtri"
+  },
+  "move": {
+    "message": "Pārvietot"
+  },
+  "moveBack": {
+    "message": "Pārvietot atpakaļ"
+  },
+  "moveToTrash": {
+    "message": "Pārvietot uz atkritni"
+  },
+  "namedOnly": {
+    "message": "Tikai vienumi ar nosaukumu"
+  },
+  "navigationFilter": {
+    "message": "Navigācijas filtrs"
+  },
+  "navigationFilterColumnOnlyNote": {
+    "message": "Šis filtrs attiecas tikai uz navigācijas kolonnu."
+  },
+  "newExclamation": {
+    "message": "Jauns!"
+  },
+  "noDupsExistExceptForColon": {
+    "message": "Dublikātu nav, izņemot:"
+  },
+  "noDupsFoundHere": {
+    "message": "Šeit nav atrasts neviens dublikāts"
+  },
+  "noMatches": {
+    "message": "Nav atbilstību"
+  },
+  "noMatchesFound": {
+    "message": "Atbilstības nav atrastas"
+  },
+  "nonArchived": {
+    "message": "Nearhivētie"
+  },
+  "nonTabPinFlagHelp": {
+    "message": "Šis vienums ir piesprausts mapes augšdaļā. Noklikšķiniet uz šīs ikonas, lai to atspraustu."
+  },
+  "noOpenTabsToStore": {
+    "message": "Šajā logā nav atvērtu cilņu, ko saglabāt."
+  },
+  "noReadingListEntries": {
+    "message": "Nav atrasts neviens lasīšanas saraksta ieraksts"
+  },
+  "noTabsInOneTabYet": {
+    "message": "Jums vēl nav nevienas cilnes paplašinājumā OneTab"
+  },
+  "noTabsMeetCriteriaUseCheckboxes": {
+    "message": "Neviena atvērta cilne neatbilst jūsu kritērijiem. Lūdzu, izmantojiet iepriekš esošās izvēles rūtiņas."
+  },
+  "notAssigned": {
+    "message": "Nav piešķirts"
+  },
+  "notes": {
+    "message": "Piezīmes"
+  },
+  "notesAboutTheLinkOptional": {
+    "message": "Piezīmes par saiti (neobligāti)"
+  },
+  "notesAboutTheSecondLinkOptional": {
+    "message": "Piezīmes par otro saiti (neobligāti)"
+  },
+  "noTextHasBeenEntered": {
+    "message": "Nav ievadīts teksts"
+  },
+  "ok": {
+    "message": "Labi"
+  },
+  "omniboxShortcutInfo": {
+    "message": "Lai meklētu savā OneTab sarakstā no jebkuras cilnes: dodieties uz pārlūka adreses joslu, ierakstiet 11, pēc tam atstarpi un pēc tam meklēšanas atslēgvārdu. Lai veiktu parastu (ne OneTab) meklēšanu, kas sākas ar 11, ierakstiet 11, pēc tam nospiediet atstarpes taustiņu un pēc tam Backspace"
+  },
+  "OneTabAlsoAvailableForFirefox": {
+    "message": "OneTab ir pieejams arī pārlūkam Firefox"
+  },
+  "oneTabDesignedToProtectPrivacy": {
+    "message": "OneTab ir izstrādāts, lai aizsargātu jūsu privātumu. Mēs nesaņemam informāciju par jūsu cilnēm."
+  },
+  "oneTabExportPageTitle": {
+    "message": "OneTab eksports"
+  },
+  "oneTabFolderSlashShortcutInfo": {
+    "message": "Fokusēt meklēšanas lodziņu un meklēt tikai pašreizējā mapē"
+  },
+  "oneTabImportExportPageTitle": {
+    "message": "OneTab importēšana/eksportēšana"
+  },
+  "oneTabNeedsPermissionToAccessYourTabs": {
+    "message": "OneTab ir nepieciešama atļauja piekļūt jūsu cilnēm."
+  },
+  "oneTabOptionsPageTitle": {
+    "message": "OneTab opcijas"
+  },
+  "oneTabPermissionRequired": {
+    "message": "OneTab — nepieciešama atļauja"
+  },
+  "oneTabRestartRequired": {
+    "message": "OneTab ir jārestartē. Citas cilnes netiks aizvērtas."
+  },
+  "oneTabSlashShortcutInfo": {
+    "message": "Fokusēt meklēšanas lodziņu"
+  },
+  "open": {
+    "message": "Atvērt"
+  },
+  "openActionPopup": {
+    "message": "OneTab darbība (tas pats, kas noklikšķināt uz OneTab rīkjoslas ikonas)"
+  },
+  "openAsCollapsedTabGroup": {
+    "message": "Atvērt kā “sakļautu” ciļņu grupu"
+  },
+  "openAsCollapsedTabGroupMenuItemHelp": {
+    "message": "Ja atvērsiet šīs cilnes kā sakļautu “ciļņu grupu”, līdz noklikšķināsiet uz tās, lai parādītu tajā esošās cilnes, būs redzams tikai grupas nosaukums."
+  },
+  "openAsPinnedTab": {
+    "message": "Atverot piespraust cilni"
+  },
+  "openAsPinnedTabMenuItemHelp": {
+    "message": "Atjaunojot šo cilni, tā tiks atvērta kā piesprausta pārlūka cilne. Piespraustās cilnes pārlūka logā vienmēr tiek rādītas pirmās."
+  },
+  "openAsTabGroup": {
+    "message": "Atvērt kā pārlūka ciļņu grupu"
+  },
+  "openAsTabGroupMenuItemHelp": {
+    "message": "Jūsu pārlūks ļauj logā grupēt cilnes krāsainās “ciļņu grupās”."
+  },
+  "openFolder": {
+    "message": "Atvērt mapi"
+  },
+  "openGroupsLimitNotice_few": {
+    "message": "Lai novērstu pārlūka pārslodzi, tiks atvērtas tikai pirmās {COUNT} grupas."
+  },
+  "openGroupsLimitNotice_many": {
+    "message": "Lai novērstu pārlūka pārslodzi, tiks atvērtas tikai pirmās {COUNT} grupas."
+  },
+  "openGroupsLimitNotice_one": {
+    "message": "Lai novērstu pārlūka pārslodzi, tiks atvērta tikai pirmā {COUNT} grupa."
+  },
+  "openGroupsLimitNotice_other": {
+    "message": "Lai novērstu pārlūka pārslodzi, tiks atvērtas tikai pirmās {COUNT} grupas."
+  },
+  "openGroupsLimitNotice_two": {
+    "message": "Lai novērstu pārlūka pārslodzi, tiks atvērtas tikai pirmās {COUNT} grupas."
+  },
+  "openGroupsLimitNotice_zero": {
+    "message": "Lai novērstu pārlūka pārslodzi, tiks atvērtas tikai pirmās {COUNT} grupas."
+  },
+  "openInIncognitoWindow": {
+    "message": "Atjaunot jaunā inkognito režīma logā"
+  },
+  "openInNewWindow": {
+    "message": "Atjaunot jaunā logā"
+  },
+  "openInThisWindow": {
+    "message": "Atjaunot šajā logā"
+  },
+  "openOneTab": {
+    "message": "Atvērt OneTab"
+  },
+  "openOneTabAfter": {
+    "message": "Atvērt OneTab pēc ciļņu saglabāšanas"
+  },
+  "openONETABLogo": {
+    "message": "Atvērt ONETAB"
+  },
+  "openParentFolder": {
+    "message": "Atvērt vecākmapi"
+  },
+  "openTabFromWebsite": {
+    "message": "Atveriet cilni un dodieties uz tīmekļa vietni"
+  },
+  "openTabLimit_few": {
+    "message": "Lai novērstu pārlūka pārslodzi, vienlaikus var atvērt ne vairāk kā {COUNT} cilnes."
+  },
+  "openTabLimit_many": {
+    "message": "Lai novērstu pārlūka pārslodzi, vienlaikus var atvērt ne vairāk kā {COUNT} ciļņu."
+  },
+  "openTabLimit_one": {
+    "message": "Lai novērstu pārlūka pārslodzi, vienlaikus var atvērt ne vairāk kā {COUNT} cilni."
+  },
+  "openTabLimit_other": {
+    "message": "Lai novērstu pārlūka pārslodzi, vienlaikus var atvērt ne vairāk kā {COUNT} cilnes."
+  },
+  "openTabLimit_two": {
+    "message": "Lai novērstu pārlūka pārslodzi, vienlaikus var atvērt ne vairāk kā {COUNT} cilnes."
+  },
+  "openTabLimit_zero": {
+    "message": "Lai novērstu pārlūka pārslodzi, vienlaikus var atvērt ne vairāk kā {COUNT} cilnes."
+  },
+  "openTabsAlreadyStoredHere_few": {
+    "message": "{COUNT} šeit jau saglabātas atvērtas cilnes:"
+  },
+  "openTabsAlreadyStoredHere_many": {
+    "message": "{COUNT} šeit jau saglabātu atvērtu ciļņu:"
+  },
+  "openTabsAlreadyStoredHere_one": {
+    "message": "{COUNT} šeit jau saglabāta atvērta cilne:"
+  },
+  "openTabsAlreadyStoredHere_other": {
+    "message": "{COUNT} šeit jau saglabātas atvērtas cilnes:"
+  },
+  "openTabsAlreadyStoredHere_two": {
+    "message": "{COUNT} šeit jau saglabātas atvērtas cilnes:"
+  },
+  "openTabsAlreadyStoredHere_zero": {
+    "message": "{COUNT} šeit jau saglabātu atvērtu ciļņu:"
+  },
+  "openTabsConfirm_few": {
+    "message": "Jūs gatavojaties atvērt {COUNT} cilnes. Vai tiešām?"
+  },
+  "openTabsConfirm_many": {
+    "message": "Jūs gatavojaties atvērt {COUNT} cilnes. Vai tiešām?"
+  },
+  "openTabsConfirm_one": {
+    "message": "Jūs gatavojaties atvērt {COUNT} cilni. Vai tiešām?"
+  },
+  "openTabsConfirm_other": {
+    "message": "Jūs gatavojaties atvērt {COUNT} cilnes. Vai tiešām?"
+  },
+  "openTabsConfirm_two": {
+    "message": "Jūs gatavojaties atvērt {COUNT} cilnes. Vai tiešām?"
+  },
+  "openTabsConfirm_zero": {
+    "message": "Jūs gatavojaties atvērt {COUNT} ciļņu. Vai tiešām?"
+  },
+  "openTabsNotStoredInOneTab_few": {
+    "message": "{COUNT} atvērtas cilnes, kas nav saglabātas paplašinājumā OneTab"
+  },
+  "openTabsNotStoredInOneTab_many": {
+    "message": "{COUNT} atvērtu ciļņu, kas nav saglabātas paplašinājumā OneTab"
+  },
+  "openTabsNotStoredInOneTab_one": {
+    "message": "{COUNT} atvērta cilne, kas nav saglabāta paplašinājumā OneTab"
+  },
+  "openTabsNotStoredInOneTab_other": {
+    "message": "{COUNT} atvērtas cilnes, kas nav saglabātas paplašinājumā OneTab"
+  },
+  "openTabsNotStoredInOneTab_two": {
+    "message": "{COUNT} atvērtas cilnes, kas nav saglabātas paplašinājumā OneTab"
+  },
+  "openTabsNotStoredInOneTab_zero": {
+    "message": "{COUNT} atvērtu ciļņu, kas nav saglabātas paplašinājumā OneTab"
+  },
+  "optionAutoActionOnOpenArchiveDesc": {
+    "message": "Atzīmējot cilnes kā arhivētas, tām tiek piešķirts pelēks svītrains fons. Tas vizuāli norāda, ka cilnes ir izskatītas vai darbs ar tām ir pabeigts."
+  },
+  "optionAutoActionOnOpenArchiveTitle": {
+    "message": "Atzīmēt tās kā arhivētas"
+  },
+  "optionAutoActionOnOpenHeading": {
+    "message": "Atjaunojot cilnes:"
+  },
+  "optionAutoActionOnOpenNote": {
+    "message": "Bloķētās grupas vienmēr patur savas cilnes"
+  },
+  "optionAutoActionOnOpenOpenDesc": {
+    "message": "Lai atjaunošanas laikā atzīmētu cilnes kā arhivētas, turiet nospiestu taustiņu Alt vai Option"
+  },
+  "optionAutoActionOnOpenOpenTitle": {
+    "message": "Paturēt tās sarakstā"
+  },
+  "optionAutoActionOnOpenTrashDesc": {
+    "message": "Lai, atjaunojot cilnes, tās paturētu sarakstā, turiet nospiestu taustiņu Ctrl vai Cmd"
+  },
+  "optionAutoActionOnOpenTrashTitle": {
+    "message": "Noņemt tās no saraksta"
+  },
+  "optionBrowserActionHeading": {
+    "message": "Noklikšķinot uz OneTab rīkjoslas ikonas:"
+  },
+  "optionBrowserActionOpenPopupDesc": {
+    "message": "Darbības uznirstošajā logā būs redzams atvērto ciļņu saraksts, un varēsiet precīzi izvēlēties, kuras cilnes nosūtīt uz OneTab. Tajā varēsiet iestatīt nosaukumu saglabājamajai grupai ar cilnēm, lai tas vēlāk nebūtu jādara OneTab lapā. Uznirstošais logs arī nodrošinās ērtu piekļuvi jūsu ātrajam sarakstam no jebkura pārlūka loga."
+  },
+  "optionBrowserActionOpenPopupDesc2": {
+    "message": "Precīzi izvēlieties, kuras cilnes saglabāt"
+  },
+  "optionBrowserActionOpenPopupTitle": {
+    "message": "Rādīt OneTab darbības uznirstošo logu"
+  },
+  "optionBrowserActionSendCurrentTabDesc": {
+    "message": "Cilne tiks ievietota pirmajā grupā jūsu OneTab lapā (ignorējot visas piespraustās vai bloķētās grupas)"
+  },
+  "optionBrowserActionSendCurrentTabTitle": {
+    "message": "Nosūtīt tikai pašreizējo cilni uz OneTab"
+  },
+  "optionBrowserActionSendTabsInWindowDesc": {
+    "message": "Jūsu cilnes tiks aizvērtas un saglabātas jūsu OneTab sarakstā. Ja pārlūka ciļņu joslā esat atlasījis vairākas cilnes (izmantojot taustiņu Cmd, Ctrl vai Shift), uz OneTab tiks nosūtītas tikai atlasītās cilnes. Ja izmantojat pārlūka ciļņu grupu funkciju, uz OneTab tiks nosūtīta tikai pašreizējā ciļņu grupa."
+  },
+  "optionBrowserActionSendTabsInWindowDesc2": {
+    "message": "Ātrākais veids, kā saglabāt cilnes"
+  },
+  "optionBrowserActionSendTabsInWindowTitle": {
+    "message": "Nosūtīt pašreizējā loga cilnes uz OneTab"
+  },
+  "optionBrowserActionSendWholeWindowDesc": {
+    "message": "Tāpat kā iepriekš, izņemot to, ka tiks saglabāts viss logs, nevis tikai pašreizējā ciļņu grupa"
+  },
+  "optionBrowserActionSendWholeWindowTitle": {
+    "message": "Nosūtīt pašreizējo logu uz OneTab, ieskaitot visas cilnes un ciļņu grupas"
+  },
+  "optionCopyToClipboardFormatHeading": {
+    "message": "Saišu kopēšana starpliktuvē:"
+  },
+  "optionCopyToClipboardFormatMarkdownTitle": {
+    "message": "Markdown"
+  },
+  "optionCopyToClipboardFormatNote": {
+    "message": "Šis iestatījums tiek lietots, izmantojot darbību “Kopēt starpliktuvē”. Varat arī vilkt cilnes un grupas tieši no OneTab uz dokumentu."
+  },
+  "optionCopyToClipboardFormatRichTextDesc": {
+    "message": "Tādas lietotnes kā tekstapstrādes programmas ļaus ielīmēt bagātinātu tekstu. Ja tas netiek atbalstīts, tā vietā tiks ielīmēts vienkāršs teksts."
+  },
+  "optionCopyToClipboardFormatRichTextTitle": {
+    "message": "Bagātināts teksts, ja pieejams"
+  },
+  "optionCopyToClipboardFormatTitleUrlTitle": {
+    "message": "Nosaukums un URL"
+  },
+  "optionCopyToClipboardFormatUrlOnlyTitle": {
+    "message": "Tikai URL"
+  },
+  "optionCopyToClipboardFormatUrlTitleTitle": {
+    "message": "URL un nosaukums"
+  },
+  "optionDefaultTabGroupOpenTypeCurrentWindow": {
+    "message": "Atvērt ciļņu grupu pašreizējā logā"
+  },
+  "optionDefaultTabGroupOpenTypeHeading": {
+    "message": "Noklikšķinot, lai atvērtu grupu ar cilnēm, kas konfigurēta atvēršanai kā “ciļņu grupa”:"
+  },
+  "optionDefaultTabGroupOpenTypeNewWindow": {
+    "message": "Atvērt ciļņu grupu jaunā logā"
+  },
+  "optionDefaultTabGroupOpenTypeNote": {
+    "message": "Ja nolaižamajā sarakstā izvēlēsieties konkrētu opciju (piemēram, atvērt cilnes inkognito režīma logā), šī opcija tiks atcerēta konkrētajai grupai."
+  },
+  "optionDefaultWindowGroupOpenTypeCurrentWindow": {
+    "message": "Atvērt cilnes pašreizējā logā"
+  },
+  "optionDefaultWindowGroupOpenTypeHeading": {
+    "message": "Atjaunojot grupu ar cilnēm:"
+  },
+  "optionDefaultWindowGroupOpenTypeNewWindow": {
+    "message": "Atvērt cilnes jaunā logā, ja vien OneTab nav vienīgā cilne pašreizējā logā"
+  },
+  "optionDefaultWindowGroupOpenTypeNewWindowAlways": {
+    "message": "Atvērt cilnes jaunā logā"
+  },
+  "optionDefaultWindowGroupOpenTypeNote": {
+    "message": "Atjaunošanas izvēles, kas veiktas grupas izvēlnē “Vairāk…”, tiek atcerētas šai grupai."
+  },
+  "optionDiscardNonActiveTabOnOpenHeading": {
+    "message": "Nekavējoties taupīt atmiņu (RAM), kad cilnes tiek atvērtas pirmoreiz:"
+  },
+  "optionDiscardNonActiveTabOnOpenNote": {
+    "message": "Ja šis iestatījums ir iespējots, cilnes tiks nekavējoties izlādētas no atmiņas, kad pirmoreiz atvērsiet tās no sava OneTab saraksta. Tas ir noderīgi, ja bieži vienlaikus atverat desmitiem ciļņu, jo tās visas netiks ielādētas atmiņā, līdz tām piekļūsiet. Ja šis iestatījums ir atspējots, daudzi tīmekļa pārlūki tik un tā automātiski izvēlēsies izlādēt cilnes no atmiņas, ja tās pašlaik neizmantojat."
+  },
+  "optionDisplayContextMenuHeading": {
+    "message": "Piekļuve OneTab kontekstizvēlnei, tīmekļa lapā noklikšķinot ar peles labo pogu:"
+  },
+  "optionDisplayContextMenuNote": {
+    "message": "Ja atspējosiet izvēlni, nevarēsiet piekļūt funkcijai “Izslēgt tīmekļa vietni no OneTab”"
+  },
+  "optionDuplicatesAllow": {
+    "message": "Atļaut dublikātus"
+  },
+  "optionDuplicatesReject": {
+    "message": "Noraidīt dublikātus bez paziņojuma"
+  },
+  "optionDuplicatesRejectDesc": {
+    "message": "Ja OneTab jau satur šo cilni, tā netiks pievienota vēlreiz."
+  },
+  "optionDuplicatesTitle": {
+    "message": "Dublikāti:"
+  },
+  "optionGroupTitleClickActionEditTitle": {
+    "message": "Rediģēt nosaukumu"
+  },
+  "optionGroupTitleClickActionHeading": {
+    "message": "Noklikšķinot uz grupas vai mapes nosaukuma:"
+  },
+  "optionGroupTitleClickActionOpenDesc": {
+    "message": "Grupu joprojām varat pārdēvēt tās izvēlnē “Vairāk…”."
+  },
+  "optionGroupTitleClickActionOpenTitle": {
+    "message": "Atjaunot grupu vai atvērt mapi"
+  },
+  "optionMoveOneTabToCurrentWindowOnOpenFalseTitle": {
+    "message": "Pārslēgties uz logu, kurā OneTab cilne jau ir atvērta"
+  },
+  "optionMoveOneTabToCurrentWindowOnOpenHeading": {
+    "message": "Darbība “Atvērt OneTab”:"
+  },
+  "optionMoveOneTabToCurrentWindowOnOpenNote": {
+    "message": "Darbība “Atvērt OneTab”:"
+  },
+  "optionMoveOneTabToCurrentWindowOnOpenTrueTitle": {
+    "message": "Pārvietot jebkuru esošu OneTab cilni uz pašreizējo logu"
+  },
+  "optionPinnedTabsAllow": {
+    "message": "Atļaut piespraustās cilnes nosūtīt uz OneTab"
+  },
+  "optionPinnedTabsDontSend": {
+    "message": "Nesūtīt piespraustās cilnes uz OneTab"
+  },
+  "optionPinnedTabsDontSendDesc": {
+    "message": "Piespraustu cilni joprojām varat manuāli nosūtīt uz OneTab, ar peles labo pogu noklikšķinot tīmekļa lapā, lai piekļūtu OneTab izvēlnei, un pēc tam noklikšķinot uz “Nosūtīt tikai šo cilni uz OneTab”"
+  },
+  "optionPinnedTabsNote": {
+    "message": "Piezīme. Cilne kļūst “piesprausta”, kad ar peles labo pogu noklikšķināt uz cilnes un noklikšķināt uz “Piespraust cilni”. Daži lietotāji piesprauž tādas vietnes kā Facebook vai Gmail, lai tās varētu viegli atrast. OneTab atcerēsies, vai cilne bija piesprausta, kad to atjaunosiet."
+  },
+  "optionPinnedTabsTitle": {
+    "message": "Piespraustās cilnes:"
+  },
+  "options": {
+    "message": "Opcijas"
+  },
+  "optionStartupLaunchDisplay": {
+    "message": "Automātiski atvērt OneTab"
+  },
+  "optionStartupLaunchNone": {
+    "message": "Neatvērt OneTab automātiski"
+  },
+  "optionStartupLaunchNoneDesc3": {
+    "message": "Lai manuāli atvērtu OneTab, varat ar peles labo pogu noklikšķināt jebkurā tīmekļa lapā un OneTab izvēlnē noklikšķināt uz “Atvērt OneTab”."
+  },
+  "optionStartupLaunchTitle": {
+    "message": "Pārlūka startēšanas laikā:"
+  },
+  "optionSwitchToOpenedTabFalseTitle": {
+    "message": "Atvērt cilni un palikt OneTab"
+  },
+  "optionSwitchToOpenedTabHeading": {
+    "message": "Atjaunojot cilnes no OneTab lapas:"
+  },
+  "optionSwitchToOpenedTabNote": {
+    "message": "Ja klikšķinot turēsiet nospiestu Shift, cilne tiks atvērta jaunā logā"
+  },
+  "optionSwitchToOpenedTabTrueTitle": {
+    "message": "Atvērt cilni un pārslēgties uz to (ja vien klikšķinot neturat nospiestu Command ⌘/Ctrl)"
+  },
+  "optionUpdateTitleOnDuplicateKeep": {
+    "message": "Paturēt esošo nosaukumu"
+  },
+  "optionUpdateTitleOnDuplicateKeepDesc": {
+    "message": "Varat pārdēvēt cilni paplašinājumā OneTab, un jūsu pielāgotais nosaukums tiks paturēts."
+  },
+  "optionUpdateTitleOnDuplicateNote": {
+    "message": "Nosaukumi un piezīmes tiek kopīgoti visās vienas un tās pašas cilnes kopijās."
+  },
+  "optionUpdateTitleOnDuplicateTitle": {
+    "message": "Saglabājot cilni, kas jau ir paplašinājumā OneTab:"
+  },
+  "optionUpdateTitleOnDuplicateUpdate": {
+    "message": "Izmantot jaunāko nosaukumu"
+  },
+  "optionUpdateTitleOnDuplicateUpdateDesc": {
+    "message": "Saglabātais nosaukums tiek atjaunināts, lai tas atbilstu tikko nosūtītajai cilnei."
+  },
+  "optionUrlAbbr": {
+    "message": "Saīsināts"
+  },
+  "optionUrlDisplayTitle": {
+    "message": "URL attēlojums:"
+  },
+  "optionUrlDomain": {
+    "message": "Tikai domēns"
+  },
+  "optionUrlFull": {
+    "message": "Pilns"
+  },
+  "optionUrlNone": {
+    "message": "Nav"
+  },
+  "otherCopiesColon": {
+    "message": "Citas kopijas:"
+  },
+  "pasteRichOrPlainTextBelow": {
+    "message": "Tālāk varat ielīmēt bagātinātu tekstu vai vienkāršu tekstu."
+  },
+  "pendingTaskCount_few": {
+    "message": "{COUNT} gaida izpildi"
+  },
+  "pendingTaskCount_many": {
+    "message": "{COUNT} gaida izpildi"
+  },
+  "pendingTaskCount_one": {
+    "message": "{COUNT} gaida izpildi"
+  },
+  "pendingTaskCount_other": {
+    "message": "{COUNT} gaida izpildi"
+  },
+  "pendingTaskCount_two": {
+    "message": "{COUNT} gaida izpildi"
+  },
+  "pendingTaskCount_zero": {
+    "message": "{COUNT} gaida izpildi"
+  },
+  "pendingTaskFlagHelp": {
+    "message": "Šis vienums ir uzdevums. Noklikšķiniet uz šīs ikonas, lai atzīmētu to kā pabeigtu."
+  },
+  "permissionRequiredPleaseTryAgain": {
+    "message": "Lai izveidotu kopīgotu lapu, kurai var piekļūt no jebkura datora, ir nepieciešama atļauja saziņai ar OneTab tīmekļa serveri. Lūdzu, mēģiniet vēlreiz."
+  },
+  "pinnedTabs": {
+    "message": "piespraustās cilnes"
+  },
+  "pinToTopOfFolder": {
+    "message": "Piespraust mapes augšdaļā"
+  },
+  "pinToTopOfFolderMenuItemHelp": {
+    "message": "Piespraust šo grupu, lai tā vienmēr tiktu rādīta mapes augšdaļā"
+  },
+  "pinToTopOfList": {
+    "message": "Piespraust saraksta augšdaļā"
+  },
+  "placeholderAndOtherLocations_few": {
+    "message": "PLACEHOLDER un vēl {COUNT} citas"
+  },
+  "placeholderAndOtherLocations_many": {
+    "message": "PLACEHOLDER un vēl {COUNT} citu"
+  },
+  "placeholderAndOtherLocations_one": {
+    "message": "PLACEHOLDER un vēl {COUNT} cita"
+  },
+  "placeholderAndOtherLocations_other": {
+    "message": "PLACEHOLDER un vēl {COUNT} citas"
+  },
+  "placeholderAndOtherLocations_two": {
+    "message": "PLACEHOLDER un vēl {COUNT} citas"
+  },
+  "placeholderAndOtherLocations_zero": {
+    "message": "PLACEHOLDER un vēl {COUNT} citu"
+  },
+  "placeholderExplanation": {
+    "message": "Tīmekļa pārlūka drošības noteikumu dēļ OneTab nedrīkst tieši atjaunot šo lapu. Lūdzu, nokopējiet URL un ielīmējiet to pārlūka adreses joslā."
+  },
+  "plainTextLineFormat": {
+    "message": "Ja ielīmējat vienkāršu tekstu, pārliecinieties, ka katram URL ir norādīts protokols (https://wikipedia.org, nevis tikai wikipedia.org). Katrai rindai jābūt šādā formātā:"
+  },
+  "pleaseWaitTripleDot": {
+    "message": "Lūdzu, uzgaidiet…"
+  },
+  "popupSlashShortcutInfo": {
+    "message": "Ja ir iespējots OneTab darbības uznirstošais logs, atvērt galamērķa izvēles logu un fokusēt meklēšanas lodziņu"
+  },
+  "printUseSaveTabsAsHtmlFileAlertHtml": {
+    "message": "Lai drukas rezultāti būtu vislabākie, mapes izvēlnē <b>Vairāk…</b> izmantojiet darbību <b>Saglabāt kā HTML failu</b> un pēc tam izdrukājiet lejupielādēto HTML failu."
+  },
+  "privacyAssurance": {
+    "message": "Privātuma garantija"
+  },
+  "privacyAssuranceDetail": {
+    "message": "Jūsu ciļņu saraksts nekad netiek nosūtīts vai izpausts ne OneTab izstrādātājiem, ne kādai citai pusei. Vienīgais izņēmums ir gadījums, ja apzināti izmantojat funkciju “kopīgot kā tīmekļa lapu”, lai augšupielādētu ciļņu sarakstu tīmekļa lapā un kopīgotu to ar citiem."
+  },
+  "privacyFirst": {
+    "message": "Privātums pirmajā vietā"
+  },
+  "privacyFirstMessage": {
+    "message": "OneTab ir izstrādāts, lai aizsargātu jūsu privātos datus. Jūsu cilnes tiek glabātas tikai jūsu datorā un nekad netiek kopīgotas ar OneTab izstrādātājiem vai kādu citu pusi.\nJa izmantojat mūsu dublēšanas/sinhronizācijas funkciju, jūsu dati tiks šifrēti no gala līdz galam, izmantojot augstas drošības AES-256 šifrēšanu. Tas nozīmē, ka OneTab izstrādātāji nevarēs redzēt jūsu dublētās vai starp ierīcēm sinhronizētās cilnes, jo šifrēšanas atslēga ir tikai jums. \nVienīgais izņēmums ir gadījums, ja apzināti nolemjat kopīgot dažas savas cilnes ar citiem cilvēkiem, izmantojot mūsu funkciju “Kopīgot kā tīmekļa lapu”.\nMēs ticam principam “Privātums pirmajā vietā”."
+  },
+  "privateBrowsingPermissionRequired": {
+    "message": "OneTab ir nepieciešama atļauja izveidot privātos logus."
+  },
+  "privateBrowsingWindows": {
+    "message": "Privātie logi"
+  },
+  "quickList": {
+    "message": "Ātrais saraksts"
+  },
+  "readingList": {
+    "message": "Lasīšanas saraksts"
+  },
+  "readingListPermissionNecesssary": {
+    "message": "Lasīšanas saraksta atļauja ir nepieciešama, lai OneTab varētu importēt vienumus no jūsu lasīšanas saraksta. Ja šī funkcija nedarbojas, iespējams, jūsu pārlūks neatbalsta lasīšanas sarakstus."
+  },
+  "recent": {
+    "message": "Nesenie"
+  },
+  "recentDestinationsColon": {
+    "message": "Nesenie galamērķi:"
+  },
+  "recentDuplicateRetainedHelp": {
+    "message": "Ja cilne parādās vairāk nekā vienu reizi, tiks paturēts tikai jaunākais dublikāts"
+  },
+  "recentFolders": {
+    "message": "Nesenās mapes"
+  },
+  "recentGroups": {
+    "message": "Nesenās grupas"
+  },
+  "recentlyAccessed": {
+    "message": "Nesen izmantotie"
+  },
+  "recentlyCreated": {
+    "message": "Nesen izveidotie"
+  },
+  "recentlyModified": {
+    "message": "Nesen mainītie"
+  },
+  "reduceMemoryUsageBy95Pct": {
+    "message": "Samazināt atmiņas lietojumu par 95%"
+  },
+  "removeDuplicates": {
+    "message": "Noņemt dublikātus"
+  },
+  "removeDuplicatesMenuItemHelp": {
+    "message": "Varēsiet noņemt šeit esošos dublikātus, atstājot citur esošos, vai noņemt citur esošos dublikātus, atstājot šeit esošos."
+  },
+  "removeDuplicateTabsHere_few": {
+    "message": "Noņemt šeit {COUNT} dublētās cilnes"
+  },
+  "removeDuplicateTabsHere_many": {
+    "message": "Noņemt šeit {COUNT} dublētās cilnes"
+  },
+  "removeDuplicateTabsHere_one": {
+    "message": "Noņemt šeit {COUNT} dublēto cilni"
+  },
+  "removeDuplicateTabsHere_other": {
+    "message": "Noņemt šeit {COUNT} dublētās cilnes"
+  },
+  "removeDuplicateTabsHere_two": {
+    "message": "Noņemt šeit {COUNT} dublētās cilnes"
+  },
+  "removeDuplicateTabsHere_zero": {
+    "message": "Noņemt šeit {COUNT} dublētās cilnes"
+  },
+  "removeFromQuickList": {
+    "message": "Noņemt no ātrā saraksta"
+  },
+  "removeFromQuickListMenuItemHelp": {
+    "message": "Vienums netiks pārvietots uz atkritni — tas tiks noņemts tikai no jūsu ātrā saraksta."
+  },
+  "removeStar": {
+    "message": "Noņemt zvaigznīti"
+  },
+  "removeTabsElsewhereAlsoHere_few": {
+    "message": "Noņemt {COUNT} citur esošās cilnes, kas ir arī šeit"
+  },
+  "removeTabsElsewhereAlsoHere_many": {
+    "message": "Noņemt {COUNT} citur esošās cilnes, kas ir arī šeit"
+  },
+  "removeTabsElsewhereAlsoHere_one": {
+    "message": "Noņemt {COUNT} citur esošo cilni, kas ir arī šeit"
+  },
+  "removeTabsElsewhereAlsoHere_other": {
+    "message": "Noņemt {COUNT} citur esošās cilnes, kas ir arī šeit"
+  },
+  "removeTabsElsewhereAlsoHere_two": {
+    "message": "Noņemt {COUNT} citur esošās cilnes, kas ir arī šeit"
+  },
+  "removeTabsElsewhereAlsoHere_zero": {
+    "message": "Noņemt {COUNT} citur esošās cilnes, kas ir arī šeit"
+  },
+  "removeTabsHereAlsoElsewhere_few": {
+    "message": "Noņemt {COUNT} šeit esošās cilnes, kas ir arī citur"
+  },
+  "removeTabsHereAlsoElsewhere_many": {
+    "message": "Noņemt {COUNT} šeit esošās cilnes, kas ir arī citur"
+  },
+  "removeTabsHereAlsoElsewhere_one": {
+    "message": "Noņemt {COUNT} šeit esošo cilni, kas ir arī citur"
+  },
+  "removeTabsHereAlsoElsewhere_other": {
+    "message": "Noņemt {COUNT} šeit esošās cilnes, kas ir arī citur"
+  },
+  "removeTabsHereAlsoElsewhere_two": {
+    "message": "Noņemt {COUNT} šeit esošās cilnes, kas ir arī citur"
+  },
+  "removeTabsHereAlsoElsewhere_zero": {
+    "message": "Noņemt {COUNT} šeit esošās cilnes, kas ir arī citur"
+  },
+  "rename": {
+    "message": "Pārdēvēt"
+  },
+  "renameOrAddNote": {
+    "message": "Pārdēvēt/pievienot piezīmi"
+  },
+  "restore": {
+    "message": "Atjaunot"
+  },
+  "restoreAll": {
+    "message": "Atjaunot visas"
+  },
+  "restrictSearchToFolderColon": {
+    "message": "Meklēt tikai šajā mapē:"
+  },
+  "results": {
+    "message": "Rezultāti"
+  },
+  "returnToOneTab": {
+    "message": "Atgriezties OneTab cilnē"
+  },
+  "reverse": {
+    "message": "Pretējā secībā"
+  },
+  "rightClickAndOpenOneTabMenu": {
+    "message": "Noklikšķiniet tīmekļa lapā ar peles labo pogu un atveriet OneTab izvēlni"
+  },
+  "rightClickMenuDisabledNote": {
+    "message": "Piezīme. Jūs esat atspējojis OneTab kontekstizvēlni. Lūdzu, iespējojiet to OneTab opciju lapā."
+  },
+  "rightClickSelectionOptionsTip": {
+    "message": "Padoms: pēc vienuma atzīmēšanas ar peles labo pogu noklikšķiniet uz atzīmes ikonas, lai parādītu citas atlases opcijas"
+  },
+  "rightClickTickTip": {
+    "message": "Padoms: ar peles labo pogu noklikšķiniet uz atzīmes ikonas blakus katrai cilnei, lai piekļūtu atlases rīkiem"
+  },
+  "safariApproveOneTabInSettings": {
+    "message": "Lūdzu, dodieties uz sadaļu Iestatījumi un atļaujiet OneTab piekļūt visām tīmekļa vietnēm."
+  },
+  "save95PctReduceTabClutterGoogleChrome": {
+    "message": "Ietaupiet līdz 95% atmiņas un samaziniet ciļņu jucekli pārlūkā Google Chrome"
+  },
+  "saveChoice": {
+    "message": "Saglabāt izvēli"
+  },
+  "saveTabsAsHtmlFile": {
+    "message": "Saglabāt kā HTML failu"
+  },
+  "saveTabsAsHtmlFileMenuItemHelp": {
+    "message": "Izveidot un lejupielādēt HTML failu, kurā ietvertas visas šajā mapē esošās grupas ar cilnēm."
+  },
+  "searchHere": {
+    "message": "Meklēt šeit"
+  },
+  "searchOneTab": {
+    "message": "Meklēt OneTab"
+  },
+  "secondExampleLink": {
+    "message": "Otrās saites piemērs"
+  },
+  "secondExampleLinkTitle": {
+    "message": "Otrās saites nosaukuma piemērs"
+  },
+  "secondExampleLinkTitleOptional": {
+    "message": "Otrās saites nosaukuma piemērs (neobligāti)"
+  },
+  "seeOtherTabsInThisGroup_few": {
+    "message": "Rādīt {COUNT} citas cilnes šajā grupā"
+  },
+  "seeOtherTabsInThisGroup_many": {
+    "message": "Rādīt {COUNT} citas cilnes šajā grupā"
+  },
+  "seeOtherTabsInThisGroup_one": {
+    "message": "Rādīt {COUNT} citu cilni šajā grupā"
+  },
+  "seeOtherTabsInThisGroup_other": {
+    "message": "Rādīt {COUNT} citas cilnes šajā grupā"
+  },
+  "seeOtherTabsInThisGroup_two": {
+    "message": "Rādīt {COUNT} citas cilnes šajā grupā"
+  },
+  "seeOtherTabsInThisGroup_zero": {
+    "message": "Rādīt {COUNT} citas cilnes šajā grupā"
+  },
+  "seePasteInstructions": {
+    "message": "Skatīt ielīmēšanas norādījumus…"
+  },
+  "seeTabsInThisGroup_few": {
+    "message": "Rādīt {COUNT} cilnes šajā grupā"
+  },
+  "seeTabsInThisGroup_many": {
+    "message": "Rādīt {COUNT} cilnes šajā grupā"
+  },
+  "seeTabsInThisGroup_one": {
+    "message": "Rādīt {COUNT} cilni šajā grupā"
+  },
+  "seeTabsInThisGroup_other": {
+    "message": "Rādīt {COUNT} cilnes šajā grupā"
+  },
+  "seeTabsInThisGroup_two": {
+    "message": "Rādīt {COUNT} cilnes šajā grupā"
+  },
+  "seeTabsInThisGroup_zero": {
+    "message": "Rādīt {COUNT} cilnes šajā grupā"
+  },
+  "selectAll": {
+    "message": "Atlasīt visu"
+  },
+  "selectAllExceptThis": {
+    "message": "Atlasīt visu, izņemot šo"
+  },
+  "selectedItemCount_few": {
+    "message": "{COUNT} vienumi"
+  },
+  "selectedItemCount_many": {
+    "message": "{COUNT} vienumu"
+  },
+  "selectedItemCount_one": {
+    "message": "{COUNT} vienums"
+  },
+  "selectedItemCount_other": {
+    "message": "{COUNT} vienumi"
+  },
+  "selectedItemCount_two": {
+    "message": "{COUNT} vienumi"
+  },
+  "selectedItemCount_zero": {
+    "message": "{COUNT} vienumu"
+  },
+  "selection": {
+    "message": "Atlase"
+  },
+  "selectThisAndAbove": {
+    "message": "Atlasīt šo un visus virs tā esošos vienumus"
+  },
+  "selectThisAndBelow": {
+    "message": "Atlasīt šo un visus zem tā esošos vienumus"
+  },
+  "sendAllTabsAllWindows": {
+    "message": "Nosūtīt visas cilnes no visiem logiem"
+  },
+  "sendAllTabsAllWindowsToOneTab": {
+    "message": "Nosūtīt visas cilnes no visiem logiem uz OneTab"
+  },
+  "sendAllTabsExceptThis": {
+    "message": "Nosūtīt visas cilnes, izņemot šo cilni"
+  },
+  "sendAllTabsExceptThisToOneTab": {
+    "message": "Nosūtīt visas cilnes, izņemot šo cilni, uz OneTab"
+  },
+  "sendAllTabsInGroup": {
+    "message": "Nosūtīt visas šīs ciļņu grupas cilnes"
+  },
+  "sendAllTabsInGroupToOneTab": {
+    "message": "Nosūtīt visas šīs ciļņu grupas cilnes uz OneTab"
+  },
+  "sendAllTabsInWindow": {
+    "message": "Nosūtīt visas šī loga cilnes"
+  },
+  "sendAllTabsInWindowToOneTab": {
+    "message": "Nosūtīt visas šī loga cilnes uz OneTab"
+  },
+  "sendCurrentTabToOneTab": {
+    "message": "Nosūtīt pašreizējo cilni uz OneTab"
+  },
+  "sendLeftTabs": {
+    "message": "Nosūtīt kreisajā pusē esošās cilnes"
+  },
+  "sendLeftTabsToOneTab": {
+    "message": "Nosūtīt kreisajā pusē esošās cilnes uz OneTab"
+  },
+  "sendOnlyThisTab": {
+    "message": "Nosūtīt tikai šo cilni"
+  },
+  "sendOnlyThisTabToOneTab": {
+    "message": "Nosūtīt tikai šo cilni uz OneTab"
+  },
+  "sendRightTabs": {
+    "message": "Nosūtīt labajā pusē esošās cilnes"
+  },
+  "sendRightTabsToOneTab": {
+    "message": "Nosūtīt labajā pusē esošās cilnes uz OneTab"
+  },
+  "sendSelectedTabs": {
+    "message": "Nosūtīt atlasītās cilnes"
+  },
+  "sendSelectedTabsToOneTab": {
+    "message": "Nosūtīt atlasītās cilnes uz OneTab"
+  },
+  "sendThisWebLink": {
+    "message": "Nosūtīt šo tīmekļa saiti"
+  },
+  "sendThisWebLinkToOneTab": {
+    "message": "Nosūtīt šo tīmekļa saiti uz OneTab"
+  },
+  "serverUnreachable": {
+    "message": "Serveris nav sasniedzams. Lūdzu, pārbaudiet interneta savienojumu."
+  },
+  "share": {
+    "message": "Kopīgot"
+  },
+  "shareAsAWebPage": {
+    "message": "Kopīgot kā tīmekļa lapu"
+  },
+  "shareAsAWebPageMenuItemHelp": {
+    "message": "Tādējādi tiek izveidota tīmekļa lapa ar jūsu cilnēm, lai jūs varētu to privāti vai publiski kopīgot ar citiem."
+  },
+  "shared": {
+    "message": "Kopīgotie"
+  },
+  "sharedExpiresColon": {
+    "message": "Kopīgots kā tīmekļa lapa. Derīguma termiņš:"
+  },
+  "sharedPageOptions": {
+    "message": "Kopīgotās lapas opcijas"
+  },
+  "sharedPageTabLimit_few": {
+    "message": "Kopīgotajās lapās drīkst būt ne vairāk kā {COUNT} cilnes"
+  },
+  "sharedPageTabLimit_many": {
+    "message": "Kopīgotajās lapās drīkst būt ne vairāk kā {COUNT} ciļņu"
+  },
+  "sharedPageTabLimit_one": {
+    "message": "Kopīgotajās lapās drīkst būt ne vairāk kā {COUNT} cilne"
+  },
+  "sharedPageTabLimit_other": {
+    "message": "Kopīgotajās lapās drīkst būt ne vairāk kā {COUNT} cilnes"
+  },
+  "sharedPageTabLimit_two": {
+    "message": "Kopīgotajās lapās drīkst būt ne vairāk kā {COUNT} cilnes"
+  },
+  "sharedPageTabLimit_zero": {
+    "message": "Kopīgotajās lapās drīkst būt ne vairāk kā {COUNT} ciļņu"
+  },
+  "sharedPageWillAutomaticallyExpire": {
+    "message": "Kopīgotās lapas derīguma termiņš beigsies automātiski, taču jūs jebkurā laikā varat pagarināt termiņu."
+  },
+  "showEverything": {
+    "message": "Rādīt visu"
+  },
+  "showFoldersOnly": {
+    "message": "Rādīt tikai mapes"
+  },
+  "showNamedItemsOnly": {
+    "message": "Rādīt tikai vienumus ar nosaukumu"
+  },
+  "showNamedOnly": {
+    "message": "Rādīt tikai vienumus ar nosaukumu"
+  },
+  "showNextCount_few": {
+    "message": "Nākamie {COUNT}"
+  },
+  "showNextCount_many": {
+    "message": "Nākamie {COUNT}"
+  },
+  "showNextCount_one": {
+    "message": "Nākamais {COUNT}"
+  },
+  "showNextCount_other": {
+    "message": "Nākamie {COUNT}"
+  },
+  "showNextCount_two": {
+    "message": "Nākamie {COUNT}"
+  },
+  "showNextCount_zero": {
+    "message": "Nākamie {COUNT}"
+  },
+  "showPreviousCount_few": {
+    "message": "Iepriekšējie {COUNT}"
+  },
+  "showPreviousCount_many": {
+    "message": "Iepriekšējie {COUNT}"
+  },
+  "showPreviousCount_one": {
+    "message": "Iepriekšējais {COUNT}"
+  },
+  "showPreviousCount_other": {
+    "message": "Iepriekšējie {COUNT}"
+  },
+  "showPreviousCount_two": {
+    "message": "Iepriekšējie {COUNT}"
+  },
+  "showPreviousCount_zero": {
+    "message": "Iepriekšējie {COUNT}"
+  },
+  "soon": {
+    "message": "drīz"
+  },
+  "sort": {
+    "message": "Kārtošana"
+  },
+  "sortByColon": {
+    "message": "Kārtot pēc:"
+  },
+  "sortGroups": {
+    "message": "Kārtot grupas"
+  },
+  "sortGroupsMenuFooterNote": {
+    "message": "Tādējādi tiek kārtotas šajā mapē esošās grupas. Tajās esošās cilnes netiek kārtotas."
+  },
+  "sourceColon": {
+    "message": "Avots:"
+  },
+  "star": {
+    "message": "Atzīmēt ar zvaigznīti"
+  },
+  "starFlagHelp": {
+    "message": "Šis vienums ir atzīmēts ar zvaigznīti, lai vizuāli norādītu tā svarīgumu. Noklikšķiniet uz šīs ikonas, lai noņemtu zvaigznīti."
+  },
+  "starMenuItemHelp": {
+    "message": "Izmantojiet zvaigznīti kā vizuālu norādi, ka kaut kas ir svarīgs"
+  },
+  "starred": {
+    "message": "Ar zvaigznīti"
+  },
+  "storeAllOpenWindowsHere": {
+    "message": "Saglabāt šeit visus atvērtos logus"
+  },
+  "storeAllOpenWindowsHereMenuItemHelp": {
+    "message": "Aizvērt visus atvērtos pārlūka logus un saglabāt katru kā atsevišķu grupu šajā mapē"
+  },
+  "storeSelectedTabsInONETAB_few": {
+    "message": "Saglabāt {COUNT} atlasītās cilnes paplašinājumā ONETAB"
+  },
+  "storeSelectedTabsInONETAB_many": {
+    "message": "Saglabāt {COUNT} atlasītās cilnes paplašinājumā ONETAB"
+  },
+  "storeSelectedTabsInONETAB_one": {
+    "message": "Saglabāt {COUNT} atlasīto cilni paplašinājumā ONETAB"
+  },
+  "storeSelectedTabsInONETAB_other": {
+    "message": "Saglabāt {COUNT} atlasītās cilnes paplašinājumā ONETAB"
+  },
+  "storeSelectedTabsInONETAB_two": {
+    "message": "Saglabāt {COUNT} atlasītās cilnes paplašinājumā ONETAB"
+  },
+  "storeSelectedTabsInONETAB_zero": {
+    "message": "Saglabāt {COUNT} atlasītās cilnes paplašinājumā ONETAB"
+  },
+  "storeTabsInAdditionalLocation_few": {
+    "message": "Tomēr saglabāt cilnes vēlreiz"
+  },
+  "storeTabsInAdditionalLocation_many": {
+    "message": "Tomēr saglabāt cilnes vēlreiz"
+  },
+  "storeTabsInAdditionalLocation_one": {
+    "message": "Tomēr saglabāt cilni vēlreiz"
+  },
+  "storeTabsInAdditionalLocation_other": {
+    "message": "Tomēr saglabāt cilnes vēlreiz"
+  },
+  "storeTabsInAdditionalLocation_two": {
+    "message": "Tomēr saglabāt cilnes vēlreiz"
+  },
+  "storeTabsInAdditionalLocation_zero": {
+    "message": "Tomēr saglabāt cilnes vēlreiz"
+  },
+  "storeTabsInONETAB_few": {
+    "message": "Saglabāt cilnes paplašinājumā ONETAB"
+  },
+  "storeTabsInONETAB_many": {
+    "message": "Saglabāt cilnes paplašinājumā ONETAB"
+  },
+  "storeTabsInONETAB_one": {
+    "message": "Saglabāt cilni paplašinājumā ONETAB"
+  },
+  "storeTabsInONETAB_other": {
+    "message": "Saglabāt cilnes paplašinājumā ONETAB"
+  },
+  "storeTabsInONETAB_two": {
+    "message": "Saglabāt cilnes paplašinājumā ONETAB"
+  },
+  "storeTabsInONETAB_zero": {
+    "message": "Saglabāt cilnes paplašinājumā ONETAB"
+  },
+  "subFoldersNotShared": {
+    "message": "Ņemiet vērā, ka apakšmapes netiek kopīgotas. Tiek kopīgotas tikai grupas ar cilnēm, kas atrodas tieši mapē."
+  },
+  "tab": {
+    "message": "cilne"
+  },
+  "tabAlreadyStoredHere": {
+    "message": "Jūsu atvērtā cilne jau ir saglabāta šeit:"
+  },
+  "tabCaretTooltipTitleNotes": {
+    "message": "Rediģēt cilnes nosaukumu un piezīmes"
+  },
+  "tabCaretTooltipTitleNotesUrl": {
+    "message": "Rediģēt cilnes nosaukumu, URL un piezīmes"
+  },
+  "tabCount_few": {
+    "message": "{COUNT} cilnes"
+  },
+  "tabCount_many": {
+    "message": "{COUNT} ciļņu"
+  },
+  "tabCount_one": {
+    "message": "{COUNT} cilne"
+  },
+  "tabCount_other": {
+    "message": "{COUNT} cilnes"
+  },
+  "tabCount_two": {
+    "message": "{COUNT} cilnes"
+  },
+  "tabCount_zero": {
+    "message": "{COUNT} ciļņu"
+  },
+  "tabGroupColorColon": {
+    "message": "Ciļņu grupas krāsa:"
+  },
+  "tabGroupIndicatorTooltipHelp": {
+    "message": "Šī grupa ir konfigurēta atvēršanai kā pārlūka ciļņu grupa. Šo iestatījumu varat mainīt izvēlnē “Vairāk…”"
+  },
+  "tabPinFlagHelp": {
+    "message": "Šī cilne tiks atjaunota kā piesprausta pārlūka cilne. Noklikšķiniet uz šīs ikonas, lai to atspraustu."
+  },
+  "tabs": {
+    "message": "Cilnes"
+  },
+  "tabsFromExcludedDomains": {
+    "message": "cilnes no izslēgtajiem domēniem"
+  },
+  "tabsInTabGroups": {
+    "message": "cilnes ciļņu grupās"
+  },
+  "tabTotalCount_few": {
+    "message": "Kopā: {COUNT} cilnes"
+  },
+  "tabTotalCount_many": {
+    "message": "Kopā: {COUNT} ciļņu"
+  },
+  "tabTotalCount_one": {
+    "message": "Kopā: {COUNT} cilne"
+  },
+  "tabTotalCount_other": {
+    "message": "Kopā: {COUNT} cilnes"
+  },
+  "tabTotalCount_two": {
+    "message": "Kopā: {COUNT} cilnes"
+  },
+  "tabTotalCount_zero": {
+    "message": "Kopā: {COUNT} ciļņu"
+  },
+  "tasks": {
+    "message": "Uzdevumi"
+  },
+  "tasksDone": {
+    "message": "Uzdevumi (pabeigti)"
+  },
+  "tasksPending": {
+    "message": "Uzdevumi (nepabeigti)"
+  },
+  "tasksWillAppearHere": {
+    "message": "Ja kādas savas cilnes vai grupas atzīmēsiet kā uzdevumus, tās parādīsies šeit."
+  },
+  "taskTotalCount_few": {
+    "message": "Kopā: {COUNT}"
+  },
+  "taskTotalCount_many": {
+    "message": "Kopā: {COUNT}"
+  },
+  "taskTotalCount_one": {
+    "message": "Kopā: {COUNT}"
+  },
+  "taskTotalCount_other": {
+    "message": "Kopā: {COUNT}"
+  },
+  "taskTotalCount_two": {
+    "message": "Kopā: {COUNT}"
+  },
+  "taskTotalCount_zero": {
+    "message": "Kopā: {COUNT}"
+  },
+  "themeQuickSwitchHint": {
+    "message": "Lai ātri pārslēgtu motīvus, noklikšķinot uz motīva ikonas, turiet nospiestu taustiņu Ctrl vai Cmd"
+  },
+  "thenClickToolbarIcon": {
+    "message": "Pēc tam vēlreiz noklikšķiniet uz OneTab rīkjoslas ikonas, lai izmantotu OneTab."
+  },
+  "thisFolderIsEmpty": {
+    "message": "Šī mape ir tukša"
+  },
+  "thisTab": {
+    "message": "Šī cilne"
+  },
+  "thisTabGroup": {
+    "message": "Šī ciļņu grupa"
+  },
+  "thisTabNotStored": {
+    "message": "Šī cilne nav saglabāta paplašinājumā OneTab"
+  },
+  "thisWindow": {
+    "message": "Šis logs"
+  },
+  "tickOrUntickToExclude": {
+    "message": "Atzīmējiet vai noņemiet atzīmi, lai izslēgtu tīmekļa vietni"
+  },
+  "title": {
+    "message": "Nosaukums"
+  },
+  "toAddOrRemoveExclusions": {
+    "message": "Lai pievienotu tīmekļa vietni izslēgšanas sarakstam vai noņemtu no tā:"
+  },
+  "toAllowOneTabInIncognito": {
+    "message": "Lai OneTab ikona varētu parādīties inkognito režīma logos: "
+  },
+  "toImportBrowserBookmarksUseMenuOption": {
+    "message": "Lai importētu no pārlūka grāmatzīmēm, OneTab lapā izmantojiet izvēlnes opciju “Importēt saites šeit”"
+  },
+  "toMakeOpenButtonWorkApprovePermission": {
+    "message": "Lai kopīgotajās lapās darbotos poga “Atvērt”, lūdzu, apstipriniet atļaujas pieprasījumu."
+  },
+  "tooManyTabsSpeedUpFirefox": {
+    "message": "Pārāk daudz ciļņu? Pārvērtiet cilnes sarakstā un paātriniet Firefox"
+  },
+  "tooManyTabsSpeedUpSafari": {
+    "message": "Pārāk daudz ciļņu? Pārvērtiet cilnes sarakstā un paātriniet Safari"
+  },
+  "toSaveChangesClickButton": {
+    "message": "Lai saglabātu izmaiņas, noklikšķiniet uz pogas"
+  },
+  "total0Tabs": {
+    "message": "Kopā: 0 ciļņu"
+  },
+  "trash": {
+    "message": "Atkritne"
+  },
+  "unfoldGroup": {
+    "message": "Izvērst grupu"
+  },
+  "unlock": {
+    "message": "Atbloķēt"
+  },
+  "unmarkAsArchived": {
+    "message": "Noņemt arhivēšanas atzīmi"
+  },
+  "unMarkAsTask": {
+    "message": "Noņemt uzdevuma atzīmi"
+  },
+  "unpin": {
+    "message": "Atspraust"
+  },
+  "unshare": {
+    "message": "Pārtraukt kopīgošanu"
+  },
+  "untitled": {
+    "message": "Bez nosaukuma"
+  },
+  "update": {
+    "message": "Atjaunināt"
+  },
+  "userLanguage": {
+    "message": "Latviešu"
+  },
+  "website": {
+    "message": "Tīmekļa vietne"
+  },
+  "yearCount_few": {
+    "message": "{COUNT} gadi"
+  },
+  "yearCount_many": {
+    "message": "{COUNT} gadu"
+  },
+  "yearCount_one": {
+    "message": "{COUNT} gads"
+  },
+  "yearCount_other": {
+    "message": "{COUNT} gadi"
+  },
+  "yearCount_two": {
+    "message": "{COUNT} gadi"
+  },
+  "yearCount_zero": {
+    "message": "{COUNT} gadu"
+  },
+  "yourTabAlreadyStoredHere": {
+    "message": "Jūsu cilne jau ir saglabāta šeit:"
+  }
+}

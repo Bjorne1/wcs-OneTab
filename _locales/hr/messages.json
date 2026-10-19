@@ -1,0 +1,2330 @@
+{
+  "95PctMemoryReduction": {
+    "message": "95% smanjenje potrošnje memorije"
+  },
+  "about": {
+    "message": "O proširenju"
+  },
+  "actionPopupOverrideNote": {
+    "message": "Ova se postavka može nadjačati u skočnom prozoru (ako ste omogućili skočni prozor)."
+  },
+  "aDashZ": {
+    "message": "A-Z"
+  },
+  "addOneTabNow": {
+    "message": "Dodaj OneTab odmah"
+  },
+  "all": {
+    "message": "Sve"
+  },
+  "allBookmarks": {
+    "message": "Sve oznake"
+  },
+  "allOpenTabsAlreadyStoredHere_few": {
+    "message": "Sve otvorene kartice već su spremljene ovdje:"
+  },
+  "allOpenTabsAlreadyStoredHere_many": {
+    "message": "Sve otvorene kartice već su spremljene ovdje:"
+  },
+  "allOpenTabsAlreadyStoredHere_one": {
+    "message": "Sve otvorene kartice već su spremljene ovdje:"
+  },
+  "allOpenTabsAlreadyStoredHere_other": {
+    "message": "Sve otvorene kartice već su spremljene ovdje:"
+  },
+  "allOpenTabsAlreadyStoredHere_two": {
+    "message": "Sve otvorene kartice već su spremljene ovdje:"
+  },
+  "allOpenTabsAlreadyStoredHere_zero": {
+    "message": "Sve otvorene kartice već su spremljene ovdje:"
+  },
+  "allowFileAccessInstructions": {
+    "message": "Da biste omogućili izravno otvaranje datoteka, idite na Postavke ➝ Proširenja ➝ OneTab ➝ Pojedinosti ➝ Dopusti pristup URL-ovima datoteka"
+  },
+  "alreadyExistingOpenTabsWillBeClosedAfterMerge": {
+    "message": "Sve otvorene kartice koje već postoje u ovoj grupi zatvorit će se nakon spajanja."
+  },
+  "alternatePlainTextFormat": {
+    "message": "Obični tekst može biti i u ovom formatu:"
+  },
+  "approve": {
+    "message": "Odobri"
+  },
+  "archived": {
+    "message": "Arhivirano"
+  },
+  "autoTheme": {
+    "message": "Automatski (prema postavci operacijskog sustava)"
+  },
+  "backupAndSync": {
+    "message": "Sigurnosno kopiranje i sinkronizacija"
+  },
+  "betaReleaseReportBugsHere": {
+    "message": "Beta izdanje – prijavite greške ovdje"
+  },
+  "bookmarkCount_few": {
+    "message": "{COUNT} oznake"
+  },
+  "bookmarkCount_many": {
+    "message": "{COUNT} oznaka"
+  },
+  "bookmarkCount_one": {
+    "message": "{COUNT} oznaka"
+  },
+  "bookmarkCount_other": {
+    "message": "{COUNT} oznaka"
+  },
+  "bookmarkCount_two": {
+    "message": "{COUNT} oznake"
+  },
+  "bookmarkCount_zero": {
+    "message": "{COUNT} oznaka"
+  },
+  "bookmarksPermissionNecesssary": {
+    "message": "Dopuštenje za oznake potrebno je kako bi OneTab mogao uvesti oznake iz vašeg preglednika"
+  },
+  "bulkActions": {
+    "message": "Skupne radnje"
+  },
+  "cancel": {
+    "message": "Odustani"
+  },
+  "canDragTextNote": {
+    "message": "Napomena: tekst koji sadrži web-poveznice možete i povući i ispustiti izravno s druge web-stranice ili iz dokumenta. Tekst možete povući izravno na svoju OneTab stranicu, bez potrebe za upotrebom ovog okvira za uvoz."
+  },
+  "cannotConnectToServerDeletionRequestQueued": {
+    "message": "Nije moguće povezati se s poslužiteljem OneTab. Provjerite internetsku vezu. Vaš zahtjev za brisanje dijeljene stranice stavljen je u lokalni red čekanja i automatski će se poslati poslužitelju OneTab čim ponovno bude dostupan."
+  },
+  "cannotCreateTabGroupInTabGroup": {
+    "message": "Odabrano odredište je grupa kartica. Ne možete stvoriti grupu kartica unutar postojeće grupe kartica. Odaberite drugo odredište."
+  },
+  "cannotMixTabsGroupsFoldersDuringDrag": {
+    "message": "Pri povlačenju nije moguće miješati kartice, grupe i mape. To je zato što, na primjer, mapu ne možete povući na ista mjesta na koja možete povući karticu."
+  },
+  "cannotMoveItemAncestorHere": {
+    "message": "Nadređena stavka ne može se premjestiti u vlastitu podređenu stavku jer bi se time stvorila petlja."
+  },
+  "cannotMoveItemIntoItself": {
+    "message": "Stavka se ne može premjestiti u samu sebe."
+  },
+  "canPasteWebContentForExample": {
+    "message": "Možete zalijepiti tekst kopiran s web-stranice ili iz dokumenta, a poveznice će se automatski izdvojiti. Na primjer:"
+  },
+  "caseSensitive": {
+    "message": "Razlikuj velika i mala slova"
+  },
+  "changesMadeSinceSharedPageCreation": {
+    "message": "Vaše spremljene kartice promijenile su se otkad ste podijelili ovu stranicu. Kliknite gumb „Ažuriraj” da biste ažurirali postojeću dijeljenu stranicu."
+  },
+  "changeThisSettingAtAnyTimeInfo": {
+    "message": "Ovu postavku možete promijeniti u bilo kojem trenutku klikom na gumb „Opcije” pri vrhu svoje stranice OneTab."
+  },
+  "changeThisSettingAtAnyTimeInfoHtml": {
+    "message": "To možete promijeniti kasnije u odjeljku <b>Opcije</b>."
+  },
+  "checkboxesDeterminePinnedAndGroupedTabMergeInclusion": {
+    "message": "Potvrdni okviri pri vrhu ove stranice određuju hoće li prikvačene kartice ili kartice u grupama kartica biti uključene u spajanje."
+  },
+  "chooseALocation": {
+    "message": "Odaberite lokaciju"
+  },
+  "chooseALocationToImportTo": {
+    "message": "Odaberite lokaciju za uvoz"
+  },
+  "chooseExportLocation": {
+    "message": "Odaberite lokaciju iz koje želite izvesti"
+  },
+  "chooseLightDarkTheme": {
+    "message": "Odaberite svijetlu/tamnu temu"
+  },
+  "chooseLocationToCopyTo": {
+    "message": "Odaberite lokaciju za kopiranje"
+  },
+  "chooseLocationToMoveTo": {
+    "message": "Odaberite lokaciju za premještanje"
+  },
+  "chooseLocationToRestoreTo": {
+    "message": "Odaberite lokaciju za vraćanje"
+  },
+  "chooseToIncludeNotes": {
+    "message": "Ako ste dodali bilješke karticama ili grupama, odaberite želite li ih uključiti u dijeljenu web-stranicu"
+  },
+  "chooseToIncludeRatings": {
+    "message": "Ako ste dodali zvjezdice karticama ili grupama, odaberite želite li ih uključiti u dijeljenu web-stranicu"
+  },
+  "chromeIncognitoInstructions": {
+    "message": "U postavkama preglednika idite na „Postavke” → „Proširenja” → „OneTab” → „Pojedinosti”, a zatim omogućite „Dopusti u anonimnom načinu”."
+  },
+  "clickButtonToAllowTabAccess": {
+    "message": "Kliknite gumb u nastavku kako biste dopustili pristup otvorenim karticama za OneTab."
+  },
+  "clickHereToContinue": {
+    "message": "Kliknite ovdje za nastavak."
+  },
+  "clickOneTabIconToStoreTabsHere": {
+    "message": "Kliknite ikonu OneTab na alatnoj traci preglednika da biste ovdje spremili otvorene kartice."
+  },
+  "closeSelectedTabs_few": {
+    "message": "Zatvori {COUNT} odabrane kartice"
+  },
+  "closeSelectedTabs_many": {
+    "message": "Zatvori {COUNT} odabranih kartica"
+  },
+  "closeSelectedTabs_one": {
+    "message": "Zatvori {COUNT} odabranu karticu"
+  },
+  "closeSelectedTabs_other": {
+    "message": "Zatvori {COUNT} odabranih kartica"
+  },
+  "closeSelectedTabs_two": {
+    "message": "Zatvori {COUNT} odabrane kartice"
+  },
+  "closeSelectedTabs_zero": {
+    "message": "Zatvori {COUNT} odabranih kartica"
+  },
+  "closeSelectedTabsAndStoreInONETAB_few": {
+    "message": "Zatvori {COUNT} odabrane kartice i spremi ih u ONETAB"
+  },
+  "closeSelectedTabsAndStoreInONETAB_many": {
+    "message": "Zatvori {COUNT} odabranih kartica i spremi ih u ONETAB"
+  },
+  "closeSelectedTabsAndStoreInONETAB_one": {
+    "message": "Zatvori {COUNT} odabranu karticu i spremi je u ONETAB"
+  },
+  "closeSelectedTabsAndStoreInONETAB_other": {
+    "message": "Zatvori {COUNT} odabranih kartica i spremi ih u ONETAB"
+  },
+  "closeSelectedTabsAndStoreInONETAB_two": {
+    "message": "Zatvori {COUNT} odabrane kartice i spremi ih u ONETAB"
+  },
+  "closeSelectedTabsAndStoreInONETAB_zero": {
+    "message": "Zatvori {COUNT} odabranih kartica i spremi ih u ONETAB"
+  },
+  "closeTabs_few": {
+    "message": "Zatvori kartice"
+  },
+  "closeTabs_many": {
+    "message": "Zatvori kartice"
+  },
+  "closeTabs_one": {
+    "message": "Zatvori karticu"
+  },
+  "closeTabs_other": {
+    "message": "Zatvori kartice"
+  },
+  "closeTabs_two": {
+    "message": "Zatvori kartice"
+  },
+  "closeTabs_zero": {
+    "message": "Zatvori kartice"
+  },
+  "closeTabsAfterMerge": {
+    "message": "Zatvori kartice nakon spajanja"
+  },
+  "closeTabsAlreadyStoredInOneTab_few": {
+    "message": "Zatvori {COUNT} kartice koje su već spremljene u OneTab"
+  },
+  "closeTabsAlreadyStoredInOneTab_many": {
+    "message": "Zatvori {COUNT} kartica koje su već spremljene u OneTab"
+  },
+  "closeTabsAlreadyStoredInOneTab_one": {
+    "message": "Zatvori {COUNT} karticu koja je već spremljena u OneTab"
+  },
+  "closeTabsAlreadyStoredInOneTab_other": {
+    "message": "Zatvori {COUNT} kartica koje su već spremljene u OneTab"
+  },
+  "closeTabsAlreadyStoredInOneTab_two": {
+    "message": "Zatvori {COUNT} kartice koje su već spremljene u OneTab"
+  },
+  "closeTabsAlreadyStoredInOneTab_zero": {
+    "message": "Zatvori {COUNT} kartica koje su već spremljene u OneTab"
+  },
+  "closeTabsAndStore_few": {
+    "message": "Zatvori kartice i spremi ih u ONETAB"
+  },
+  "closeTabsAndStore_many": {
+    "message": "Zatvori kartice i spremi ih u ONETAB"
+  },
+  "closeTabsAndStore_one": {
+    "message": "Zatvori karticu i spremi je u ONETAB"
+  },
+  "closeTabsAndStore_other": {
+    "message": "Zatvori kartice i spremi ih u ONETAB"
+  },
+  "closeTabsAndStore_two": {
+    "message": "Zatvori kartice i spremi ih u ONETAB"
+  },
+  "closeTabsAndStore_zero": {
+    "message": "Zatvori kartice i spremi ih u ONETAB"
+  },
+  "closeTheseDuplicates_few": {
+    "message": "Zatvori ove duplicirane kartice"
+  },
+  "closeTheseDuplicates_many": {
+    "message": "Zatvori ove duplicirane kartice"
+  },
+  "closeTheseDuplicates_one": {
+    "message": "Zatvori ovu dupliciranu karticu"
+  },
+  "closeTheseDuplicates_other": {
+    "message": "Zatvori ove duplicirane kartice"
+  },
+  "closeTheseDuplicates_two": {
+    "message": "Zatvori ove duplicirane kartice"
+  },
+  "closeTheseDuplicates_zero": {
+    "message": "Zatvori ove duplicirane kartice"
+  },
+  "completedTaskFlagHelp": {
+    "message": "Ova je stavka zadatak. Kliknite ovu ikonu da biste je označili kao zadatak na čekanju (nije dovršen)."
+  },
+  "completeEditingShortcutInfo": {
+    "message": "Dovršetak uređivanja polja bilješki"
+  },
+  "configureShortcuts": {
+    "message": "Konfiguriraj prečace"
+  },
+  "conflictingShortcutsHint": {
+    "message": "Ako neki od gore navedenih tipkovničkih prečaca ne radi ili je u sukobu s drugim aplikacijama, možete konfigurirati drugu tipku prečaca."
+  },
+  "continue": {
+    "message": "Nastavi"
+  },
+  "convertTabsIntoAList": {
+    "message": "Pretvori kartice u popis"
+  },
+  "copiedToClipboard": {
+    "message": "Kopirano u međuspremnik"
+  },
+  "copy": {
+    "message": "Kopiraj"
+  },
+  "copyLinksToClipboard": {
+    "message": "Kopiraj poveznice u međuspremnik"
+  },
+  "copySharedPageUrl": {
+    "message": "Kopiraj URL dijeljene stranice"
+  },
+  "copyToClipboard": {
+    "message": "Kopiraj u međuspremnik"
+  },
+  "copyToClipboardMenuItemHelp": {
+    "message": "Kopirajte ove web-poveznice u međuspremnik kako biste ih mogli zalijepiti u druge aplikacije. Format teksta međuspremnika možete promijeniti na stranici opcija za OneTab."
+  },
+  "createANewGroupHere": {
+    "message": "Stvori novu grupu ovdje"
+  },
+  "createdOnDate": {
+    "message": "Stvoreno {DATE}"
+  },
+  "createdOnOrAfterColon": {
+    "message": "Stvoreno na taj datum ili nakon njega:"
+  },
+  "createdOnOrBeforeColon": {
+    "message": "Stvoreno na taj datum ili prije njega:"
+  },
+  "createFolderAbove": {
+    "message": "Stvori mapu iznad"
+  },
+  "createFolderAboveBelow": {
+    "message": "Stvori mapu iznad / ispod"
+  },
+  "createFolderAboveWithinBelow": {
+    "message": "Stvori mapu iznad / unutar / ispod"
+  },
+  "createFolderBelow": {
+    "message": "Stvori mapu ispod"
+  },
+  "createFolderWithin": {
+    "message": "Stvori mapu unutar ove lokacije"
+  },
+  "createFolderWithinMenuItemHelp": {
+    "message": "Mape služe za organiziranje grupa. Mape sadrže grupe, a grupe sadrže kartice."
+  },
+  "createGroupAbove": {
+    "message": "Stvori grupu iznad"
+  },
+  "createGroupAboveBelow": {
+    "message": "Stvori grupu iznad / ispod"
+  },
+  "createGroupAboveWithinBelow": {
+    "message": "Stvori grupu iznad / unutar / ispod"
+  },
+  "createGroupBelow": {
+    "message": "Stvori grupu ispod"
+  },
+  "createGroupInsideDestination": {
+    "message": "Stvori novu grupu unutar odredišta"
+  },
+  "createGroupInsideDestinationHelp": {
+    "message": "Ako potvrdni okvir nije označen, vaše će se kartice dodati izravno u odredišnu grupu. Ako je označen, za vaše će se kartice stvoriti nova grupa kartica unutar odredišne grupe. Označite ovaj okvir samo ako želite upotrebljavati značajku „grupe kartica” svog preglednika."
+  },
+  "createGroupMenuItemHelp": {
+    "message": "Stvorite novu, praznu grupu. Grupa sadrži popis kartica koje se zajedno mogu vratiti u prozor."
+  },
+  "createGroupWithin": {
+    "message": "Stvori grupu unutar ove grupe"
+  },
+  "createNewGroupTip": {
+    "message": "Da biste stvorili novu grupu, najprije odznačite „Prikaži samo mape”. Tako ćete moći vidjeti novostvorenu grupu na popisu."
+  },
+  "darkTheme": {
+    "message": "Tamna tema"
+  },
+  "dayCount_few": {
+    "message": "{COUNT} dana"
+  },
+  "dayCount_many": {
+    "message": "{COUNT} dana"
+  },
+  "dayCount_one": {
+    "message": "{COUNT} dan"
+  },
+  "dayCount_other": {
+    "message": "{COUNT} dana"
+  },
+  "dayCount_two": {
+    "message": "{COUNT} dana"
+  },
+  "dayCount_zero": {
+    "message": "{COUNT} dana"
+  },
+  "delete": {
+    "message": "Izbriši"
+  },
+  "deleteAllTrash": {
+    "message": "Isprazni smeće"
+  },
+  "deleteThisCopy": {
+    "message": "Izbriši ovu kopiju"
+  },
+  "deselectAll": {
+    "message": "Poništi odabir svega"
+  },
+  "destinationColon": {
+    "message": "Odredište:"
+  },
+  "disabled": {
+    "message": "Onemogućeno"
+  },
+  "doneTaskCount_few": {
+    "message": "{COUNT} dovršeno"
+  },
+  "doneTaskCount_many": {
+    "message": "{COUNT} dovršeno"
+  },
+  "doneTaskCount_one": {
+    "message": "{COUNT} dovršeno"
+  },
+  "doneTaskCount_other": {
+    "message": "{COUNT} dovršeno"
+  },
+  "doneTaskCount_two": {
+    "message": "{COUNT} dovršeno"
+  },
+  "doneTaskCount_zero": {
+    "message": "{COUNT} dovršeno"
+  },
+  "dontCloseGroupedTabs": {
+    "message": "Ne zatvaraj kartice u grupama kartica"
+  },
+  "dontClosePinnedTabs": {
+    "message": "Ne zatvaraj prikvačene kartice"
+  },
+  "dontCloseTabsFromDomains": {
+    "message": "Ne zatvaraj kartice s domene EXAMPLE.COM"
+  },
+  "dragCopyKeysHtml": {
+    "message": "<x-key>{CTRL}</x-key> ili <x-key>{ALT}</x-key>"
+  },
+  "dragCopyModifierInfo": {
+    "message": "Držite tipku Ctrl ili Alt dok povlačite karticu da biste izradili njezinu kopiju umjesto da je premjestite."
+  },
+  "dragTabsHereForQuickList": {
+    "message": "Ovdje povucite svoje spremljene kartice ili grupe. Dodat će se na vaš brzi popis."
+  },
+  "editTabGroupTitleAndNotes": {
+    "message": "Uredi naslov i bilješke grupe kartica"
+  },
+  "emojiShortcutInfo": {
+    "message": "Otvaranje birača emojija pri uređivanju polja bilješki"
+  },
+  "emptyInBrackets": {
+    "message": "(prazno)"
+  },
+  "emptyOneTabInfoMsg": {
+    "message": "Kada imate otvoreno više kartica, kliknite ikonu OneTab na alatnoj traci preglednika i vaše otvorene kartice prikazat će se ovdje."
+  },
+  "enabled": {
+    "message": "Omogućeno"
+  },
+  "everything": {
+    "message": "Sve"
+  },
+  "exampleLink": {
+    "message": "Primjer poveznice"
+  },
+  "exampleLinkTitle": {
+    "message": "Primjer naslova poveznice"
+  },
+  "exampleLinkTitleOptional": {
+    "message": "Primjer naslova poveznice (neobavezno)"
+  },
+  "exampleRichTextParagraph": {
+    "message": "Primjer odlomka teksta s PLACEHOLDER i PLACEHOLDER"
+  },
+  "exampleWebsitePageTitle": {
+    "message": "Primjer naslova stranice web-lokacije"
+  },
+  "excludeDomainFromOneTab": {
+    "message": "Izuzmi EXAMPLE.COM iz OneTab"
+  },
+  "excludeWebSiteFromOneTab": {
+    "message": "Izuzmi ovu web-lokaciju iz OneTab"
+  },
+  "expiresColon": {
+    "message": "Istječe:"
+  },
+  "export": {
+    "message": "Izvezi"
+  },
+  "exportImportUrls": {
+    "message": "Izvoz / uvoz URL-ova"
+  },
+  "exportThenImportNote": {
+    "message": "Sljedeći popis URL-ova može se ponovno uvesti u OneTab na ovom ili drugom računalu"
+  },
+  "exportUrls": {
+    "message": "Izvoz URL-ova"
+  },
+  "feedback": {
+    "message": "Povratne informacije"
+  },
+  "filter": {
+    "message": "Filtar"
+  },
+  "firefoxIncognitoInstructions": {
+    "message": "U postavkama preglednika idite na „Postavke” → „Dodaci i teme” → „Proširenja” → „OneTab” → „…” → „Upravljaj”, a zatim omogućite „Pokreni u privatnim prozorima”."
+  },
+  "firefoxIndexedDbUnavailable": {
+    "message": "OneTab ne može pohraniti ni dohvatiti podatke. Ako ste konfigurirali Firefox da nikad ne pamti povijest, to bi spriječilo OneTab da pravilno funkcionira. U suprotnom nam se obratite putem naše web-lokacije i možda ćemo vam moći pomoći."
+  },
+  "firefoxShortcutConfigInstructions": {
+    "message": "Unesite URL „about:addons?type=extension” u adresnu traku preglednika. Kada se stranica prikaže, kliknite ikonu zupčanika, a zatim odaberite „Upravljaj prečacima proširenja”"
+  },
+  "Folder": {
+    "message": "Mapa"
+  },
+  "folderCount_few": {
+    "message": "{COUNT} mape"
+  },
+  "folderCount_many": {
+    "message": "{COUNT} mapa"
+  },
+  "folderCount_one": {
+    "message": "{COUNT} mapa"
+  },
+  "folderCount_other": {
+    "message": "{COUNT} mapa"
+  },
+  "folderCount_two": {
+    "message": "{COUNT} mape"
+  },
+  "folderCount_zero": {
+    "message": "{COUNT} mapa"
+  },
+  "folders": {
+    "message": "Mape"
+  },
+  "foldersOnly": {
+    "message": "Samo mape"
+  },
+  "foldGroup": {
+    "message": "Sažmi grupu"
+  },
+  "gettingStarted": {
+    "message": "Početak rada"
+  },
+  "gotIt": {
+    "message": "Razumijem"
+  },
+  "goToParentFolder": {
+    "message": "Idi u nadređenu mapu"
+  },
+  "groupCount_few": {
+    "message": "{COUNT} grupe"
+  },
+  "groupCount_many": {
+    "message": "{COUNT} grupa"
+  },
+  "groupCount_one": {
+    "message": "{COUNT} grupa"
+  },
+  "groupCount_other": {
+    "message": "{COUNT} grupa"
+  },
+  "groupCount_two": {
+    "message": "{COUNT} grupe"
+  },
+  "groupCount_zero": {
+    "message": "{COUNT} grupa"
+  },
+  "groups": {
+    "message": "Grupe"
+  },
+  "hasNotes": {
+    "message": "S bilješkama"
+  },
+  "help": {
+    "message": "Pomoć"
+  },
+  "hideArchivedItems": {
+    "message": "Sakrij arhivirane stavke"
+  },
+  "import": {
+    "message": "Uvezi"
+  },
+  "importAndExport": {
+    "message": "Uvoz i izvoz"
+  },
+  "importBookmarks": {
+    "message": "Uvoz oznaka"
+  },
+  "importedBookmarks": {
+    "message": "Uvezene oznake"
+  },
+  "importExportShareMenuNoteHtml": {
+    "message": "Kartice možete izvesti i kao web-stranicu za dijeljenje ili HTML datoteku pomoću opcija <b>Podijeli kao web-stranicu</b> i <b>Spremi kao HTML datoteku</b> u izborniku <b>Više…</b> grupe ili mape."
+  },
+  "importFolderAndSubfolders": {
+    "message": "Uvezi mapu i podmape"
+  },
+  "importLinksHere": {
+    "message": "Uvezi poveznice ovdje"
+  },
+  "importLinksHereMenuItemHelp": {
+    "message": "Možete zalijepiti popis web-poveznica ili uvesti oznake preglednika."
+  },
+  "importNotesTruncatedNotice": {
+    "message": "Neke uvezene bilješke bile su dulje od ograničenja od {MAX} znakova pa su njihovi završeci skraćeni."
+  },
+  "importReadingList": {
+    "message": "Uvoz popisa za čitanje"
+  },
+  "importText": {
+    "message": "Uvoz teksta"
+  },
+  "importUrls": {
+    "message": "Uvoz URL-ova"
+  },
+  "includeGroupedTabs": {
+    "message": "Uključi kartice u grupama kartica"
+  },
+  "includeNotes": {
+    "message": "Uključi bilješke"
+  },
+  "includePinnedTabs": {
+    "message": "Uključi prikvačene kartice"
+  },
+  "includeStarRatings": {
+    "message": "Uključi zvjezdice"
+  },
+  "includeTabsAlreadyStored": {
+    "message": "Uključi kartice koje ste već spremili"
+  },
+  "includeTabsFromDomains": {
+    "message": "Uključi kartice s EXAMPLE.COM"
+  },
+  "incogitoPermissionRequired": {
+    "message": "OneTab treba dopuštenje za stvaranje anonimnih prozora."
+  },
+  "incognitoWindows": {
+    "message": "Anonimni prozori"
+  },
+  "invertSelection": {
+    "message": "Obrni odabir"
+  },
+  "itemTextTruncatedNotice": {
+    "message": "Tekst je bio dulji od dopuštenog ograničenja (bilješke mogu sadržavati {NOTESMAX} znakova, a naslovi {TITLEMAX}) pa je završetak skraćen."
+  },
+  "justNow": {
+    "message": "upravo sada"
+  },
+  "kbdNavBackspaceInfo": {
+    "message": "Prijelaz u nadređenu mapu"
+  },
+  "kbdNavEnterInfo": {
+    "message": "Vraćanje kartica ili otvaranje mape"
+  },
+  "kbdNavEscInfo": {
+    "message": "Završetak navigacije tipkovnicom"
+  },
+  "kbdNavFocusInfo": {
+    "message": "Promjena fokusa između grupa i kartica"
+  },
+  "kbdNavFoldInfo": {
+    "message": "Sažimanje/proširivanje grupe"
+  },
+  "kbdNavMoveInfo": {
+    "message": "Kretanje među stavkama"
+  },
+  "kbdNavTabInfo": {
+    "message": "Početak navigacije tipkovnicom"
+  },
+  "keyboardShortcutsColon": {
+    "message": "Tipkovnički prečaci:"
+  },
+  "languageTitle": {
+    "message": "Jezik:"
+  },
+  "licenseAlreadyHaveKey": {
+    "message": "Već imam ključ licence"
+  },
+  "licenseAlreadySetUpRestarting": {
+    "message": "Ova je licenca već postavljena pa ćemo ovaj uređaj povezati s postojećom konfiguracijom. Novi kôd poslan je e-poštom na evidentiranu adresu."
+  },
+  "licenseBackLink": {
+    "message": "Natrag"
+  },
+  "licenseBrowserOnOs": {
+    "message": "{BROWSER} u sustavu {OS}"
+  },
+  "licenseBrowsersActiveOn": {
+    "message": "Aktivan {DATE}"
+  },
+  "licenseBrowsersActiveToday": {
+    "message": "Aktivan danas"
+  },
+  "licenseBrowsersAdded": {
+    "message": "Dodano {DATE}"
+  },
+  "licenseBrowsersThisBrowser": {
+    "message": "Ovaj preglednik"
+  },
+  "licenseBrowserUnknown": {
+    "message": "Preglednik"
+  },
+  "licenseChangeEmail": {
+    "message": "Promijeni e-adresu"
+  },
+  "licenseChangeEmailWebLink": {
+    "message": "Promijeni e-adresu"
+  },
+  "licenseChooseRecoveryTitle": {
+    "message": "Odaberite način zaštite ključa za šifriranje"
+  },
+  "licenseCloseModal": {
+    "message": "Zatvori"
+  },
+  "licenseCodeExpired": {
+    "message": "Taj je kôd istekao. Zatražite novu e-poruku."
+  },
+  "licenseCodeIncorrectTriesRemaining": {
+    "message": "Netočan kôd. Preostalo pokušaja: {COUNT}."
+  },
+  "licenseCodeInvalidFormat": {
+    "message": "Unesite 6-znamenkasti kôd iz e-poruke."
+  },
+  "licenseCodePlaceholder": {
+    "message": "6-znamenkasti kôd"
+  },
+  "licenseCodeSentTo": {
+    "message": "Unesite 6-znamenkasti kôd koji smo poslali e-poštom na {EMAIL}."
+  },
+  "licenseCodeSourceDeviceOption": {
+    "message": "Nabavi kôd iz već povezanog preglednika"
+  },
+  "licenseCodeSourceDeviceOptionDescription": {
+    "message": "Ondje otvorite Sigurnosno kopiranje i sinkronizaciju te kliknite „Poveži drugi preglednik ili profil”."
+  },
+  "licenseCodeSourceEmailOption": {
+    "message": "Pošalji kôd e-poštom na {EMAIL}"
+  },
+  "licenseCodeSourceTitle": {
+    "message": "Nabavite kôd za potvrdu"
+  },
+  "licenseCodeTriesExhausted": {
+    "message": "Za taj kôd nema više pokušaja. Zatražite novu e-poruku."
+  },
+  "licenseConnectAnotherBrowser": {
+    "message": "Poveži drugi preglednik ili profil"
+  },
+  "licenseConnectedBrowsers": {
+    "message": "Povezani preglednici"
+  },
+  "licenseDeviceAddConnected": {
+    "message": "{BROWSER} upravo je povezan s vašom licencom."
+  },
+  "licenseDeviceAddExpired": {
+    "message": "Ovaj je kôd istekao."
+  },
+  "licenseDeviceAddExpiresIn": {
+    "message": "Istječe za {TIME}"
+  },
+  "licenseDeviceAddGetNewCode": {
+    "message": "Nabavi novi kôd"
+  },
+  "licenseDeviceAddIntro": {
+    "message": "Za povezivanje drugog preglednika ili profila unesite ondje ključ licence, a zatim ovaj kôd kada se to zatraži."
+  },
+  "licenseDeviceAddKeyReminder": {
+    "message": "I dalje će vam trebati ključ licence — ovdje se ne prikazuje. Nalazi se u izvornoj e-poruci ili na vašoj stranici za naplatu."
+  },
+  "licenseDeviceAddNeverShare": {
+    "message": "Ovaj kôd upotrijebite samo u svojem novom pregledniku. Nikada ga ni s kim ne dijelite — OneTab ga nikada neće tražiti od vas. Vrijedi samo za licencu ovog preglednika."
+  },
+  "licenseDeviceCodeInsteadLink": {
+    "message": "Umjesto toga nabavi kôd iz povezanog preglednika"
+  },
+  "licenseDeviceCodePrompt": {
+    "message": "U pregledniku koji je već povezan s vašom licencom otvorite Sigurnosno kopiranje i sinkronizaciju te kliknite „Poveži drugi preglednik ili profil”. Unesite 6-znamenkasti kôd koji se ondje prikazuje."
+  },
+  "licenseDeviceLimitReached": {
+    "message": "Ova je licenca dosegnula ograničenje broja uređaja."
+  },
+  "licenseDoneButton": {
+    "message": "Gotovo"
+  },
+  "licenseEasyOptionDescription": {
+    "message": "Vaš ključ za šifriranje sigurno se čuva na poslužitelju, pa ga možete oporaviti putem e-pošte."
+  },
+  "licenseEasyOptionLabel": {
+    "message": "Jednostavno"
+  },
+  "licenseEmailCodeInsteadLink": {
+    "message": "Umjesto toga pošalji mi kôd e-poštom"
+  },
+  "licenseEmailPlaceholder": {
+    "message": "E-adresa"
+  },
+  "licenseEmailPrompt": {
+    "message": "Vaša e-adresa"
+  },
+  "licenseForgotKeyBack": {
+    "message": "Natrag na unos ključa licence"
+  },
+  "licenseForgotKeyEnterKeyButton": {
+    "message": "Unesi ključ licence"
+  },
+  "licenseForgotKeyLink": {
+    "message": "Zaboravili ste ključ licence?"
+  },
+  "licenseForgotKeyNoEmailOnRecord": {
+    "message": "S tom e-adresom nije povezan nijedan ključ licence. Provjerite ima li pogrešaka ili pokušajte s drugom adresom koju ste možda upotrijebili."
+  },
+  "licenseForgotKeyPrompt": {
+    "message": "Unesite svoju e-adresu. Ako je evidentirana za ključ licence, poslat ćemo vam taj ključ e-poštom."
+  },
+  "licenseForgotKeySendButton": {
+    "message": "Pošalji"
+  },
+  "licenseForgotKeySentTo": {
+    "message": "Ključ licence poslali smo e-poštom na {EMAIL}. Kada stigne, možete ga unijeti ovdje."
+  },
+  "licenseForgotKeyTooManyRequests": {
+    "message": "Ključ licence nedavno je već nekoliko puta poslan e-poštom na tu adresu. Provjerite mapu neželjene pošte ili pokušajte ponovno sutra."
+  },
+  "licenseGenericError": {
+    "message": "Došlo je do pogreške. Pokušajte ponovno."
+  },
+  "licenseGoButton": {
+    "message": "Nastavi"
+  },
+  "licenseInvalidEmail": {
+    "message": "Unesite valjanu e-adresu."
+  },
+  "licenseKeyInvalidFormat": {
+    "message": "Čini se da to nije valjan ključ licence. Trebao bi sadržavati 20 znakova (slova A–F i brojke), poput XXXX-XXXX-XXXX-XXXX-XXXX."
+  },
+  "licenseKeyNotFound": {
+    "message": "Ključ licence nije pronađen. Provjerite ga i pokušajte ponovno."
+  },
+  "licenseNoLongerActiveError": {
+    "message": "Ova licenca više nije aktivna. Ako mislite da je riječ o pogrešci, obratite se podršci."
+  },
+  "licenseRateLimitedError": {
+    "message": "Previše neuspjelih pokušaja s vaše mreže. Pričekajte neko vrijeme i pokušajte ponovno."
+  },
+  "licenseResendEmail": {
+    "message": "Pošalji novu e-poruku"
+  },
+  "licenseServiceProblemTryLater": {
+    "message": "Ovo trenutačno nije moguće dovršiti zbog problema na našoj strani. Pokušajte ponovno poslije — ako se problem nastavi pojavljivati, obratite se podršci."
+  },
+  "licenseSuccess": {
+    "message": "Uspješno! Vaše spremljene kartice sada će biti šifrirane i sigurno pohranjene u oblaku."
+  },
+  "licenseSuccessJoin": {
+    "message": "Uspješno! Ovaj je preglednik pridružen vašoj šifriranoj sigurnosnoj kopiji. Vaše spremljene kartice iz ovog i drugih preglednika sada će ostati sinkronizirane."
+  },
+  "licenseSuggestedEmailIntro": {
+    "message": "Ključ licence poslan je e-poštom na:"
+  },
+  "licenseSuggestedEmailNote": {
+    "message": "Kodovi za potvrdu i oporavak računa upotrebljavat će ovu adresu, stoga provjerite pripada li vama."
+  },
+  "licenseSuspendedBillingError": {
+    "message": "Ovu licencu trenutačno nije moguće povezati zbog problema s naplatom. Ako upravljate naplatom, prijavite se na one-tab.com kako biste riješili problem — u suprotnom se obratite osobi odgovornoj za kupnju vaše licence."
+  },
+  "licenseUltraKeyConfirmCheckbox": {
+    "message": "Spremio sam kopiju svojeg ključa i razumijem da se više nikada neće prikazati."
+  },
+  "licenseUltraKeyConfirmRequired": {
+    "message": "Potvrdite da ste spremili kopiju svojeg ključa."
+  },
+  "licenseUltraKeyEnterPrompt": {
+    "message": "Unesite ključ za šifriranje kako biste dovršili povezivanje ovog uređaja."
+  },
+  "licenseUltraKeyIntro": {
+    "message": "Ovo je vaš ključ za šifriranje. Čuvajte njegovu kopiju na sigurnom mjestu, primjerice u upravitelju lozinki, kako biste mogli oporaviti podatke nakon kvara ili krađe računala."
+  },
+  "licenseUltraKeyMismatch": {
+    "message": "Taj ključ nije ispravan za ovu licencu. Provjerite ga i pokušajte ponovno."
+  },
+  "licenseUltraKeyNeverShownAgain": {
+    "message": "Ovaj se ključ NIKADA više neće prikazati."
+  },
+  "licenseUltraKeyPlaceholder": {
+    "message": "Ključ za šifriranje"
+  },
+  "licenseUltraOptionDescription": {
+    "message": "Samo vi čuvate ključ za šifriranje i nećete ga moći oporaviti ako ga izgubite. Odaberite ovu opciju samo ako ste sigurni da njegovu kopiju možete čuvati na sigurnom mjestu."
+  },
+  "licenseUltraOptionLabel": {
+    "message": "Maksimalna privatnost"
+  },
+  "licenseUseDifferentEmail": {
+    "message": "Upotrijebi drugu e-adresu"
+  },
+  "lightTheme": {
+    "message": "Svijetla tema"
+  },
+  "localBackupRestoredModal": {
+    "message": "Dio profila vašeg preglednika u kojem se pohranjuju podaci OneTab bio je oštećen ili izbrisan. To se može dogoditi nakon rušenja preglednika ili kada neispravan softver za čišćenje sustava ili privatnosti ukloni podatke preglednika."
+  },
+  "localBackupRestoredModalRecovery": {
+    "message": "Ovaj ste put imali sreće: oštećenje nije zahvatilo zasebni dio profila u kojem OneTab čuva tjednu sigurnosnu kopiju pa su vaše kartice vraćene iz sigurnosne kopije izrađene {DATE}. Nije bilo moguće oporaviti ništa što ste spremili ili promijenili nakon tog datuma. Da je cijeli profil izgubljen ili da je oštećena i sigurnosna kopija, ne bi bilo ničega iz čega bi se podaci mogli vratiti."
+  },
+  "localBackupRestoredModalTitle": {
+    "message": "OneTab je oporavio vaše kartice nakon gubitka podataka"
+  },
+  "localeId": {
+    "message": "hr"
+  },
+  "locationColon": {
+    "message": "Lokacija:"
+  },
+  "lock": {
+    "message": "Zaključaj"
+  },
+  "lockedGroupUnlockHelp": {
+    "message": "Za otključavanje upotrijebite izbornik „Više…”. Kada je grupa zaključana, ne možete izbrisati grupu ni njezine kartice, a redoslijed kartica ne može se mijenjati."
+  },
+  "lockMenuItemHelp": {
+    "message": "Kada je grupa zaključana, ne možete uklanjati ni mijenjati redoslijed stavki unutar grupe (dok je ne otključate)."
+  },
+  "makeThisATask": {
+    "message": "Označi kao zadatak"
+  },
+  "manifestDescription": {
+    "message": "Uštedite do 95% memorije i smanjite nered s karticama"
+  },
+  "markAsArchived": {
+    "message": "Označi kao arhivirano"
+  },
+  "markAsArchivedMenuItemHelp": {
+    "message": "Kada stavku označite kao arhiviranu, imat će sivu pozadinu. To je vizualni pokazatelj da ste završili s tom stavkom (na primjer, da je to članak koji ste pročitali). Ako arhivirate nešto što je označeno kao zadatak, zadatak se više neće prikazivati u stupcu zadataka na vašoj OneTab stranici."
+  },
+  "markAsDoneTask": {
+    "message": "Označi kao dovršen zadatak"
+  },
+  "markAsDoneTaskMenuItemHelp": {
+    "message": "Vizualno označite da je zadatak dovršen"
+  },
+  "markAsPendingTask": {
+    "message": "Označi kao zadatak na čekanju"
+  },
+  "markAsPendingTaskMenuItemHelp": {
+    "message": "Vizualno označite da je ova stavka zadatak. Pojavit će se ikona zadatka, na koju zatim možete kliknuti da biste vizualno označili da je zadatak dovršen. Svi zadaci (osim onih označenih kao arhivirani) prikazivat će se i u stupcu zadataka na vašoj OneTab stranici."
+  },
+  "matchCount_few": {
+    "message": "{COUNT} podudaranja"
+  },
+  "matchCount_many": {
+    "message": "{COUNT} podudaranja"
+  },
+  "matchCount_one": {
+    "message": "{COUNT} podudaranje"
+  },
+  "matchCount_other": {
+    "message": "{COUNT} podudaranja"
+  },
+  "matchCount_two": {
+    "message": "{COUNT} podudaranja"
+  },
+  "matchCount_zero": {
+    "message": "{COUNT} podudaranja"
+  },
+  "matchWholeWordsOnly": {
+    "message": "Samo cijele riječi"
+  },
+  "mayNeedToRestartBrowser": {
+    "message": "Ako ovu poruku vidite svaki put, ažurirajte i ponovno pokrenite preglednik."
+  },
+  "mergeIntoParent": {
+    "message": "Spoji u nadređenu stavku"
+  },
+  "mergeOpenTabsHere_few": {
+    "message": "Spoji {COUNT} otvorene kartice ovdje"
+  },
+  "mergeOpenTabsHere_many": {
+    "message": "Spoji {COUNT} otvorenih kartica ovdje"
+  },
+  "mergeOpenTabsHere_one": {
+    "message": "Spoji {COUNT} otvorenu karticu ovdje"
+  },
+  "mergeOpenTabsHere_other": {
+    "message": "Spoji {COUNT} otvorenih kartica ovdje"
+  },
+  "mergeOpenTabsHere_two": {
+    "message": "Spoji {COUNT} otvorene kartice ovdje"
+  },
+  "mergeOpenTabsHere_zero": {
+    "message": "Spoji {COUNT} otvorenih kartica ovdje"
+  },
+  "mergeSelectedTabsHere_few": {
+    "message": "Spoji {COUNT} odabrane kartice ovdje"
+  },
+  "mergeSelectedTabsHere_many": {
+    "message": "Spoji {COUNT} odabranih kartica ovdje"
+  },
+  "mergeSelectedTabsHere_one": {
+    "message": "Spoji {COUNT} odabranu karticu ovdje"
+  },
+  "mergeSelectedTabsHere_other": {
+    "message": "Spoji {COUNT} odabranih kartica ovdje"
+  },
+  "mergeSelectedTabsHere_two": {
+    "message": "Spoji {COUNT} odabrane kartice ovdje"
+  },
+  "mergeSelectedTabsHere_zero": {
+    "message": "Spoji {COUNT} odabranih kartica ovdje"
+  },
+  "mergeWithInnerGroups": {
+    "message": "Spoji s unutarnjim grupama"
+  },
+  "modalMoveToTrashHintExampleGroupTitle": {
+    "message": "Primjer naslova grupe"
+  },
+  "modalMoveToTrashHintHeading": {
+    "message": "Savjet: Zadržite pokazivač iznad naslova grupe, zatim kliknite X da biste je premjestili u smeće."
+  },
+  "modalOptionAutoActionOnOpenHeading": {
+    "message": "Nakon vraćanja kartica:"
+  },
+  "modalOptionAutoActionOnOpenOpenDesc": {
+    "message": "Ručno brisanje nakon završetka"
+  },
+  "modalOptionAutoActionOnOpenTrashDesc": {
+    "message": "Jednostavnije za brzo spremanje i vraćanje"
+  },
+  "modalRemigrationDontAskAgain": {
+    "message": "Ne pitaj ponovno"
+  },
+  "modalRemigrationFooterHtml": {
+    "message": "Kliknite <b>Da</b>, osim ako je migracija već obavljena i namjerno ste izbrisali migrirane kartice."
+  },
+  "modalRemigrationNotNow": {
+    "message": "Ne sada"
+  },
+  "modalRemigrationTabsFoundPrompt_few": {
+    "message": "Pronađene su {COUNT} kartice iz OneTab v1. Želite li ih migrirati?"
+  },
+  "modalRemigrationTabsFoundPrompt_many": {
+    "message": "Pronađeno je {COUNT} kartica iz OneTab v1. Želite li ih migrirati?"
+  },
+  "modalRemigrationTabsFoundPrompt_one": {
+    "message": "Pronađena je {COUNT} kartica iz OneTab v1. Želite li je migrirati?"
+  },
+  "modalRemigrationTabsFoundPrompt_other": {
+    "message": "Pronađeno je {COUNT} kartica iz OneTab v1. Želite li ih migrirati?"
+  },
+  "modalRemigrationTabsFoundPrompt_two": {
+    "message": "Pronađene su {COUNT} kartice iz OneTab v1. Želite li ih migrirati?"
+  },
+  "modalRemigrationTabsFoundPrompt_zero": {
+    "message": "Pronađeno je {COUNT} kartica iz OneTab v1. Želite li ih migrirati?"
+  },
+  "modalRemigrationYes": {
+    "message": "Da"
+  },
+  "modalUpdateToV2Heading": {
+    "message": "OneTab je ažuriran"
+  },
+  "modalUpdateToV2QuickTourHtml": {
+    "message": "Želite kratak obilazak? Kliknite <b>Pomoć</b> pri vrhu."
+  },
+  "modalUpdateToV2UseOneTabLikeBefore": {
+    "message": "I dalje možete upotrebljavati OneTab kao i prije — spremite kartice jednim klikom."
+  },
+  "modifySharing": {
+    "message": "Izmijeni dijeljenje"
+  },
+  "moreEllipsis": {
+    "message": "Više…"
+  },
+  "moreSearchFilters": {
+    "message": "Više filtara pretraživanja"
+  },
+  "move": {
+    "message": "Premjesti"
+  },
+  "moveBack": {
+    "message": "Premjesti natrag"
+  },
+  "moveToTrash": {
+    "message": "Premjesti u smeće"
+  },
+  "namedOnly": {
+    "message": "Samo imenovane stavke"
+  },
+  "navigationFilter": {
+    "message": "Filtar navigacije"
+  },
+  "navigationFilterColumnOnlyNote": {
+    "message": "Ovaj se filtar primjenjuje samo na navigacijski stupac."
+  },
+  "newExclamation": {
+    "message": "Novo!"
+  },
+  "noDupsExistExceptForColon": {
+    "message": "Nema duplikata, osim:"
+  },
+  "noDupsFoundHere": {
+    "message": "Ovdje nisu pronađeni duplikati"
+  },
+  "noMatches": {
+    "message": "Nema podudaranja"
+  },
+  "noMatchesFound": {
+    "message": "Nema podudaranja"
+  },
+  "nonArchived": {
+    "message": "Nije arhivirano"
+  },
+  "nonTabPinFlagHelp": {
+    "message": "Ova je stavka prikvačena na vrh mape. Kliknite ovu ikonu da biste je otkvačili."
+  },
+  "noOpenTabsToStore": {
+    "message": "U ovom prozoru nema otvorenih kartica za spremanje."
+  },
+  "noReadingListEntries": {
+    "message": "Nisu pronađene stavke na popisu za čitanje"
+  },
+  "noTabsInOneTabYet": {
+    "message": "Još nemate nijednu karticu u OneTab"
+  },
+  "noTabsMeetCriteriaUseCheckboxes": {
+    "message": "Nijedna otvorena kartica ne zadovoljava vaše kriterije. Upotrijebite potvrdne okvire iznad."
+  },
+  "notAssigned": {
+    "message": "Nije dodijeljeno"
+  },
+  "notes": {
+    "message": "Bilješke"
+  },
+  "notesAboutTheLinkOptional": {
+    "message": "Bilješke o poveznici (neobavezno)"
+  },
+  "notesAboutTheSecondLinkOptional": {
+    "message": "Bilješke o drugoj poveznici (neobavezno)"
+  },
+  "noTextHasBeenEntered": {
+    "message": "Nije unesen tekst"
+  },
+  "ok": {
+    "message": "U redu"
+  },
+  "omniboxShortcutInfo": {
+    "message": "Za pretraživanje svojeg popisa OneTab s bilo koje kartice: idite na adresnu traku preglednika, upišite 11, zatim razmaknicu, a zatim ključnu riječ za pretraživanje. Za obično pretraživanje (izvan OneTab) koje počinje s 11 pritisnite 11, zatim razmaknicu, a zatim tipku Backspace"
+  },
+  "OneTabAlsoAvailableForFirefox": {
+    "message": "OneTab je dostupan i za Firefox"
+  },
+  "oneTabDesignedToProtectPrivacy": {
+    "message": "OneTab je osmišljen za zaštitu vaše privatnosti. Vaše nam se kartice ne otkrivaju."
+  },
+  "oneTabExportPageTitle": {
+    "message": "OneTab izvoz"
+  },
+  "oneTabFolderSlashShortcutInfo": {
+    "message": "Fokusiranje okvira za pretraživanje i pretraživanje samo u trenutačnoj mapi"
+  },
+  "oneTabImportExportPageTitle": {
+    "message": "OneTab uvoz/izvoz"
+  },
+  "oneTabNeedsPermissionToAccessYourTabs": {
+    "message": "OneTab treba dopuštenje za pristup vašim karticama."
+  },
+  "oneTabOptionsPageTitle": {
+    "message": "OneTab opcije"
+  },
+  "oneTabPermissionRequired": {
+    "message": "OneTab - potrebno je dopuštenje"
+  },
+  "oneTabRestartRequired": {
+    "message": "OneTab se mora ponovno pokrenuti. Nijedna druga kartica neće biti zatvorena."
+  },
+  "oneTabSlashShortcutInfo": {
+    "message": "Fokusiranje okvira za pretraživanje"
+  },
+  "open": {
+    "message": "Otvori"
+  },
+  "openActionPopup": {
+    "message": "Radnja OneTab (isto kao klik na ikonu OneTab na alatnoj traci)"
+  },
+  "openAsCollapsedTabGroup": {
+    "message": "Otvori kao „sažetu” grupu kartica"
+  },
+  "openAsCollapsedTabGroupMenuItemHelp": {
+    "message": "Ako ove kartice otvorite kao sažetu „grupu kartica”, prikazivat će se samo oznaka grupe dok je ne kliknete da biste prikazali kartice u njoj."
+  },
+  "openAsPinnedTab": {
+    "message": "Prikvači karticu pri otvaranju"
+  },
+  "openAsPinnedTabMenuItemHelp": {
+    "message": "Kada se ova kartica vrati, vratit će se kao prikvačena kartica preglednika. Prikvačene kartice uvijek će se prikazivati prve u prozoru preglednika."
+  },
+  "openAsTabGroup": {
+    "message": "Otvori kao grupu kartica"
+  },
+  "openAsTabGroupMenuItemHelp": {
+    "message": "Vaš preglednik omogućuje grupiranje kartica u obojene „grupe kartica” unutar prozora."
+  },
+  "openFolder": {
+    "message": "Otvori mapu"
+  },
+  "openGroupsLimitNotice_few": {
+    "message": "Da biste spriječili preopterećenje preglednika, otvorit će se samo prve {COUNT} grupe."
+  },
+  "openGroupsLimitNotice_many": {
+    "message": "Da biste spriječili preopterećenje preglednika, otvorit će se samo prvih {COUNT} grupa."
+  },
+  "openGroupsLimitNotice_one": {
+    "message": "Da biste spriječili preopterećenje preglednika, otvorit će se samo {COUNT}. grupa."
+  },
+  "openGroupsLimitNotice_other": {
+    "message": "Da biste spriječili preopterećenje preglednika, otvorit će se samo prvih {COUNT} grupa."
+  },
+  "openGroupsLimitNotice_two": {
+    "message": "Da biste spriječili preopterećenje preglednika, otvorit će se samo prve {COUNT} grupe."
+  },
+  "openGroupsLimitNotice_zero": {
+    "message": "Da biste spriječili preopterećenje preglednika, otvorit će se samo prvih {COUNT} grupa."
+  },
+  "openInIncognitoWindow": {
+    "message": "Vrati u novom anonimnom prozoru"
+  },
+  "openInNewWindow": {
+    "message": "Vrati u novom prozoru"
+  },
+  "openInThisWindow": {
+    "message": "Vrati u ovom prozoru"
+  },
+  "openOneTab": {
+    "message": "Otvori OneTab"
+  },
+  "openOneTabAfter": {
+    "message": "Otvori OneTab nakon spremanja kartica"
+  },
+  "openONETABLogo": {
+    "message": "Otvori ONETAB"
+  },
+  "openParentFolder": {
+    "message": "Otvori nadređenu mapu"
+  },
+  "openTabFromWebsite": {
+    "message": "Otvorite karticu i idite na web-lokaciju"
+  },
+  "openTabLimit_few": {
+    "message": "Da biste spriječili preopterećenje preglednika, odjednom se mogu otvoriti najviše {COUNT} kartice."
+  },
+  "openTabLimit_many": {
+    "message": "Da biste spriječili preopterećenje preglednika, odjednom se može otvoriti najviše {COUNT} kartica."
+  },
+  "openTabLimit_one": {
+    "message": "Da biste spriječili preopterećenje preglednika, odjednom se može otvoriti najviše {COUNT} kartica."
+  },
+  "openTabLimit_other": {
+    "message": "Da biste spriječili preopterećenje preglednika, odjednom se može otvoriti najviše {COUNT} kartica."
+  },
+  "openTabLimit_two": {
+    "message": "Da biste spriječili preopterećenje preglednika, odjednom se mogu otvoriti najviše {COUNT} kartice."
+  },
+  "openTabLimit_zero": {
+    "message": "Da biste spriječili preopterećenje preglednika, odjednom se može otvoriti najviše {COUNT} kartica."
+  },
+  "openTabsAlreadyStoredHere_few": {
+    "message": "{COUNT} otvorene kartice koje su već spremljene ovdje:"
+  },
+  "openTabsAlreadyStoredHere_many": {
+    "message": "{COUNT} otvorenih kartica koje su već spremljene ovdje:"
+  },
+  "openTabsAlreadyStoredHere_one": {
+    "message": "{COUNT} otvorena kartica koja je već spremljena ovdje:"
+  },
+  "openTabsAlreadyStoredHere_other": {
+    "message": "{COUNT} otvorenih kartica koje su već spremljene ovdje:"
+  },
+  "openTabsAlreadyStoredHere_two": {
+    "message": "{COUNT} otvorene kartice koje su već spremljene ovdje:"
+  },
+  "openTabsAlreadyStoredHere_zero": {
+    "message": "{COUNT} otvorenih kartica koje su već spremljene ovdje:"
+  },
+  "openTabsConfirm_few": {
+    "message": "Otvorit ćete {COUNT} kartice. Jeste li sigurni?"
+  },
+  "openTabsConfirm_many": {
+    "message": "Otvorit ćete {COUNT} kartica. Jeste li sigurni?"
+  },
+  "openTabsConfirm_one": {
+    "message": "Otvorit ćete {COUNT} karticu. Jeste li sigurni?"
+  },
+  "openTabsConfirm_other": {
+    "message": "Otvorit ćete {COUNT} kartica. Jeste li sigurni?"
+  },
+  "openTabsConfirm_two": {
+    "message": "Otvorit ćete {COUNT} kartice. Jeste li sigurni?"
+  },
+  "openTabsConfirm_zero": {
+    "message": "Otvorit ćete {COUNT} kartica. Jeste li sigurni?"
+  },
+  "openTabsNotStoredInOneTab_few": {
+    "message": "{COUNT} otvorene kartice nisu spremljene u OneTab"
+  },
+  "openTabsNotStoredInOneTab_many": {
+    "message": "{COUNT} otvorenih kartica nije spremljeno u OneTab"
+  },
+  "openTabsNotStoredInOneTab_one": {
+    "message": "{COUNT} otvorena kartica nije spremljena u OneTab"
+  },
+  "openTabsNotStoredInOneTab_other": {
+    "message": "{COUNT} otvorenih kartica nije spremljeno u OneTab"
+  },
+  "openTabsNotStoredInOneTab_two": {
+    "message": "{COUNT} otvorene kartice nisu spremljene u OneTab"
+  },
+  "openTabsNotStoredInOneTab_zero": {
+    "message": "{COUNT} otvorenih kartica nije spremljeno u OneTab"
+  },
+  "optionAutoActionOnOpenArchiveDesc": {
+    "message": "Kartice označene kao arhivirane dobivaju sivu prugastu pozadinu. To daje vizualnu naznaku da ste ih pročitali ili završili s njima."
+  },
+  "optionAutoActionOnOpenArchiveTitle": {
+    "message": "Označi ih kao arhivirane"
+  },
+  "optionAutoActionOnOpenHeading": {
+    "message": "Pri vraćanju kartica:"
+  },
+  "optionAutoActionOnOpenNote": {
+    "message": "Zaključane grupe uvijek zadržavaju svoje kartice"
+  },
+  "optionAutoActionOnOpenOpenDesc": {
+    "message": "Da biste kartice pri vraćanju označili kao arhivirane, držite tipku Alt ili Option"
+  },
+  "optionAutoActionOnOpenOpenTitle": {
+    "message": "Zadrži ih na popisu"
+  },
+  "optionAutoActionOnOpenTrashDesc": {
+    "message": "Da biste pri vraćanju zadržali kartice na popisu, držite tipku Ctrl ili Cmd"
+  },
+  "optionAutoActionOnOpenTrashTitle": {
+    "message": "Ukloni ih s popisa"
+  },
+  "optionBrowserActionHeading": {
+    "message": "Kada kliknete ikonu OneTab na alatnoj traci:"
+  },
+  "optionBrowserActionOpenPopupDesc": {
+    "message": "Skočni prozor prikazat će vam popis otvorenih kartica i omogućiti vam da odaberete točno koje kartice želite poslati u OneTab. Omogućit će vam da postavite naslov grupe koju spremate, pa to nećete morati učiniti kasnije na stranici OneTab. Skočni prozor omogućit će vam i jednostavan pristup brzom popisu iz bilo kojeg prozora preglednika."
+  },
+  "optionBrowserActionOpenPopupDesc2": {
+    "message": "Odaberite točno koje kartice želite spremiti"
+  },
+  "optionBrowserActionOpenPopupTitle": {
+    "message": "Prikaži skočni prozor OneTab"
+  },
+  "optionBrowserActionSendCurrentTabDesc": {
+    "message": "Kartica će se smjestiti u prvu grupu na vašoj stranici OneTab, pri čemu će se zanemariti sve prikvačene ili zaključane grupe."
+  },
+  "optionBrowserActionSendCurrentTabTitle": {
+    "message": "Slanje samo trenutačne kartice u OneTab"
+  },
+  "optionBrowserActionSendTabsInWindowDesc": {
+    "message": "Vaše će se kartice zatvoriti i spremiti na popis u OneTab. Ako ste odabrali više kartica na traci kartica u pregledniku (pomoću tipke Cmd, Ctrl ili Shift), u OneTab će se poslati samo odabrane kartice. Ako upotrebljavate značajku grupa kartica u pregledniku, u OneTab će se poslati samo trenutačna grupa kartica."
+  },
+  "optionBrowserActionSendTabsInWindowDesc2": {
+    "message": "Najbrži način spremanja kartica"
+  },
+  "optionBrowserActionSendTabsInWindowTitle": {
+    "message": "Slanje kartica iz trenutačnog prozora u OneTab"
+  },
+  "optionBrowserActionSendWholeWindowDesc": {
+    "message": "Isto kao gore, osim što će se spremiti cijeli prozor umjesto samo trenutačne grupe kartica"
+  },
+  "optionBrowserActionSendWholeWindowTitle": {
+    "message": "Slanje trenutačnog prozora u OneTab, uključujući sve kartice i grupe kartica"
+  },
+  "optionCopyToClipboardFormatHeading": {
+    "message": "Kopiranje poveznica u međuspremnik:"
+  },
+  "optionCopyToClipboardFormatMarkdownTitle": {
+    "message": "Markdown"
+  },
+  "optionCopyToClipboardFormatNote": {
+    "message": "Ova se postavka primjenjuje kada upotrebljavate radnju „Kopiraj u međuspremnik”. Kartice i grupe možete i povući izravno iz OneTab u dokument."
+  },
+  "optionCopyToClipboardFormatRichTextDesc": {
+    "message": "Aplikacije kao što su programi za obradu teksta omogućit će vam lijepljenje obogaćenog teksta. Ako nije podržan, zalijepit će se običan tekst."
+  },
+  "optionCopyToClipboardFormatRichTextTitle": {
+    "message": "Obogaćeni tekst, ako je dostupan"
+  },
+  "optionCopyToClipboardFormatTitleUrlTitle": {
+    "message": "Naslov i URL"
+  },
+  "optionCopyToClipboardFormatUrlOnlyTitle": {
+    "message": "Samo URL"
+  },
+  "optionCopyToClipboardFormatUrlTitleTitle": {
+    "message": "URL i naslov"
+  },
+  "optionDefaultTabGroupOpenTypeCurrentWindow": {
+    "message": "Otvori grupu kartica u trenutačnom prozoru"
+  },
+  "optionDefaultTabGroupOpenTypeHeading": {
+    "message": "Pri kliku za otvaranje grupe konfigurirane za otvaranje kao „grupa kartica”:"
+  },
+  "optionDefaultTabGroupOpenTypeNewWindow": {
+    "message": "Otvori grupu kartica u novom prozoru"
+  },
+  "optionDefaultTabGroupOpenTypeNote": {
+    "message": "Ako upotrijebite padajući izbornik za odabir određene opcije (kao što je otvaranje kartica u anonimnom prozoru), ta će se opcija zapamtiti za tu određenu grupu."
+  },
+  "optionDefaultWindowGroupOpenTypeCurrentWindow": {
+    "message": "Otvori kartice u trenutačnom prozoru"
+  },
+  "optionDefaultWindowGroupOpenTypeHeading": {
+    "message": "Pri vraćanju grupe:"
+  },
+  "optionDefaultWindowGroupOpenTypeNewWindow": {
+    "message": "Otvori kartice u novom prozoru, osim ako je OneTab jedina kartica u trenutačnom prozoru"
+  },
+  "optionDefaultWindowGroupOpenTypeNewWindowAlways": {
+    "message": "Otvori kartice u novom prozoru"
+  },
+  "optionDefaultWindowGroupOpenTypeNote": {
+    "message": "Odabiri vraćanja izvršeni u izborniku „Više…” grupe pamte se za tu grupu."
+  },
+  "optionDiscardNonActiveTabOnOpenHeading": {
+    "message": "Uštedite memoriju (RAM) odmah pri prvom otvaranju kartica:"
+  },
+  "optionDiscardNonActiveTabOnOpenNote": {
+    "message": "Ako je ova postavka omogućena, kartice će se odmah ukloniti iz memorije kada ih prvi put otvorite sa svog popisa OneTab. To je korisno ako često otvarate desetke kartica odjednom jer sprječava da se sve učitaju u memoriju dok im ne pristupite. Ako je ova postavka onemogućena, mnogi web-preglednici i dalje će automatski odabrati uklanjanje kartica iz memorije ako ih trenutačno ne upotrebljavate."
+  },
+  "optionDisplayContextMenuHeading": {
+    "message": "Desnom tipkom miša kliknite unutar web-stranice za pristup kontekstnom izborniku OneTab:"
+  },
+  "optionDisplayContextMenuNote": {
+    "message": "Ako onemogućite izbornik, nećete moći pristupiti značajci „Izuzmi web-lokaciju iz OneTab”"
+  },
+  "optionDuplicatesAllow": {
+    "message": "Dopuštanje duplikata"
+  },
+  "optionDuplicatesReject": {
+    "message": "Odbijanje duplikata bez upita"
+  },
+  "optionDuplicatesRejectDesc": {
+    "message": "Ako OneTab već sadrži karticu, neće se ponovno dodati."
+  },
+  "optionDuplicatesTitle": {
+    "message": "Duplikati:"
+  },
+  "optionGroupTitleClickActionEditTitle": {
+    "message": "Uredi naslov"
+  },
+  "optionGroupTitleClickActionHeading": {
+    "message": "Kada kliknete naslov grupe ili mape:"
+  },
+  "optionGroupTitleClickActionOpenDesc": {
+    "message": "Grupu i dalje možete preimenovati putem njezina izbornika „Više…”."
+  },
+  "optionGroupTitleClickActionOpenTitle": {
+    "message": "Vrati grupu ili otvori mapu"
+  },
+  "optionMoveOneTabToCurrentWindowOnOpenFalseTitle": {
+    "message": "Prebaci se na prozor u kojem je kartica OneTab već otvorena"
+  },
+  "optionMoveOneTabToCurrentWindowOnOpenHeading": {
+    "message": "Radnja „Otvori OneTab”:"
+  },
+  "optionMoveOneTabToCurrentWindowOnOpenNote": {
+    "message": "Radnja „Otvori OneTab”:"
+  },
+  "optionMoveOneTabToCurrentWindowOnOpenTrueTitle": {
+    "message": "Premjesti postojeću karticu OneTab u trenutačni prozor"
+  },
+  "optionPinnedTabsAllow": {
+    "message": "Dopusti slanje prikvačenih kartica u OneTab"
+  },
+  "optionPinnedTabsDontSend": {
+    "message": "Ne šalji prikvačene kartice u OneTab"
+  },
+  "optionPinnedTabsDontSendDesc": {
+    "message": "Prikvačenu karticu i dalje možete ručno poslati u OneTab tako da desnom tipkom miša kliknete unutar web-stranice za pristup izborniku OneTab, a zatim kliknete „Pošalji samo ovu karticu u OneTab”"
+  },
+  "optionPinnedTabsNote": {
+    "message": "Napomena: kartica postaje „prikvačena” kada desnom tipkom miša kliknete karticu i kliknete „Prikvači karticu”. Neki korisnici vole prikvačiti web-lokacije kao što su Facebook ili Gmail kako bi ih lakše pronašli. OneTab će zapamtiti je li kartica bila prikvačena kada je vratite."
+  },
+  "optionPinnedTabsTitle": {
+    "message": "Prikvačene kartice:"
+  },
+  "options": {
+    "message": "Opcije"
+  },
+  "optionStartupLaunchDisplay": {
+    "message": "Automatski otvarati OneTab"
+  },
+  "optionStartupLaunchNone": {
+    "message": "Ne otvarati OneTab automatski"
+  },
+  "optionStartupLaunchNoneDesc3": {
+    "message": "Da biste ručno otvorili OneTab, možete desnom tipkom miša kliknuti unutar bilo koje web-stranice i kliknuti „Otvori OneTab” u izborniku OneTab."
+  },
+  "optionStartupLaunchTitle": {
+    "message": "Pri pokretanju preglednika:"
+  },
+  "optionSwitchToOpenedTabFalseTitle": {
+    "message": "Otvori karticu i ostani u OneTab"
+  },
+  "optionSwitchToOpenedTabHeading": {
+    "message": "Pri vraćanju kartica sa stranice OneTab:"
+  },
+  "optionSwitchToOpenedTabNote": {
+    "message": "Ako pri kliku držite Shift, kartica će se otvoriti u novom prozoru"
+  },
+  "optionSwitchToOpenedTabTrueTitle": {
+    "message": "Otvori karticu i prebaci se na nju (osim ako pri kliku držite Command ⌘/Ctrl)"
+  },
+  "optionUpdateTitleOnDuplicateKeep": {
+    "message": "Zadrži postojeći naslov"
+  },
+  "optionUpdateTitleOnDuplicateKeepDesc": {
+    "message": "Karticu možete preimenovati u OneTab, a vaš prilagođeni naslov bit će zadržan."
+  },
+  "optionUpdateTitleOnDuplicateNote": {
+    "message": "Naslovi i bilješke dijele se među svim kopijama iste kartice."
+  },
+  "optionUpdateTitleOnDuplicateTitle": {
+    "message": "Pri spremanju kartice koja je već u OneTab:"
+  },
+  "optionUpdateTitleOnDuplicateUpdate": {
+    "message": "Upotrijebi najnoviji naslov"
+  },
+  "optionUpdateTitleOnDuplicateUpdateDesc": {
+    "message": "Spremljeni naslov ažurira se tako da odgovara kartici koju ste upravo poslali."
+  },
+  "optionUrlAbbr": {
+    "message": "Skraćeno"
+  },
+  "optionUrlDisplayTitle": {
+    "message": "Prikaz URL-a:"
+  },
+  "optionUrlDomain": {
+    "message": "Samo domena"
+  },
+  "optionUrlFull": {
+    "message": "Cijeli URL"
+  },
+  "optionUrlNone": {
+    "message": "Bez URL-a"
+  },
+  "otherCopiesColon": {
+    "message": "Druge kopije:"
+  },
+  "pasteRichOrPlainTextBelow": {
+    "message": "U nastavku možete zalijepiti obogaćeni ili obični tekst."
+  },
+  "pendingTaskCount_few": {
+    "message": "{COUNT} na čekanju"
+  },
+  "pendingTaskCount_many": {
+    "message": "{COUNT} na čekanju"
+  },
+  "pendingTaskCount_one": {
+    "message": "{COUNT} na čekanju"
+  },
+  "pendingTaskCount_other": {
+    "message": "{COUNT} na čekanju"
+  },
+  "pendingTaskCount_two": {
+    "message": "{COUNT} na čekanju"
+  },
+  "pendingTaskCount_zero": {
+    "message": "{COUNT} na čekanju"
+  },
+  "pendingTaskFlagHelp": {
+    "message": "Ova je stavka zadatak. Kliknite ovu ikonu da biste je označili kao dovršenu."
+  },
+  "permissionRequiredPleaseTryAgain": {
+    "message": "Za stvaranje dijeljene stranice kojoj se može pristupiti s bilo kojeg računala potrebno je dopuštenje za komunikaciju s web-poslužiteljem OneTab. Pokušajte ponovno."
+  },
+  "pinnedTabs": {
+    "message": "prikvačene kartice"
+  },
+  "pinToTopOfFolder": {
+    "message": "Prikvači na vrh mape"
+  },
+  "pinToTopOfFolderMenuItemHelp": {
+    "message": "Prikvačite ovu grupu kako bi uvijek bila navedena na vrhu mape"
+  },
+  "pinToTopOfList": {
+    "message": "Prikvači na vrh popisa"
+  },
+  "placeholderAndOtherLocations_few": {
+    "message": "PLACEHOLDER i još {COUNT} druge lokacije"
+  },
+  "placeholderAndOtherLocations_many": {
+    "message": "PLACEHOLDER i još {COUNT} drugih lokacija"
+  },
+  "placeholderAndOtherLocations_one": {
+    "message": "PLACEHOLDER i još {COUNT} druga lokacija"
+  },
+  "placeholderAndOtherLocations_other": {
+    "message": "PLACEHOLDER i još {COUNT} drugih lokacija"
+  },
+  "placeholderAndOtherLocations_two": {
+    "message": "PLACEHOLDER i još {COUNT} druge lokacije"
+  },
+  "placeholderAndOtherLocations_zero": {
+    "message": "PLACEHOLDER i još {COUNT} drugih lokacija"
+  },
+  "placeholderExplanation": {
+    "message": "Zbog sigurnosnih pravila web-preglednika OneTab ne smije izravno vratiti ovu stranicu. Kopirajte svoj URL i zalijepite ga u adresnu traku preglednika."
+  },
+  "plainTextLineFormat": {
+    "message": "Ako zalijepite obični tekst, provjerite ima li svaki URL naveden protokol (https://wikipedia.org, umjesto samo wikipedia.org). Svaki redak treba biti u sljedećem formatu:"
+  },
+  "pleaseWaitTripleDot": {
+    "message": "Pričekajte…"
+  },
+  "popupSlashShortcutInfo": {
+    "message": "Ako je omogućen skočni prozor OneTab, otvaranje birača odredišta i fokusiranje okvira za pretraživanje"
+  },
+  "printUseSaveTabsAsHtmlFileAlertHtml": {
+    "message": "Za najbolje rezultate ispisa upotrijebite radnju <b>Spremi kao HTML datoteku</b> u izborniku mape <b>Više…</b>, a zatim ispišite preuzetu HTML datoteku."
+  },
+  "privacyAssurance": {
+    "message": "Zaštita privatnosti"
+  },
+  "privacyAssuranceDetail": {
+    "message": "Vaš popis kartica nikada se ne prenosi niti otkriva programerima OneTab ni bilo kojoj drugoj strani. Jedina je iznimka ako namjerno upotrijebite značajku „dijeli kao web-stranicu” za prijenos popisa kartica na web-stranicu kako biste ga podijelili s drugima."
+  },
+  "privacyFirst": {
+    "message": "Privatnost na prvom mjestu"
+  },
+  "privacyFirstMessage": {
+    "message": "OneTab je osmišljen za zaštitu vaših privatnih podataka. Vaše kartice pohranjuju se samo na vašem računalu i nikada se ne dijele s programerima OneTab ni bilo kojom drugom stranom.\nAko upotrebljavate našu značajku sigurnosne kopije/sinkronizacije, vaši će podaci biti šifrirani s kraja na kraj snažnim šifriranjem AES-256. Zbog toga programeri OneTab ne mogu vidjeti kartice koje ste sigurnosno kopirali ili sinkronizirali između uređaja jer samo vi imate ključ za šifriranje. \nJedina je iznimka ako namjerno odlučite podijeliti neke svoje kartice s drugim osobama pomoću naše značajke „Podijeli kao web-stranicu”.\nVjerujemo u privatnost na prvom mjestu."
+  },
+  "privateBrowsingPermissionRequired": {
+    "message": "OneTab treba dopuštenje za stvaranje privatnih prozora."
+  },
+  "privateBrowsingWindows": {
+    "message": "Privatni prozori"
+  },
+  "quickList": {
+    "message": "Brzi popis"
+  },
+  "readingList": {
+    "message": "Popis za čitanje"
+  },
+  "readingListPermissionNecesssary": {
+    "message": "Dopuštenje za popis za čitanje potrebno je kako bi OneTab mogao uvesti stavke s vašeg popisa za čitanje. Ako ova značajka ne radi, vaš preglednik možda ne podržava popise za čitanje."
+  },
+  "recent": {
+    "message": "Nedavno"
+  },
+  "recentDestinationsColon": {
+    "message": "Nedavna odredišta:"
+  },
+  "recentDuplicateRetainedHelp": {
+    "message": "Ako se kartica pojavljuje više puta, zadržat će se samo najnovija kopija"
+  },
+  "recentFolders": {
+    "message": "Nedavne mape"
+  },
+  "recentGroups": {
+    "message": "Nedavne grupe"
+  },
+  "recentlyAccessed": {
+    "message": "Nedavno korišteno"
+  },
+  "recentlyCreated": {
+    "message": "Nedavno stvoreno"
+  },
+  "recentlyModified": {
+    "message": "Nedavno izmijenjeno"
+  },
+  "reduceMemoryUsageBy95Pct": {
+    "message": "Smanjite potrošnju memorije za 95%"
+  },
+  "removeDuplicates": {
+    "message": "Ukloni duplikate"
+  },
+  "removeDuplicatesMenuItemHelp": {
+    "message": "Moći ćete ukloniti duplikate odavde, ali ne s drugih mjesta, ili s drugih mjesta, ali ne odavde."
+  },
+  "removeDuplicateTabsHere_few": {
+    "message": "Ukloni {COUNT} duplicirane kartice ovdje"
+  },
+  "removeDuplicateTabsHere_many": {
+    "message": "Ukloni {COUNT} dupliciranih kartica ovdje"
+  },
+  "removeDuplicateTabsHere_one": {
+    "message": "Ukloni {COUNT} dupliciranu karticu ovdje"
+  },
+  "removeDuplicateTabsHere_other": {
+    "message": "Ukloni {COUNT} dupliciranih kartica ovdje"
+  },
+  "removeDuplicateTabsHere_two": {
+    "message": "Ukloni {COUNT} duplicirane kartice ovdje"
+  },
+  "removeDuplicateTabsHere_zero": {
+    "message": "Ukloni {COUNT} dupliciranih kartica ovdje"
+  },
+  "removeFromQuickList": {
+    "message": "Ukloni s brzog popisa"
+  },
+  "removeFromQuickListMenuItemHelp": {
+    "message": "Stavka se neće poslati u smeće – samo će se ukloniti s vašeg brzog popisa."
+  },
+  "removeStar": {
+    "message": "Ukloni zvjezdicu"
+  },
+  "removeTabsElsewhereAlsoHere_few": {
+    "message": "Ukloni s drugih mjesta {COUNT} kartice koje postoje i ovdje"
+  },
+  "removeTabsElsewhereAlsoHere_many": {
+    "message": "Ukloni s drugih mjesta {COUNT} kartica koje postoje i ovdje"
+  },
+  "removeTabsElsewhereAlsoHere_one": {
+    "message": "Ukloni s drugih mjesta {COUNT} karticu koja postoji i ovdje"
+  },
+  "removeTabsElsewhereAlsoHere_other": {
+    "message": "Ukloni s drugih mjesta {COUNT} kartica koje postoje i ovdje"
+  },
+  "removeTabsElsewhereAlsoHere_two": {
+    "message": "Ukloni s drugih mjesta {COUNT} kartice koje postoje i ovdje"
+  },
+  "removeTabsElsewhereAlsoHere_zero": {
+    "message": "Ukloni s drugih mjesta {COUNT} kartica koje postoje i ovdje"
+  },
+  "removeTabsHereAlsoElsewhere_few": {
+    "message": "Ukloni odavde {COUNT} kartice koje postoje i drugdje"
+  },
+  "removeTabsHereAlsoElsewhere_many": {
+    "message": "Ukloni odavde {COUNT} kartica koje postoje i drugdje"
+  },
+  "removeTabsHereAlsoElsewhere_one": {
+    "message": "Ukloni odavde {COUNT} karticu koja postoji i drugdje"
+  },
+  "removeTabsHereAlsoElsewhere_other": {
+    "message": "Ukloni odavde {COUNT} kartica koje postoje i drugdje"
+  },
+  "removeTabsHereAlsoElsewhere_two": {
+    "message": "Ukloni odavde {COUNT} kartice koje postoje i drugdje"
+  },
+  "removeTabsHereAlsoElsewhere_zero": {
+    "message": "Ukloni odavde {COUNT} kartica koje postoje i drugdje"
+  },
+  "rename": {
+    "message": "Preimenuj"
+  },
+  "renameOrAddNote": {
+    "message": "Preimenuj / dodaj bilješku"
+  },
+  "restore": {
+    "message": "Vrati"
+  },
+  "restoreAll": {
+    "message": "Vrati sve"
+  },
+  "restrictSearchToFolderColon": {
+    "message": "Ograniči pretraživanje na sljedeću mapu:"
+  },
+  "results": {
+    "message": "Rezultati"
+  },
+  "returnToOneTab": {
+    "message": "Vrati se u OneTab"
+  },
+  "reverse": {
+    "message": "Obrnuto"
+  },
+  "rightClickAndOpenOneTabMenu": {
+    "message": "Kliknite desnom tipkom miša na web-stranici i otvorite izbornik OneTab"
+  },
+  "rightClickMenuDisabledNote": {
+    "message": "Napomena: onemogućili ste kontekstni izbornik OneTab. Omogućite ga na stranici opcija za OneTab."
+  },
+  "rightClickSelectionOptionsTip": {
+    "message": "Savjet: Nakon što označite stavku kvačicom, desnom tipkom miša kliknite ikonu kvačice da biste prikazali dodatne opcije odabira"
+  },
+  "rightClickTickTip": {
+    "message": "Savjet: desnom tipkom miša kliknite ikonu kvačice pokraj svake kartice za alate za odabir"
+  },
+  "safariApproveOneTabInSettings": {
+    "message": "Idite u Postavke i odobrite pristup svim web-lokacijama za OneTab."
+  },
+  "save95PctReduceTabClutterGoogleChrome": {
+    "message": "Uštedite do 95% memorije i smanjite nered s karticama u pregledniku Google Chrome"
+  },
+  "saveChoice": {
+    "message": "Spremi odabir"
+  },
+  "saveTabsAsHtmlFile": {
+    "message": "Spremi kao HTML datoteku"
+  },
+  "saveTabsAsHtmlFileMenuItemHelp": {
+    "message": "Stvorite i preuzmite HTML datoteku koja sadrži sve grupe u ovoj mapi."
+  },
+  "searchHere": {
+    "message": "Pretraži ovdje"
+  },
+  "searchOneTab": {
+    "message": "Pretraži OneTab"
+  },
+  "secondExampleLink": {
+    "message": "Drugi primjer poveznice"
+  },
+  "secondExampleLinkTitle": {
+    "message": "Drugi primjer naslova poveznice"
+  },
+  "secondExampleLinkTitleOptional": {
+    "message": "Drugi primjer naslova poveznice (neobavezno)"
+  },
+  "seeOtherTabsInThisGroup_few": {
+    "message": "Prikaži još {COUNT} kartice u ovoj grupi"
+  },
+  "seeOtherTabsInThisGroup_many": {
+    "message": "Prikaži još {COUNT} kartica u ovoj grupi"
+  },
+  "seeOtherTabsInThisGroup_one": {
+    "message": "Prikaži još {COUNT} karticu u ovoj grupi"
+  },
+  "seeOtherTabsInThisGroup_other": {
+    "message": "Prikaži još {COUNT} kartica u ovoj grupi"
+  },
+  "seeOtherTabsInThisGroup_two": {
+    "message": "Prikaži još {COUNT} kartice u ovoj grupi"
+  },
+  "seeOtherTabsInThisGroup_zero": {
+    "message": "Prikaži još {COUNT} kartica u ovoj grupi"
+  },
+  "seePasteInstructions": {
+    "message": "Prikaži upute za lijepljenje…"
+  },
+  "seeTabsInThisGroup_few": {
+    "message": "Prikaži {COUNT} kartice u ovoj grupi"
+  },
+  "seeTabsInThisGroup_many": {
+    "message": "Prikaži {COUNT} kartica u ovoj grupi"
+  },
+  "seeTabsInThisGroup_one": {
+    "message": "Prikaži {COUNT} karticu u ovoj grupi"
+  },
+  "seeTabsInThisGroup_other": {
+    "message": "Prikaži {COUNT} kartica u ovoj grupi"
+  },
+  "seeTabsInThisGroup_two": {
+    "message": "Prikaži {COUNT} kartice u ovoj grupi"
+  },
+  "seeTabsInThisGroup_zero": {
+    "message": "Prikaži {COUNT} kartica u ovoj grupi"
+  },
+  "selectAll": {
+    "message": "Odaberi sve"
+  },
+  "selectAllExceptThis": {
+    "message": "Odaberi sve osim ove stavke"
+  },
+  "selectedItemCount_few": {
+    "message": "{COUNT} stavke"
+  },
+  "selectedItemCount_many": {
+    "message": "{COUNT} stavki"
+  },
+  "selectedItemCount_one": {
+    "message": "{COUNT} stavka"
+  },
+  "selectedItemCount_other": {
+    "message": "{COUNT} stavki"
+  },
+  "selectedItemCount_two": {
+    "message": "{COUNT} stavke"
+  },
+  "selectedItemCount_zero": {
+    "message": "{COUNT} stavki"
+  },
+  "selection": {
+    "message": "Odabir"
+  },
+  "selectThisAndAbove": {
+    "message": "Odaberi ovu stavku i sve iznad nje"
+  },
+  "selectThisAndBelow": {
+    "message": "Odaberi ovu stavku i sve ispod nje"
+  },
+  "sendAllTabsAllWindows": {
+    "message": "Pošalji sve kartice iz svih prozora"
+  },
+  "sendAllTabsAllWindowsToOneTab": {
+    "message": "Pošalji sve kartice iz svih prozora u OneTab"
+  },
+  "sendAllTabsExceptThis": {
+    "message": "Pošalji sve kartice osim ove"
+  },
+  "sendAllTabsExceptThisToOneTab": {
+    "message": "Pošalji sve kartice osim ove u OneTab"
+  },
+  "sendAllTabsInGroup": {
+    "message": "Pošalji sve kartice iz ove grupe kartica"
+  },
+  "sendAllTabsInGroupToOneTab": {
+    "message": "Pošalji sve kartice iz ove grupe kartica u OneTab"
+  },
+  "sendAllTabsInWindow": {
+    "message": "Pošalji sve kartice iz ovog prozora"
+  },
+  "sendAllTabsInWindowToOneTab": {
+    "message": "Pošalji sve kartice iz ovog prozora u OneTab"
+  },
+  "sendCurrentTabToOneTab": {
+    "message": "Pošalji trenutačnu karticu u OneTab"
+  },
+  "sendLeftTabs": {
+    "message": "Pošalji kartice s lijeve strane"
+  },
+  "sendLeftTabsToOneTab": {
+    "message": "Pošalji kartice s lijeve strane u OneTab"
+  },
+  "sendOnlyThisTab": {
+    "message": "Pošalji samo ovu karticu"
+  },
+  "sendOnlyThisTabToOneTab": {
+    "message": "Pošalji samo ovu karticu u OneTab"
+  },
+  "sendRightTabs": {
+    "message": "Pošalji kartice s desne strane"
+  },
+  "sendRightTabsToOneTab": {
+    "message": "Pošalji kartice s desne strane u OneTab"
+  },
+  "sendSelectedTabs": {
+    "message": "Pošalji odabrane kartice"
+  },
+  "sendSelectedTabsToOneTab": {
+    "message": "Pošalji odabrane kartice u OneTab"
+  },
+  "sendThisWebLink": {
+    "message": "Pošalji ovu web-poveznicu"
+  },
+  "sendThisWebLinkToOneTab": {
+    "message": "Pošalji ovu web-poveznicu u OneTab"
+  },
+  "serverUnreachable": {
+    "message": "Poslužitelj nije dostupan. Provjerite internetsku vezu."
+  },
+  "share": {
+    "message": "Podijeli"
+  },
+  "shareAsAWebPage": {
+    "message": "Podijeli kao web-stranicu"
+  },
+  "shareAsAWebPageMenuItemHelp": {
+    "message": "Time se stvara web-stranica s vašim karticama kako biste je mogli privatno ili javno podijeliti s drugima."
+  },
+  "shared": {
+    "message": "Dijeljeno"
+  },
+  "sharedExpiresColon": {
+    "message": "Podijeljeno kao web-stranica. Istječe:"
+  },
+  "sharedPageOptions": {
+    "message": "Opcije dijeljene stranice"
+  },
+  "sharedPageTabLimit_few": {
+    "message": "Dijeljene stranice ograničene su na {COUNT} kartice"
+  },
+  "sharedPageTabLimit_many": {
+    "message": "Dijeljene stranice ograničene su na {COUNT} kartica"
+  },
+  "sharedPageTabLimit_one": {
+    "message": "Dijeljene stranice ograničene su na {COUNT} karticu"
+  },
+  "sharedPageTabLimit_other": {
+    "message": "Dijeljene stranice ograničene su na {COUNT} kartica"
+  },
+  "sharedPageTabLimit_two": {
+    "message": "Dijeljene stranice ograničene su na {COUNT} kartice"
+  },
+  "sharedPageTabLimit_zero": {
+    "message": "Dijeljene stranice ograničene su na {COUNT} kartica"
+  },
+  "sharedPageWillAutomaticallyExpire": {
+    "message": "Dijeljena stranica automatski će isteći, ali datum isteka možete produljiti u bilo kojem trenutku."
+  },
+  "showEverything": {
+    "message": "Prikaži sve"
+  },
+  "showFoldersOnly": {
+    "message": "Prikaži samo mape"
+  },
+  "showNamedItemsOnly": {
+    "message": "Prikaži samo imenovane stavke"
+  },
+  "showNamedOnly": {
+    "message": "Prikaži samo imenovane stavke"
+  },
+  "showNextCount_few": {
+    "message": "{COUNT} sljedeće"
+  },
+  "showNextCount_many": {
+    "message": "{COUNT} sljedećih"
+  },
+  "showNextCount_one": {
+    "message": "{COUNT} sljedeća"
+  },
+  "showNextCount_other": {
+    "message": "{COUNT} sljedećih"
+  },
+  "showNextCount_two": {
+    "message": "{COUNT} sljedeće"
+  },
+  "showNextCount_zero": {
+    "message": "{COUNT} sljedećih"
+  },
+  "showPreviousCount_few": {
+    "message": "{COUNT} prethodne"
+  },
+  "showPreviousCount_many": {
+    "message": "{COUNT} prethodnih"
+  },
+  "showPreviousCount_one": {
+    "message": "{COUNT} prethodna"
+  },
+  "showPreviousCount_other": {
+    "message": "{COUNT} prethodnih"
+  },
+  "showPreviousCount_two": {
+    "message": "{COUNT} prethodne"
+  },
+  "showPreviousCount_zero": {
+    "message": "{COUNT} prethodnih"
+  },
+  "soon": {
+    "message": "uskoro"
+  },
+  "sort": {
+    "message": "Razvrstavanje"
+  },
+  "sortByColon": {
+    "message": "Razvrstaj prema:"
+  },
+  "sortGroups": {
+    "message": "Razvrstaj grupe"
+  },
+  "sortGroupsMenuFooterNote": {
+    "message": "Time se razvrstavaju grupe u ovoj mapi. Kartice unutar njih ne razvrstavaju se."
+  },
+  "sourceColon": {
+    "message": "Izvor:"
+  },
+  "star": {
+    "message": "Označi zvjezdicom"
+  },
+  "starFlagHelp": {
+    "message": "Ova stavka označena je zvjezdicom kako bi se vizualno naznačila njezina važnost. Kliknite ovu ikonu da biste uklonili zvjezdicu."
+  },
+  "starMenuItemHelp": {
+    "message": "Upotrijebite zvjezdicu kao vizualni pokazatelj da je nešto važno"
+  },
+  "starred": {
+    "message": "Sa zvjezdicom"
+  },
+  "storeAllOpenWindowsHere": {
+    "message": "Spremi sve otvorene prozore ovdje"
+  },
+  "storeAllOpenWindowsHereMenuItemHelp": {
+    "message": "Zatvori sve otvorene prozore preglednika i spremi ih u ovu mapu"
+  },
+  "storeSelectedTabsInONETAB_few": {
+    "message": "Spremi {COUNT} odabrane kartice u ONETAB"
+  },
+  "storeSelectedTabsInONETAB_many": {
+    "message": "Spremi {COUNT} odabranih kartica u ONETAB"
+  },
+  "storeSelectedTabsInONETAB_one": {
+    "message": "Spremi {COUNT} odabranu karticu u ONETAB"
+  },
+  "storeSelectedTabsInONETAB_other": {
+    "message": "Spremi {COUNT} odabranih kartica u ONETAB"
+  },
+  "storeSelectedTabsInONETAB_two": {
+    "message": "Spremi {COUNT} odabrane kartice u ONETAB"
+  },
+  "storeSelectedTabsInONETAB_zero": {
+    "message": "Spremi {COUNT} odabranih kartica u ONETAB"
+  },
+  "storeTabsInAdditionalLocation_few": {
+    "message": "Svejedno ponovno spremi kartice"
+  },
+  "storeTabsInAdditionalLocation_many": {
+    "message": "Svejedno ponovno spremi kartice"
+  },
+  "storeTabsInAdditionalLocation_one": {
+    "message": "Svejedno ponovno spremi karticu"
+  },
+  "storeTabsInAdditionalLocation_other": {
+    "message": "Svejedno ponovno spremi kartice"
+  },
+  "storeTabsInAdditionalLocation_two": {
+    "message": "Svejedno ponovno spremi kartice"
+  },
+  "storeTabsInAdditionalLocation_zero": {
+    "message": "Svejedno ponovno spremi kartice"
+  },
+  "storeTabsInONETAB_few": {
+    "message": "Spremi kartice u ONETAB"
+  },
+  "storeTabsInONETAB_many": {
+    "message": "Spremi kartice u ONETAB"
+  },
+  "storeTabsInONETAB_one": {
+    "message": "Spremi karticu u ONETAB"
+  },
+  "storeTabsInONETAB_other": {
+    "message": "Spremi kartice u ONETAB"
+  },
+  "storeTabsInONETAB_two": {
+    "message": "Spremi kartice u ONETAB"
+  },
+  "storeTabsInONETAB_zero": {
+    "message": "Spremi kartice u ONETAB"
+  },
+  "subFoldersNotShared": {
+    "message": "Napominjemo da se podmape ne dijele. Dijele se samo grupe koje se nalaze izravno u mapi."
+  },
+  "tab": {
+    "message": "kartica"
+  },
+  "tabAlreadyStoredHere": {
+    "message": "Vaša otvorena kartica već je spremljena ovdje:"
+  },
+  "tabCaretTooltipTitleNotes": {
+    "message": "Uredi naslov i bilješke kartice"
+  },
+  "tabCaretTooltipTitleNotesUrl": {
+    "message": "Uredi naslov, URL i bilješke kartice"
+  },
+  "tabCount_few": {
+    "message": "{COUNT} kartice"
+  },
+  "tabCount_many": {
+    "message": "{COUNT} kartica"
+  },
+  "tabCount_one": {
+    "message": "{COUNT} kartica"
+  },
+  "tabCount_other": {
+    "message": "{COUNT} kartica"
+  },
+  "tabCount_two": {
+    "message": "{COUNT} kartice"
+  },
+  "tabCount_zero": {
+    "message": "{COUNT} kartica"
+  },
+  "tabGroupColorColon": {
+    "message": "Boja grupe kartica:"
+  },
+  "tabGroupIndicatorTooltipHelp": {
+    "message": "Ova je grupa konfigurirana za otvaranje kao grupa kartica. Tu postavku možete promijeniti u izborniku „Više…”"
+  },
+  "tabPinFlagHelp": {
+    "message": "Ova će se kartica vratiti kao prikvačena kartica preglednika. Kliknite ovu ikonu da biste je otkvačili."
+  },
+  "tabs": {
+    "message": "Kartice"
+  },
+  "tabsFromExcludedDomains": {
+    "message": "kartice s izuzetih domena"
+  },
+  "tabsInTabGroups": {
+    "message": "kartice u grupama kartica"
+  },
+  "tabTotalCount_few": {
+    "message": "Ukupno: {COUNT} kartice"
+  },
+  "tabTotalCount_many": {
+    "message": "Ukupno: {COUNT} kartica"
+  },
+  "tabTotalCount_one": {
+    "message": "Ukupno: {COUNT} kartica"
+  },
+  "tabTotalCount_other": {
+    "message": "Ukupno: {COUNT} kartica"
+  },
+  "tabTotalCount_two": {
+    "message": "Ukupno: {COUNT} kartice"
+  },
+  "tabTotalCount_zero": {
+    "message": "Ukupno: {COUNT} kartica"
+  },
+  "tasks": {
+    "message": "Zadaci"
+  },
+  "tasksDone": {
+    "message": "Zadaci (dovršeni)"
+  },
+  "tasksPending": {
+    "message": "Zadaci (na čekanju)"
+  },
+  "tasksWillAppearHere": {
+    "message": "Ako neke svoje kartice ili grupe označite kao zadatke, pojavit će se ovdje."
+  },
+  "taskTotalCount_few": {
+    "message": "{COUNT} ukupno"
+  },
+  "taskTotalCount_many": {
+    "message": "{COUNT} ukupno"
+  },
+  "taskTotalCount_one": {
+    "message": "{COUNT} ukupno"
+  },
+  "taskTotalCount_other": {
+    "message": "{COUNT} ukupno"
+  },
+  "taskTotalCount_two": {
+    "message": "{COUNT} ukupno"
+  },
+  "taskTotalCount_zero": {
+    "message": "{COUNT} ukupno"
+  },
+  "themeQuickSwitchHint": {
+    "message": "Za brzo prebacivanje tema držite Ctrl ili Cmd dok klikate ikonu teme"
+  },
+  "thenClickToolbarIcon": {
+    "message": "Zatim ponovno kliknite ikonu OneTab na alatnoj traci da biste upotrebljavali OneTab."
+  },
+  "thisFolderIsEmpty": {
+    "message": "Ova je mapa prazna"
+  },
+  "thisTab": {
+    "message": "Ova kartica"
+  },
+  "thisTabGroup": {
+    "message": "Ova grupa kartica"
+  },
+  "thisTabNotStored": {
+    "message": "Ova kartica nije spremljena u OneTab"
+  },
+  "thisWindow": {
+    "message": "Ovaj prozor"
+  },
+  "tickOrUntickToExclude": {
+    "message": "Označite ili uklonite oznaku da biste izuzeli web-lokaciju"
+  },
+  "title": {
+    "message": "Naslov"
+  },
+  "toAddOrRemoveExclusions": {
+    "message": "Da biste dodali web-lokaciju na popis izuzetaka ili je uklonili s njega:"
+  },
+  "toAllowOneTabInIncognito": {
+    "message": "Da biste dopustili prikaz ikone OneTab u anonimnim prozorima: "
+  },
+  "toImportBrowserBookmarksUseMenuOption": {
+    "message": "Za uvoz iz oznaka preglednika upotrijebite opciju izbornika „Uvezi poveznice ovdje” na svojoj OneTab stranici"
+  },
+  "toMakeOpenButtonWorkApprovePermission": {
+    "message": "Da bi gumb „Otvori” na dijeljenim stranicama radio, odobrite zahtjev za dopuštenje."
+  },
+  "tooManyTabsSpeedUpFirefox": {
+    "message": "Previše kartica? Pretvorite kartice u popis i ubrzajte Firefox"
+  },
+  "tooManyTabsSpeedUpSafari": {
+    "message": "Previše kartica? Pretvorite kartice u popis i ubrzajte Safari"
+  },
+  "toSaveChangesClickButton": {
+    "message": "Da biste spremili promjene, kliknite gumb"
+  },
+  "total0Tabs": {
+    "message": "Ukupno: 0 kartica"
+  },
+  "trash": {
+    "message": "Smeće"
+  },
+  "unfoldGroup": {
+    "message": "Proširi grupu"
+  },
+  "unlock": {
+    "message": "Otključaj"
+  },
+  "unmarkAsArchived": {
+    "message": "Ukloni oznaku arhiviranog"
+  },
+  "unMarkAsTask": {
+    "message": "Ukloni oznaku zadatka"
+  },
+  "unpin": {
+    "message": "Otkvači"
+  },
+  "unshare": {
+    "message": "Prestani dijeliti"
+  },
+  "untitled": {
+    "message": "Bez naslova"
+  },
+  "update": {
+    "message": "Ažuriraj"
+  },
+  "userLanguage": {
+    "message": "Hrvatski"
+  },
+  "website": {
+    "message": "Web-lokacija"
+  },
+  "yearCount_few": {
+    "message": "{COUNT} godine"
+  },
+  "yearCount_many": {
+    "message": "{COUNT} godina"
+  },
+  "yearCount_one": {
+    "message": "{COUNT} godina"
+  },
+  "yearCount_other": {
+    "message": "{COUNT} godina"
+  },
+  "yearCount_two": {
+    "message": "{COUNT} godine"
+  },
+  "yearCount_zero": {
+    "message": "{COUNT} godina"
+  },
+  "yourTabAlreadyStoredHere": {
+    "message": "Vaša kartica već je spremljena ovdje:"
+  }
+}

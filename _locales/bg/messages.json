@@ -1,0 +1,2330 @@
+{
+  "95PctMemoryReduction": {
+    "message": "95% по-малко използвана памет"
+  },
+  "about": {
+    "message": "Относно"
+  },
+  "actionPopupOverrideNote": {
+    "message": "Тази настройка може да бъде заменена в изскачащия прозорец за действия (ако сте го активирали)."
+  },
+  "aDashZ": {
+    "message": "А–Я"
+  },
+  "addOneTabNow": {
+    "message": "Добавете OneTab сега"
+  },
+  "all": {
+    "message": "Всички"
+  },
+  "allBookmarks": {
+    "message": "Всички отметки"
+  },
+  "allOpenTabsAlreadyStoredHere_few": {
+    "message": "Всички отворени раздели вече са съхранени тук:"
+  },
+  "allOpenTabsAlreadyStoredHere_many": {
+    "message": "Всички отворени раздели вече са съхранени тук:"
+  },
+  "allOpenTabsAlreadyStoredHere_one": {
+    "message": "Всички отворени раздели вече са съхранени тук:"
+  },
+  "allOpenTabsAlreadyStoredHere_other": {
+    "message": "Всички отворени раздели вече са съхранени тук:"
+  },
+  "allOpenTabsAlreadyStoredHere_two": {
+    "message": "Всички отворени раздели вече са съхранени тук:"
+  },
+  "allOpenTabsAlreadyStoredHere_zero": {
+    "message": "Всички отворени раздели вече са съхранени тук:"
+  },
+  "allowFileAccessInstructions": {
+    "message": "За да разрешите директното отваряне на файлове, отворете Настройки ➝ Разширения ➝ OneTab ➝ Подробности ➝ Разрешаване на достъп до URL адреси на файлове"
+  },
+  "alreadyExistingOpenTabsWillBeClosedAfterMerge": {
+    "message": "Всички отворени раздели, които вече съществуват в тази група, ще бъдат затворени след обединяването."
+  },
+  "alternatePlainTextFormat": {
+    "message": "Алтернативно обикновеният текст може да бъде във формат:"
+  },
+  "approve": {
+    "message": "Разрешаване"
+  },
+  "archived": {
+    "message": "Архивирани"
+  },
+  "autoTheme": {
+    "message": "Автоматично (според настройката на операционната система)"
+  },
+  "backupAndSync": {
+    "message": "Архивиране и синхронизиране"
+  },
+  "betaReleaseReportBugsHere": {
+    "message": "Бета – съобщете за грешки тук"
+  },
+  "bookmarkCount_few": {
+    "message": "{COUNT} отметки"
+  },
+  "bookmarkCount_many": {
+    "message": "{COUNT} отметки"
+  },
+  "bookmarkCount_one": {
+    "message": "{COUNT} отметка"
+  },
+  "bookmarkCount_other": {
+    "message": "{COUNT} отметки"
+  },
+  "bookmarkCount_two": {
+    "message": "{COUNT} отметки"
+  },
+  "bookmarkCount_zero": {
+    "message": "{COUNT} отметки"
+  },
+  "bookmarksPermissionNecesssary": {
+    "message": "Необходимо е разрешение за достъп до отметките, за да може OneTab да импортира отметките от браузъра Ви."
+  },
+  "bulkActions": {
+    "message": "Масови действия"
+  },
+  "cancel": {
+    "message": "Отказ"
+  },
+  "canDragTextNote": {
+    "message": "Забележка: Можете също да плъзгате и пускате текст, който съдържа уеб връзки, директно от друга уеб страница или от документ. Можете да плъзнете текста директно в страницата си в OneTab, без да използвате това поле за импортиране."
+  },
+  "cannotConnectToServerDeletionRequestQueued": {
+    "message": "Не може да се осъществи връзка със сървъра на OneTab. Моля, проверете интернет връзката си. Заявката ви за изтриване на споделената страница е поставена на опашка локално и ще бъде автоматично предадена на сървъра на OneTab веднага щом той отново стане достъпен."
+  },
+  "cannotCreateTabGroupInTabGroup": {
+    "message": "Избраното местоназначение е група раздели. Не можете да създадете група раздели в съществуваща група раздели. Изберете друго местоназначение."
+  },
+  "cannotMixTabsGroupsFoldersDuringDrag": {
+    "message": "Не е възможно да смесвате раздели, групи и папки при плъзгане. Причината е, че например не можете да плъзнете папка на същите места, на които можете да плъзнете раздел."
+  },
+  "cannotMoveItemAncestorHere": {
+    "message": "Родителски елемент не може да бъде преместен в собствен дъщерен елемент, защото това би създало цикъл."
+  },
+  "cannotMoveItemIntoItself": {
+    "message": "Елемент не може да бъде преместен в самия себе си."
+  },
+  "canPasteWebContentForExample": {
+    "message": "Можете да поставите текст, копиран от уеб страница или документ, и връзките ще бъдат извлечени автоматично. Например:"
+  },
+  "caseSensitive": {
+    "message": "С различаване на главни/малки букви"
+  },
+  "changesMadeSinceSharedPageCreation": {
+    "message": "В съхранените ви раздели има промени, откакто споделихте тази страница. Кликнете върху бутона „Актуализиране“, за да актуализирате съществуващата споделена страница."
+  },
+  "changeThisSettingAtAnyTimeInfo": {
+    "message": "Можете да промените тази настройка по всяко време, като кликнете върху бутона „Опции“ в горната част на страницата си в OneTab."
+  },
+  "changeThisSettingAtAnyTimeInfoHtml": {
+    "message": "Можете да промените това по-късно в <b>Опции</b>."
+  },
+  "checkboxesDeterminePinnedAndGroupedTabMergeInclusion": {
+    "message": "Квадратчетата за отметка в горната част на тази страница определят дали фиксираните раздели или разделите в групи раздели да бъдат включени в обединяването."
+  },
+  "chooseALocation": {
+    "message": "Изберете местоположение"
+  },
+  "chooseALocationToImportTo": {
+    "message": "Изберете местоположение за импортиране"
+  },
+  "chooseExportLocation": {
+    "message": "Изберете местоположение, от което да експортирате"
+  },
+  "chooseLightDarkTheme": {
+    "message": "Избор на светла/тъмна тема"
+  },
+  "chooseLocationToCopyTo": {
+    "message": "Изберете местоположение за копиране"
+  },
+  "chooseLocationToMoveTo": {
+    "message": "Изберете местоположение за преместване"
+  },
+  "chooseLocationToRestoreTo": {
+    "message": "Изберете местоположение за възстановяване"
+  },
+  "chooseToIncludeNotes": {
+    "message": "Ако сте добавили бележки към раздели или групи, изберете дали да бъдат включени в споделената уеб страница"
+  },
+  "chooseToIncludeRatings": {
+    "message": "Ако сте добавили звезди към раздели или групи, изберете дали да бъдат включени в споделената уеб страница"
+  },
+  "chromeIncognitoInstructions": {
+    "message": "В настройките на браузъра отидете на „Настройки“ → „Разширения“ → „OneTab“ → „Подробности“, след което активирайте „Разрешаване в режим „инкогнито““."
+  },
+  "clickButtonToAllowTabAccess": {
+    "message": "Кликнете върху бутона по-долу, за да разрешите на OneTab достъп до отворените ви раздели."
+  },
+  "clickHereToContinue": {
+    "message": "Кликнете тук, за да продължите."
+  },
+  "clickOneTabIconToStoreTabsHere": {
+    "message": "Кликнете върху иконата на OneTab в лентата с инструменти на браузъра си, за да съхраните отворените си раздели тук."
+  },
+  "closeSelectedTabs_few": {
+    "message": "Затваряне на {COUNT} избрани раздела"
+  },
+  "closeSelectedTabs_many": {
+    "message": "Затваряне на {COUNT} избрани раздела"
+  },
+  "closeSelectedTabs_one": {
+    "message": "Затваряне на {COUNT} избран раздел"
+  },
+  "closeSelectedTabs_other": {
+    "message": "Затваряне на {COUNT} избрани раздела"
+  },
+  "closeSelectedTabs_two": {
+    "message": "Затваряне на {COUNT} избрани раздела"
+  },
+  "closeSelectedTabs_zero": {
+    "message": "Затваряне на {COUNT} избрани раздела"
+  },
+  "closeSelectedTabsAndStoreInONETAB_few": {
+    "message": "Затваряне на {COUNT} избрани раздела и съхраняване в ONETAB"
+  },
+  "closeSelectedTabsAndStoreInONETAB_many": {
+    "message": "Затваряне на {COUNT} избрани раздела и съхраняване в ONETAB"
+  },
+  "closeSelectedTabsAndStoreInONETAB_one": {
+    "message": "Затваряне на {COUNT} избран раздел и съхраняване в ONETAB"
+  },
+  "closeSelectedTabsAndStoreInONETAB_other": {
+    "message": "Затваряне на {COUNT} избрани раздела и съхраняване в ONETAB"
+  },
+  "closeSelectedTabsAndStoreInONETAB_two": {
+    "message": "Затваряне на {COUNT} избрани раздела и съхраняване в ONETAB"
+  },
+  "closeSelectedTabsAndStoreInONETAB_zero": {
+    "message": "Затваряне на {COUNT} избрани раздела и съхраняване в ONETAB"
+  },
+  "closeTabs_few": {
+    "message": "Затваряне на разделите"
+  },
+  "closeTabs_many": {
+    "message": "Затваряне на разделите"
+  },
+  "closeTabs_one": {
+    "message": "Затваряне на раздела"
+  },
+  "closeTabs_other": {
+    "message": "Затваряне на разделите"
+  },
+  "closeTabs_two": {
+    "message": "Затваряне на разделите"
+  },
+  "closeTabs_zero": {
+    "message": "Затваряне на разделите"
+  },
+  "closeTabsAfterMerge": {
+    "message": "Затваряне на разделите след обединяване"
+  },
+  "closeTabsAlreadyStoredInOneTab_few": {
+    "message": "Затваряне на {COUNT} раздела, вече съхранени в OneTab"
+  },
+  "closeTabsAlreadyStoredInOneTab_many": {
+    "message": "Затваряне на {COUNT} раздела, вече съхранени в OneTab"
+  },
+  "closeTabsAlreadyStoredInOneTab_one": {
+    "message": "Затваряне на {COUNT} раздел, вече съхранен в OneTab"
+  },
+  "closeTabsAlreadyStoredInOneTab_other": {
+    "message": "Затваряне на {COUNT} раздела, вече съхранени в OneTab"
+  },
+  "closeTabsAlreadyStoredInOneTab_two": {
+    "message": "Затваряне на {COUNT} раздела, вече съхранени в OneTab"
+  },
+  "closeTabsAlreadyStoredInOneTab_zero": {
+    "message": "Затваряне на {COUNT} раздела, вече съхранени в OneTab"
+  },
+  "closeTabsAndStore_few": {
+    "message": "Затваряне на разделите и съхраняване в ONETAB"
+  },
+  "closeTabsAndStore_many": {
+    "message": "Затваряне на разделите и съхраняване в ONETAB"
+  },
+  "closeTabsAndStore_one": {
+    "message": "Затваряне на раздела и съхраняване в ONETAB"
+  },
+  "closeTabsAndStore_other": {
+    "message": "Затваряне на разделите и съхраняване в ONETAB"
+  },
+  "closeTabsAndStore_two": {
+    "message": "Затваряне на разделите и съхраняване в ONETAB"
+  },
+  "closeTabsAndStore_zero": {
+    "message": "Затваряне на разделите и съхраняване в ONETAB"
+  },
+  "closeTheseDuplicates_few": {
+    "message": "Затваряне на тези дубликати"
+  },
+  "closeTheseDuplicates_many": {
+    "message": "Затваряне на тези дубликати"
+  },
+  "closeTheseDuplicates_one": {
+    "message": "Затваряне на този дубликат"
+  },
+  "closeTheseDuplicates_other": {
+    "message": "Затваряне на тези дубликати"
+  },
+  "closeTheseDuplicates_two": {
+    "message": "Затваряне на тези дубликати"
+  },
+  "closeTheseDuplicates_zero": {
+    "message": "Затваряне на тези дубликати"
+  },
+  "completedTaskFlagHelp": {
+    "message": "Този елемент е задача. Кликнете върху тази икона, за да го маркирате като чакаща (незавършена) задача."
+  },
+  "completeEditingShortcutInfo": {
+    "message": "При редактиране на поле за бележки завършване на редактирането"
+  },
+  "configureShortcuts": {
+    "message": "Настройване на клавишни комбинации"
+  },
+  "conflictingShortcutsHint": {
+    "message": "Ако някоя от горните клавишни комбинации не работи или има конфликт с други приложения, можете да зададете друга клавишна комбинация."
+  },
+  "continue": {
+    "message": "Продължаване"
+  },
+  "convertTabsIntoAList": {
+    "message": "Преобразуване на разделите в списък"
+  },
+  "copiedToClipboard": {
+    "message": "Копирано в буфера"
+  },
+  "copy": {
+    "message": "Копиране"
+  },
+  "copyLinksToClipboard": {
+    "message": "Копиране на връзките в буфера"
+  },
+  "copySharedPageUrl": {
+    "message": "Копиране на URL адреса на споделената страница"
+  },
+  "copyToClipboard": {
+    "message": "Копиране в буфера"
+  },
+  "copyToClipboardMenuItemHelp": {
+    "message": "Копирайте тези уеб връзки в буфера, за да можете да ги поставяте в други приложения. Можете да промените формата на текста в буфера на страницата с опции на OneTab."
+  },
+  "createANewGroupHere": {
+    "message": "Създаване на нова група тук"
+  },
+  "createdOnDate": {
+    "message": "Създадена на {DATE}"
+  },
+  "createdOnOrAfterColon": {
+    "message": "Създадено на или след:"
+  },
+  "createdOnOrBeforeColon": {
+    "message": "Създадено на или преди:"
+  },
+  "createFolderAbove": {
+    "message": "Създаване на папка над"
+  },
+  "createFolderAboveBelow": {
+    "message": "Създаване на папка над / под"
+  },
+  "createFolderAboveWithinBelow": {
+    "message": "Създаване на папка над / вътре / под"
+  },
+  "createFolderBelow": {
+    "message": "Създаване на папка под"
+  },
+  "createFolderWithin": {
+    "message": "Създаване на подпапка"
+  },
+  "createFolderWithinMenuItemHelp": {
+    "message": "Папките служат за организиране на групи от раздели. Папките съдържат групи, а групите съдържат раздели."
+  },
+  "createGroupAbove": {
+    "message": "Създаване на група над"
+  },
+  "createGroupAboveBelow": {
+    "message": "Създаване на група над / под"
+  },
+  "createGroupAboveWithinBelow": {
+    "message": "Създаване на група над / вътре / под"
+  },
+  "createGroupBelow": {
+    "message": "Създаване на група под"
+  },
+  "createGroupInsideDestination": {
+    "message": "Създаване на нова група в местоназначението"
+  },
+  "createGroupInsideDestinationHelp": {
+    "message": "Ако не е отметнато, разделите ви ще бъдат добавени директно в целевата група. Ако е отметнато, за разделите ви ще бъде създадена нова група раздели на браузъра в целевата група. Поставете отметка в това квадратче само ако искате да използвате функцията „групи раздели“ на браузъра си."
+  },
+  "createGroupMenuItemHelp": {
+    "message": "Създаване на нова празна група. Групата съдържа списък с раздели, които могат да бъдат възстановени заедно в прозорец."
+  },
+  "createGroupWithin": {
+    "message": "Създаване на група в текущата група"
+  },
+  "createNewGroupTip": {
+    "message": "За да създадете нова група, първо премахнете отметката от „Показване само на папки“. Така ще можете да видите новосъздадената група в списъка."
+  },
+  "darkTheme": {
+    "message": "Тъмна тема"
+  },
+  "dayCount_few": {
+    "message": "{COUNT} дни"
+  },
+  "dayCount_many": {
+    "message": "{COUNT} дни"
+  },
+  "dayCount_one": {
+    "message": "{COUNT} ден"
+  },
+  "dayCount_other": {
+    "message": "{COUNT} дни"
+  },
+  "dayCount_two": {
+    "message": "{COUNT} дни"
+  },
+  "dayCount_zero": {
+    "message": "{COUNT} дни"
+  },
+  "delete": {
+    "message": "Изтриване"
+  },
+  "deleteAllTrash": {
+    "message": "Изтриване на всичко от кошчето"
+  },
+  "deleteThisCopy": {
+    "message": "Изтриване на това копие"
+  },
+  "deselectAll": {
+    "message": "Премахване на избора от всички"
+  },
+  "destinationColon": {
+    "message": "Местоназначение:"
+  },
+  "disabled": {
+    "message": "Деактивирано"
+  },
+  "doneTaskCount_few": {
+    "message": "{COUNT} завършени"
+  },
+  "doneTaskCount_many": {
+    "message": "{COUNT} завършени"
+  },
+  "doneTaskCount_one": {
+    "message": "{COUNT} завършена"
+  },
+  "doneTaskCount_other": {
+    "message": "{COUNT} завършени"
+  },
+  "doneTaskCount_two": {
+    "message": "{COUNT} завършени"
+  },
+  "doneTaskCount_zero": {
+    "message": "{COUNT} завършени"
+  },
+  "dontCloseGroupedTabs": {
+    "message": "Без затваряне на раздели в групи раздели"
+  },
+  "dontClosePinnedTabs": {
+    "message": "Без затваряне на фиксирани раздели"
+  },
+  "dontCloseTabsFromDomains": {
+    "message": "Без затваряне на раздели от EXAMPLE.COM"
+  },
+  "dragCopyKeysHtml": {
+    "message": "<x-key>{CTRL}</x-key> или <x-key>{ALT}</x-key>"
+  },
+  "dragCopyModifierInfo": {
+    "message": "Задръжте клавиша ctrl или alt, докато плъзгате раздел, за да създадете негово копие вместо да го преместите."
+  },
+  "dragTabsHereForQuickList": {
+    "message": "Плъзнете съхранените си раздели или групи тук. Те ще бъдат добавени към бързия ви списък."
+  },
+  "editTabGroupTitleAndNotes": {
+    "message": "Редактиране на заглавието и бележките на групата раздели"
+  },
+  "emojiShortcutInfo": {
+    "message": "При редактиране на поле за бележки отваряне на инструмента за избор на емоджи"
+  },
+  "emptyInBrackets": {
+    "message": "(празно)"
+  },
+  "emptyOneTabInfoMsg": {
+    "message": "Когато имате отворени няколко раздела, кликнете върху иконата на OneTab в лентата с инструменти на браузъра и отворените Ви раздели ще се покажат тук."
+  },
+  "enabled": {
+    "message": "Активирано"
+  },
+  "everything": {
+    "message": "Всичко"
+  },
+  "exampleLink": {
+    "message": "Примерна връзка"
+  },
+  "exampleLinkTitle": {
+    "message": "Примерно заглавие на връзка"
+  },
+  "exampleLinkTitleOptional": {
+    "message": "Примерно заглавие на връзка (по избор)"
+  },
+  "exampleRichTextParagraph": {
+    "message": "Примерен абзац от текст с PLACEHOLDER и PLACEHOLDER"
+  },
+  "exampleWebsitePageTitle": {
+    "message": "Примерно заглавие на страница на уебсайт"
+  },
+  "excludeDomainFromOneTab": {
+    "message": "Изключване на EXAMPLE.COM от OneTab"
+  },
+  "excludeWebSiteFromOneTab": {
+    "message": "Изключване на този уебсайт от OneTab"
+  },
+  "expiresColon": {
+    "message": "Изтича:"
+  },
+  "export": {
+    "message": "Експортиране"
+  },
+  "exportImportUrls": {
+    "message": "Експортиране / Импортиране на URL адреси"
+  },
+  "exportThenImportNote": {
+    "message": "Следният списък с URL адреси може също да бъде импортиран обратно в OneTab на този или на друг компютър"
+  },
+  "exportUrls": {
+    "message": "Експортиране на URL адреси"
+  },
+  "feedback": {
+    "message": "Обратна връзка"
+  },
+  "filter": {
+    "message": "Филтър"
+  },
+  "firefoxIncognitoInstructions": {
+    "message": "В настройките на браузъра отидете на „Настройки“ → „Добавки и теми“ → „Разширения“ → „OneTab“ → „...“ → „Управление“, след което активирайте „Изпълнение в поверителни прозорци“."
+  },
+  "firefoxIndexedDbUnavailable": {
+    "message": "OneTab не може да съхранява или извлича данни. Ако сте настроили Firefox никога да не запомня историята, това ще попречи на OneTab да функционира правилно. В противен случай се свържете с нас чрез нашия уебсайт и може да успеем да помогнем."
+  },
+  "firefoxShortcutConfigInstructions": {
+    "message": "Въведете URL адреса \"about:addons?type=extension\" в адресната лента на браузъра. Когато страницата се покаже, кликнете върху иконата със зъбно колело, след което изберете „Управление на клавишните комбинации на разширенията“"
+  },
+  "Folder": {
+    "message": "Папка"
+  },
+  "folderCount_few": {
+    "message": "{COUNT} папки"
+  },
+  "folderCount_many": {
+    "message": "{COUNT} папки"
+  },
+  "folderCount_one": {
+    "message": "{COUNT} папка"
+  },
+  "folderCount_other": {
+    "message": "{COUNT} папки"
+  },
+  "folderCount_two": {
+    "message": "{COUNT} папки"
+  },
+  "folderCount_zero": {
+    "message": "{COUNT} папки"
+  },
+  "folders": {
+    "message": "Папки"
+  },
+  "foldersOnly": {
+    "message": "Само папки"
+  },
+  "foldGroup": {
+    "message": "Свиване на групата"
+  },
+  "gettingStarted": {
+    "message": "Първи стъпки"
+  },
+  "gotIt": {
+    "message": "Разбрах"
+  },
+  "goToParentFolder": {
+    "message": "Отиване в родителската папка"
+  },
+  "groupCount_few": {
+    "message": "{COUNT} групи"
+  },
+  "groupCount_many": {
+    "message": "{COUNT} групи"
+  },
+  "groupCount_one": {
+    "message": "{COUNT} група"
+  },
+  "groupCount_other": {
+    "message": "{COUNT} групи"
+  },
+  "groupCount_two": {
+    "message": "{COUNT} групи"
+  },
+  "groupCount_zero": {
+    "message": "{COUNT} групи"
+  },
+  "groups": {
+    "message": "Групи"
+  },
+  "hasNotes": {
+    "message": "С бележки"
+  },
+  "help": {
+    "message": "Помощ"
+  },
+  "hideArchivedItems": {
+    "message": "Скриване на архивираните елементи"
+  },
+  "import": {
+    "message": "Импортиране"
+  },
+  "importAndExport": {
+    "message": "Импортиране и експортиране"
+  },
+  "importBookmarks": {
+    "message": "Импортиране на отметки"
+  },
+  "importedBookmarks": {
+    "message": "Импортирани отметки"
+  },
+  "importExportShareMenuNoteHtml": {
+    "message": "Можете също да експортирате разделите си като уеб страница за споделяне или HTML файл, като използвате опциите <b>Споделяне като уеб страница</b> и <b>Запазване като HTML файл</b> в менюто <b>Още…</b> на група или папка."
+  },
+  "importFolderAndSubfolders": {
+    "message": "Импортиране на папката и подпапките"
+  },
+  "importLinksHere": {
+    "message": "Импортиране на връзки тук"
+  },
+  "importLinksHereMenuItemHelp": {
+    "message": "Можете да поставите списък с уеб връзки или да импортирате отметки от браузъра."
+  },
+  "importNotesTruncatedNotice": {
+    "message": "Някои импортирани бележки надвишаваха ограничението от {MAX} знака, затова краищата им бяха съкратени."
+  },
+  "importReadingList": {
+    "message": "Импортиране на списъка за четене"
+  },
+  "importText": {
+    "message": "Импортиране на текст"
+  },
+  "importUrls": {
+    "message": "Импортиране на URL адреси"
+  },
+  "includeGroupedTabs": {
+    "message": "Включване на групирани раздели"
+  },
+  "includeNotes": {
+    "message": "Включване на бележки"
+  },
+  "includePinnedTabs": {
+    "message": "Включване на фиксирани раздели"
+  },
+  "includeStarRatings": {
+    "message": "Включване на звездите"
+  },
+  "includeTabsAlreadyStored": {
+    "message": "Включване на вече съхранените раздели"
+  },
+  "includeTabsFromDomains": {
+    "message": "Включване на раздели от EXAMPLE.COM"
+  },
+  "incogitoPermissionRequired": {
+    "message": "OneTab се нуждае от разрешение за създаване на прозорци в режим „инкогнито“."
+  },
+  "incognitoWindows": {
+    "message": "Прозорци в режим „инкогнито“"
+  },
+  "invertSelection": {
+    "message": "Обръщане на избора"
+  },
+  "itemTextTruncatedNotice": {
+    "message": "Текстът надвишаваше ограничението (бележките могат да съдържат {NOTESMAX} знака, а заглавията — {TITLEMAX}), затова краят му беше съкратен."
+  },
+  "justNow": {
+    "message": "току-що"
+  },
+  "kbdNavBackspaceInfo": {
+    "message": "Отиване нагоре към родителската папка"
+  },
+  "kbdNavEnterInfo": {
+    "message": "Възстановяване на раздели или отваряне на папка"
+  },
+  "kbdNavEscInfo": {
+    "message": "Край на навигацията с клавиатура"
+  },
+  "kbdNavFocusInfo": {
+    "message": "Промяна на фокуса от групи към раздели"
+  },
+  "kbdNavFoldInfo": {
+    "message": "Свиване / разгъване на група"
+  },
+  "kbdNavMoveInfo": {
+    "message": "Преминаване между елементи"
+  },
+  "kbdNavTabInfo": {
+    "message": "Започване на навигация с клавиатура"
+  },
+  "keyboardShortcutsColon": {
+    "message": "Клавишни комбинации:"
+  },
+  "languageTitle": {
+    "message": "Език:"
+  },
+  "licenseAlreadyHaveKey": {
+    "message": "Вече имам лицензионен ключ"
+  },
+  "licenseAlreadySetUpRestarting": {
+    "message": "Този лиценз вече е настроен, затова ще свържем това устройство със съществуващата конфигурация. На регистрирания адрес е изпратен нов код по имейл."
+  },
+  "licenseBackLink": {
+    "message": "Назад"
+  },
+  "licenseBrowserOnOs": {
+    "message": "{BROWSER} на {OS}"
+  },
+  "licenseBrowsersActiveOn": {
+    "message": "Активен на {DATE}"
+  },
+  "licenseBrowsersActiveToday": {
+    "message": "Активен днес"
+  },
+  "licenseBrowsersAdded": {
+    "message": "Добавен на {DATE}"
+  },
+  "licenseBrowsersThisBrowser": {
+    "message": "Този браузър"
+  },
+  "licenseBrowserUnknown": {
+    "message": "Браузър"
+  },
+  "licenseChangeEmail": {
+    "message": "Промяна на имейл адреса"
+  },
+  "licenseChangeEmailWebLink": {
+    "message": "Промяна на имейл адреса"
+  },
+  "licenseChooseRecoveryTitle": {
+    "message": "Изберете как да бъде защитен ключът Ви за шифроване"
+  },
+  "licenseCloseModal": {
+    "message": "Затваряне"
+  },
+  "licenseCodeExpired": {
+    "message": "Срокът на този код е изтекъл. Моля, поискайте нов имейл."
+  },
+  "licenseCodeIncorrectTriesRemaining": {
+    "message": "Неправилен код. Оставащи опити: {COUNT}."
+  },
+  "licenseCodeInvalidFormat": {
+    "message": "Въведете 6-цифрения код от имейла."
+  },
+  "licenseCodePlaceholder": {
+    "message": "6-цифрен код"
+  },
+  "licenseCodeSentTo": {
+    "message": "Въведете 6-цифрения код, който изпратихме по имейл на {EMAIL}."
+  },
+  "licenseCodeSourceDeviceOption": {
+    "message": "Получаване на код от вече свързан браузър"
+  },
+  "licenseCodeSourceDeviceOptionDescription": {
+    "message": "Отворете там „Архивиране и синхронизиране“ и кликнете върху „Свързване на друг браузър или профил“."
+  },
+  "licenseCodeSourceEmailOption": {
+    "message": "Изпращане на код по имейл на {EMAIL}"
+  },
+  "licenseCodeSourceTitle": {
+    "message": "Получаване на код за потвърждение"
+  },
+  "licenseCodeTriesExhausted": {
+    "message": "Не остават опити за този код. Моля, поискайте нов имейл."
+  },
+  "licenseConnectAnotherBrowser": {
+    "message": "Свързване на друг браузър или профил"
+  },
+  "licenseConnectedBrowsers": {
+    "message": "Свързани браузъри"
+  },
+  "licenseDeviceAddConnected": {
+    "message": "{BROWSER} току-що се свърза с лиценза Ви."
+  },
+  "licenseDeviceAddExpired": {
+    "message": "Срокът на този код е изтекъл."
+  },
+  "licenseDeviceAddExpiresIn": {
+    "message": "Изтича след {TIME}"
+  },
+  "licenseDeviceAddGetNewCode": {
+    "message": "Получаване на нов код"
+  },
+  "licenseDeviceAddIntro": {
+    "message": "За да свържете друг браузър или профил, въведете лицензионния си ключ там, след което въведете този код, когато бъдете подканени."
+  },
+  "licenseDeviceAddKeyReminder": {
+    "message": "Ще Ви е необходим и лицензионният ключ — той не е показан тук. Ще го намерите в имейла, с който първоначално сте го получили, или на страницата си за плащания."
+  },
+  "licenseDeviceAddNeverShare": {
+    "message": "Използвайте този код само в собствения си нов браузър. Никога не го споделяйте с никого — OneTab никога няма да Ви го поиска. Той работи само за лиценза на този браузър."
+  },
+  "licenseDeviceCodeInsteadLink": {
+    "message": "Получаване на код от свързан браузър вместо това"
+  },
+  "licenseDeviceCodePrompt": {
+    "message": "В браузър, който вече е свързан с лиценза Ви, отворете „Архивиране и синхронизиране“ и кликнете върху „Свързване на друг браузър или профил“. Въведете показания там 6-цифрен код."
+  },
+  "licenseDeviceLimitReached": {
+    "message": "Този лиценз е достигнал максималния брой устройства."
+  },
+  "licenseDoneButton": {
+    "message": "Готово"
+  },
+  "licenseEasyOptionDescription": {
+    "message": "Ключът Ви за шифроване се съхранява защитено на сървъра, така че можете да го възстановите чрез имейл."
+  },
+  "licenseEasyOptionLabel": {
+    "message": "Лесно"
+  },
+  "licenseEmailCodeInsteadLink": {
+    "message": "Изпращане на код по имейл вместо това"
+  },
+  "licenseEmailPlaceholder": {
+    "message": "Имейл адрес"
+  },
+  "licenseEmailPrompt": {
+    "message": "Вашият имейл адрес"
+  },
+  "licenseForgotKeyBack": {
+    "message": "Назад към въвеждането на лицензионен ключ"
+  },
+  "licenseForgotKeyEnterKeyButton": {
+    "message": "Въвеждане на лицензионен ключ"
+  },
+  "licenseForgotKeyLink": {
+    "message": "Забравили сте лицензионния си ключ?"
+  },
+  "licenseForgotKeyNoEmailOnRecord": {
+    "message": "С този имейл адрес не е свързан лицензионен ключ. Проверете за печатни грешки или опитайте с друг адрес, който може да сте използвали."
+  },
+  "licenseForgotKeyPrompt": {
+    "message": "Въведете имейл адреса си. Ако с него е регистриран лицензионен ключ, ще Ви изпратим ключа по имейл."
+  },
+  "licenseForgotKeySendButton": {
+    "message": "Изпращане"
+  },
+  "licenseForgotKeySentTo": {
+    "message": "Изпратихме лицензионния Ви ключ по имейл на {EMAIL}. Когато пристигне, можете да го въведете тук."
+  },
+  "licenseForgotKeyTooManyRequests": {
+    "message": "Лицензионният Ви ключ вече беше изпращан няколко пъти наскоро на този адрес. Проверете папката си за нежелана поща или опитайте отново утре."
+  },
+  "licenseGenericError": {
+    "message": "Възникна проблем. Моля, опитайте отново."
+  },
+  "licenseGoButton": {
+    "message": "Напред"
+  },
+  "licenseInvalidEmail": {
+    "message": "Моля, въведете валиден имейл адрес."
+  },
+  "licenseKeyInvalidFormat": {
+    "message": "Това не изглежда като валиден лицензионен ключ. Той трябва да съдържа 20 букви (A–F) и цифри във формат XXXX-XXXX-XXXX-XXXX-XXXX."
+  },
+  "licenseKeyNotFound": {
+    "message": "Лицензионният ключ не е намерен. Проверете го и опитайте отново."
+  },
+  "licenseNoLongerActiveError": {
+    "message": "Този лиценз вече не е активен. Ако смятате, че това е грешка, свържете се с поддръжката."
+  },
+  "licenseRateLimitedError": {
+    "message": "Твърде много неуспешни опити от Вашата мрежа. Изчакайте известно време и опитайте отново."
+  },
+  "licenseResendEmail": {
+    "message": "Изпращане на нов имейл"
+  },
+  "licenseServiceProblemTryLater": {
+    "message": "Това не може да бъде завършено в момента поради проблем от наша страна. Опитайте отново по-късно. Ако проблемът продължава, свържете се с поддръжката."
+  },
+  "licenseSuccess": {
+    "message": "Успешно! Съхранените Ви раздели вече ще бъдат шифровани и надеждно архивирани в облака."
+  },
+  "licenseSuccessJoin": {
+    "message": "Успешно! Този браузър се присъедини към шифрованото Ви резервно копие. Съхранените раздели оттук и от другите Ви браузъри вече ще се синхронизират."
+  },
+  "licenseSuggestedEmailIntro": {
+    "message": "Лицензионният Ви ключ е изпратен по имейл на:"
+  },
+  "licenseSuggestedEmailNote": {
+    "message": "Този адрес ще се използва за изпращане на кодове за потвърждение и за възстановяване на профила, затова се уверете, че е Ваш."
+  },
+  "licenseSuspendedBillingError": {
+    "message": "Този лиценз не може да бъде свързан в момента поради проблем с плащането. Ако Вие управлявате плащанията, влезте в профила си на one-tab.com, за да разрешите проблема. В противен случай се свържете с лицето, отговорно за закупуването на лиценза Ви."
+  },
+  "licenseUltraKeyConfirmCheckbox": {
+    "message": "Запазих копие на ключа си и разбирам, че той никога няма да бъде показан отново."
+  },
+  "licenseUltraKeyConfirmRequired": {
+    "message": "Потвърдете, че сте запазили копие на ключа си."
+  },
+  "licenseUltraKeyEnterPrompt": {
+    "message": "Въведете ключа си за шифроване, за да завършите свързването на това устройство."
+  },
+  "licenseUltraKeyIntro": {
+    "message": "Това е ключът Ви за шифроване. Запазете негово копие на сигурно място, например в програма за управление на пароли, за да можете да възстановите данните си при повреда или кражба на компютъра."
+  },
+  "licenseUltraKeyMismatch": {
+    "message": "Този ключ не е правилният за този лиценз. Проверете го и опитайте отново."
+  },
+  "licenseUltraKeyNeverShownAgain": {
+    "message": "Този ключ НИКОГА няма да бъде показан отново."
+  },
+  "licenseUltraKeyPlaceholder": {
+    "message": "Ключ за шифроване"
+  },
+  "licenseUltraOptionDescription": {
+    "message": "Само Вие разполагате с ключа за шифроване и ако го изгубите, той не може да бъде възстановен. Изберете тази опция само ако сте сигурни, че можете да запазите негово копие на сигурно място."
+  },
+  "licenseUltraOptionLabel": {
+    "message": "Максимална поверителност"
+  },
+  "licenseUseDifferentEmail": {
+    "message": "Използване на друг имейл адрес"
+  },
+  "lightTheme": {
+    "message": "Светла тема"
+  },
+  "localBackupRestoredModal": {
+    "message": "Частта от профила на браузъра Ви, в която се съхраняват данните на OneTab, е повредена или изтрита. Това може да се случи след срив на браузъра или когато неизправен софтуер за почистване на системата или поверителността премахне данни на браузъра."
+  },
+  "localBackupRestoredModalRecovery": {
+    "message": "Този път сте имали късмет: повредата не е засегнала отделната част от профила, в която OneTab съхранява седмично резервно копие, затова разделите Ви са възстановени от резервното копие, създадено на {DATE}. Всичко, което сте съхранили или променили след тази дата, не можа да бъде възстановено. Ако целият профил беше изгубен или резервното копие също беше повредено, нямаше да има откъде да се възстановят данните."
+  },
+  "localBackupRestoredModalTitle": {
+    "message": "OneTab възстанови разделите Ви след загуба на данни"
+  },
+  "localeId": {
+    "message": "bg"
+  },
+  "locationColon": {
+    "message": "Местоположение:"
+  },
+  "lock": {
+    "message": "Заключване"
+  },
+  "lockedGroupUnlockHelp": {
+    "message": "За да отключите, използвайте менюто „Още…“. Когато група е заключена, не можете да изтривате групата или разделите ѝ и разделите не могат да се пренареждат."
+  },
+  "lockMenuItemHelp": {
+    "message": "Когато група е заключена, не можете да премахвате или пренареждате елементи в групата (докато не я отключите)."
+  },
+  "makeThisATask": {
+    "message": "Маркиране като задача"
+  },
+  "manifestDescription": {
+    "message": "Спестете до 95% памет и намалете претрупването с раздели"
+  },
+  "markAsArchived": {
+    "message": "Маркиране като архивирано"
+  },
+  "markAsArchivedMenuItemHelp": {
+    "message": "Когато маркирате елемент като архивиран, той ще има сив фон. Това е визуален индикатор, че сте приключили с този елемент (например статия, която сте прочели). Ако архивирате нещо, маркирано като задача, задачата вече няма да се показва в колоната със задачи на страницата ви в OneTab."
+  },
+  "markAsDoneTask": {
+    "message": "Маркиране като завършена задача"
+  },
+  "markAsDoneTaskMenuItemHelp": {
+    "message": "Визуално показване, че задачата е завършена"
+  },
+  "markAsPendingTask": {
+    "message": "Маркиране като задача в ход"
+  },
+  "markAsPendingTaskMenuItemHelp": {
+    "message": "Визуално показване, че този елемент е задача. Ще се появи икона за задача, върху която можете да кликнете, за да покажете визуално, че задачата е завършена. Всички задачи (освен ако не са маркирани като архивирани) ще се показват и в колоната със задачи на страницата ви в OneTab."
+  },
+  "matchCount_few": {
+    "message": "{COUNT} съвпадения"
+  },
+  "matchCount_many": {
+    "message": "{COUNT} съвпадения"
+  },
+  "matchCount_one": {
+    "message": "{COUNT} съвпадение"
+  },
+  "matchCount_other": {
+    "message": "{COUNT} съвпадения"
+  },
+  "matchCount_two": {
+    "message": "{COUNT} съвпадения"
+  },
+  "matchCount_zero": {
+    "message": "{COUNT} съвпадения"
+  },
+  "matchWholeWordsOnly": {
+    "message": "Само цели думи"
+  },
+  "mayNeedToRestartBrowser": {
+    "message": "Ако виждате това съобщение всеки път, актуализирайте и рестартирайте браузъра си."
+  },
+  "mergeIntoParent": {
+    "message": "Обединяване с родителския елемент"
+  },
+  "mergeOpenTabsHere_few": {
+    "message": "Обединяване на {COUNT} отворени раздела тук"
+  },
+  "mergeOpenTabsHere_many": {
+    "message": "Обединяване на {COUNT} отворени раздела тук"
+  },
+  "mergeOpenTabsHere_one": {
+    "message": "Обединяване на {COUNT} отворен раздел тук"
+  },
+  "mergeOpenTabsHere_other": {
+    "message": "Обединяване на {COUNT} отворени раздела тук"
+  },
+  "mergeOpenTabsHere_two": {
+    "message": "Обединяване на {COUNT} отворени раздела тук"
+  },
+  "mergeOpenTabsHere_zero": {
+    "message": "Обединяване на {COUNT} отворени раздела тук"
+  },
+  "mergeSelectedTabsHere_few": {
+    "message": "Обединяване на {COUNT} избрани раздела тук"
+  },
+  "mergeSelectedTabsHere_many": {
+    "message": "Обединяване на {COUNT} избрани раздела тук"
+  },
+  "mergeSelectedTabsHere_one": {
+    "message": "Обединяване на {COUNT} избран раздел тук"
+  },
+  "mergeSelectedTabsHere_other": {
+    "message": "Обединяване на {COUNT} избрани раздела тук"
+  },
+  "mergeSelectedTabsHere_two": {
+    "message": "Обединяване на {COUNT} избрани раздела тук"
+  },
+  "mergeSelectedTabsHere_zero": {
+    "message": "Обединяване на {COUNT} избрани раздела тук"
+  },
+  "mergeWithInnerGroups": {
+    "message": "Обединяване с вътрешните групи"
+  },
+  "modalMoveToTrashHintExampleGroupTitle": {
+    "message": "Примерно заглавие на група"
+  },
+  "modalMoveToTrashHintHeading": {
+    "message": "Съвет: Задръжте курсора над заглавие на група, след което кликнете върху X, за да я преместите в кошчето."
+  },
+  "modalOptionAutoActionOnOpenHeading": {
+    "message": "След възстановяване на раздели:"
+  },
+  "modalOptionAutoActionOnOpenOpenDesc": {
+    "message": "Ръчно изтриване след приключване"
+  },
+  "modalOptionAutoActionOnOpenTrashDesc": {
+    "message": "По-лесно за бързо съхраняване и възстановяване"
+  },
+  "modalRemigrationDontAskAgain": {
+    "message": "Да не се пита отново"
+  },
+  "modalRemigrationFooterHtml": {
+    "message": "Кликнете върху <b>Да</b>, освен ако миграцията вече е извършена и умишлено сте изтрили мигрираните раздели."
+  },
+  "modalRemigrationNotNow": {
+    "message": "Не сега"
+  },
+  "modalRemigrationTabsFoundPrompt_few": {
+    "message": "Намерени са {COUNT} раздела от OneTab v1. Да бъдат ли мигрирани?"
+  },
+  "modalRemigrationTabsFoundPrompt_many": {
+    "message": "Намерени са {COUNT} раздела от OneTab v1. Да бъдат ли мигрирани?"
+  },
+  "modalRemigrationTabsFoundPrompt_one": {
+    "message": "Намерен е {COUNT} раздел от OneTab v1. Да бъде ли мигриран?"
+  },
+  "modalRemigrationTabsFoundPrompt_other": {
+    "message": "Намерени са {COUNT} раздела от OneTab v1. Да бъдат ли мигрирани?"
+  },
+  "modalRemigrationTabsFoundPrompt_two": {
+    "message": "Намерени са {COUNT} раздела от OneTab v1. Да бъдат ли мигрирани?"
+  },
+  "modalRemigrationTabsFoundPrompt_zero": {
+    "message": "Намерени са {COUNT} раздела от OneTab v1. Да бъдат ли мигрирани?"
+  },
+  "modalRemigrationYes": {
+    "message": "Да"
+  },
+  "modalUpdateToV2Heading": {
+    "message": "OneTab е актуализиран"
+  },
+  "modalUpdateToV2QuickTourHtml": {
+    "message": "Искате бърз преглед? Кликнете върху <b>Помощ</b> горе."
+  },
+  "modalUpdateToV2UseOneTabLikeBefore": {
+    "message": "Все още можете да използвате OneTab както преди — да съхранявате разделите си с едно кликване."
+  },
+  "modifySharing": {
+    "message": "Промяна на споделянето"
+  },
+  "moreEllipsis": {
+    "message": "Още…"
+  },
+  "moreSearchFilters": {
+    "message": "Още филтри за търсене"
+  },
+  "move": {
+    "message": "Преместване"
+  },
+  "moveBack": {
+    "message": "Преместване обратно"
+  },
+  "moveToTrash": {
+    "message": "Преместване в кошчето"
+  },
+  "namedOnly": {
+    "message": "Само именувани елементи"
+  },
+  "navigationFilter": {
+    "message": "Филтър за навигацията"
+  },
+  "navigationFilterColumnOnlyNote": {
+    "message": "Този филтър се прилага само за навигационната колона."
+  },
+  "newExclamation": {
+    "message": "Ново!"
+  },
+  "noDupsExistExceptForColon": {
+    "message": "Няма дубликати, освен:"
+  },
+  "noDupsFoundHere": {
+    "message": "Тук не са намерени дубликати"
+  },
+  "noMatches": {
+    "message": "Няма съвпадения"
+  },
+  "noMatchesFound": {
+    "message": "Не са намерени съвпадения"
+  },
+  "nonArchived": {
+    "message": "Неархивирани"
+  },
+  "nonTabPinFlagHelp": {
+    "message": "Този елемент е закачен най-горе в папката. Кликнете върху тази икона, за да го откачите."
+  },
+  "noOpenTabsToStore": {
+    "message": "В този прозорец няма отворени раздели за съхраняване."
+  },
+  "noReadingListEntries": {
+    "message": "Не са намерени записи в списъка за четене"
+  },
+  "noTabsInOneTabYet": {
+    "message": "Все още нямате раздели в OneTab"
+  },
+  "noTabsMeetCriteriaUseCheckboxes": {
+    "message": "Няма отворени раздели, които да отговарят на критериите ви. Моля, използвайте квадратчетата за отметка по-горе."
+  },
+  "notAssigned": {
+    "message": "Няма зададена"
+  },
+  "notes": {
+    "message": "Бележки"
+  },
+  "notesAboutTheLinkOptional": {
+    "message": "Бележки за връзката (по избор)"
+  },
+  "notesAboutTheSecondLinkOptional": {
+    "message": "Бележки за втората връзка (по избор)"
+  },
+  "noTextHasBeenEntered": {
+    "message": "Не е въведен текст"
+  },
+  "ok": {
+    "message": "OK"
+  },
+  "omniboxShortcutInfo": {
+    "message": "За да търсите в списъка Ви в OneTab от който и да е раздел: отидете в адресната лента на браузъра си, въведете 11, след това интервал, после ключова дума за търсене. За да извършите обикновено търсене (не в OneTab), започващо с 11, натиснете 11, след това интервал, после Backspace"
+  },
+  "OneTabAlsoAvailableForFirefox": {
+    "message": "OneTab се предлага и за Firefox"
+  },
+  "oneTabDesignedToProtectPrivacy": {
+    "message": "OneTab е създаден да защитава поверителността ви. Разделите ви не се разкриват пред нас."
+  },
+  "oneTabExportPageTitle": {
+    "message": "Експортиране от OneTab"
+  },
+  "oneTabFolderSlashShortcutInfo": {
+    "message": "Фокусиране на полето за търсене и търсене само в текущата папка"
+  },
+  "oneTabImportExportPageTitle": {
+    "message": "Импортиране/експортиране в OneTab"
+  },
+  "oneTabNeedsPermissionToAccessYourTabs": {
+    "message": "OneTab се нуждае от разрешение за достъп до разделите Ви."
+  },
+  "oneTabOptionsPageTitle": {
+    "message": "Опции на OneTab"
+  },
+  "oneTabPermissionRequired": {
+    "message": "OneTab – изисква се разрешение"
+  },
+  "oneTabRestartRequired": {
+    "message": "OneTab трябва да се рестартира. Няма да бъдат затворени други раздели."
+  },
+  "oneTabSlashShortcutInfo": {
+    "message": "Фокусиране на полето за търсене"
+  },
+  "open": {
+    "message": "Отваряне"
+  },
+  "openActionPopup": {
+    "message": "Действие на OneTab (еквивалентно на кликване върху иконата на OneTab в лентата с инструменти)"
+  },
+  "openAsCollapsedTabGroup": {
+    "message": "Отваряне като „свита“ група раздели"
+  },
+  "openAsCollapsedTabGroupMenuItemHelp": {
+    "message": "Ако отворите тези раздели като свита „група раздели“, ще се показва само етикетът на групата, докато не кликнете върху него, за да се покажат разделите вътре."
+  },
+  "openAsPinnedTab": {
+    "message": "Фиксиране на раздела при отваряне"
+  },
+  "openAsPinnedTabMenuItemHelp": {
+    "message": "Когато този раздел бъде възстановен, възстановете го като фиксиран раздел на браузъра. Фиксираните раздели винаги се показват първи в прозореца на браузъра."
+  },
+  "openAsTabGroup": {
+    "message": "Отваряне като група раздели в браузъра"
+  },
+  "openAsTabGroupMenuItemHelp": {
+    "message": "Браузърът ви позволява разделите да бъдат групирани в цветни „групи раздели“ в рамките на прозорец."
+  },
+  "openFolder": {
+    "message": "Отваряне на папката"
+  },
+  "openGroupsLimitNotice_few": {
+    "message": "За да се предотврати претоварване на браузъра Ви, ще се отворят само първите {COUNT} групи."
+  },
+  "openGroupsLimitNotice_many": {
+    "message": "За да се предотврати претоварване на браузъра Ви, ще се отворят само първите {COUNT} групи."
+  },
+  "openGroupsLimitNotice_one": {
+    "message": "За да се предотврати претоварване на браузъра Ви, ще се отвори само {COUNT} група – първата."
+  },
+  "openGroupsLimitNotice_other": {
+    "message": "За да се предотврати претоварване на браузъра Ви, ще се отворят само първите {COUNT} групи."
+  },
+  "openGroupsLimitNotice_two": {
+    "message": "За да се предотврати претоварване на браузъра Ви, ще се отворят само първите {COUNT} групи."
+  },
+  "openGroupsLimitNotice_zero": {
+    "message": "За да се предотврати претоварване на браузъра Ви, ще се отворят само първите {COUNT} групи."
+  },
+  "openInIncognitoWindow": {
+    "message": "Възстановяване в нов прозорец в режим „инкогнито“"
+  },
+  "openInNewWindow": {
+    "message": "Възстановяване в нов прозорец"
+  },
+  "openInThisWindow": {
+    "message": "Възстановяване в този прозорец"
+  },
+  "openOneTab": {
+    "message": "Отваряне на OneTab"
+  },
+  "openOneTabAfter": {
+    "message": "Отваряне на OneTab след съхраняване на раздели"
+  },
+  "openONETABLogo": {
+    "message": "Отваряне на ONETAB"
+  },
+  "openParentFolder": {
+    "message": "Отваряне на родителската папка"
+  },
+  "openTabFromWebsite": {
+    "message": "Отворете раздел и отидете на уебсайта"
+  },
+  "openTabLimit_few": {
+    "message": "За да се предотврати претоварване на браузъра Ви, наведнъж могат да се отворят най-много {COUNT} раздела."
+  },
+  "openTabLimit_many": {
+    "message": "За да се предотврати претоварване на браузъра Ви, наведнъж могат да се отворят най-много {COUNT} раздела."
+  },
+  "openTabLimit_one": {
+    "message": "За да се предотврати претоварване на браузъра Ви, наведнъж може да се отвори най-много {COUNT} раздел."
+  },
+  "openTabLimit_other": {
+    "message": "За да се предотврати претоварване на браузъра Ви, наведнъж могат да се отворят най-много {COUNT} раздела."
+  },
+  "openTabLimit_two": {
+    "message": "За да се предотврати претоварване на браузъра Ви, наведнъж могат да се отворят най-много {COUNT} раздела."
+  },
+  "openTabLimit_zero": {
+    "message": "За да се предотврати претоварване на браузъра Ви, наведнъж могат да се отворят най-много {COUNT} раздела."
+  },
+  "openTabsAlreadyStoredHere_few": {
+    "message": "{COUNT} отворени раздела вече са съхранени тук:"
+  },
+  "openTabsAlreadyStoredHere_many": {
+    "message": "{COUNT} отворени раздела вече са съхранени тук:"
+  },
+  "openTabsAlreadyStoredHere_one": {
+    "message": "{COUNT} отворен раздел вече е съхранен тук:"
+  },
+  "openTabsAlreadyStoredHere_other": {
+    "message": "{COUNT} отворени раздела вече са съхранени тук:"
+  },
+  "openTabsAlreadyStoredHere_two": {
+    "message": "{COUNT} отворени раздела вече са съхранени тук:"
+  },
+  "openTabsAlreadyStoredHere_zero": {
+    "message": "{COUNT} отворени раздела вече са съхранени тук:"
+  },
+  "openTabsConfirm_few": {
+    "message": "Предстои да отворите {COUNT} раздела. Сигурни ли сте?"
+  },
+  "openTabsConfirm_many": {
+    "message": "Предстои да отворите {COUNT} раздела. Сигурни ли сте?"
+  },
+  "openTabsConfirm_one": {
+    "message": "Предстои да отворите {COUNT} раздел. Сигурни ли сте?"
+  },
+  "openTabsConfirm_other": {
+    "message": "Предстои да отворите {COUNT} раздела. Сигурни ли сте?"
+  },
+  "openTabsConfirm_two": {
+    "message": "Предстои да отворите {COUNT} раздела. Сигурни ли сте?"
+  },
+  "openTabsConfirm_zero": {
+    "message": "Предстои да отворите {COUNT} раздела. Сигурни ли сте?"
+  },
+  "openTabsNotStoredInOneTab_few": {
+    "message": "{COUNT} отворени раздела не са съхранени в OneTab"
+  },
+  "openTabsNotStoredInOneTab_many": {
+    "message": "{COUNT} отворени раздела не са съхранени в OneTab"
+  },
+  "openTabsNotStoredInOneTab_one": {
+    "message": "{COUNT} отворен раздел не е съхранен в OneTab"
+  },
+  "openTabsNotStoredInOneTab_other": {
+    "message": "{COUNT} отворени раздела не са съхранени в OneTab"
+  },
+  "openTabsNotStoredInOneTab_two": {
+    "message": "{COUNT} отворени раздела не са съхранени в OneTab"
+  },
+  "openTabsNotStoredInOneTab_zero": {
+    "message": "{COUNT} отворени раздела не са съхранени в OneTab"
+  },
+  "optionAutoActionOnOpenArchiveDesc": {
+    "message": "Маркирането на раздели като архивирани им дава сив фон на ивици. Това е визуална индикация, че сте прочели разделите или сте приключили с тях."
+  },
+  "optionAutoActionOnOpenArchiveTitle": {
+    "message": "Маркиране като архивирани"
+  },
+  "optionAutoActionOnOpenHeading": {
+    "message": "При възстановяване на раздели:"
+  },
+  "optionAutoActionOnOpenNote": {
+    "message": "Заключените групи винаги запазват разделите си"
+  },
+  "optionAutoActionOnOpenOpenDesc": {
+    "message": "За да маркирате разделите като архивирани при възстановяването им, задръжте клавиша Alt или Option"
+  },
+  "optionAutoActionOnOpenOpenTitle": {
+    "message": "Запазване в списъка ви"
+  },
+  "optionAutoActionOnOpenTrashDesc": {
+    "message": "За да запазите разделите в списъка си при възстановяването им, задръжте клавиша Ctrl или Cmd"
+  },
+  "optionAutoActionOnOpenTrashTitle": {
+    "message": "Премахване от списъка ви"
+  },
+  "optionBrowserActionHeading": {
+    "message": "При кликване върху иконата на OneTab в лентата с инструменти:"
+  },
+  "optionBrowserActionOpenPopupDesc": {
+    "message": "Изскачащият прозорец за действия ще Ви покаже списък с отворени раздели и ще Ви позволи да изберете точно кои раздели искате да изпратите в OneTab. Ще можете да зададете заглавие на групата с раздели, която съхранявате, за да не се налага да го правите по-късно на страницата на OneTab. Изскачащият прозорец също ще Ви осигури лесен достъп до бързия Ви списък от всеки прозорец на браузъра."
+  },
+  "optionBrowserActionOpenPopupDesc2": {
+    "message": "Изберете точно кои раздели да съхраните"
+  },
+  "optionBrowserActionOpenPopupTitle": {
+    "message": "Показване на изскачащия прозорец за действия на OneTab"
+  },
+  "optionBrowserActionSendCurrentTabDesc": {
+    "message": "Разделът ще бъде поставен в първата група на страницата Ви в OneTab (без групите, които са закачени или заключени)"
+  },
+  "optionBrowserActionSendCurrentTabTitle": {
+    "message": "Изпращане само на текущия раздел в OneTab"
+  },
+  "optionBrowserActionSendTabsInWindowDesc": {
+    "message": "Разделите Ви ще бъдат затворени и съхранени в списъка Ви в OneTab. Ако сте избрали няколко раздела в лентата с раздели на браузъра си (чрез клавиша Cmd, Ctrl или Shift), в OneTab ще бъдат изпратени само избраните раздели. Ако използвате функцията на браузъра Ви за групи раздели, в OneTab ще бъде изпратена само текущата група раздели."
+  },
+  "optionBrowserActionSendTabsInWindowDesc2": {
+    "message": "Най-бързият начин за съхраняване на раздели"
+  },
+  "optionBrowserActionSendTabsInWindowTitle": {
+    "message": "Изпращане на разделите от текущия прозорец в OneTab"
+  },
+  "optionBrowserActionSendWholeWindowDesc": {
+    "message": "Същото като по-горе, но ще бъде съхранен целият прозорец вместо само текущата група раздели"
+  },
+  "optionBrowserActionSendWholeWindowTitle": {
+    "message": "Изпращане на текущия прозорец в OneTab, включително всички раздели и групи раздели"
+  },
+  "optionCopyToClipboardFormatHeading": {
+    "message": "Копиране на връзки в буфера:"
+  },
+  "optionCopyToClipboardFormatMarkdownTitle": {
+    "message": "Markdown"
+  },
+  "optionCopyToClipboardFormatNote": {
+    "message": "Тази настройка се прилага, когато използвате действието „Копиране в буфера“. Можете също да плъзгате раздели и групи директно от OneTab в документ."
+  },
+  "optionCopyToClipboardFormatRichTextDesc": {
+    "message": "Приложения като текстообработващи програми ще ви позволят да поставяте форматиран текст. Ако не се поддържа, вместо това ще бъде поставен обикновен текст."
+  },
+  "optionCopyToClipboardFormatRichTextTitle": {
+    "message": "Форматиран текст, когато е наличен"
+  },
+  "optionCopyToClipboardFormatTitleUrlTitle": {
+    "message": "Заглавие и URL адрес"
+  },
+  "optionCopyToClipboardFormatUrlOnlyTitle": {
+    "message": "Само URL адрес"
+  },
+  "optionCopyToClipboardFormatUrlTitleTitle": {
+    "message": "URL адрес и заглавие"
+  },
+  "optionDefaultTabGroupOpenTypeCurrentWindow": {
+    "message": "Отваряне на групата раздели в текущия прозорец"
+  },
+  "optionDefaultTabGroupOpenTypeHeading": {
+    "message": "При кликване за отваряне на група с раздели, която е настроена да се отваря като „група раздели“ в браузъра:"
+  },
+  "optionDefaultTabGroupOpenTypeNewWindow": {
+    "message": "Отваряне на групата раздели в нов прозорец"
+  },
+  "optionDefaultTabGroupOpenTypeNote": {
+    "message": "Ако използвате падащото меню, за да изберете определена опция (например отваряне на раздели в прозорец в режим „инкогнито“), тази опция ще бъде запомнена за съответната група."
+  },
+  "optionDefaultWindowGroupOpenTypeCurrentWindow": {
+    "message": "Отваряне на разделите в текущия прозорец"
+  },
+  "optionDefaultWindowGroupOpenTypeHeading": {
+    "message": "При възстановяване на група с раздели:"
+  },
+  "optionDefaultWindowGroupOpenTypeNewWindow": {
+    "message": "Отваряне на разделите в нов прозорец, освен ако разделът OneTab не е единственият в текущия прозорец"
+  },
+  "optionDefaultWindowGroupOpenTypeNewWindowAlways": {
+    "message": "Отваряне на разделите в нов прозорец"
+  },
+  "optionDefaultWindowGroupOpenTypeNote": {
+    "message": "Изборите за възстановяване, направени от менюто „Още…“ на дадена група, се запомнят за тази група."
+  },
+  "optionDiscardNonActiveTabOnOpenHeading": {
+    "message": "Незабавно пестене на памет (RAM) при първоначално отваряне на раздели:"
+  },
+  "optionDiscardNonActiveTabOnOpenNote": {
+    "message": "Ако тази настройка е активирана, при първото отваряне на раздели от списъка Ви в OneTab те незабавно ще бъдат разтоварвани от паметта. Това е полезно, ако често отваряте десетки раздели наведнъж, тъй като ще предотврати зареждането на всички тях в паметта, докато не преминете към тях. Ако тази настройка е деактивирана, много уеб браузъри пак автоматично ще избират да разтоварват раздели от паметта, ако в момента не ги използвате."
+  },
+  "optionDisplayContextMenuHeading": {
+    "message": "Кликване с десния бутон в уеб страница за достъп до контекстното меню на OneTab:"
+  },
+  "optionDisplayContextMenuNote": {
+    "message": "Ако деактивирате менюто, няма да имате достъп до функцията „Изключване на този уебсайт от OneTab“"
+  },
+  "optionDuplicatesAllow": {
+    "message": "Разрешаване на дубликати"
+  },
+  "optionDuplicatesReject": {
+    "message": "Отхвърляне на дубликати без подкана"
+  },
+  "optionDuplicatesRejectDesc": {
+    "message": "Ако OneTab вече съдържа раздела, той няма да бъде добавен отново."
+  },
+  "optionDuplicatesTitle": {
+    "message": "Дубликати:"
+  },
+  "optionGroupTitleClickActionEditTitle": {
+    "message": "Редактиране на заглавието"
+  },
+  "optionGroupTitleClickActionHeading": {
+    "message": "При кликване върху заглавието на група или папка:"
+  },
+  "optionGroupTitleClickActionOpenDesc": {
+    "message": "Все още можете да преименувате група чрез менюто ѝ „Още…“."
+  },
+  "optionGroupTitleClickActionOpenTitle": {
+    "message": "Възстановяване на групата или отваряне на папката"
+  },
+  "optionMoveOneTabToCurrentWindowOnOpenFalseTitle": {
+    "message": "Превключване към прозореца, в който разделът на OneTab вече е отворен"
+  },
+  "optionMoveOneTabToCurrentWindowOnOpenHeading": {
+    "message": "Действие „Отваряне на OneTab“:"
+  },
+  "optionMoveOneTabToCurrentWindowOnOpenNote": {
+    "message": "Действие „Отваряне на OneTab“:"
+  },
+  "optionMoveOneTabToCurrentWindowOnOpenTrueTitle": {
+    "message": "Преместване на съществуващ раздел на OneTab в текущия прозорец"
+  },
+  "optionPinnedTabsAllow": {
+    "message": "Разрешаване на изпращането на фиксирани раздели в OneTab"
+  },
+  "optionPinnedTabsDontSend": {
+    "message": "Без изпращане на фиксирани раздели в OneTab"
+  },
+  "optionPinnedTabsDontSendDesc": {
+    "message": "Все още можете ръчно да изпратите фиксиран раздел в OneTab, като кликнете с десния бутон в уеб страницата, за да отворите менюто на OneTab, и след това кликнете върху „Изпращане само на този раздел в OneTab“"
+  },
+  "optionPinnedTabsNote": {
+    "message": "Забележка: Разделът става „фиксиран“, когато кликнете с десния бутон върху него и изберете „Фиксиране на раздела“. Някои хора обичат да фиксират сайтове като Facebook или Gmail, за да могат лесно да ги намират. OneTab ще запомни дали разделът е бил фиксиран, когато го възстановите."
+  },
+  "optionPinnedTabsTitle": {
+    "message": "Фиксирани раздели:"
+  },
+  "options": {
+    "message": "Опции"
+  },
+  "optionStartupLaunchDisplay": {
+    "message": "Автоматично отваряне на OneTab"
+  },
+  "optionStartupLaunchNone": {
+    "message": "Без автоматично отваряне на OneTab"
+  },
+  "optionStartupLaunchNoneDesc3": {
+    "message": "За да отворите OneTab ръчно, можете да кликнете с десния бутон в която и да е уеб страница и да кликнете върху „Отваряне на OneTab“ в менюто на OneTab."
+  },
+  "optionStartupLaunchTitle": {
+    "message": "При стартиране на браузъра:"
+  },
+  "optionSwitchToOpenedTabFalseTitle": {
+    "message": "Отваряне на раздела и оставане в OneTab"
+  },
+  "optionSwitchToOpenedTabHeading": {
+    "message": "При възстановяване на раздели от страницата на OneTab:"
+  },
+  "optionSwitchToOpenedTabNote": {
+    "message": "Ако задържите Shift при кликване, разделът ще се отвори в нов прозорец"
+  },
+  "optionSwitchToOpenedTabTrueTitle": {
+    "message": "Отваряне на раздела и превключване към него (освен ако не задържите Command ⌘/Ctrl при кликване)"
+  },
+  "optionUpdateTitleOnDuplicateKeep": {
+    "message": "Запазване на съществуващото заглавие"
+  },
+  "optionUpdateTitleOnDuplicateKeepDesc": {
+    "message": "Можете да преименувате раздела в OneTab и персонализираното Ви заглавие ще бъде запазено."
+  },
+  "optionUpdateTitleOnDuplicateNote": {
+    "message": "Заглавията и бележките се споделят между всички копия на един и същ раздел."
+  },
+  "optionUpdateTitleOnDuplicateTitle": {
+    "message": "При съхраняване на раздел, който вече е в OneTab:"
+  },
+  "optionUpdateTitleOnDuplicateUpdate": {
+    "message": "Използване на най-новото заглавие"
+  },
+  "optionUpdateTitleOnDuplicateUpdateDesc": {
+    "message": "Запазеното заглавие ще се актуализира така, че да съответства на раздела, който току-що изпратихте."
+  },
+  "optionUrlAbbr": {
+    "message": "Съкратен"
+  },
+  "optionUrlDisplayTitle": {
+    "message": "Показване на URL адреси:"
+  },
+  "optionUrlDomain": {
+    "message": "Само домейн"
+  },
+  "optionUrlFull": {
+    "message": "Пълен"
+  },
+  "optionUrlNone": {
+    "message": "Няма"
+  },
+  "otherCopiesColon": {
+    "message": "Други копия:"
+  },
+  "pasteRichOrPlainTextBelow": {
+    "message": "Можете да поставите форматиран или обикновен текст по-долу."
+  },
+  "pendingTaskCount_few": {
+    "message": "{COUNT} чакащи"
+  },
+  "pendingTaskCount_many": {
+    "message": "{COUNT} чакащи"
+  },
+  "pendingTaskCount_one": {
+    "message": "{COUNT} чакаща"
+  },
+  "pendingTaskCount_other": {
+    "message": "{COUNT} чакащи"
+  },
+  "pendingTaskCount_two": {
+    "message": "{COUNT} чакащи"
+  },
+  "pendingTaskCount_zero": {
+    "message": "{COUNT} чакащи"
+  },
+  "pendingTaskFlagHelp": {
+    "message": "Този елемент е задача. Кликнете върху тази икона, за да го маркирате като завършен."
+  },
+  "permissionRequiredPleaseTryAgain": {
+    "message": "За да създадете споделена страница, достъпна от всеки компютър, е необходимо разрешение за връзка с уеб сървъра на OneTab. Моля, опитайте отново."
+  },
+  "pinnedTabs": {
+    "message": "фиксирани раздели"
+  },
+  "pinToTopOfFolder": {
+    "message": "Закачане най-горе в папката"
+  },
+  "pinToTopOfFolderMenuItemHelp": {
+    "message": "Закачете тази група, така че винаги да се показва най-горе в папката"
+  },
+  "pinToTopOfList": {
+    "message": "Закачане най-горе в списъка"
+  },
+  "placeholderAndOtherLocations_few": {
+    "message": "PLACEHOLDER и още {COUNT} други местоположения"
+  },
+  "placeholderAndOtherLocations_many": {
+    "message": "PLACEHOLDER и още {COUNT} други местоположения"
+  },
+  "placeholderAndOtherLocations_one": {
+    "message": "PLACEHOLDER и още {COUNT} друго местоположение"
+  },
+  "placeholderAndOtherLocations_other": {
+    "message": "PLACEHOLDER и още {COUNT} други местоположения"
+  },
+  "placeholderAndOtherLocations_two": {
+    "message": "PLACEHOLDER и още {COUNT} други местоположения"
+  },
+  "placeholderAndOtherLocations_zero": {
+    "message": "PLACEHOLDER и още {COUNT} други местоположения"
+  },
+  "placeholderExplanation": {
+    "message": "Поради правилата за сигурност на уеб браузъра OneTab няма право директно да възстанови тази страница. Моля, копирайте URL адреса си и го поставете в адресната лента на браузъра."
+  },
+  "plainTextLineFormat": {
+    "message": "Ако поставяте обикновен текст, уверете се, че за всеки URL адрес е посочен протокол (https://wikipedia.org, вместо само wikipedia.org). Всеки ред трябва да бъде в следния формат:"
+  },
+  "pleaseWaitTripleDot": {
+    "message": "Моля, изчакайте…"
+  },
+  "popupSlashShortcutInfo": {
+    "message": "Ако изскачащият прозорец за действия на OneTab е активиран, отваряне на избора на местоназначение и фокусиране на полето за търсене"
+  },
+  "printUseSaveTabsAsHtmlFileAlertHtml": {
+    "message": "За най-добри резултати при печат използвайте действието <b>Запазване като HTML файл</b> в менюто <b>Още…</b> на папката, след което отпечатайте изтегления HTML файл."
+  },
+  "privacyAssurance": {
+    "message": "Гаранция за поверителност"
+  },
+  "privacyAssuranceDetail": {
+    "message": "Вашият списък с раздели никога не се предава или разкрива на разработчиците на OneTab или на която и да е друга страна. Единственото изключение е, ако умишлено използвате функцията „споделяне като уеб страница“, за да качите списъка си с раздели в уеб страница с цел да го споделите с други."
+  },
+  "privacyFirst": {
+    "message": "Поверителността на първо място"
+  },
+  "privacyFirstMessage": {
+    "message": "OneTab е създаден да защитава личните Ви данни. Разделите Ви се съхраняват само на компютъра Ви и никога не се споделят с разработчиците на OneTab или с която и да е друга страна.\nАко използвате функцията ни за резервно копиране/синхронизиране, данните Ви ще бъдат шифровани от край до край с надеждно шифроване AES-256. Това прави невъзможно за разработчиците на OneTab да виждат разделите, за които сте създали резервно копие, или които сте синхронизирали между устройства, защото само Вие имате ключа за шифроване. \nЕдинственото изключение е, ако умишлено решите да споделите част от разделите си с други хора чрез функцията ни „Споделяне като уеб страница“.\nВярваме в поверителността на първо място."
+  },
+  "privateBrowsingPermissionRequired": {
+    "message": "OneTab се нуждае от разрешение за създаване на поверителни прозорци."
+  },
+  "privateBrowsingWindows": {
+    "message": "Поверителни прозорци"
+  },
+  "quickList": {
+    "message": "Бърз списък"
+  },
+  "readingList": {
+    "message": "Списък за четене"
+  },
+  "readingListPermissionNecesssary": {
+    "message": "Необходимо е разрешение за достъп до списъка за четене, за да може OneTab да импортира елементи от списъка Ви за четене. Ако тази функция не работи, браузърът Ви може да не поддържа списъци за четене."
+  },
+  "recent": {
+    "message": "Скорошни"
+  },
+  "recentDestinationsColon": {
+    "message": "Скорошни местоназначения:"
+  },
+  "recentDuplicateRetainedHelp": {
+    "message": "Ако даден раздел се среща повече от веднъж, ще бъде запазен само най-скорошният дубликат"
+  },
+  "recentFolders": {
+    "message": "Скорошни папки"
+  },
+  "recentGroups": {
+    "message": "Скорошни групи"
+  },
+  "recentlyAccessed": {
+    "message": "Последно отваряни"
+  },
+  "recentlyCreated": {
+    "message": "Последно създадени"
+  },
+  "recentlyModified": {
+    "message": "Последно променени"
+  },
+  "reduceMemoryUsageBy95Pct": {
+    "message": "Намалете използването на памет с 95%"
+  },
+  "removeDuplicates": {
+    "message": "Премахване на дубликатите"
+  },
+  "removeDuplicatesMenuItemHelp": {
+    "message": "Ще можете да премахнете дубликатите оттук, а не от други места, или от други места, а не оттук."
+  },
+  "removeDuplicateTabsHere_few": {
+    "message": "Премахване на {COUNT} дублирани раздела тук"
+  },
+  "removeDuplicateTabsHere_many": {
+    "message": "Премахване на {COUNT} дублирани раздела тук"
+  },
+  "removeDuplicateTabsHere_one": {
+    "message": "Премахване на {COUNT} дублиран раздел тук"
+  },
+  "removeDuplicateTabsHere_other": {
+    "message": "Премахване на {COUNT} дублирани раздела тук"
+  },
+  "removeDuplicateTabsHere_two": {
+    "message": "Премахване на {COUNT} дублирани раздела тук"
+  },
+  "removeDuplicateTabsHere_zero": {
+    "message": "Премахване на {COUNT} дублирани раздела тук"
+  },
+  "removeFromQuickList": {
+    "message": "Премахване от бързия списък"
+  },
+  "removeFromQuickListMenuItemHelp": {
+    "message": "Елементът няма да бъде изпратен в кошчето – ще бъде премахнат само от бързия ви списък."
+  },
+  "removeStar": {
+    "message": "Премахване на звездата"
+  },
+  "removeTabsElsewhereAlsoHere_few": {
+    "message": "Премахване на {COUNT} раздела другаде, които съществуват и тук"
+  },
+  "removeTabsElsewhereAlsoHere_many": {
+    "message": "Премахване на {COUNT} раздела другаде, които съществуват и тук"
+  },
+  "removeTabsElsewhereAlsoHere_one": {
+    "message": "Премахване на {COUNT} раздел другаде, който съществува и тук"
+  },
+  "removeTabsElsewhereAlsoHere_other": {
+    "message": "Премахване на {COUNT} раздела другаде, които съществуват и тук"
+  },
+  "removeTabsElsewhereAlsoHere_two": {
+    "message": "Премахване на {COUNT} раздела другаде, които съществуват и тук"
+  },
+  "removeTabsElsewhereAlsoHere_zero": {
+    "message": "Премахване на {COUNT} раздела другаде, които съществуват и тук"
+  },
+  "removeTabsHereAlsoElsewhere_few": {
+    "message": "Премахване на {COUNT} раздела тук, които съществуват и другаде"
+  },
+  "removeTabsHereAlsoElsewhere_many": {
+    "message": "Премахване на {COUNT} раздела тук, които съществуват и другаде"
+  },
+  "removeTabsHereAlsoElsewhere_one": {
+    "message": "Премахване на {COUNT} раздел тук, който съществува и другаде"
+  },
+  "removeTabsHereAlsoElsewhere_other": {
+    "message": "Премахване на {COUNT} раздела тук, които съществуват и другаде"
+  },
+  "removeTabsHereAlsoElsewhere_two": {
+    "message": "Премахване на {COUNT} раздела тук, които съществуват и другаде"
+  },
+  "removeTabsHereAlsoElsewhere_zero": {
+    "message": "Премахване на {COUNT} раздела тук, които съществуват и другаде"
+  },
+  "rename": {
+    "message": "Преименуване"
+  },
+  "renameOrAddNote": {
+    "message": "Преименуване / добавяне на бележка"
+  },
+  "restore": {
+    "message": "Възстановяване"
+  },
+  "restoreAll": {
+    "message": "Възстановяване на всички"
+  },
+  "restrictSearchToFolderColon": {
+    "message": "Ограничаване на търсенето до следната папка:"
+  },
+  "results": {
+    "message": "Резултати"
+  },
+  "returnToOneTab": {
+    "message": "Връщане към OneTab"
+  },
+  "reverse": {
+    "message": "Обратен ред"
+  },
+  "rightClickAndOpenOneTabMenu": {
+    "message": "Кликнете с десния бутон в уеб страницата и отворете менюто на OneTab"
+  },
+  "rightClickMenuDisabledNote": {
+    "message": "Забележка: Деактивирали сте менюто на OneTab при кликване с десния бутон. Моля, активирайте го от страницата с опции на OneTab."
+  },
+  "rightClickSelectionOptionsTip": {
+    "message": "Съвет: След като поставите отметка на елемент, кликнете с десния бутон върху иконата с отметка, за да се покажат още опции за избор"
+  },
+  "rightClickTickTip": {
+    "message": "Съвет: Кликнете с десния бутон върху иконата с отметка до всеки раздел, за да отворите инструменти за избор"
+  },
+  "safariApproveOneTabInSettings": {
+    "message": "Моля, отворете Настройки и разрешете на OneTab достъп до всички уебсайтове."
+  },
+  "save95PctReduceTabClutterGoogleChrome": {
+    "message": "Спестете до 95% памет и намалете претрупването с раздели в Google Chrome"
+  },
+  "saveChoice": {
+    "message": "Запазване на избора"
+  },
+  "saveTabsAsHtmlFile": {
+    "message": "Запазване като HTML файл"
+  },
+  "saveTabsAsHtmlFileMenuItemHelp": {
+    "message": "Създайте и изтеглете HTML файл, съдържащ всички групи с раздели в тази папка."
+  },
+  "searchHere": {
+    "message": "Търсене тук"
+  },
+  "searchOneTab": {
+    "message": "Търсене в OneTab"
+  },
+  "secondExampleLink": {
+    "message": "Втора примерна връзка"
+  },
+  "secondExampleLinkTitle": {
+    "message": "Второ примерно заглавие на връзка"
+  },
+  "secondExampleLinkTitleOptional": {
+    "message": "Второ примерно заглавие на връзка (по избор)"
+  },
+  "seeOtherTabsInThisGroup_few": {
+    "message": "Преглед на {COUNT} други раздела в тази група"
+  },
+  "seeOtherTabsInThisGroup_many": {
+    "message": "Преглед на {COUNT} други раздела в тази група"
+  },
+  "seeOtherTabsInThisGroup_one": {
+    "message": "Преглед на {COUNT} друг раздел в тази група"
+  },
+  "seeOtherTabsInThisGroup_other": {
+    "message": "Преглед на {COUNT} други раздела в тази група"
+  },
+  "seeOtherTabsInThisGroup_two": {
+    "message": "Преглед на {COUNT} други раздела в тази група"
+  },
+  "seeOtherTabsInThisGroup_zero": {
+    "message": "Преглед на {COUNT} други раздела в тази група"
+  },
+  "seePasteInstructions": {
+    "message": "Показване на инструкциите за поставяне…"
+  },
+  "seeTabsInThisGroup_few": {
+    "message": "Преглед на {COUNT} раздела в тази група"
+  },
+  "seeTabsInThisGroup_many": {
+    "message": "Преглед на {COUNT} раздела в тази група"
+  },
+  "seeTabsInThisGroup_one": {
+    "message": "Преглед на {COUNT} раздел в тази група"
+  },
+  "seeTabsInThisGroup_other": {
+    "message": "Преглед на {COUNT} раздела в тази група"
+  },
+  "seeTabsInThisGroup_two": {
+    "message": "Преглед на {COUNT} раздела в тази група"
+  },
+  "seeTabsInThisGroup_zero": {
+    "message": "Преглед на {COUNT} раздела в тази група"
+  },
+  "selectAll": {
+    "message": "Избиране на всички"
+  },
+  "selectAllExceptThis": {
+    "message": "Избиране на всички освен този"
+  },
+  "selectedItemCount_few": {
+    "message": "{COUNT} елемента"
+  },
+  "selectedItemCount_many": {
+    "message": "{COUNT} елемента"
+  },
+  "selectedItemCount_one": {
+    "message": "{COUNT} елемент"
+  },
+  "selectedItemCount_other": {
+    "message": "{COUNT} елемента"
+  },
+  "selectedItemCount_two": {
+    "message": "{COUNT} елемента"
+  },
+  "selectedItemCount_zero": {
+    "message": "{COUNT} елемента"
+  },
+  "selection": {
+    "message": "Избор"
+  },
+  "selectThisAndAbove": {
+    "message": "Избиране на този и всички над него"
+  },
+  "selectThisAndBelow": {
+    "message": "Избиране на този и всички под него"
+  },
+  "sendAllTabsAllWindows": {
+    "message": "Изпращане на всички раздели от всички прозорци"
+  },
+  "sendAllTabsAllWindowsToOneTab": {
+    "message": "Изпращане на всички раздели от всички прозорци в OneTab"
+  },
+  "sendAllTabsExceptThis": {
+    "message": "Изпращане на всички раздели освен този"
+  },
+  "sendAllTabsExceptThisToOneTab": {
+    "message": "Изпращане на всички раздели освен този раздел в OneTab"
+  },
+  "sendAllTabsInGroup": {
+    "message": "Изпращане на всички раздели в тази група раздели"
+  },
+  "sendAllTabsInGroupToOneTab": {
+    "message": "Изпращане на всички раздели в тази група раздели в OneTab"
+  },
+  "sendAllTabsInWindow": {
+    "message": "Изпращане на всички раздели в този прозорец"
+  },
+  "sendAllTabsInWindowToOneTab": {
+    "message": "Изпращане на всички раздели в този прозорец в OneTab"
+  },
+  "sendCurrentTabToOneTab": {
+    "message": "Изпращане на текущия раздел в OneTab"
+  },
+  "sendLeftTabs": {
+    "message": "Изпращане на разделите отляво"
+  },
+  "sendLeftTabsToOneTab": {
+    "message": "Изпращане на разделите отляво в OneTab"
+  },
+  "sendOnlyThisTab": {
+    "message": "Изпращане само на този раздел"
+  },
+  "sendOnlyThisTabToOneTab": {
+    "message": "Изпращане само на този раздел в OneTab"
+  },
+  "sendRightTabs": {
+    "message": "Изпращане на разделите отдясно"
+  },
+  "sendRightTabsToOneTab": {
+    "message": "Изпращане на разделите отдясно в OneTab"
+  },
+  "sendSelectedTabs": {
+    "message": "Изпращане на избраните раздели"
+  },
+  "sendSelectedTabsToOneTab": {
+    "message": "Изпращане на избраните раздели в OneTab"
+  },
+  "sendThisWebLink": {
+    "message": "Изпращане на тази уеб връзка"
+  },
+  "sendThisWebLinkToOneTab": {
+    "message": "Изпращане на тази уеб връзка в OneTab"
+  },
+  "serverUnreachable": {
+    "message": "Сървърът е недостъпен. Моля, проверете интернет връзката си."
+  },
+  "share": {
+    "message": "Споделяне"
+  },
+  "shareAsAWebPage": {
+    "message": "Споделяне като уеб страница"
+  },
+  "shareAsAWebPageMenuItemHelp": {
+    "message": "Така се създава уеб страница, съдържаща разделите ви, за да можете да я споделите частно или публично с други."
+  },
+  "shared": {
+    "message": "Споделени"
+  },
+  "sharedExpiresColon": {
+    "message": "Споделено като уеб страница. Изтича:"
+  },
+  "sharedPageOptions": {
+    "message": "Опции за споделена страница"
+  },
+  "sharedPageTabLimit_few": {
+    "message": "Споделените страници са ограничени до {COUNT} раздела"
+  },
+  "sharedPageTabLimit_many": {
+    "message": "Споделените страници са ограничени до {COUNT} раздела"
+  },
+  "sharedPageTabLimit_one": {
+    "message": "Споделените страници са ограничени до {COUNT} раздел"
+  },
+  "sharedPageTabLimit_other": {
+    "message": "Споделените страници са ограничени до {COUNT} раздела"
+  },
+  "sharedPageTabLimit_two": {
+    "message": "Споделените страници са ограничени до {COUNT} раздела"
+  },
+  "sharedPageTabLimit_zero": {
+    "message": "Споделените страници са ограничени до {COUNT} раздела"
+  },
+  "sharedPageWillAutomaticallyExpire": {
+    "message": "Срокът на споделената страница ще изтече автоматично, но можете да удължите датата на изтичане по всяко време."
+  },
+  "showEverything": {
+    "message": "Показване на всичко"
+  },
+  "showFoldersOnly": {
+    "message": "Показване само на папки"
+  },
+  "showNamedItemsOnly": {
+    "message": "Показване само на именувани елементи"
+  },
+  "showNamedOnly": {
+    "message": "Показване само на именувани елементи"
+  },
+  "showNextCount_few": {
+    "message": "{COUNT} следващи"
+  },
+  "showNextCount_many": {
+    "message": "{COUNT} следващи"
+  },
+  "showNextCount_one": {
+    "message": "{COUNT} следващ"
+  },
+  "showNextCount_other": {
+    "message": "{COUNT} следващи"
+  },
+  "showNextCount_two": {
+    "message": "{COUNT} следващи"
+  },
+  "showNextCount_zero": {
+    "message": "{COUNT} следващи"
+  },
+  "showPreviousCount_few": {
+    "message": "{COUNT} предишни"
+  },
+  "showPreviousCount_many": {
+    "message": "{COUNT} предишни"
+  },
+  "showPreviousCount_one": {
+    "message": "{COUNT} предишен"
+  },
+  "showPreviousCount_other": {
+    "message": "{COUNT} предишни"
+  },
+  "showPreviousCount_two": {
+    "message": "{COUNT} предишни"
+  },
+  "showPreviousCount_zero": {
+    "message": "{COUNT} предишни"
+  },
+  "soon": {
+    "message": "скоро"
+  },
+  "sort": {
+    "message": "Сортиране"
+  },
+  "sortByColon": {
+    "message": "Сортиране по:"
+  },
+  "sortGroups": {
+    "message": "Сортиране на групите"
+  },
+  "sortGroupsMenuFooterNote": {
+    "message": "Това сортира групите в тази папка. Не сортира разделите в тях."
+  },
+  "sourceColon": {
+    "message": "Източник:"
+  },
+  "star": {
+    "message": "Звезда"
+  },
+  "starFlagHelp": {
+    "message": "Този елемент е отбелязан със звезда, за да се покаже визуално важността му. Кликнете върху тази икона, за да премахнете звездата."
+  },
+  "starMenuItemHelp": {
+    "message": "Използвайте звездата като визуален индикатор, че нещо е важно"
+  },
+  "starred": {
+    "message": "Отбелязани със звезда"
+  },
+  "storeAllOpenWindowsHere": {
+    "message": "Съхраняване на всички отворени прозорци тук"
+  },
+  "storeAllOpenWindowsHereMenuItemHelp": {
+    "message": "Затворете всички отворени прозорци на браузъра и ги съхранете в тази папка"
+  },
+  "storeSelectedTabsInONETAB_few": {
+    "message": "Съхраняване на {COUNT} избрани раздела в ONETAB"
+  },
+  "storeSelectedTabsInONETAB_many": {
+    "message": "Съхраняване на {COUNT} избрани раздела в ONETAB"
+  },
+  "storeSelectedTabsInONETAB_one": {
+    "message": "Съхраняване на {COUNT} избран раздел в ONETAB"
+  },
+  "storeSelectedTabsInONETAB_other": {
+    "message": "Съхраняване на {COUNT} избрани раздела в ONETAB"
+  },
+  "storeSelectedTabsInONETAB_two": {
+    "message": "Съхраняване на {COUNT} избрани раздела в ONETAB"
+  },
+  "storeSelectedTabsInONETAB_zero": {
+    "message": "Съхраняване на {COUNT} избрани раздела в ONETAB"
+  },
+  "storeTabsInAdditionalLocation_few": {
+    "message": "Съхраняване на разделите отново въпреки това"
+  },
+  "storeTabsInAdditionalLocation_many": {
+    "message": "Съхраняване на разделите отново въпреки това"
+  },
+  "storeTabsInAdditionalLocation_one": {
+    "message": "Съхраняване на раздела отново въпреки това"
+  },
+  "storeTabsInAdditionalLocation_other": {
+    "message": "Съхраняване на разделите отново въпреки това"
+  },
+  "storeTabsInAdditionalLocation_two": {
+    "message": "Съхраняване на разделите отново въпреки това"
+  },
+  "storeTabsInAdditionalLocation_zero": {
+    "message": "Съхраняване на разделите отново въпреки това"
+  },
+  "storeTabsInONETAB_few": {
+    "message": "Съхраняване на разделите в ONETAB"
+  },
+  "storeTabsInONETAB_many": {
+    "message": "Съхраняване на разделите в ONETAB"
+  },
+  "storeTabsInONETAB_one": {
+    "message": "Съхраняване на раздела в ONETAB"
+  },
+  "storeTabsInONETAB_other": {
+    "message": "Съхраняване на разделите в ONETAB"
+  },
+  "storeTabsInONETAB_two": {
+    "message": "Съхраняване на разделите в ONETAB"
+  },
+  "storeTabsInONETAB_zero": {
+    "message": "Съхраняване на разделите в ONETAB"
+  },
+  "subFoldersNotShared": {
+    "message": "Имайте предвид, че подпапките не се споделят. Споделят се само групите с раздели, които са директно в папката."
+  },
+  "tab": {
+    "message": "раздел"
+  },
+  "tabAlreadyStoredHere": {
+    "message": "Отвореният ви раздел вече е съхранен тук:"
+  },
+  "tabCaretTooltipTitleNotes": {
+    "message": "Редактиране на заглавието и бележките на раздела"
+  },
+  "tabCaretTooltipTitleNotesUrl": {
+    "message": "Редактиране на заглавието, URL адреса и бележките на раздела"
+  },
+  "tabCount_few": {
+    "message": "{COUNT} раздела"
+  },
+  "tabCount_many": {
+    "message": "{COUNT} раздела"
+  },
+  "tabCount_one": {
+    "message": "{COUNT} раздел"
+  },
+  "tabCount_other": {
+    "message": "{COUNT} раздела"
+  },
+  "tabCount_two": {
+    "message": "{COUNT} раздела"
+  },
+  "tabCount_zero": {
+    "message": "{COUNT} раздела"
+  },
+  "tabGroupColorColon": {
+    "message": "Цвят на групата раздели:"
+  },
+  "tabGroupIndicatorTooltipHelp": {
+    "message": "Тази група е настроена да се отваря като група раздели в браузъра. Можете да промените тази настройка в менюто „Още…“"
+  },
+  "tabPinFlagHelp": {
+    "message": "Този раздел ще бъде възстановен като фиксиран раздел на браузъра. Кликнете върху тази икона, за да премахнете фиксирането му."
+  },
+  "tabs": {
+    "message": "Раздели"
+  },
+  "tabsFromExcludedDomains": {
+    "message": "раздели от изключени домейни"
+  },
+  "tabsInTabGroups": {
+    "message": "раздели в групи раздели"
+  },
+  "tabTotalCount_few": {
+    "message": "Общо: {COUNT} раздела"
+  },
+  "tabTotalCount_many": {
+    "message": "Общо: {COUNT} раздела"
+  },
+  "tabTotalCount_one": {
+    "message": "Общо: {COUNT} раздел"
+  },
+  "tabTotalCount_other": {
+    "message": "Общо: {COUNT} раздела"
+  },
+  "tabTotalCount_two": {
+    "message": "Общо: {COUNT} раздела"
+  },
+  "tabTotalCount_zero": {
+    "message": "Общо: {COUNT} раздела"
+  },
+  "tasks": {
+    "message": "Задачи"
+  },
+  "tasksDone": {
+    "message": "Задачи (завършени)"
+  },
+  "tasksPending": {
+    "message": "Задачи (в ход)"
+  },
+  "tasksWillAppearHere": {
+    "message": "Ако маркирате някои от разделите или групите си като задачи, те ще се показват тук."
+  },
+  "taskTotalCount_few": {
+    "message": "{COUNT} общо"
+  },
+  "taskTotalCount_many": {
+    "message": "{COUNT} общо"
+  },
+  "taskTotalCount_one": {
+    "message": "{COUNT} общо"
+  },
+  "taskTotalCount_other": {
+    "message": "{COUNT} общо"
+  },
+  "taskTotalCount_two": {
+    "message": "{COUNT} общо"
+  },
+  "taskTotalCount_zero": {
+    "message": "{COUNT} общо"
+  },
+  "themeQuickSwitchHint": {
+    "message": "За бързо превключване между темите задръжте ctrl или cmd, докато кликвате върху иконата за тема"
+  },
+  "thenClickToolbarIcon": {
+    "message": "След това кликнете отново върху иконата на OneTab в лентата с инструменти, за да използвате OneTab."
+  },
+  "thisFolderIsEmpty": {
+    "message": "Тази папка е празна"
+  },
+  "thisTab": {
+    "message": "Този раздел"
+  },
+  "thisTabGroup": {
+    "message": "Тази група раздели"
+  },
+  "thisTabNotStored": {
+    "message": "Този раздел не е съхранен в OneTab"
+  },
+  "thisWindow": {
+    "message": "Този прозорец"
+  },
+  "tickOrUntickToExclude": {
+    "message": "Поставете или премахнете отметката, за да изключите уебсайта"
+  },
+  "title": {
+    "message": "Заглавие"
+  },
+  "toAddOrRemoveExclusions": {
+    "message": "За добавяне или премахване на уебсайт от списъка с изключения:"
+  },
+  "toAllowOneTabInIncognito": {
+    "message": "За да разрешите иконата на OneTab да се показва в прозорци в режим „инкогнито“: "
+  },
+  "toImportBrowserBookmarksUseMenuOption": {
+    "message": "За да импортирате от отметките на браузъра, използвайте опцията „Импортиране на връзки тук“ в страницата си в OneTab"
+  },
+  "toMakeOpenButtonWorkApprovePermission": {
+    "message": "За да работи бутонът „Отваряне“ на споделените страници, моля, одобрете заявката за разрешение."
+  },
+  "tooManyTabsSpeedUpFirefox": {
+    "message": "Твърде много раздели? Преобразувайте разделите си в списък и ускорете Firefox"
+  },
+  "tooManyTabsSpeedUpSafari": {
+    "message": "Твърде много раздели? Преобразувайте разделите си в списък и ускорете Safari"
+  },
+  "toSaveChangesClickButton": {
+    "message": "За да запазите промените си, кликнете върху бутона"
+  },
+  "total0Tabs": {
+    "message": "Общо: 0 раздела"
+  },
+  "trash": {
+    "message": "Кошче"
+  },
+  "unfoldGroup": {
+    "message": "Разгъване на групата"
+  },
+  "unlock": {
+    "message": "Отключване"
+  },
+  "unmarkAsArchived": {
+    "message": "Премахване на маркирането като архивирано"
+  },
+  "unMarkAsTask": {
+    "message": "Премахване на маркирането като задача"
+  },
+  "unpin": {
+    "message": "Откачане"
+  },
+  "unshare": {
+    "message": "Спиране на споделянето"
+  },
+  "untitled": {
+    "message": "Без заглавие"
+  },
+  "update": {
+    "message": "Актуализиране"
+  },
+  "userLanguage": {
+    "message": "Български"
+  },
+  "website": {
+    "message": "Уебсайт"
+  },
+  "yearCount_few": {
+    "message": "{COUNT} години"
+  },
+  "yearCount_many": {
+    "message": "{COUNT} години"
+  },
+  "yearCount_one": {
+    "message": "{COUNT} година"
+  },
+  "yearCount_other": {
+    "message": "{COUNT} години"
+  },
+  "yearCount_two": {
+    "message": "{COUNT} години"
+  },
+  "yearCount_zero": {
+    "message": "{COUNT} години"
+  },
+  "yourTabAlreadyStoredHere": {
+    "message": "Разделът ви вече е съхранен тук:"
+  }
+}

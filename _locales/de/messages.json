@@ -1,0 +1,2330 @@
+{
+  "95PctMemoryReduction": {
+    "message": "95 % weniger Arbeitsspeichernutzung"
+  },
+  "about": {
+    "message": "Info"
+  },
+  "actionPopupOverrideNote": {
+    "message": "Diese Einstellung kann im Aktions-Popup geändert werden (wenn du das Aktions-Popup aktiviert hast)."
+  },
+  "aDashZ": {
+    "message": "A-Z"
+  },
+  "addOneTabNow": {
+    "message": "OneTab jetzt hinzufügen"
+  },
+  "all": {
+    "message": "Alle"
+  },
+  "allBookmarks": {
+    "message": "Alle Lesezeichen"
+  },
+  "allOpenTabsAlreadyStoredHere_few": {
+    "message": "Alle geöffneten Tabs bereits hier gespeichert:"
+  },
+  "allOpenTabsAlreadyStoredHere_many": {
+    "message": "Alle geöffneten Tabs bereits hier gespeichert:"
+  },
+  "allOpenTabsAlreadyStoredHere_one": {
+    "message": "Alle geöffneten Tabs bereits hier gespeichert:"
+  },
+  "allOpenTabsAlreadyStoredHere_other": {
+    "message": "Alle geöffneten Tabs bereits hier gespeichert:"
+  },
+  "allOpenTabsAlreadyStoredHere_two": {
+    "message": "Alle geöffneten Tabs bereits hier gespeichert:"
+  },
+  "allOpenTabsAlreadyStoredHere_zero": {
+    "message": "Alle geöffneten Tabs bereits hier gespeichert:"
+  },
+  "allowFileAccessInstructions": {
+    "message": "Um Dateien direkt öffnen zu können, gehen Sie zu Einstellungen ➝ Erweiterungen ➝ OneTab ➝ Details ➝ Zugriff auf Datei-URLs zulassen"
+  },
+  "alreadyExistingOpenTabsWillBeClosedAfterMerge": {
+    "message": "Alle geöffneten Tabs, die in dieser Gruppe bereits vorhanden sind, werden nach dem Zusammenführen geschlossen."
+  },
+  "alternatePlainTextFormat": {
+    "message": "Alternativ kann der einfache Text folgendes Format haben:"
+  },
+  "approve": {
+    "message": "Genehmigen"
+  },
+  "archived": {
+    "message": "Archiviert"
+  },
+  "autoTheme": {
+    "message": "Automatisch (Betriebssystemeinstellung verwenden)"
+  },
+  "backupAndSync": {
+    "message": "Sichern & synchronisieren"
+  },
+  "betaReleaseReportBugsHere": {
+    "message": "Beta – Fehler hier melden"
+  },
+  "bookmarkCount_few": {
+    "message": "{COUNT} Lesezeichen"
+  },
+  "bookmarkCount_many": {
+    "message": "{COUNT} Lesezeichen"
+  },
+  "bookmarkCount_one": {
+    "message": "{COUNT} Lesezeichen"
+  },
+  "bookmarkCount_other": {
+    "message": "{COUNT} Lesezeichen"
+  },
+  "bookmarkCount_two": {
+    "message": "{COUNT} Lesezeichen"
+  },
+  "bookmarkCount_zero": {
+    "message": "{COUNT} Lesezeichen"
+  },
+  "bookmarksPermissionNecesssary": {
+    "message": "Die Berechtigung „Lesezeichen“ ist erforderlich, damit OneTab deine Browser-Lesezeichen importieren kann"
+  },
+  "bulkActions": {
+    "message": "Sammelaktionen"
+  },
+  "cancel": {
+    "message": "Abbrechen"
+  },
+  "canDragTextNote": {
+    "message": "Hinweis: Du kannst Text mit Weblinks auch per Drag & Drop direkt aus einer anderen Webseite oder einem Dokument übernehmen. Ziehe den Text direkt auf deine OneTab-Seite, ohne dieses Importfeld zu verwenden."
+  },
+  "cannotConnectToServerDeletionRequestQueued": {
+    "message": "Keine Verbindung zum OneTab-Server. Bitte prüfe deine Internetverbindung. Deine Löschanfrage für die geteilte Seite wurde lokal in die Warteschlange gestellt und wird automatisch an den OneTab-Server übertragen, sobald er wieder erreichbar ist."
+  },
+  "cannotCreateTabGroupInTabGroup": {
+    "message": "Ihr gewähltes Ziel ist eine Tabgruppe. Sie können keine Tabgruppe innerhalb einer vorhandenen Tabgruppe erstellen. Bitte wählen Sie ein anderes Ziel."
+  },
+  "cannotMixTabsGroupsFoldersDuringDrag": {
+    "message": "Beim Ziehen können Tabs, Gruppen und Ordner nicht gemischt werden. Beispielsweise lässt sich ein Ordner nicht an dieselben Stellen ziehen wie ein Tab."
+  },
+  "cannotMoveItemAncestorHere": {
+    "message": "Ein übergeordnetes Element kann nicht in sein eigenes untergeordnetes Element verschoben werden, da dadurch eine Schleife entstehen würde."
+  },
+  "cannotMoveItemIntoItself": {
+    "message": "Ein Element kann nicht in sich selbst verschoben werden."
+  },
+  "canPasteWebContentForExample": {
+    "message": "Du kannst Text aus einer Webseite oder einem Dokument einfügen; Links werden automatisch extrahiert. Zum Beispiel:"
+  },
+  "caseSensitive": {
+    "message": "Groß-/Kleinschreibung beachten"
+  },
+  "changesMadeSinceSharedPageCreation": {
+    "message": "Deine gespeicherten Tabs haben sich geändert, seit du diese Seite geteilt hast. Klicke auf „Aktualisieren“, um die bestehende geteilte Seite zu aktualisieren."
+  },
+  "changeThisSettingAtAnyTimeInfo": {
+    "message": "Du kannst diese Einstellung jederzeit ändern, indem du oben auf deiner OneTab-Seite auf die Schaltfläche „Optionen“ klickst."
+  },
+  "changeThisSettingAtAnyTimeInfoHtml": {
+    "message": "Du kannst dies später in <b>Optionen</b> ändern."
+  },
+  "checkboxesDeterminePinnedAndGroupedTabMergeInclusion": {
+    "message": "Die Kontrollkästchen oben auf dieser Seite legen fest, ob angeheftete Tabs oder Tabs in Tabgruppen in das Zusammenführen einbezogen werden."
+  },
+  "chooseALocation": {
+    "message": "Ort auswählen"
+  },
+  "chooseALocationToImportTo": {
+    "message": "Ort für den Import auswählen"
+  },
+  "chooseExportLocation": {
+    "message": "Ort für den Export auswählen"
+  },
+  "chooseLightDarkTheme": {
+    "message": "Helles/dunkles Design wählen"
+  },
+  "chooseLocationToCopyTo": {
+    "message": "Ort zum Kopieren auswählen"
+  },
+  "chooseLocationToMoveTo": {
+    "message": "Ort zum Verschieben auswählen"
+  },
+  "chooseLocationToRestoreTo": {
+    "message": "Ort zum Wiederherstellen auswählen"
+  },
+  "chooseToIncludeNotes": {
+    "message": "Wenn du Notizen zu Tabs oder Gruppen hinzugefügt hast, wähle, ob sie in der geteilten Webseite enthalten sein sollen"
+  },
+  "chooseToIncludeRatings": {
+    "message": "Wenn du Sterne zu Tabs oder Gruppen hinzugefügt hast, wähle, ob sie in der geteilten Webseite enthalten sein sollen"
+  },
+  "chromeIncognitoInstructions": {
+    "message": "Gehe in deinen Browsereinstellungen zu „Einstellungen“ → „Erweiterungen“ → „OneTab“ → „Details“ und aktiviere dann „Im Inkognitomodus zulassen“."
+  },
+  "clickButtonToAllowTabAccess": {
+    "message": "Klicke auf die Schaltfläche unten, um OneTab den Zugriff auf deine geöffneten Tabs zu erlauben."
+  },
+  "clickHereToContinue": {
+    "message": "Klicke hier, um fortzufahren."
+  },
+  "clickOneTabIconToStoreTabsHere": {
+    "message": "Klicke auf das OneTab-Symbol in der Symbolleiste deines Browsers, um deine offenen Tabs hier zu speichern."
+  },
+  "closeSelectedTabs_few": {
+    "message": "{COUNT} ausgewählte Tabs schließen"
+  },
+  "closeSelectedTabs_many": {
+    "message": "{COUNT} ausgewählte Tabs schließen"
+  },
+  "closeSelectedTabs_one": {
+    "message": "{COUNT} ausgewählten Tab schließen"
+  },
+  "closeSelectedTabs_other": {
+    "message": "{COUNT} ausgewählte Tabs schließen"
+  },
+  "closeSelectedTabs_two": {
+    "message": "{COUNT} ausgewählte Tabs schließen"
+  },
+  "closeSelectedTabs_zero": {
+    "message": "{COUNT} ausgewählte Tabs schließen"
+  },
+  "closeSelectedTabsAndStoreInONETAB_few": {
+    "message": "{COUNT} ausgewählte Tabs schließen und in ONETAB speichern"
+  },
+  "closeSelectedTabsAndStoreInONETAB_many": {
+    "message": "{COUNT} ausgewählte Tabs schließen und in ONETAB speichern"
+  },
+  "closeSelectedTabsAndStoreInONETAB_one": {
+    "message": "{COUNT} ausgewählten Tab schließen und in ONETAB speichern"
+  },
+  "closeSelectedTabsAndStoreInONETAB_other": {
+    "message": "{COUNT} ausgewählte Tabs schließen und in ONETAB speichern"
+  },
+  "closeSelectedTabsAndStoreInONETAB_two": {
+    "message": "{COUNT} ausgewählte Tabs schließen und in ONETAB speichern"
+  },
+  "closeSelectedTabsAndStoreInONETAB_zero": {
+    "message": "{COUNT} ausgewählte Tabs schließen und in ONETAB speichern"
+  },
+  "closeTabs_few": {
+    "message": "Tabs schließen"
+  },
+  "closeTabs_many": {
+    "message": "Tabs schließen"
+  },
+  "closeTabs_one": {
+    "message": "Tab schließen"
+  },
+  "closeTabs_other": {
+    "message": "Tabs schließen"
+  },
+  "closeTabs_two": {
+    "message": "Tabs schließen"
+  },
+  "closeTabs_zero": {
+    "message": "Tabs schließen"
+  },
+  "closeTabsAfterMerge": {
+    "message": "Tabs nach dem Zusammenführen schließen"
+  },
+  "closeTabsAlreadyStoredInOneTab_few": {
+    "message": "{COUNT} Tabs schließen, die bereits in OneTab gespeichert sind"
+  },
+  "closeTabsAlreadyStoredInOneTab_many": {
+    "message": "{COUNT} Tabs schließen, die bereits in OneTab gespeichert sind"
+  },
+  "closeTabsAlreadyStoredInOneTab_one": {
+    "message": "{COUNT} Tab schließen, der bereits in OneTab gespeichert ist"
+  },
+  "closeTabsAlreadyStoredInOneTab_other": {
+    "message": "{COUNT} Tabs schließen, die bereits in OneTab gespeichert sind"
+  },
+  "closeTabsAlreadyStoredInOneTab_two": {
+    "message": "{COUNT} Tabs schließen, die bereits in OneTab gespeichert sind"
+  },
+  "closeTabsAlreadyStoredInOneTab_zero": {
+    "message": "{COUNT} Tabs schließen, die bereits in OneTab gespeichert sind"
+  },
+  "closeTabsAndStore_few": {
+    "message": "Tabs schließen und in ONETAB speichern"
+  },
+  "closeTabsAndStore_many": {
+    "message": "Tabs schließen und in ONETAB speichern"
+  },
+  "closeTabsAndStore_one": {
+    "message": "Tab schließen und in ONETAB speichern"
+  },
+  "closeTabsAndStore_other": {
+    "message": "Tabs schließen und in ONETAB speichern"
+  },
+  "closeTabsAndStore_two": {
+    "message": "Tabs schließen und in ONETAB speichern"
+  },
+  "closeTabsAndStore_zero": {
+    "message": "Tabs schließen und in ONETAB speichern"
+  },
+  "closeTheseDuplicates_few": {
+    "message": "Diese Duplikate schließen"
+  },
+  "closeTheseDuplicates_many": {
+    "message": "Diese Duplikate schließen"
+  },
+  "closeTheseDuplicates_one": {
+    "message": "Dieses Duplikat schließen"
+  },
+  "closeTheseDuplicates_other": {
+    "message": "Diese Duplikate schließen"
+  },
+  "closeTheseDuplicates_two": {
+    "message": "Diese Duplikate schließen"
+  },
+  "closeTheseDuplicates_zero": {
+    "message": "Diese Duplikate schließen"
+  },
+  "completedTaskFlagHelp": {
+    "message": "Dieses Element ist eine Aufgabe. Klicke auf dieses Symbol, um sie als ausstehend (nicht erledigt) zu markieren."
+  },
+  "completeEditingShortcutInfo": {
+    "message": "Beim Bearbeiten eines Notizfelds: Bearbeitung abschließen"
+  },
+  "configureShortcuts": {
+    "message": "Tastenkombinationen konfigurieren"
+  },
+  "conflictingShortcutsHint": {
+    "message": "Wenn eine der obigen Tastenkombinationen nicht funktioniert oder mit anderen Anwendungen in Konflikt steht, kannst du eine andere Tastenkombination festlegen."
+  },
+  "continue": {
+    "message": "Weiter"
+  },
+  "convertTabsIntoAList": {
+    "message": "Tabs in eine Liste umwandeln"
+  },
+  "copiedToClipboard": {
+    "message": "In die Zwischenablage kopiert"
+  },
+  "copy": {
+    "message": "Kopieren"
+  },
+  "copyLinksToClipboard": {
+    "message": "Links in die Zwischenablage kopieren"
+  },
+  "copySharedPageUrl": {
+    "message": "URL der geteilten Seite kopieren"
+  },
+  "copyToClipboard": {
+    "message": "In die Zwischenablage kopieren"
+  },
+  "copyToClipboardMenuItemHelp": {
+    "message": "Diese Weblinks in die Zwischenablage kopieren, damit du sie in andere Anwendungen einfügen kannst. Du kannst das Textformat für die Zwischenablage auf der OneTab-Optionsseite ändern."
+  },
+  "createANewGroupHere": {
+    "message": "Hier eine neue Gruppe erstellen"
+  },
+  "createdOnDate": {
+    "message": "Erstellt am {DATE}"
+  },
+  "createdOnOrAfterColon": {
+    "message": "Erstellt am oder nach:"
+  },
+  "createdOnOrBeforeColon": {
+    "message": "Erstellt am oder vor:"
+  },
+  "createFolderAbove": {
+    "message": "Ordner oberhalb erstellen"
+  },
+  "createFolderAboveBelow": {
+    "message": "Ordner oberhalb / unterhalb erstellen"
+  },
+  "createFolderAboveWithinBelow": {
+    "message": "Ordner oberhalb / innerhalb / unterhalb erstellen"
+  },
+  "createFolderBelow": {
+    "message": "Ordner unterhalb erstellen"
+  },
+  "createFolderWithin": {
+    "message": "Ordner darin erstellen"
+  },
+  "createFolderWithinMenuItemHelp": {
+    "message": "Ordner dienen zum Organisieren von Gruppen von Tabs. Ordner enthalten Gruppen und Gruppen enthalten Tabs."
+  },
+  "createGroupAbove": {
+    "message": "Gruppe oberhalb erstellen"
+  },
+  "createGroupAboveBelow": {
+    "message": "Gruppe oberhalb / unterhalb erstellen"
+  },
+  "createGroupAboveWithinBelow": {
+    "message": "Gruppe oberhalb / innerhalb / unterhalb erstellen"
+  },
+  "createGroupBelow": {
+    "message": "Gruppe unterhalb erstellen"
+  },
+  "createGroupInsideDestination": {
+    "message": "Neue Gruppe innerhalb des Ziels erstellen"
+  },
+  "createGroupInsideDestinationHelp": {
+    "message": "Wenn das Kästchen nicht aktiviert ist, werden deine Tabs direkt zur Zielgruppe hinzugefügt. Wenn es aktiviert ist, wird für deine Tabs innerhalb der Zielgruppe eine neue Tabgruppe im Browser erstellt. Aktiviere dieses Kästchen nur, wenn du die Funktion „Tabgruppen“ deines Browsers verwenden möchtest."
+  },
+  "createGroupMenuItemHelp": {
+    "message": "Eine neue, leere Gruppe erstellen. Eine Gruppe enthält eine Liste von Tabs, die gemeinsam in einem Fenster wiederhergestellt werden können."
+  },
+  "createGroupWithin": {
+    "message": "Gruppe darin erstellen"
+  },
+  "createNewGroupTip": {
+    "message": "Um eine neue Gruppe zu erstellen, deaktiviere zuerst „Nur Ordner anzeigen“. So kannst du die neu erstellte Gruppe in der Liste sehen."
+  },
+  "darkTheme": {
+    "message": "Dunkles Design"
+  },
+  "dayCount_few": {
+    "message": "{COUNT} Tage"
+  },
+  "dayCount_many": {
+    "message": "{COUNT} Tage"
+  },
+  "dayCount_one": {
+    "message": "{COUNT} Tag"
+  },
+  "dayCount_other": {
+    "message": "{COUNT} Tage"
+  },
+  "dayCount_two": {
+    "message": "{COUNT} Tage"
+  },
+  "dayCount_zero": {
+    "message": "{COUNT} Tage"
+  },
+  "delete": {
+    "message": "Löschen"
+  },
+  "deleteAllTrash": {
+    "message": "Papierkorb leeren"
+  },
+  "deleteThisCopy": {
+    "message": "Diese Kopie löschen"
+  },
+  "deselectAll": {
+    "message": "Alle abwählen"
+  },
+  "destinationColon": {
+    "message": "Ziel:"
+  },
+  "disabled": {
+    "message": "Deaktiviert"
+  },
+  "doneTaskCount_few": {
+    "message": "{COUNT} erledigt"
+  },
+  "doneTaskCount_many": {
+    "message": "{COUNT} erledigt"
+  },
+  "doneTaskCount_one": {
+    "message": "{COUNT} erledigt"
+  },
+  "doneTaskCount_other": {
+    "message": "{COUNT} erledigt"
+  },
+  "doneTaskCount_two": {
+    "message": "{COUNT} erledigt"
+  },
+  "doneTaskCount_zero": {
+    "message": "{COUNT} erledigt"
+  },
+  "dontCloseGroupedTabs": {
+    "message": "Keine Tabs in Tabgruppen schließen"
+  },
+  "dontClosePinnedTabs": {
+    "message": "Keine angehefteten Tabs schließen"
+  },
+  "dontCloseTabsFromDomains": {
+    "message": "Keine Tabs von EXAMPLE.COM schließen"
+  },
+  "dragCopyKeysHtml": {
+    "message": "<x-key>{CTRL}</x-key> oder <x-key>{ALT}</x-key>"
+  },
+  "dragCopyModifierInfo": {
+    "message": "Halte beim Ziehen eines Tabs die Strg- oder Alt-Taste gedrückt, um eine Kopie davon zu erstellen, statt ihn zu verschieben."
+  },
+  "dragTabsHereForQuickList": {
+    "message": "Ziehe deine gespeicherten Tabs oder Gruppen hierher. Sie werden deiner Schnellliste hinzugefügt."
+  },
+  "editTabGroupTitleAndNotes": {
+    "message": "Titel und Notizen der Tabgruppe bearbeiten"
+  },
+  "emojiShortcutInfo": {
+    "message": "Beim Bearbeiten eines Notizfelds: Emoji-Auswahl öffnen"
+  },
+  "emptyInBrackets": {
+    "message": "(leer)"
+  },
+  "emptyOneTabInfoMsg": {
+    "message": "Wenn du mehrere Tabs geöffnet hast, klicke auf das OneTab-Symbol in der Symbolleiste deines Browsers. Deine offenen Tabs erscheinen dann hier."
+  },
+  "enabled": {
+    "message": "Aktiviert"
+  },
+  "everything": {
+    "message": "Alles"
+  },
+  "exampleLink": {
+    "message": "Beispiel-Link"
+  },
+  "exampleLinkTitle": {
+    "message": "Beispiel-Linktitel"
+  },
+  "exampleLinkTitleOptional": {
+    "message": "Beispiel-Linktitel (optional)"
+  },
+  "exampleRichTextParagraph": {
+    "message": "Beispielabsatz mit PLACEHOLDER und PLACEHOLDER"
+  },
+  "exampleWebsitePageTitle": {
+    "message": "Beispiel-Website – Seitentitel"
+  },
+  "excludeDomainFromOneTab": {
+    "message": "EXAMPLE.COM von OneTab ausschließen"
+  },
+  "excludeWebSiteFromOneTab": {
+    "message": "Diese Website von OneTab ausschließen"
+  },
+  "expiresColon": {
+    "message": "Läuft ab:"
+  },
+  "export": {
+    "message": "Exportieren"
+  },
+  "exportImportUrls": {
+    "message": "URLs exportieren / importieren"
+  },
+  "exportThenImportNote": {
+    "message": "Die folgende URL-Liste kann auf diesem oder einem anderen Computer wieder in OneTab importiert werden."
+  },
+  "exportUrls": {
+    "message": "URLs exportieren"
+  },
+  "feedback": {
+    "message": "Feedback"
+  },
+  "filter": {
+    "message": "Filter"
+  },
+  "firefoxIncognitoInstructions": {
+    "message": "Gehe in deinen Browsereinstellungen zu „Einstellungen“ → „Add-ons und Themes“ → „Erweiterungen“ → „OneTab“ → „...“ → „Verwalten“ und aktiviere dann „In privaten Fenstern ausführen“."
+  },
+  "firefoxIndexedDbUnavailable": {
+    "message": "OneTab kann keine Daten speichern oder abrufen. Wenn du Firefox so konfiguriert hast, dass niemals eine Chronik angelegt wird, verhindert dies, dass OneTab ordnungsgemäß funktioniert. Andernfalls kontaktiere uns bitte über unsere Website; möglicherweise können wir dir helfen."
+  },
+  "firefoxShortcutConfigInstructions": {
+    "message": "Gib die URL „about:addons?type=extension“ in die Adressleiste deines Browsers ein. Wenn die Seite erscheint, klicke auf das Zahnradsymbol und wähle dann „Tastenkombinationen für Erweiterungen verwalten“"
+  },
+  "Folder": {
+    "message": "Ordner"
+  },
+  "folderCount_few": {
+    "message": "{COUNT} Ordner"
+  },
+  "folderCount_many": {
+    "message": "{COUNT} Ordner"
+  },
+  "folderCount_one": {
+    "message": "{COUNT} Ordner"
+  },
+  "folderCount_other": {
+    "message": "{COUNT} Ordner"
+  },
+  "folderCount_two": {
+    "message": "{COUNT} Ordner"
+  },
+  "folderCount_zero": {
+    "message": "{COUNT} Ordner"
+  },
+  "folders": {
+    "message": "Ordner"
+  },
+  "foldersOnly": {
+    "message": "Nur Ordner"
+  },
+  "foldGroup": {
+    "message": "Gruppe einklappen"
+  },
+  "gettingStarted": {
+    "message": "Erste Schritte"
+  },
+  "gotIt": {
+    "message": "Verstanden"
+  },
+  "goToParentFolder": {
+    "message": "Zum übergeordneten Ordner wechseln"
+  },
+  "groupCount_few": {
+    "message": "{COUNT} Gruppen"
+  },
+  "groupCount_many": {
+    "message": "{COUNT} Gruppen"
+  },
+  "groupCount_one": {
+    "message": "{COUNT} Gruppe"
+  },
+  "groupCount_other": {
+    "message": "{COUNT} Gruppen"
+  },
+  "groupCount_two": {
+    "message": "{COUNT} Gruppen"
+  },
+  "groupCount_zero": {
+    "message": "{COUNT} Gruppen"
+  },
+  "groups": {
+    "message": "Gruppen"
+  },
+  "hasNotes": {
+    "message": "Hat Notizen"
+  },
+  "help": {
+    "message": "Hilfe"
+  },
+  "hideArchivedItems": {
+    "message": "Archivierte Elemente ausblenden"
+  },
+  "import": {
+    "message": "Importieren"
+  },
+  "importAndExport": {
+    "message": "Import & Export"
+  },
+  "importBookmarks": {
+    "message": "Lesezeichen importieren"
+  },
+  "importedBookmarks": {
+    "message": "Importierte Lesezeichen"
+  },
+  "importExportShareMenuNoteHtml": {
+    "message": "Du kannst deine Tabs auch als Webseite zum Teilen oder als HTML-Datei exportieren. Verwende dazu die Optionen <b>Als Webseite teilen</b> und <b>Als HTML-Datei speichern</b> im Menü <b>Mehr…</b> einer Gruppe oder eines Ordners."
+  },
+  "importFolderAndSubfolders": {
+    "message": "Ordner und Unterordner importieren"
+  },
+  "importLinksHere": {
+    "message": "Links hier importieren"
+  },
+  "importLinksHereMenuItemHelp": {
+    "message": "Du kannst eine Liste von Weblinks einfügen oder Browser-Lesezeichen importieren."
+  },
+  "importNotesTruncatedNotice": {
+    "message": "Einige importierte Notizen überschritten das Limit von {MAX} Zeichen. Daher wurden ihre Enden gekürzt."
+  },
+  "importReadingList": {
+    "message": "Leseliste importieren"
+  },
+  "importText": {
+    "message": "Text importieren"
+  },
+  "importUrls": {
+    "message": "URLs importieren"
+  },
+  "includeGroupedTabs": {
+    "message": "Tabs in Tabgruppen einbeziehen"
+  },
+  "includeNotes": {
+    "message": "Notizen einschließen"
+  },
+  "includePinnedTabs": {
+    "message": "Angeheftete Tabs einbeziehen"
+  },
+  "includeStarRatings": {
+    "message": "Sterne einschließen"
+  },
+  "includeTabsAlreadyStored": {
+    "message": "Bereits gespeicherte Tabs einbeziehen"
+  },
+  "includeTabsFromDomains": {
+    "message": "Tabs von EXAMPLE.COM einbeziehen"
+  },
+  "incogitoPermissionRequired": {
+    "message": "OneTab benötigt die Berechtigung, Inkognito-Fenster zu erstellen."
+  },
+  "incognitoWindows": {
+    "message": "Inkognito-Fenster"
+  },
+  "invertSelection": {
+    "message": "Auswahl umkehren"
+  },
+  "itemTextTruncatedNotice": {
+    "message": "Der Text überschritt das Limit (Notizen können {NOTESMAX} Zeichen enthalten, Titel {TITLEMAX}). Daher wurde das Ende gekürzt."
+  },
+  "justNow": {
+    "message": "gerade eben"
+  },
+  "kbdNavBackspaceInfo": {
+    "message": "Zum übergeordneten Ordner wechseln"
+  },
+  "kbdNavEnterInfo": {
+    "message": "Tabs wiederherstellen oder Ordner öffnen"
+  },
+  "kbdNavEscInfo": {
+    "message": "Tastaturnavigation beenden"
+  },
+  "kbdNavFocusInfo": {
+    "message": "Fokus zwischen Gruppen und Tabs wechseln"
+  },
+  "kbdNavFoldInfo": {
+    "message": "Gruppe ein-/ausklappen"
+  },
+  "kbdNavMoveInfo": {
+    "message": "Zwischen Elementen wechseln"
+  },
+  "kbdNavTabInfo": {
+    "message": "Tastaturnavigation starten"
+  },
+  "keyboardShortcutsColon": {
+    "message": "Tastenkombinationen:"
+  },
+  "languageTitle": {
+    "message": "Sprache:"
+  },
+  "licenseAlreadyHaveKey": {
+    "message": "Ich habe bereits einen Lizenzschlüssel"
+  },
+  "licenseAlreadySetUpRestarting": {
+    "message": "Diese Lizenz wurde bereits eingerichtet. Daher verbinden wir dieses Gerät mit der vorhandenen Einrichtung. Ein neuer Code wurde per E-Mail an die hinterlegte Adresse gesendet."
+  },
+  "licenseBackLink": {
+    "message": "Zurück"
+  },
+  "licenseBrowserOnOs": {
+    "message": "{BROWSER} unter {OS}"
+  },
+  "licenseBrowsersActiveOn": {
+    "message": "Aktiv am {DATE}"
+  },
+  "licenseBrowsersActiveToday": {
+    "message": "Heute aktiv"
+  },
+  "licenseBrowsersAdded": {
+    "message": "Hinzugefügt am {DATE}"
+  },
+  "licenseBrowsersThisBrowser": {
+    "message": "Dieser Browser"
+  },
+  "licenseBrowserUnknown": {
+    "message": "Browser"
+  },
+  "licenseChangeEmail": {
+    "message": "E-Mail-Adresse ändern"
+  },
+  "licenseChangeEmailWebLink": {
+    "message": "E-Mail-Adresse ändern"
+  },
+  "licenseChooseRecoveryTitle": {
+    "message": "Schutz deines Verschlüsselungsschlüssels auswählen"
+  },
+  "licenseCloseModal": {
+    "message": "Schließen"
+  },
+  "licenseCodeExpired": {
+    "message": "Dieser Code ist abgelaufen. Bitte fordere eine neue E-Mail an."
+  },
+  "licenseCodeIncorrectTriesRemaining": {
+    "message": "Falscher Code. Verbleibende Versuche: {COUNT}."
+  },
+  "licenseCodeInvalidFormat": {
+    "message": "Bitte gib den 6-stelligen Code aus der E-Mail ein."
+  },
+  "licenseCodePlaceholder": {
+    "message": "6-stelliger Code"
+  },
+  "licenseCodeSentTo": {
+    "message": "Gib den 6-stelligen Code ein, den wir per E-Mail an {EMAIL} gesendet haben."
+  },
+  "licenseCodeSourceDeviceOption": {
+    "message": "Code von einem bereits verbundenen Browser abrufen"
+  },
+  "licenseCodeSourceDeviceOptionDescription": {
+    "message": "Öffne dort „Sichern & synchronisieren“ und klicke auf „Weiteren Browser oder weiteres Profil verbinden“."
+  },
+  "licenseCodeSourceEmailOption": {
+    "message": "Code per E-Mail an {EMAIL} senden"
+  },
+  "licenseCodeSourceTitle": {
+    "message": "Bestätigungscode abrufen"
+  },
+  "licenseCodeTriesExhausted": {
+    "message": "Für diesen Code sind keine Versuche mehr übrig. Bitte fordere eine neue E-Mail an."
+  },
+  "licenseConnectAnotherBrowser": {
+    "message": "Weiteren Browser oder weiteres Profil verbinden"
+  },
+  "licenseConnectedBrowsers": {
+    "message": "Verbundene Browser"
+  },
+  "licenseDeviceAddConnected": {
+    "message": "{BROWSER} wurde gerade mit deiner Lizenz verbunden."
+  },
+  "licenseDeviceAddExpired": {
+    "message": "Dieser Code ist abgelaufen."
+  },
+  "licenseDeviceAddExpiresIn": {
+    "message": "Läuft in {TIME} ab"
+  },
+  "licenseDeviceAddGetNewCode": {
+    "message": "Neuen Code abrufen"
+  },
+  "licenseDeviceAddIntro": {
+    "message": "So verbindest du einen weiteren Browser oder ein weiteres Profil: Gib dort deinen Lizenzschlüssel und anschließend auf Aufforderung diesen Code ein."
+  },
+  "licenseDeviceAddKeyReminder": {
+    "message": "Du benötigst weiterhin deinen Lizenzschlüssel – er wird hier nicht angezeigt. Du findest ihn in der ursprünglichen E-Mail oder auf deiner Abrechnungsseite."
+  },
+  "licenseDeviceAddNeverShare": {
+    "message": "Verwende diesen Code nur in deinem eigenen neuen Browser. Gib ihn niemals an andere weiter – OneTab wird dich nie danach fragen. Er funktioniert nur mit der Lizenz dieses Browsers."
+  },
+  "licenseDeviceCodeInsteadLink": {
+    "message": "Stattdessen Code von verbundenem Browser abrufen"
+  },
+  "licenseDeviceCodePrompt": {
+    "message": "Öffne in einem Browser, der bereits mit deiner Lizenz verbunden ist, „Sichern & synchronisieren“ und klicke auf „Weiteren Browser oder weiteres Profil verbinden“. Gib den dort angezeigten 6-stelligen Code ein."
+  },
+  "licenseDeviceLimitReached": {
+    "message": "Diese Lizenz hat ihr Gerätelimit erreicht."
+  },
+  "licenseDoneButton": {
+    "message": "Fertig"
+  },
+  "licenseEasyOptionDescription": {
+    "message": "Dein Verschlüsselungsschlüssel wird sicher auf dem Server verwahrt, sodass du ihn per E-Mail wiederherstellen kannst."
+  },
+  "licenseEasyOptionLabel": {
+    "message": "Einfach"
+  },
+  "licenseEmailCodeInsteadLink": {
+    "message": "Stattdessen Code per E-Mail erhalten"
+  },
+  "licenseEmailPlaceholder": {
+    "message": "E-Mail-Adresse"
+  },
+  "licenseEmailPrompt": {
+    "message": "Deine E-Mail-Adresse"
+  },
+  "licenseForgotKeyBack": {
+    "message": "Zurück zur Lizenzschlüssel-Eingabe"
+  },
+  "licenseForgotKeyEnterKeyButton": {
+    "message": "Lizenzschlüssel eingeben"
+  },
+  "licenseForgotKeyLink": {
+    "message": "Lizenzschlüssel vergessen?"
+  },
+  "licenseForgotKeyNoEmailOnRecord": {
+    "message": "Mit dieser E-Mail-Adresse ist kein Lizenzschlüssel verknüpft. Prüfe sie auf Tippfehler oder versuche es mit einer anderen Adresse, die du möglicherweise verwendet hast."
+  },
+  "licenseForgotKeyPrompt": {
+    "message": "Gib deine E-Mail-Adresse ein. Wenn sie für einen Lizenzschlüssel hinterlegt ist, senden wir dir den Schlüssel per E-Mail."
+  },
+  "licenseForgotKeySendButton": {
+    "message": "Senden"
+  },
+  "licenseForgotKeySentTo": {
+    "message": "Wir haben deinen Lizenzschlüssel per E-Mail an {EMAIL} gesendet. Sobald er eintrifft, kannst du ihn hier eingeben."
+  },
+  "licenseForgotKeyTooManyRequests": {
+    "message": "Dein Lizenzschlüssel wurde in letzter Zeit bereits mehrmals an diese Adresse gesendet. Bitte prüfe deinen Spamordner oder versuche es morgen erneut."
+  },
+  "licenseGenericError": {
+    "message": "Etwas ist schiefgelaufen. Bitte versuche es erneut."
+  },
+  "licenseGoButton": {
+    "message": "Weiter"
+  },
+  "licenseInvalidEmail": {
+    "message": "Bitte gib eine gültige E-Mail-Adresse ein."
+  },
+  "licenseKeyInvalidFormat": {
+    "message": "Das sieht nicht nach einem gültigen Lizenzschlüssel aus. Er sollte aus 20 Buchstaben (A–F) und Ziffern bestehen, zum Beispiel XXXX-XXXX-XXXX-XXXX-XXXX."
+  },
+  "licenseKeyNotFound": {
+    "message": "Lizenzschlüssel nicht gefunden. Bitte prüfe ihn und versuche es erneut."
+  },
+  "licenseNoLongerActiveError": {
+    "message": "Diese Lizenz ist nicht mehr aktiv. Wenn du glaubst, dass dies ein Fehler ist, kontaktiere den Support."
+  },
+  "licenseRateLimitedError": {
+    "message": "Zu viele fehlgeschlagene Versuche aus deinem Netzwerk. Bitte warte eine Weile und versuche es erneut."
+  },
+  "licenseResendEmail": {
+    "message": "Neue E-Mail senden"
+  },
+  "licenseServiceProblemTryLater": {
+    "message": "Dies kann derzeit wegen eines Problems auf unserer Seite nicht abgeschlossen werden. Bitte versuche es später erneut. Falls das Problem weiterhin auftritt, kontaktiere den Support."
+  },
+  "licenseSuccess": {
+    "message": "Erfolg! Deine gespeicherten Tabs werden jetzt verschlüsselt und sicher in der Cloud gesichert."
+  },
+  "licenseSuccessJoin": {
+    "message": "Erfolg! Dieser Browser ist jetzt mit deiner verschlüsselten Sicherung verbunden. Deine hier und in deinen anderen Browsern gespeicherten Tabs bleiben nun synchron."
+  },
+  "licenseSuggestedEmailIntro": {
+    "message": "Dein Lizenzschlüssel wurde per E-Mail an folgende Adresse gesendet:"
+  },
+  "licenseSuggestedEmailNote": {
+    "message": "Für Bestätigungscodes und die Kontowiederherstellung wird diese Adresse verwendet. Stelle daher sicher, dass sie dir gehört."
+  },
+  "licenseSuspendedBillingError": {
+    "message": "Diese Lizenz kann derzeit wegen eines Abrechnungsproblems nicht verbunden werden. Wenn du die Abrechnung verwaltest, melde dich bitte unter one-tab.com an, um das Problem zu beheben. Andernfalls kontaktiere die Person, die für den Kauf deiner Lizenz verantwortlich ist."
+  },
+  "licenseUltraKeyConfirmCheckbox": {
+    "message": "Ich habe eine Kopie meines Schlüssels gespeichert und verstehe, dass er nie wieder angezeigt wird."
+  },
+  "licenseUltraKeyConfirmRequired": {
+    "message": "Bitte bestätige, dass du eine Kopie deines Schlüssels gespeichert hast."
+  },
+  "licenseUltraKeyEnterPrompt": {
+    "message": "Gib deinen Verschlüsselungsschlüssel ein, um die Verbindung dieses Geräts abzuschließen."
+  },
+  "licenseUltraKeyIntro": {
+    "message": "Dies ist dein Verschlüsselungsschlüssel. Bewahre eine Kopie davon sicher auf, zum Beispiel in einem Passwortmanager, damit du deine Daten nach einem Computerausfall oder Diebstahl wiederherstellen kannst."
+  },
+  "licenseUltraKeyMismatch": {
+    "message": "Dieser Schlüssel ist für diese Lizenz nicht korrekt. Bitte prüfe ihn und versuche es erneut."
+  },
+  "licenseUltraKeyNeverShownAgain": {
+    "message": "Dieser Schlüssel wird NIE wieder angezeigt."
+  },
+  "licenseUltraKeyPlaceholder": {
+    "message": "Verschlüsselungsschlüssel"
+  },
+  "licenseUltraOptionDescription": {
+    "message": "Nur du besitzt den Verschlüsselungsschlüssel. Wenn du ihn verlierst, kann er nicht wiederhergestellt werden. Wähle diese Option nur, wenn du eine Kopie davon sicher aufbewahren kannst."
+  },
+  "licenseUltraOptionLabel": {
+    "message": "Ultra-Datenschutz"
+  },
+  "licenseUseDifferentEmail": {
+    "message": "Andere E-Mail-Adresse verwenden"
+  },
+  "lightTheme": {
+    "message": "Helles Design"
+  },
+  "localBackupRestoredModal": {
+    "message": "Der Teil deines Browserprofils, in dem die Daten von OneTab gespeichert werden, wurde beschädigt oder gelöscht. Dies kann nach einem Browserabsturz passieren oder wenn fehlerhafte Software zur System- oder Datenschutzbereinigung Browserdaten entfernt."
+  },
+  "localBackupRestoredModalRecovery": {
+    "message": "Diesmal hattest du Glück: Der Schaden hat den separaten Teil des Profils nicht erreicht, in dem OneTab eine wöchentliche Sicherung speichert. Daher wurden deine Tabs aus der Sicherung vom {DATE} wiederhergestellt. Alles, was du nach diesem Zeitpunkt gespeichert oder geändert hast, konnte nicht wiederhergestellt werden. Wäre das gesamte Profil verloren gegangen oder auch die Sicherung beschädigt worden, hätte es nichts gegeben, woraus deine Daten hätten wiederhergestellt werden können."
+  },
+  "localBackupRestoredModalTitle": {
+    "message": "OneTab hat deine Tabs nach einem Datenverlust wiederhergestellt"
+  },
+  "localeId": {
+    "message": "de"
+  },
+  "locationColon": {
+    "message": "Ort:"
+  },
+  "lock": {
+    "message": "Sperren"
+  },
+  "lockedGroupUnlockHelp": {
+    "message": "Zum Entsperren verwendest du das Menü „Mehr…“. Wenn eine Gruppe gesperrt ist, kannst du die Gruppe oder ihre Tabs nicht löschen und Tabs können nicht umsortiert werden."
+  },
+  "lockMenuItemHelp": {
+    "message": "Wenn eine Gruppe gesperrt ist, kannst du Elemente in der Gruppe nicht entfernen oder umsortieren, bis du die Gruppe entsperrst."
+  },
+  "makeThisATask": {
+    "message": "Als Aufgabe markieren"
+  },
+  "manifestDescription": {
+    "message": "Bis zu 95 % Arbeitsspeicher sparen und Tab-Chaos reduzieren"
+  },
+  "markAsArchived": {
+    "message": "Als archiviert markieren"
+  },
+  "markAsArchivedMenuItemHelp": {
+    "message": "Wenn du ein Element als archiviert markierst, erhält es einen grauen Hintergrund. Das ist ein visueller Hinweis, dass du mit diesem Element fertig bist (zum Beispiel ein Artikel, den du zu Ende gelesen hast). Wenn du etwas archivierst, das als Aufgabe markiert ist, erscheint die Aufgabe nicht mehr in der Aufgabenspalte auf deiner OneTab-Seite."
+  },
+  "markAsDoneTask": {
+    "message": "Als erledigte Aufgabe markieren"
+  },
+  "markAsDoneTaskMenuItemHelp": {
+    "message": "Visuell anzeigen, dass eine Aufgabe erledigt wurde"
+  },
+  "markAsPendingTask": {
+    "message": "Als ausstehende Aufgabe markieren"
+  },
+  "markAsPendingTaskMenuItemHelp": {
+    "message": "Visuell anzeigen, dass dieses Element eine Aufgabe ist. Es erscheint ein Aufgaben-Symbol, auf das du dann klicken kannst, um visuell anzuzeigen, dass die Aufgabe erledigt wurde. Alle Aufgaben (sofern nicht als archiviert markiert) erscheinen außerdem in der Aufgabenspalte auf deiner OneTab-Seite."
+  },
+  "matchCount_few": {
+    "message": "{COUNT} Treffer"
+  },
+  "matchCount_many": {
+    "message": "{COUNT} Treffer"
+  },
+  "matchCount_one": {
+    "message": "{COUNT} Treffer"
+  },
+  "matchCount_other": {
+    "message": "{COUNT} Treffer"
+  },
+  "matchCount_two": {
+    "message": "{COUNT} Treffer"
+  },
+  "matchCount_zero": {
+    "message": "{COUNT} Treffer"
+  },
+  "matchWholeWordsOnly": {
+    "message": "Nur ganze Wörter"
+  },
+  "mayNeedToRestartBrowser": {
+    "message": "Wenn du diese Meldung jedes Mal siehst, aktualisiere bitte deinen Browser und starte ihn neu."
+  },
+  "mergeIntoParent": {
+    "message": "In übergeordnetes Element zusammenführen"
+  },
+  "mergeOpenTabsHere_few": {
+    "message": "{COUNT} geöffnete Tabs hier zusammenführen"
+  },
+  "mergeOpenTabsHere_many": {
+    "message": "{COUNT} geöffnete Tabs hier zusammenführen"
+  },
+  "mergeOpenTabsHere_one": {
+    "message": "{COUNT} geöffneten Tab hier zusammenführen"
+  },
+  "mergeOpenTabsHere_other": {
+    "message": "{COUNT} geöffnete Tabs hier zusammenführen"
+  },
+  "mergeOpenTabsHere_two": {
+    "message": "{COUNT} geöffnete Tabs hier zusammenführen"
+  },
+  "mergeOpenTabsHere_zero": {
+    "message": "{COUNT} geöffnete Tabs hier zusammenführen"
+  },
+  "mergeSelectedTabsHere_few": {
+    "message": "{COUNT} ausgewählte Tabs hier zusammenführen"
+  },
+  "mergeSelectedTabsHere_many": {
+    "message": "{COUNT} ausgewählte Tabs hier zusammenführen"
+  },
+  "mergeSelectedTabsHere_one": {
+    "message": "{COUNT} ausgewählten Tab hier zusammenführen"
+  },
+  "mergeSelectedTabsHere_other": {
+    "message": "{COUNT} ausgewählte Tabs hier zusammenführen"
+  },
+  "mergeSelectedTabsHere_two": {
+    "message": "{COUNT} ausgewählte Tabs hier zusammenführen"
+  },
+  "mergeSelectedTabsHere_zero": {
+    "message": "{COUNT} ausgewählte Tabs hier zusammenführen"
+  },
+  "mergeWithInnerGroups": {
+    "message": "Mit Untergruppen zusammenführen"
+  },
+  "modalMoveToTrashHintExampleGroupTitle": {
+    "message": "Beispiel-Gruppentitel"
+  },
+  "modalMoveToTrashHintHeading": {
+    "message": "Tipp: Bewege den Mauszeiger über den Titel einer Gruppe und klicke dann auf das X, um die Gruppe in den Papierkorb zu verschieben."
+  },
+  "modalOptionAutoActionOnOpenHeading": {
+    "message": "Nach dem Wiederherstellen von Tabs:"
+  },
+  "modalOptionAutoActionOnOpenOpenDesc": {
+    "message": "Bei Bedarf manuell löschen"
+  },
+  "modalOptionAutoActionOnOpenTrashDesc": {
+    "message": "Einfacher zum schnellen Speichern und Wiederherstellen"
+  },
+  "modalRemigrationDontAskAgain": {
+    "message": "Nicht mehr fragen"
+  },
+  "modalRemigrationFooterHtml": {
+    "message": "Klicke auf <b>Ja</b>, es sei denn, die Migration ist bereits erfolgt und du hast die migrierten Tabs absichtlich gelöscht."
+  },
+  "modalRemigrationNotNow": {
+    "message": "Nicht jetzt"
+  },
+  "modalRemigrationTabsFoundPrompt_few": {
+    "message": "{COUNT} Tabs aus OneTab v1 gefunden. Migrieren?"
+  },
+  "modalRemigrationTabsFoundPrompt_many": {
+    "message": "{COUNT} Tabs aus OneTab v1 gefunden. Migrieren?"
+  },
+  "modalRemigrationTabsFoundPrompt_one": {
+    "message": "{COUNT} Tab aus OneTab v1 gefunden. Migrieren?"
+  },
+  "modalRemigrationTabsFoundPrompt_other": {
+    "message": "{COUNT} Tabs aus OneTab v1 gefunden. Migrieren?"
+  },
+  "modalRemigrationTabsFoundPrompt_two": {
+    "message": "{COUNT} Tabs aus OneTab v1 gefunden. Migrieren?"
+  },
+  "modalRemigrationTabsFoundPrompt_zero": {
+    "message": "{COUNT} Tabs aus OneTab v1 gefunden. Migrieren?"
+  },
+  "modalRemigrationYes": {
+    "message": "Ja"
+  },
+  "modalUpdateToV2Heading": {
+    "message": "OneTab wurde aktualisiert"
+  },
+  "modalUpdateToV2QuickTourHtml": {
+    "message": "Möchtest du eine kurze Tour? Klicke oben auf <b>Hilfe</b>."
+  },
+  "modalUpdateToV2UseOneTabLikeBefore": {
+    "message": "Du kannst OneTab weiterhin wie gewohnt verwenden – speichere deine Tabs mit einem Klick."
+  },
+  "modifySharing": {
+    "message": "Freigabe ändern"
+  },
+  "moreEllipsis": {
+    "message": "Mehr…"
+  },
+  "moreSearchFilters": {
+    "message": "Weitere Suchfilter"
+  },
+  "move": {
+    "message": "Verschieben"
+  },
+  "moveBack": {
+    "message": "Zurückverschieben"
+  },
+  "moveToTrash": {
+    "message": "In den Papierkorb verschieben"
+  },
+  "namedOnly": {
+    "message": "Nur benannte Elemente"
+  },
+  "navigationFilter": {
+    "message": "Navigationsfilter"
+  },
+  "navigationFilterColumnOnlyNote": {
+    "message": "Dieser Filter gilt nur für die Navigationsspalte."
+  },
+  "newExclamation": {
+    "message": "Neu!"
+  },
+  "noDupsExistExceptForColon": {
+    "message": "Keine Duplikate vorhanden, außer:"
+  },
+  "noDupsFoundHere": {
+    "message": "Keine Duplikate gefunden"
+  },
+  "noMatches": {
+    "message": "Keine Treffer"
+  },
+  "noMatchesFound": {
+    "message": "Keine Treffer gefunden"
+  },
+  "nonArchived": {
+    "message": "Nicht archiviert"
+  },
+  "nonTabPinFlagHelp": {
+    "message": "Dieses Element ist oben im Ordner angeheftet. Klicke auf dieses Symbol, um die Anheftung aufzuheben."
+  },
+  "noOpenTabsToStore": {
+    "message": "In diesem Fenster sind keine geöffneten Tabs zum Speichern."
+  },
+  "noReadingListEntries": {
+    "message": "Keine Einträge in der Leseliste gefunden"
+  },
+  "noTabsInOneTabYet": {
+    "message": "Du hast noch keine Tabs in OneTab gespeichert"
+  },
+  "noTabsMeetCriteriaUseCheckboxes": {
+    "message": "Keine geöffneten Tabs entsprechen deinen Kriterien. Bitte verwende die obigen Kontrollkästchen."
+  },
+  "notAssigned": {
+    "message": "Nicht zugewiesen"
+  },
+  "notes": {
+    "message": "Notizen"
+  },
+  "notesAboutTheLinkOptional": {
+    "message": "Notizen zum Link (optional)"
+  },
+  "notesAboutTheSecondLinkOptional": {
+    "message": "Notizen zum zweiten Link (optional)"
+  },
+  "noTextHasBeenEntered": {
+    "message": "Es wurde kein Text eingegeben"
+  },
+  "ok": {
+    "message": "OK"
+  },
+  "omniboxShortcutInfo": {
+    "message": "Um deine OneTab-Liste von einem beliebigen Tab aus zu durchsuchen: Rufe die Adressleiste deines Browsers auf, gib 11 ein, dann die Leertaste und dann einen Suchbegriff. Für eine normale Suche (nicht in OneTab), die mit 11 beginnt, drücke 11, dann die Leertaste und dann die Rücktaste."
+  },
+  "OneTabAlsoAvailableForFirefox": {
+    "message": "OneTab ist auch für Firefox verfügbar"
+  },
+  "oneTabDesignedToProtectPrivacy": {
+    "message": "OneTab wurde entwickelt, um deine Privatsphäre zu schützen. Deine Tabs werden nicht an uns weitergegeben."
+  },
+  "oneTabExportPageTitle": {
+    "message": "OneTab-Export"
+  },
+  "oneTabFolderSlashShortcutInfo": {
+    "message": "Suchfeld fokussieren und nur im aktuellen Ordner suchen"
+  },
+  "oneTabImportExportPageTitle": {
+    "message": "OneTab – Import/Export"
+  },
+  "oneTabNeedsPermissionToAccessYourTabs": {
+    "message": "OneTab benötigt die Berechtigung, auf deine Tabs zuzugreifen."
+  },
+  "oneTabOptionsPageTitle": {
+    "message": "OneTab – Optionen"
+  },
+  "oneTabPermissionRequired": {
+    "message": "OneTab – Berechtigung erforderlich"
+  },
+  "oneTabRestartRequired": {
+    "message": "OneTab muss neu gestartet werden. Es werden keine anderen Tabs geschlossen."
+  },
+  "oneTabSlashShortcutInfo": {
+    "message": "Suchfeld fokussieren"
+  },
+  "open": {
+    "message": "Öffnen"
+  },
+  "openActionPopup": {
+    "message": "OneTab-Aktion (entspricht einem Klick auf das OneTab-Symbol in der Symbolleiste)"
+  },
+  "openAsCollapsedTabGroup": {
+    "message": "Als „eingeklappte“ Tabgruppe öffnen"
+  },
+  "openAsCollapsedTabGroupMenuItemHelp": {
+    "message": "Wenn du diese Tabs als minimierte „Tabgruppe“ öffnest, wird nur der Gruppenname angezeigt, bis du darauf klickst, um die enthaltenen Tabs einzublenden."
+  },
+  "openAsPinnedTab": {
+    "message": "Tab beim Öffnen anheften"
+  },
+  "openAsPinnedTabMenuItemHelp": {
+    "message": "Wenn dieser Tab wiederhergestellt wird, wird er als angehefteter Browser-Tab wiederhergestellt. Angeheftete Tabs werden im Browserfenster immer zuerst angezeigt."
+  },
+  "openAsTabGroup": {
+    "message": "Als Tabgruppe im Browser öffnen"
+  },
+  "openAsTabGroupMenuItemHelp": {
+    "message": "Dein Browser ermöglicht es, Tabs innerhalb eines Fensters in farbigen „Tabgruppen“ zu gruppieren."
+  },
+  "openFolder": {
+    "message": "Ordner öffnen"
+  },
+  "openGroupsLimitNotice_few": {
+    "message": "Damit dein Browser nicht überlastet wird, werden nur die ersten {COUNT} Gruppen geöffnet."
+  },
+  "openGroupsLimitNotice_many": {
+    "message": "Damit dein Browser nicht überlastet wird, werden nur die ersten {COUNT} Gruppen geöffnet."
+  },
+  "openGroupsLimitNotice_one": {
+    "message": "Damit dein Browser nicht überlastet wird, wird nur die {COUNT}. Gruppe geöffnet."
+  },
+  "openGroupsLimitNotice_other": {
+    "message": "Damit dein Browser nicht überlastet wird, werden nur die ersten {COUNT} Gruppen geöffnet."
+  },
+  "openGroupsLimitNotice_two": {
+    "message": "Damit dein Browser nicht überlastet wird, werden nur die ersten {COUNT} Gruppen geöffnet."
+  },
+  "openGroupsLimitNotice_zero": {
+    "message": "Damit dein Browser nicht überlastet wird, werden nur die ersten {COUNT} Gruppen geöffnet."
+  },
+  "openInIncognitoWindow": {
+    "message": "In neuem Inkognito-Fenster wiederherstellen"
+  },
+  "openInNewWindow": {
+    "message": "In neuem Fenster wiederherstellen"
+  },
+  "openInThisWindow": {
+    "message": "In diesem Fenster wiederherstellen"
+  },
+  "openOneTab": {
+    "message": "OneTab öffnen"
+  },
+  "openOneTabAfter": {
+    "message": "OneTab nach dem Speichern der Tabs öffnen"
+  },
+  "openONETABLogo": {
+    "message": "ONETAB öffnen"
+  },
+  "openParentFolder": {
+    "message": "Übergeordneten Ordner öffnen"
+  },
+  "openTabFromWebsite": {
+    "message": "Einen Tab öffnen und zur Website navigieren"
+  },
+  "openTabLimit_few": {
+    "message": "Damit dein Browser nicht überlastet wird, können maximal {COUNT} Tabs gleichzeitig geöffnet werden."
+  },
+  "openTabLimit_many": {
+    "message": "Damit dein Browser nicht überlastet wird, können maximal {COUNT} Tabs gleichzeitig geöffnet werden."
+  },
+  "openTabLimit_one": {
+    "message": "Damit dein Browser nicht überlastet wird, kann maximal {COUNT} Tab gleichzeitig geöffnet werden."
+  },
+  "openTabLimit_other": {
+    "message": "Damit dein Browser nicht überlastet wird, können maximal {COUNT} Tabs gleichzeitig geöffnet werden."
+  },
+  "openTabLimit_two": {
+    "message": "Damit dein Browser nicht überlastet wird, können maximal {COUNT} Tabs gleichzeitig geöffnet werden."
+  },
+  "openTabLimit_zero": {
+    "message": "Damit dein Browser nicht überlastet wird, können maximal {COUNT} Tabs gleichzeitig geöffnet werden."
+  },
+  "openTabsAlreadyStoredHere_few": {
+    "message": "{COUNT} geöffnete Tabs bereits hier gespeichert:"
+  },
+  "openTabsAlreadyStoredHere_many": {
+    "message": "{COUNT} geöffnete Tabs bereits hier gespeichert:"
+  },
+  "openTabsAlreadyStoredHere_one": {
+    "message": "{COUNT} geöffneter Tab bereits hier gespeichert:"
+  },
+  "openTabsAlreadyStoredHere_other": {
+    "message": "{COUNT} geöffnete Tabs bereits hier gespeichert:"
+  },
+  "openTabsAlreadyStoredHere_two": {
+    "message": "{COUNT} geöffnete Tabs bereits hier gespeichert:"
+  },
+  "openTabsAlreadyStoredHere_zero": {
+    "message": "{COUNT} offene Tabs bereits hier gespeichert:"
+  },
+  "openTabsConfirm_few": {
+    "message": "Du öffnest gleich {COUNT} Tabs. Bist du sicher?"
+  },
+  "openTabsConfirm_many": {
+    "message": "Du öffnest gleich {COUNT} Tabs. Bist du sicher?"
+  },
+  "openTabsConfirm_one": {
+    "message": "Du öffnest gleich {COUNT} Tab. Bist du sicher?"
+  },
+  "openTabsConfirm_other": {
+    "message": "Du öffnest gleich {COUNT} Tabs. Bist du sicher?"
+  },
+  "openTabsConfirm_two": {
+    "message": "Du öffnest gleich {COUNT} Tabs. Bist du sicher?"
+  },
+  "openTabsConfirm_zero": {
+    "message": "Du öffnest gleich {COUNT} Tabs. Bist du sicher?"
+  },
+  "openTabsNotStoredInOneTab_few": {
+    "message": "{COUNT} geöffnete Tabs, die nicht in OneTab gespeichert sind"
+  },
+  "openTabsNotStoredInOneTab_many": {
+    "message": "{COUNT} geöffnete Tabs, die nicht in OneTab gespeichert sind"
+  },
+  "openTabsNotStoredInOneTab_one": {
+    "message": "{COUNT} geöffneter Tab, der nicht in OneTab gespeichert ist"
+  },
+  "openTabsNotStoredInOneTab_other": {
+    "message": "{COUNT} geöffnete Tabs, die nicht in OneTab gespeichert sind"
+  },
+  "openTabsNotStoredInOneTab_two": {
+    "message": "{COUNT} geöffnete Tabs, die nicht in OneTab gespeichert sind"
+  },
+  "openTabsNotStoredInOneTab_zero": {
+    "message": "{COUNT} offene Tabs, die nicht in OneTab gespeichert sind"
+  },
+  "optionAutoActionOnOpenArchiveDesc": {
+    "message": "Wenn Tabs als archiviert markiert werden, erhalten sie einen grauen, gestreiften Hintergrund. So siehst du auf einen Blick, dass du die Tabs gelesen hast oder damit fertig bist."
+  },
+  "optionAutoActionOnOpenArchiveTitle": {
+    "message": "Als archiviert markieren"
+  },
+  "optionAutoActionOnOpenHeading": {
+    "message": "Beim Wiederherstellen von Tabs:"
+  },
+  "optionAutoActionOnOpenNote": {
+    "message": "Gesperrte Gruppen behalten ihre Tabs immer"
+  },
+  "optionAutoActionOnOpenOpenDesc": {
+    "message": "Um die Tabs beim Wiederherstellen als archiviert zu markieren, halte die Alt- oder Wahltaste gedrückt"
+  },
+  "optionAutoActionOnOpenOpenTitle": {
+    "message": "In der Liste behalten"
+  },
+  "optionAutoActionOnOpenTrashDesc": {
+    "message": "Um die Tabs beim Wiederherstellen in deiner Liste zu behalten, halte die Strg- oder Befehlstaste (⌘) gedrückt"
+  },
+  "optionAutoActionOnOpenTrashTitle": {
+    "message": "Aus der Liste entfernen"
+  },
+  "optionBrowserActionHeading": {
+    "message": "Wenn du auf das OneTab-Symbol in der Symbolleiste klickst:"
+  },
+  "optionBrowserActionOpenPopupDesc": {
+    "message": "Das Aktions-Popup zeigt dir eine Liste offener Tabs und lässt dich genau auswählen, welche Tabs du an OneTab senden möchtest. Du kannst beim Speichern einen Titel für die Gruppe der Tabs festlegen, damit du das später nicht auf der OneTab-Seite tun musst. Das Popup bietet dir außerdem einfachen Zugriff auf deine Schnellliste aus jedem Browserfenster."
+  },
+  "optionBrowserActionOpenPopupDesc2": {
+    "message": "Genau auswählen, welche Tabs gespeichert werden"
+  },
+  "optionBrowserActionOpenPopupTitle": {
+    "message": "OneTab-Aktions-Popup anzeigen"
+  },
+  "optionBrowserActionSendCurrentTabDesc": {
+    "message": "Der Tab wird in die erste Gruppe auf deiner OneTab-Seite eingefügt (angeheftete oder gesperrte Gruppen werden ignoriert)"
+  },
+  "optionBrowserActionSendCurrentTabTitle": {
+    "message": "Nur den aktuellen Tab an OneTab senden"
+  },
+  "optionBrowserActionSendTabsInWindowDesc": {
+    "message": "Deine Tabs werden geschlossen und in deiner OneTab-Liste gespeichert. Wenn du in der Tableiste deines Browsers mehrere Tabs ausgewählt hast (mit der Befehlstaste (⌘), Strg- oder Umschalttaste), werden nur die ausgewählten Tabs an OneTab gesendet. Wenn du die Tabgruppen-Funktion deines Browsers verwendest, wird nur die aktuelle Tabgruppe an OneTab gesendet."
+  },
+  "optionBrowserActionSendTabsInWindowDesc2": {
+    "message": "Der schnellste Weg, Tabs zu speichern"
+  },
+  "optionBrowserActionSendTabsInWindowTitle": {
+    "message": "Tabs im aktuellen Fenster an OneTab senden"
+  },
+  "optionBrowserActionSendWholeWindowDesc": {
+    "message": "Wie oben, nur dass das ganze Fenster statt nur der aktuellen Tabgruppe gespeichert wird"
+  },
+  "optionBrowserActionSendWholeWindowTitle": {
+    "message": "Aktuelles Fenster mit allen Tabs und Tabgruppen an OneTab senden"
+  },
+  "optionCopyToClipboardFormatHeading": {
+    "message": "Links in die Zwischenablage kopieren:"
+  },
+  "optionCopyToClipboardFormatMarkdownTitle": {
+    "message": "Markdown"
+  },
+  "optionCopyToClipboardFormatNote": {
+    "message": "Diese Einstellung gilt, wenn du die Aktion „In die Zwischenablage kopieren“ verwendest. Du kannst Tabs und Gruppen auch direkt aus OneTab in ein Dokument ziehen."
+  },
+  "optionCopyToClipboardFormatRichTextDesc": {
+    "message": "Anwendungen wie Textverarbeitungen erlauben das Einfügen von Rich-Text. Wenn dies nicht unterstützt wird, wird stattdessen einfacher Text eingefügt."
+  },
+  "optionCopyToClipboardFormatRichTextTitle": {
+    "message": "Rich-Text, falls verfügbar"
+  },
+  "optionCopyToClipboardFormatTitleUrlTitle": {
+    "message": "Titel und URL"
+  },
+  "optionCopyToClipboardFormatUrlOnlyTitle": {
+    "message": "Nur URL"
+  },
+  "optionCopyToClipboardFormatUrlTitleTitle": {
+    "message": "URL und Titel"
+  },
+  "optionDefaultTabGroupOpenTypeCurrentWindow": {
+    "message": "Die Tabgruppe im Browser im aktuellen Fenster öffnen"
+  },
+  "optionDefaultTabGroupOpenTypeHeading": {
+    "message": "Beim Klicken zum Öffnen einer Gruppe von Tabs, die als „Tabgruppe“ im Browser geöffnet werden:"
+  },
+  "optionDefaultTabGroupOpenTypeNewWindow": {
+    "message": "Die Tabgruppe im Browser in einem neuen Fenster öffnen"
+  },
+  "optionDefaultTabGroupOpenTypeNote": {
+    "message": "Wenn du im Dropdown eine bestimmte Option wählst (z. B. Tabs in einem Inkognito-Fenster öffnen), wird diese Option für genau diese Gruppe gespeichert."
+  },
+  "optionDefaultWindowGroupOpenTypeCurrentWindow": {
+    "message": "Tabs im aktuellen Fenster öffnen"
+  },
+  "optionDefaultWindowGroupOpenTypeHeading": {
+    "message": "Beim Wiederherstellen einer Gruppe von Tabs:"
+  },
+  "optionDefaultWindowGroupOpenTypeNewWindow": {
+    "message": "Tabs in einem neuen Fenster öffnen, es sei denn, OneTab ist der einzige Tab im aktuellen Fenster"
+  },
+  "optionDefaultWindowGroupOpenTypeNewWindowAlways": {
+    "message": "Tabs in einem neuen Fenster öffnen"
+  },
+  "optionDefaultWindowGroupOpenTypeNote": {
+    "message": "Wiederherstellungsoptionen, die du im Menü „Mehr…“ einer Gruppe auswählst, werden für diese Gruppe gespeichert."
+  },
+  "optionDiscardNonActiveTabOnOpenHeading": {
+    "message": "Beim ersten Öffnen von Tabs Speicher (RAM) sofort sparen:"
+  },
+  "optionDiscardNonActiveTabOnOpenNote": {
+    "message": "Wenn diese Einstellung aktiviert ist, werden Tabs beim ersten Öffnen aus deiner OneTab-Liste sofort aus dem Speicher entladen. Das ist hilfreich, wenn du häufig Dutzende Tabs auf einmal öffnest, da so verhindert wird, dass alle zugleich in den Speicher geladen werden, bis du sie tatsächlich aufrufst. Wenn diese Einstellung deaktiviert ist, entladen viele Webbrowser Tabs dennoch automatisch aus dem Speicher, wenn du sie gerade nicht verwendest."
+  },
+  "optionDisplayContextMenuHeading": {
+    "message": "Klicke mit der rechten Maustaste in eine Webseite, um das OneTab-Kontextmenü zu öffnen:"
+  },
+  "optionDisplayContextMenuNote": {
+    "message": "Wenn du das Menü deaktivierst, kannst du die Funktion „Website von OneTab ausschließen“ nicht verwenden"
+  },
+  "optionDuplicatesAllow": {
+    "message": "Duplikate zulassen"
+  },
+  "optionDuplicatesReject": {
+    "message": "Duplikate stillschweigend ablehnen"
+  },
+  "optionDuplicatesRejectDesc": {
+    "message": "Wenn OneTab den Tab bereits enthält, wird er nicht erneut hinzugefügt."
+  },
+  "optionDuplicatesTitle": {
+    "message": "Duplikate:"
+  },
+  "optionGroupTitleClickActionEditTitle": {
+    "message": "Titel bearbeiten"
+  },
+  "optionGroupTitleClickActionHeading": {
+    "message": "Beim Klicken auf den Titel einer Gruppe oder eines Ordners:"
+  },
+  "optionGroupTitleClickActionOpenDesc": {
+    "message": "Du kannst eine Gruppe weiterhin über ihr Menü „Mehr…“ umbenennen."
+  },
+  "optionGroupTitleClickActionOpenTitle": {
+    "message": "Gruppe wiederherstellen oder Ordner öffnen"
+  },
+  "optionMoveOneTabToCurrentWindowOnOpenFalseTitle": {
+    "message": "Zum Fenster wechseln, in dem der OneTab-Tab bereits geöffnet ist"
+  },
+  "optionMoveOneTabToCurrentWindowOnOpenHeading": {
+    "message": "Aktion „OneTab öffnen“:"
+  },
+  "optionMoveOneTabToCurrentWindowOnOpenNote": {
+    "message": "Aktion „OneTab öffnen“:"
+  },
+  "optionMoveOneTabToCurrentWindowOnOpenTrueTitle": {
+    "message": "Einen vorhandenen OneTab-Tab in das aktuelle Fenster verschieben"
+  },
+  "optionPinnedTabsAllow": {
+    "message": "Angeheftete Tabs dürfen an OneTab gesendet werden"
+  },
+  "optionPinnedTabsDontSend": {
+    "message": "Angeheftete Tabs nicht an OneTab senden"
+  },
+  "optionPinnedTabsDontSendDesc": {
+    "message": "Du kannst einen angehefteten Tab trotzdem manuell an OneTab senden, indem du mit der rechten Maustaste in die Webseite klickst, um das OneTab-Menü zu öffnen, und dann auf „Nur diesen Tab an OneTab senden“ klickst"
+  },
+  "optionPinnedTabsNote": {
+    "message": "Hinweis: Ein Tab wird „angeheftet“, wenn du mit der rechten Maustaste auf den Tab klickst und „Tab anheften“ auswählst. Manche Nutzer heften Websites wie Facebook oder Gmail an, damit sie sie leicht finden. OneTab merkt sich beim Wiederherstellen, ob ein Tab angeheftet war."
+  },
+  "optionPinnedTabsTitle": {
+    "message": "Angeheftete Tabs:"
+  },
+  "options": {
+    "message": "Optionen"
+  },
+  "optionStartupLaunchDisplay": {
+    "message": "OneTab automatisch öffnen"
+  },
+  "optionStartupLaunchNone": {
+    "message": "OneTab nicht automatisch öffnen"
+  },
+  "optionStartupLaunchNoneDesc3": {
+    "message": "Um OneTab manuell zu öffnen, kannst du mit der rechten Maustaste in eine beliebige Webseite klicken und im OneTab-Menü auf „OneTab öffnen“ klicken."
+  },
+  "optionStartupLaunchTitle": {
+    "message": "Beim Start des Browsers:"
+  },
+  "optionSwitchToOpenedTabFalseTitle": {
+    "message": "Tab öffnen und in OneTab bleiben"
+  },
+  "optionSwitchToOpenedTabHeading": {
+    "message": "Beim Wiederherstellen von Tabs über die OneTab-Seite:"
+  },
+  "optionSwitchToOpenedTabNote": {
+    "message": "Wenn du beim Klicken die Umschalttaste gedrückt hältst, wird der Tab in einem neuen Fenster geöffnet"
+  },
+  "optionSwitchToOpenedTabTrueTitle": {
+    "message": "Tab öffnen und dorthin wechseln (außer du hältst beim Klicken die Befehlstaste (⌘) oder Strg gedrückt)"
+  },
+  "optionUpdateTitleOnDuplicateKeep": {
+    "message": "Vorhandenen Titel beibehalten"
+  },
+  "optionUpdateTitleOnDuplicateKeepDesc": {
+    "message": "Du kannst den Tab in OneTab umbenennen. Dein eigener Titel bleibt erhalten."
+  },
+  "optionUpdateTitleOnDuplicateNote": {
+    "message": "Titel und Notizen werden für alle Kopien desselben Tabs gemeinsam verwendet."
+  },
+  "optionUpdateTitleOnDuplicateTitle": {
+    "message": "Beim Speichern eines Tabs, der bereits in OneTab vorhanden ist:"
+  },
+  "optionUpdateTitleOnDuplicateUpdate": {
+    "message": "Neuesten Titel verwenden"
+  },
+  "optionUpdateTitleOnDuplicateUpdateDesc": {
+    "message": "Der gespeicherte Titel wird an den Tab angepasst, den du gerade gesendet hast."
+  },
+  "optionUrlAbbr": {
+    "message": "Abgekürzt"
+  },
+  "optionUrlDisplayTitle": {
+    "message": "URL-Anzeige:"
+  },
+  "optionUrlDomain": {
+    "message": "Nur Domain"
+  },
+  "optionUrlFull": {
+    "message": "Vollständig"
+  },
+  "optionUrlNone": {
+    "message": "Keine"
+  },
+  "otherCopiesColon": {
+    "message": "Weitere Kopien:"
+  },
+  "pasteRichOrPlainTextBelow": {
+    "message": "Du kannst unten Rich-Text oder einfachen Text einfügen."
+  },
+  "pendingTaskCount_few": {
+    "message": "{COUNT} ausstehend"
+  },
+  "pendingTaskCount_many": {
+    "message": "{COUNT} ausstehend"
+  },
+  "pendingTaskCount_one": {
+    "message": "{COUNT} ausstehend"
+  },
+  "pendingTaskCount_other": {
+    "message": "{COUNT} ausstehend"
+  },
+  "pendingTaskCount_two": {
+    "message": "{COUNT} ausstehend"
+  },
+  "pendingTaskCount_zero": {
+    "message": "{COUNT} ausstehend"
+  },
+  "pendingTaskFlagHelp": {
+    "message": "Dieses Element ist eine Aufgabe. Klicke auf dieses Symbol, um sie als erledigt zu markieren."
+  },
+  "permissionRequiredPleaseTryAgain": {
+    "message": "Um eine geteilte Seite zu erstellen, auf die von jedem Computer aus zugegriffen werden kann, ist eine Berechtigung zur Kommunikation mit dem OneTab-Webserver erforderlich. Bitte versuche es erneut."
+  },
+  "pinnedTabs": {
+    "message": "angeheftete Tabs"
+  },
+  "pinToTopOfFolder": {
+    "message": "Oben im Ordner anheften"
+  },
+  "pinToTopOfFolderMenuItemHelp": {
+    "message": "Diese Gruppe anheften, damit sie im Ordner immer ganz oben angezeigt wird"
+  },
+  "pinToTopOfList": {
+    "message": "Oben in der Liste anheften"
+  },
+  "placeholderAndOtherLocations_few": {
+    "message": "PLACEHOLDER und {COUNT} weitere"
+  },
+  "placeholderAndOtherLocations_many": {
+    "message": "PLACEHOLDER und {COUNT} weitere"
+  },
+  "placeholderAndOtherLocations_one": {
+    "message": "PLACEHOLDER und {COUNT} weiterer"
+  },
+  "placeholderAndOtherLocations_other": {
+    "message": "PLACEHOLDER und {COUNT} weitere"
+  },
+  "placeholderAndOtherLocations_two": {
+    "message": "PLACEHOLDER und {COUNT} weitere"
+  },
+  "placeholderAndOtherLocations_zero": {
+    "message": "PLACEHOLDER und {COUNT} weitere"
+  },
+  "placeholderExplanation": {
+    "message": "Aufgrund der Sicherheitsregeln des Webbrowsers darf OneTab diese Seite nicht direkt wiederherstellen. Bitte kopiere deine URL und füge sie in die Adressleiste deines Browsers ein."
+  },
+  "plainTextLineFormat": {
+    "message": "Wenn du einfachen Text einfügst, stelle sicher, dass jede URL ein Protokoll enthält (https://wikipedia.org statt nur wikipedia.org). Jede Zeile sollte folgendes Format haben:"
+  },
+  "pleaseWaitTripleDot": {
+    "message": "Bitte warten…"
+  },
+  "popupSlashShortcutInfo": {
+    "message": "Bei aktiviertem OneTab-Aktions-Pop-up: Zielauswahl öffnen und Suchfeld fokussieren"
+  },
+  "printUseSaveTabsAsHtmlFileAlertHtml": {
+    "message": "Für beste Druckergebnisse verwende im <b>Mehr…</b>-Menü des Ordners die Aktion <b>Als HTML-Datei speichern</b> und drucke dann die heruntergeladene HTML-Datei."
+  },
+  "privacyAssurance": {
+    "message": "Datenschutzgarantie"
+  },
+  "privacyAssuranceDetail": {
+    "message": "Deine Tab-Liste wird niemals an die OneTab-Entwickler oder Dritte übertragen oder offengelegt. Die einzige Ausnahme ist, wenn du bewusst die Funktion „Als Webseite teilen“ verwendest, um deine Tab-Liste als Webseite hochzuladen und sie mit anderen zu teilen."
+  },
+  "privacyFirst": {
+    "message": "Datenschutz zuerst"
+  },
+  "privacyFirstMessage": {
+    "message": "OneTab wurde entwickelt, um deine privaten Daten zu schützen. Deine Tabs werden nur auf deinem Computer gespeichert und niemals mit den OneTab-Entwicklern oder Dritten geteilt.\nWenn du unsere Sicherungs- und Synchronisierungsfunktion nutzt, werden deine Daten durch starke AES-256-Verschlüsselung Ende-zu-Ende geschützt. Dadurch ist es den OneTab-Entwicklern unmöglich, die Tabs zu sehen, die du gesichert oder zwischen Geräten synchronisiert hast, da nur du den Verschlüsselungsschlüssel besitzt. \nDie einzige Ausnahme besteht, wenn du bewusst entscheidest, einige deiner Tabs mithilfe unserer Funktion „Als Webseite teilen“ mit anderen zu teilen.\nFür uns steht Datenschutz an erster Stelle."
+  },
+  "privateBrowsingPermissionRequired": {
+    "message": "OneTab benötigt die Berechtigung, private Fenster zu erstellen."
+  },
+  "privateBrowsingWindows": {
+    "message": "Private Fenster"
+  },
+  "quickList": {
+    "message": "Schnellliste"
+  },
+  "readingList": {
+    "message": "Leseliste"
+  },
+  "readingListPermissionNecesssary": {
+    "message": "Die Berechtigung „Leseliste“ ist erforderlich, damit OneTab Elemente aus deiner Leseliste importieren kann. Falls diese Funktion nicht funktioniert, unterstützt dein Browser möglicherweise keine Leselisten."
+  },
+  "recent": {
+    "message": "Zuletzt aufgerufen"
+  },
+  "recentDestinationsColon": {
+    "message": "Zuletzt verwendete Ziele:"
+  },
+  "recentDuplicateRetainedHelp": {
+    "message": "Wenn ein Tab mehrfach vorkommt, wird nur das jüngste Duplikat beibehalten"
+  },
+  "recentFolders": {
+    "message": "Zuletzt verwendete Ordner"
+  },
+  "recentGroups": {
+    "message": "Zuletzt verwendete Gruppen"
+  },
+  "recentlyAccessed": {
+    "message": "Kürzlich aufgerufen"
+  },
+  "recentlyCreated": {
+    "message": "Kürzlich erstellt"
+  },
+  "recentlyModified": {
+    "message": "Kürzlich geändert"
+  },
+  "reduceMemoryUsageBy95Pct": {
+    "message": "Arbeitsspeichernutzung um 95 % reduzieren"
+  },
+  "removeDuplicates": {
+    "message": "Duplikate entfernen"
+  },
+  "removeDuplicatesMenuItemHelp": {
+    "message": "Du kannst Duplikate entfernen, die hier, aber nicht anderswo vorhanden sind, oder anderswo, aber nicht hier."
+  },
+  "removeDuplicateTabsHere_few": {
+    "message": "{COUNT} doppelte Tabs hier entfernen"
+  },
+  "removeDuplicateTabsHere_many": {
+    "message": "{COUNT} doppelte Tabs hier entfernen"
+  },
+  "removeDuplicateTabsHere_one": {
+    "message": "{COUNT} doppelten Tab hier entfernen"
+  },
+  "removeDuplicateTabsHere_other": {
+    "message": "{COUNT} doppelte Tabs hier entfernen"
+  },
+  "removeDuplicateTabsHere_two": {
+    "message": "{COUNT} doppelte Tabs hier entfernen"
+  },
+  "removeDuplicateTabsHere_zero": {
+    "message": "{COUNT} doppelte Tabs hier entfernen"
+  },
+  "removeFromQuickList": {
+    "message": "Aus der Schnellliste entfernen"
+  },
+  "removeFromQuickListMenuItemHelp": {
+    "message": "Das Element wird nicht in den Papierkorb verschoben – es wird nur aus deiner Schnellliste entfernt."
+  },
+  "removeStar": {
+    "message": "Stern entfernen"
+  },
+  "removeTabsElsewhereAlsoHere_few": {
+    "message": "{COUNT} Tabs anderswo entfernen, die auch hier vorhanden sind"
+  },
+  "removeTabsElsewhereAlsoHere_many": {
+    "message": "{COUNT} Tabs anderswo entfernen, die auch hier vorhanden sind"
+  },
+  "removeTabsElsewhereAlsoHere_one": {
+    "message": "{COUNT} Tab anderswo entfernen, der auch hier vorhanden ist"
+  },
+  "removeTabsElsewhereAlsoHere_other": {
+    "message": "{COUNT} Tabs anderswo entfernen, die auch hier vorhanden sind"
+  },
+  "removeTabsElsewhereAlsoHere_two": {
+    "message": "{COUNT} Tabs anderswo entfernen, die auch hier vorhanden sind"
+  },
+  "removeTabsElsewhereAlsoHere_zero": {
+    "message": "{COUNT} Tabs anderswo entfernen, die auch hier vorhanden sind"
+  },
+  "removeTabsHereAlsoElsewhere_few": {
+    "message": "{COUNT} Tabs hier entfernen, die auch anderswo vorhanden sind"
+  },
+  "removeTabsHereAlsoElsewhere_many": {
+    "message": "{COUNT} Tabs hier entfernen, die auch anderswo vorhanden sind"
+  },
+  "removeTabsHereAlsoElsewhere_one": {
+    "message": "{COUNT} Tab hier entfernen, der auch anderswo vorhanden ist"
+  },
+  "removeTabsHereAlsoElsewhere_other": {
+    "message": "{COUNT} Tabs hier entfernen, die auch anderswo vorhanden sind"
+  },
+  "removeTabsHereAlsoElsewhere_two": {
+    "message": "{COUNT} Tabs hier entfernen, die auch anderswo vorhanden sind"
+  },
+  "removeTabsHereAlsoElsewhere_zero": {
+    "message": "{COUNT} Tabs hier entfernen, die auch anderswo vorhanden sind"
+  },
+  "rename": {
+    "message": "Umbenennen"
+  },
+  "renameOrAddNote": {
+    "message": "Umbenennen / Notiz hinzufügen"
+  },
+  "restore": {
+    "message": "Wiederherstellen"
+  },
+  "restoreAll": {
+    "message": "Alle wiederherstellen"
+  },
+  "restrictSearchToFolderColon": {
+    "message": "Suche auf folgenden Ordner beschränken:"
+  },
+  "results": {
+    "message": "Ergebnisse"
+  },
+  "returnToOneTab": {
+    "message": "Zurück zu OneTab"
+  },
+  "reverse": {
+    "message": "Umkehren"
+  },
+  "rightClickAndOpenOneTabMenu": {
+    "message": "Klicke mit der rechten Maustaste in die Webseite und öffne das OneTab-Menü"
+  },
+  "rightClickMenuDisabledNote": {
+    "message": "Hinweis: Du hast das OneTab-Kontextmenü deaktiviert. Bitte aktiviere es in den OneTab-Optionen."
+  },
+  "rightClickSelectionOptionsTip": {
+    "message": "Tipp: Nachdem du ein Element markiert hast, klicke mit der rechten Maustaste auf das Häkchen-Symbol, um weitere Auswahloptionen anzuzeigen"
+  },
+  "rightClickTickTip": {
+    "message": "Tipp: Klicke mit der rechten Maustaste auf das Häkchen-Symbol neben jedem Tab, um Auswahltools anzuzeigen"
+  },
+  "safariApproveOneTabInSettings": {
+    "message": "Bitte öffne die Einstellungen und erlaube OneTab den Zugriff auf alle Websites."
+  },
+  "save95PctReduceTabClutterGoogleChrome": {
+    "message": "Bis zu 95 % Arbeitsspeicher sparen und Tab-Chaos in Google Chrome reduzieren"
+  },
+  "saveChoice": {
+    "message": "Auswahl speichern"
+  },
+  "saveTabsAsHtmlFile": {
+    "message": "Als HTML-Datei speichern"
+  },
+  "saveTabsAsHtmlFileMenuItemHelp": {
+    "message": "Eine HTML-Datei erstellen und herunterladen, die alle Gruppen von Tabs in diesem Ordner enthält."
+  },
+  "searchHere": {
+    "message": "Hier suchen"
+  },
+  "searchOneTab": {
+    "message": "OneTab durchsuchen"
+  },
+  "secondExampleLink": {
+    "message": "Zweiter Beispiel-Link"
+  },
+  "secondExampleLinkTitle": {
+    "message": "Zweiter Beispiel-Linktitel"
+  },
+  "secondExampleLinkTitleOptional": {
+    "message": "Zweiter Beispiel-Linktitel (optional)"
+  },
+  "seeOtherTabsInThisGroup_few": {
+    "message": "{COUNT} weitere Tabs in dieser Gruppe anzeigen"
+  },
+  "seeOtherTabsInThisGroup_many": {
+    "message": "{COUNT} weitere Tabs in dieser Gruppe anzeigen"
+  },
+  "seeOtherTabsInThisGroup_one": {
+    "message": "{COUNT} weiteren Tab in dieser Gruppe anzeigen"
+  },
+  "seeOtherTabsInThisGroup_other": {
+    "message": "{COUNT} weitere Tabs in dieser Gruppe anzeigen"
+  },
+  "seeOtherTabsInThisGroup_two": {
+    "message": "{COUNT} weitere Tabs in dieser Gruppe anzeigen"
+  },
+  "seeOtherTabsInThisGroup_zero": {
+    "message": "{COUNT} weitere Tabs in dieser Gruppe anzeigen"
+  },
+  "seePasteInstructions": {
+    "message": "Einfügehinweise anzeigen…"
+  },
+  "seeTabsInThisGroup_few": {
+    "message": "{COUNT} Tabs in dieser Gruppe anzeigen"
+  },
+  "seeTabsInThisGroup_many": {
+    "message": "{COUNT} Tabs in dieser Gruppe anzeigen"
+  },
+  "seeTabsInThisGroup_one": {
+    "message": "{COUNT} Tab in dieser Gruppe anzeigen"
+  },
+  "seeTabsInThisGroup_other": {
+    "message": "{COUNT} Tabs in dieser Gruppe anzeigen"
+  },
+  "seeTabsInThisGroup_two": {
+    "message": "{COUNT} Tabs in dieser Gruppe anzeigen"
+  },
+  "seeTabsInThisGroup_zero": {
+    "message": "{COUNT} Tabs in dieser Gruppe anzeigen"
+  },
+  "selectAll": {
+    "message": "Alle auswählen"
+  },
+  "selectAllExceptThis": {
+    "message": "Alle außer diesem Element auswählen"
+  },
+  "selectedItemCount_few": {
+    "message": "{COUNT} Elemente"
+  },
+  "selectedItemCount_many": {
+    "message": "{COUNT} Elemente"
+  },
+  "selectedItemCount_one": {
+    "message": "{COUNT} Element"
+  },
+  "selectedItemCount_other": {
+    "message": "{COUNT} Elemente"
+  },
+  "selectedItemCount_two": {
+    "message": "{COUNT} Elemente"
+  },
+  "selectedItemCount_zero": {
+    "message": "{COUNT} Elemente"
+  },
+  "selection": {
+    "message": "Auswahl"
+  },
+  "selectThisAndAbove": {
+    "message": "Dieses Element und alle darüber auswählen"
+  },
+  "selectThisAndBelow": {
+    "message": "Dieses Element und alle darunter auswählen"
+  },
+  "sendAllTabsAllWindows": {
+    "message": "Alle Tabs aus allen Fenstern senden"
+  },
+  "sendAllTabsAllWindowsToOneTab": {
+    "message": "Alle Tabs aus allen Fenstern an OneTab senden"
+  },
+  "sendAllTabsExceptThis": {
+    "message": "Alle Tabs außer diesem Tab senden"
+  },
+  "sendAllTabsExceptThisToOneTab": {
+    "message": "Alle Tabs außer diesem Tab an OneTab senden"
+  },
+  "sendAllTabsInGroup": {
+    "message": "Alle Tabs in dieser Tabgruppe senden"
+  },
+  "sendAllTabsInGroupToOneTab": {
+    "message": "Alle Tabs in dieser Tabgruppe an OneTab senden"
+  },
+  "sendAllTabsInWindow": {
+    "message": "Alle Tabs in diesem Fenster senden"
+  },
+  "sendAllTabsInWindowToOneTab": {
+    "message": "Alle Tabs in diesem Fenster an OneTab senden"
+  },
+  "sendCurrentTabToOneTab": {
+    "message": "Aktuellen Tab an OneTab senden"
+  },
+  "sendLeftTabs": {
+    "message": "Tabs links davon senden"
+  },
+  "sendLeftTabsToOneTab": {
+    "message": "Tabs links davon an OneTab senden"
+  },
+  "sendOnlyThisTab": {
+    "message": "Nur diesen Tab senden"
+  },
+  "sendOnlyThisTabToOneTab": {
+    "message": "Nur diesen Tab an OneTab senden"
+  },
+  "sendRightTabs": {
+    "message": "Tabs rechts davon senden"
+  },
+  "sendRightTabsToOneTab": {
+    "message": "Tabs rechts davon an OneTab senden"
+  },
+  "sendSelectedTabs": {
+    "message": "Ausgewählte Tabs senden"
+  },
+  "sendSelectedTabsToOneTab": {
+    "message": "Ausgewählte Tabs an OneTab senden"
+  },
+  "sendThisWebLink": {
+    "message": "Diesen Weblink senden"
+  },
+  "sendThisWebLinkToOneTab": {
+    "message": "Diesen Weblink an OneTab senden"
+  },
+  "serverUnreachable": {
+    "message": "Der Server ist nicht erreichbar. Bitte prüfe deine Internetverbindung."
+  },
+  "share": {
+    "message": "Teilen"
+  },
+  "shareAsAWebPage": {
+    "message": "Als Webseite teilen"
+  },
+  "shareAsAWebPageMenuItemHelp": {
+    "message": "Dadurch wird eine Webseite mit deinen Tabs erstellt, sodass du die Seite privat oder öffentlich mit anderen teilen kannst."
+  },
+  "shared": {
+    "message": "Geteilt"
+  },
+  "sharedExpiresColon": {
+    "message": "Als Webseite geteilt. Läuft ab:"
+  },
+  "sharedPageOptions": {
+    "message": "Optionen für die geteilte Seite"
+  },
+  "sharedPageTabLimit_few": {
+    "message": "Freigegebene Seiten sind auf {COUNT} Tabs begrenzt"
+  },
+  "sharedPageTabLimit_many": {
+    "message": "Freigegebene Seiten sind auf {COUNT} Tabs begrenzt"
+  },
+  "sharedPageTabLimit_one": {
+    "message": "Freigegebene Seiten sind auf {COUNT} Tab begrenzt"
+  },
+  "sharedPageTabLimit_other": {
+    "message": "Freigegebene Seiten sind auf {COUNT} Tabs begrenzt"
+  },
+  "sharedPageTabLimit_two": {
+    "message": "Freigegebene Seiten sind auf {COUNT} Tabs begrenzt"
+  },
+  "sharedPageTabLimit_zero": {
+    "message": "Geteilte Seiten sind auf {COUNT} Tabs begrenzt"
+  },
+  "sharedPageWillAutomaticallyExpire": {
+    "message": "Die geteilte Seite läuft automatisch ab, du kannst das Ablaufdatum jedoch jederzeit verlängern."
+  },
+  "showEverything": {
+    "message": "Alles anzeigen"
+  },
+  "showFoldersOnly": {
+    "message": "Nur Ordner anzeigen"
+  },
+  "showNamedItemsOnly": {
+    "message": "Nur benannte Elemente anzeigen"
+  },
+  "showNamedOnly": {
+    "message": "Nur benannte Elemente anzeigen"
+  },
+  "showNextCount_few": {
+    "message": "Nächste {COUNT} anzeigen"
+  },
+  "showNextCount_many": {
+    "message": "Nächste {COUNT} anzeigen"
+  },
+  "showNextCount_one": {
+    "message": "Nächste {COUNT} anzeigen"
+  },
+  "showNextCount_other": {
+    "message": "Nächste {COUNT} anzeigen"
+  },
+  "showNextCount_two": {
+    "message": "Nächste {COUNT} anzeigen"
+  },
+  "showNextCount_zero": {
+    "message": "Nächste {COUNT} anzeigen"
+  },
+  "showPreviousCount_few": {
+    "message": "Vorherige {COUNT} anzeigen"
+  },
+  "showPreviousCount_many": {
+    "message": "Vorherige {COUNT} anzeigen"
+  },
+  "showPreviousCount_one": {
+    "message": "Vorherige {COUNT} anzeigen"
+  },
+  "showPreviousCount_other": {
+    "message": "Vorherige {COUNT} anzeigen"
+  },
+  "showPreviousCount_two": {
+    "message": "Vorherige {COUNT} anzeigen"
+  },
+  "showPreviousCount_zero": {
+    "message": "Vorherige {COUNT} anzeigen"
+  },
+  "soon": {
+    "message": "gleich"
+  },
+  "sort": {
+    "message": "Sortieren"
+  },
+  "sortByColon": {
+    "message": "Sortieren nach:"
+  },
+  "sortGroups": {
+    "message": "Gruppen sortieren"
+  },
+  "sortGroupsMenuFooterNote": {
+    "message": "Dadurch werden die Gruppen in diesem Ordner sortiert. Die Tabs darin werden nicht sortiert."
+  },
+  "sourceColon": {
+    "message": "Quelle:"
+  },
+  "star": {
+    "message": "Stern"
+  },
+  "starFlagHelp": {
+    "message": "Dieses Element ist mit einem Stern markiert, um seine Wichtigkeit visuell anzuzeigen. Klicke auf dieses Symbol, um den Stern zu entfernen."
+  },
+  "starMenuItemHelp": {
+    "message": "Den Stern verwenden, um visuell zu markieren, dass etwas wichtig ist"
+  },
+  "starred": {
+    "message": "Mit Stern"
+  },
+  "storeAllOpenWindowsHere": {
+    "message": "Alle offenen Fenster hier speichern"
+  },
+  "storeAllOpenWindowsHereMenuItemHelp": {
+    "message": "Alle offenen Browserfenster schließen und in diesem Ordner speichern"
+  },
+  "storeSelectedTabsInONETAB_few": {
+    "message": "{COUNT} ausgewählte Tabs in ONETAB speichern"
+  },
+  "storeSelectedTabsInONETAB_many": {
+    "message": "{COUNT} ausgewählte Tabs in ONETAB speichern"
+  },
+  "storeSelectedTabsInONETAB_one": {
+    "message": "{COUNT} ausgewählten Tab in ONETAB speichern"
+  },
+  "storeSelectedTabsInONETAB_other": {
+    "message": "{COUNT} ausgewählte Tabs in ONETAB speichern"
+  },
+  "storeSelectedTabsInONETAB_two": {
+    "message": "{COUNT} ausgewählte Tabs in ONETAB speichern"
+  },
+  "storeSelectedTabsInONETAB_zero": {
+    "message": "{COUNT} ausgewählte Tabs in ONETAB speichern"
+  },
+  "storeTabsInAdditionalLocation_few": {
+    "message": "Tabs trotzdem erneut speichern"
+  },
+  "storeTabsInAdditionalLocation_many": {
+    "message": "Tabs trotzdem erneut speichern"
+  },
+  "storeTabsInAdditionalLocation_one": {
+    "message": "Tab trotzdem erneut speichern"
+  },
+  "storeTabsInAdditionalLocation_other": {
+    "message": "Tabs trotzdem erneut speichern"
+  },
+  "storeTabsInAdditionalLocation_two": {
+    "message": "Tabs trotzdem erneut speichern"
+  },
+  "storeTabsInAdditionalLocation_zero": {
+    "message": "Tabs trotzdem erneut speichern"
+  },
+  "storeTabsInONETAB_few": {
+    "message": "Tabs in ONETAB speichern"
+  },
+  "storeTabsInONETAB_many": {
+    "message": "Tabs in ONETAB speichern"
+  },
+  "storeTabsInONETAB_one": {
+    "message": "Tab in ONETAB speichern"
+  },
+  "storeTabsInONETAB_other": {
+    "message": "Tabs in ONETAB speichern"
+  },
+  "storeTabsInONETAB_two": {
+    "message": "Tabs in ONETAB speichern"
+  },
+  "storeTabsInONETAB_zero": {
+    "message": "Tabs in ONETAB speichern"
+  },
+  "subFoldersNotShared": {
+    "message": "Beachte, dass Unterordner nicht geteilt werden. Nur Gruppen direkt im Ordner werden geteilt."
+  },
+  "tab": {
+    "message": "Tab"
+  },
+  "tabAlreadyStoredHere": {
+    "message": "Dein geöffneter Tab ist hier bereits gespeichert:"
+  },
+  "tabCaretTooltipTitleNotes": {
+    "message": "Tabtitel und Notizen bearbeiten"
+  },
+  "tabCaretTooltipTitleNotesUrl": {
+    "message": "Tabtitel, URL und Notizen bearbeiten"
+  },
+  "tabCount_few": {
+    "message": "{COUNT} Tabs"
+  },
+  "tabCount_many": {
+    "message": "{COUNT} Tabs"
+  },
+  "tabCount_one": {
+    "message": "{COUNT} Tab"
+  },
+  "tabCount_other": {
+    "message": "{COUNT} Tabs"
+  },
+  "tabCount_two": {
+    "message": "{COUNT} Tabs"
+  },
+  "tabCount_zero": {
+    "message": "{COUNT} Tabs"
+  },
+  "tabGroupColorColon": {
+    "message": "Tabgruppenfarbe:"
+  },
+  "tabGroupIndicatorTooltipHelp": {
+    "message": "Diese Gruppe ist so konfiguriert, dass sie als Tabgruppe im Browser geöffnet wird. Du kannst diese Einstellung im Menü „Mehr…“ ändern"
+  },
+  "tabPinFlagHelp": {
+    "message": "Dieser Tab wird als angehefteter Browser-Tab wiederhergestellt. Klicke auf dieses Symbol, um die Anheftung aufzuheben."
+  },
+  "tabs": {
+    "message": "Tabs"
+  },
+  "tabsFromExcludedDomains": {
+    "message": "Tabs von ausgeschlossenen Domains"
+  },
+  "tabsInTabGroups": {
+    "message": "Tabs in Tabgruppen"
+  },
+  "tabTotalCount_few": {
+    "message": "Gesamt: {COUNT} Tabs"
+  },
+  "tabTotalCount_many": {
+    "message": "Gesamt: {COUNT} Tabs"
+  },
+  "tabTotalCount_one": {
+    "message": "Gesamt: {COUNT} Tab"
+  },
+  "tabTotalCount_other": {
+    "message": "Gesamt: {COUNT} Tabs"
+  },
+  "tabTotalCount_two": {
+    "message": "Gesamt: {COUNT} Tabs"
+  },
+  "tabTotalCount_zero": {
+    "message": "Gesamt: {COUNT} Tabs"
+  },
+  "tasks": {
+    "message": "Aufgaben"
+  },
+  "tasksDone": {
+    "message": "Aufgaben (erledigt)"
+  },
+  "tasksPending": {
+    "message": "Aufgaben (ausstehend)"
+  },
+  "tasksWillAppearHere": {
+    "message": "Wenn du Tabs oder Gruppen als Aufgaben markierst, erscheinen sie hier."
+  },
+  "taskTotalCount_few": {
+    "message": "insgesamt {COUNT}"
+  },
+  "taskTotalCount_many": {
+    "message": "insgesamt {COUNT}"
+  },
+  "taskTotalCount_one": {
+    "message": "insgesamt {COUNT}"
+  },
+  "taskTotalCount_other": {
+    "message": "insgesamt {COUNT}"
+  },
+  "taskTotalCount_two": {
+    "message": "insgesamt {COUNT}"
+  },
+  "taskTotalCount_zero": {
+    "message": "insgesamt {COUNT}"
+  },
+  "themeQuickSwitchHint": {
+    "message": "Um schnell zwischen Designs zu wechseln, halte beim Klicken auf das Design-Symbol die Strg- oder Befehlstaste (⌘) gedrückt"
+  },
+  "thenClickToolbarIcon": {
+    "message": "Klicke dann erneut auf das OneTab-Symbol in der Symbolleiste, um OneTab zu verwenden."
+  },
+  "thisFolderIsEmpty": {
+    "message": "Dieser Ordner ist leer"
+  },
+  "thisTab": {
+    "message": "Dieser Tab"
+  },
+  "thisTabGroup": {
+    "message": "Diese Tabgruppe"
+  },
+  "thisTabNotStored": {
+    "message": "Dieser Tab ist nicht in OneTab gespeichert"
+  },
+  "thisWindow": {
+    "message": "Dieses Fenster"
+  },
+  "tickOrUntickToExclude": {
+    "message": "An- oder abwählen, um die Website auszuschließen"
+  },
+  "title": {
+    "message": "Titel"
+  },
+  "toAddOrRemoveExclusions": {
+    "message": "So fügst du eine Website zur Ausschlussliste hinzu oder entfernst sie daraus:"
+  },
+  "toAllowOneTabInIncognito": {
+    "message": "Damit das OneTab-Symbol in Inkognito-Fenstern angezeigt wird: "
+  },
+  "toImportBrowserBookmarksUseMenuOption": {
+    "message": "Um aus den Browser-Lesezeichen zu importieren, verwende auf deiner OneTab-Seite die Menüoption „Links hier importieren“"
+  },
+  "toMakeOpenButtonWorkApprovePermission": {
+    "message": "Damit die Schaltfläche „Öffnen“ auf geteilten Seiten funktioniert, genehmige bitte die Berechtigungsanfrage."
+  },
+  "tooManyTabsSpeedUpFirefox": {
+    "message": "Zu viele Tabs? Wandle deine Tabs in eine Liste um und beschleunige Firefox"
+  },
+  "tooManyTabsSpeedUpSafari": {
+    "message": "Zu viele Tabs? Wandle deine Tabs in eine Liste um und beschleunige Safari"
+  },
+  "toSaveChangesClickButton": {
+    "message": "Klicke zum Speichern deiner Änderungen auf die Schaltfläche"
+  },
+  "total0Tabs": {
+    "message": "Gesamt: 0 Tabs"
+  },
+  "trash": {
+    "message": "Papierkorb"
+  },
+  "unfoldGroup": {
+    "message": "Gruppe ausklappen"
+  },
+  "unlock": {
+    "message": "Entsperren"
+  },
+  "unmarkAsArchived": {
+    "message": "Archivierung aufheben"
+  },
+  "unMarkAsTask": {
+    "message": "Markierung als Aufgabe entfernen"
+  },
+  "unpin": {
+    "message": "Anheftung aufheben"
+  },
+  "unshare": {
+    "message": "Freigabe aufheben"
+  },
+  "untitled": {
+    "message": "Ohne Titel"
+  },
+  "update": {
+    "message": "Aktualisieren"
+  },
+  "userLanguage": {
+    "message": "Deutsch"
+  },
+  "website": {
+    "message": "Website"
+  },
+  "yearCount_few": {
+    "message": "{COUNT} Jahre"
+  },
+  "yearCount_many": {
+    "message": "{COUNT} Jahre"
+  },
+  "yearCount_one": {
+    "message": "{COUNT} Jahr"
+  },
+  "yearCount_other": {
+    "message": "{COUNT} Jahre"
+  },
+  "yearCount_two": {
+    "message": "{COUNT} Jahre"
+  },
+  "yearCount_zero": {
+    "message": "{COUNT} Jahre"
+  },
+  "yourTabAlreadyStoredHere": {
+    "message": "Dein Tab ist hier bereits gespeichert:"
+  }
+}

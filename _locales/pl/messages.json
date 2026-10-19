@@ -1,0 +1,2330 @@
+{
+  "95PctMemoryReduction": {
+    "message": "Zmniejszenie zużycia pamięci o 95%"
+  },
+  "about": {
+    "message": "Informacje"
+  },
+  "actionPopupOverrideNote": {
+    "message": "To ustawienie można zmienić w wyskakującym okienku OneTab (jeśli jest włączone)."
+  },
+  "aDashZ": {
+    "message": "A-Z"
+  },
+  "addOneTabNow": {
+    "message": "Dodaj OneTab teraz"
+  },
+  "all": {
+    "message": "Wszystko"
+  },
+  "allBookmarks": {
+    "message": "Wszystkie zakładki"
+  },
+  "allOpenTabsAlreadyStoredHere_few": {
+    "message": "Wszystkie otwarte karty są już tutaj zapisane:"
+  },
+  "allOpenTabsAlreadyStoredHere_many": {
+    "message": "Wszystkie otwarte karty są już tutaj zapisane:"
+  },
+  "allOpenTabsAlreadyStoredHere_one": {
+    "message": "Otwarta karta jest już tutaj zapisana:"
+  },
+  "allOpenTabsAlreadyStoredHere_other": {
+    "message": "Wszystkie otwarte karty są już tutaj zapisane:"
+  },
+  "allOpenTabsAlreadyStoredHere_two": {
+    "message": "Wszystkie otwarte karty są już tutaj zapisane:"
+  },
+  "allOpenTabsAlreadyStoredHere_zero": {
+    "message": "Wszystkie otwarte karty są już tutaj zapisane:"
+  },
+  "allowFileAccessInstructions": {
+    "message": "Aby umożliwić bezpośrednie otwieranie plików, przejdź do Ustawienia ➝ Rozszerzenia ➝ OneTab ➝ Szczegóły ➝ Zezwalaj na dostęp do adresów URL plików"
+  },
+  "alreadyExistingOpenTabsWillBeClosedAfterMerge": {
+    "message": "Wszystkie otwarte karty, które już istnieją w tej grupie, zostaną zamknięte po scaleniu."
+  },
+  "alternatePlainTextFormat": {
+    "message": "Alternatywnie zwykły tekst może mieć format:"
+  },
+  "approve": {
+    "message": "Zatwierdź"
+  },
+  "archived": {
+    "message": "Zarchiwizowane"
+  },
+  "autoTheme": {
+    "message": "Automatycznie (zgodnie z ustawieniem systemu)"
+  },
+  "backupAndSync": {
+    "message": "Kopia zapasowa i synchronizacja"
+  },
+  "betaReleaseReportBugsHere": {
+    "message": "Wersja beta — zgłaszaj błędy tutaj"
+  },
+  "bookmarkCount_few": {
+    "message": "{COUNT} zakładki"
+  },
+  "bookmarkCount_many": {
+    "message": "{COUNT} zakładek"
+  },
+  "bookmarkCount_one": {
+    "message": "{COUNT} zakładka"
+  },
+  "bookmarkCount_other": {
+    "message": "{COUNT} zakładek"
+  },
+  "bookmarkCount_two": {
+    "message": "{COUNT} zakładki"
+  },
+  "bookmarkCount_zero": {
+    "message": "{COUNT} zakładek"
+  },
+  "bookmarksPermissionNecesssary": {
+    "message": "Uprawnienie do zakładek jest konieczne, aby OneTab mógł importować zakładki przeglądarki"
+  },
+  "bulkActions": {
+    "message": "Operacje zbiorcze"
+  },
+  "cancel": {
+    "message": "Anuluj"
+  },
+  "canDragTextNote": {
+    "message": "Uwaga: Można też przeciągać i upuszczać tekst zawierający linki bezpośrednio z innej strony internetowej lub dokumentu. Tekst można przeciągnąć bezpośrednio na stronę OneTab, bez korzystania z tego pola importu."
+  },
+  "cannotConnectToServerDeletionRequestQueued": {
+    "message": "Nie można połączyć się z serwerem OneTab. Sprawdź połączenie internetowe. Twoje żądanie usunięcia udostępnionej strony zostało zakolejkowane lokalnie i zostanie automatycznie wysłane do serwera OneTab, gdy tylko znów będzie dostępny."
+  },
+  "cannotCreateTabGroupInTabGroup": {
+    "message": "Wybranym miejscem docelowym jest grupa kart. Nie można utworzyć grupy kart wewnątrz istniejącej grupy kart. Wybierz inne miejsce docelowe."
+  },
+  "cannotMixTabsGroupsFoldersDuringDrag": {
+    "message": "Nie można mieszać kart, grup i folderów podczas przeciągania. Jest tak dlatego, że np. nie da się przeciągnąć folderu w te same miejsca, w które można przeciągnąć kartę."
+  },
+  "cannotMoveItemAncestorHere": {
+    "message": "Nie można przenieść elementu nadrzędnego do jego własnego elementu podrzędnego, ponieważ spowodowałoby to utworzenie pętli."
+  },
+  "cannotMoveItemIntoItself": {
+    "message": "Nie można przenieść elementu do niego samego."
+  },
+  "canPasteWebContentForExample": {
+    "message": "Możesz wkleić tekst skopiowany ze strony internetowej lub dokumentu, a linki zostaną automatycznie wyodrębnione. Na przykład:"
+  },
+  "caseSensitive": {
+    "message": "Rozróżniaj wielkość liter"
+  },
+  "changesMadeSinceSharedPageCreation": {
+    "message": "Twoje zapisane karty zmieniły się od czasu udostępnienia tej strony. Kliknij przycisk „Zaktualizuj”, aby zaktualizować istniejącą udostępnioną stronę."
+  },
+  "changeThisSettingAtAnyTimeInfo": {
+    "message": "Możesz zmienić to ustawienie w dowolnym momencie, klikając przycisk „Opcje” u góry strony OneTab."
+  },
+  "changeThisSettingAtAnyTimeInfoHtml": {
+    "message": "Możesz to później zmienić w <b>Opcjach</b>."
+  },
+  "checkboxesDeterminePinnedAndGroupedTabMergeInclusion": {
+    "message": "Pola wyboru u góry tej strony określają, czy do scalania zostaną uwzględnione karty przypięte lub te w grupach kart."
+  },
+  "chooseALocation": {
+    "message": "Wybierz miejsce"
+  },
+  "chooseALocationToImportTo": {
+    "message": "Wybierz miejsce importu"
+  },
+  "chooseExportLocation": {
+    "message": "Wybierz miejsce, z którego chcesz eksportować"
+  },
+  "chooseLightDarkTheme": {
+    "message": "Wybierz motyw jasny/ciemny"
+  },
+  "chooseLocationToCopyTo": {
+    "message": "Wybierz miejsce, do którego chcesz skopiować elementy"
+  },
+  "chooseLocationToMoveTo": {
+    "message": "Wybierz miejsce, do którego chcesz przenieść elementy"
+  },
+  "chooseLocationToRestoreTo": {
+    "message": "Wybierz miejsce, do którego chcesz przywrócić element"
+  },
+  "chooseToIncludeNotes": {
+    "message": "Jeśli do kart lub grup dodano notatki, wybierz, czy dołączyć je do udostępnianej strony"
+  },
+  "chooseToIncludeRatings": {
+    "message": "Jeśli do kart lub grup dodano gwiazdki, wybierz, czy dołączyć je do udostępnianej strony internetowej"
+  },
+  "chromeIncognitoInstructions": {
+    "message": "W ustawieniach przeglądarki przejdź do „Ustawienia” → „Rozszerzenia” → „OneTab” → „Szczegóły”, a następnie włącz „Zezwalaj w trybie incognito”."
+  },
+  "clickButtonToAllowTabAccess": {
+    "message": "Kliknij poniższy przycisk, aby zezwolić OneTab na dostęp do otwartych kart."
+  },
+  "clickHereToContinue": {
+    "message": "Kliknij tutaj, aby kontynuować."
+  },
+  "clickOneTabIconToStoreTabsHere": {
+    "message": "Kliknij ikonę OneTab na pasku narzędzi przeglądarki, aby zapisać tutaj otwarte karty."
+  },
+  "closeSelectedTabs_few": {
+    "message": "Zamknij {COUNT} wybrane karty"
+  },
+  "closeSelectedTabs_many": {
+    "message": "Zamknij {COUNT} wybranych kart"
+  },
+  "closeSelectedTabs_one": {
+    "message": "Zamknij {COUNT} wybraną kartę"
+  },
+  "closeSelectedTabs_other": {
+    "message": "Zamknij {COUNT} wybranych kart"
+  },
+  "closeSelectedTabs_two": {
+    "message": "Zamknij {COUNT} wybrane karty"
+  },
+  "closeSelectedTabs_zero": {
+    "message": "Zamknij {COUNT} wybranych kart"
+  },
+  "closeSelectedTabsAndStoreInONETAB_few": {
+    "message": "Zamknij {COUNT} wybrane karty i zapisz w ONETAB"
+  },
+  "closeSelectedTabsAndStoreInONETAB_many": {
+    "message": "Zamknij {COUNT} wybranych kart i zapisz w ONETAB"
+  },
+  "closeSelectedTabsAndStoreInONETAB_one": {
+    "message": "Zamknij {COUNT} wybraną kartę i zapisz w ONETAB"
+  },
+  "closeSelectedTabsAndStoreInONETAB_other": {
+    "message": "Zamknij {COUNT} wybranych kart i zapisz w ONETAB"
+  },
+  "closeSelectedTabsAndStoreInONETAB_two": {
+    "message": "Zamknij {COUNT} wybrane karty i zapisz w ONETAB"
+  },
+  "closeSelectedTabsAndStoreInONETAB_zero": {
+    "message": "Zamknij {COUNT} wybranych kart i zapisz w ONETAB"
+  },
+  "closeTabs_few": {
+    "message": "Zamknij karty"
+  },
+  "closeTabs_many": {
+    "message": "Zamknij karty"
+  },
+  "closeTabs_one": {
+    "message": "Zamknij kartę"
+  },
+  "closeTabs_other": {
+    "message": "Zamknij karty"
+  },
+  "closeTabs_two": {
+    "message": "Zamknij karty"
+  },
+  "closeTabs_zero": {
+    "message": "Zamknij karty"
+  },
+  "closeTabsAfterMerge": {
+    "message": "Zamknij karty po scaleniu"
+  },
+  "closeTabsAlreadyStoredInOneTab_few": {
+    "message": "Zamknij {COUNT} karty już zapisane w OneTab"
+  },
+  "closeTabsAlreadyStoredInOneTab_many": {
+    "message": "Zamknij {COUNT} kart już zapisanych w OneTab"
+  },
+  "closeTabsAlreadyStoredInOneTab_one": {
+    "message": "Zamknij {COUNT} kartę już zapisaną w OneTab"
+  },
+  "closeTabsAlreadyStoredInOneTab_other": {
+    "message": "Zamknij {COUNT} kart już zapisanych w OneTab"
+  },
+  "closeTabsAlreadyStoredInOneTab_two": {
+    "message": "Zamknij {COUNT} karty już zapisane w OneTab"
+  },
+  "closeTabsAlreadyStoredInOneTab_zero": {
+    "message": "Zamknij {COUNT} kart już zapisanych w OneTab"
+  },
+  "closeTabsAndStore_few": {
+    "message": "Zamknij karty i zapisz w ONETAB"
+  },
+  "closeTabsAndStore_many": {
+    "message": "Zamknij karty i zapisz w ONETAB"
+  },
+  "closeTabsAndStore_one": {
+    "message": "Zamknij kartę i zapisz w ONETAB"
+  },
+  "closeTabsAndStore_other": {
+    "message": "Zamknij karty i zapisz w ONETAB"
+  },
+  "closeTabsAndStore_two": {
+    "message": "Zamknij karty i zapisz w ONETAB"
+  },
+  "closeTabsAndStore_zero": {
+    "message": "Zamknij karty i zapisz w ONETAB"
+  },
+  "closeTheseDuplicates_few": {
+    "message": "Zamknij te duplikaty"
+  },
+  "closeTheseDuplicates_many": {
+    "message": "Zamknij te duplikaty"
+  },
+  "closeTheseDuplicates_one": {
+    "message": "Zamknij ten duplikat"
+  },
+  "closeTheseDuplicates_other": {
+    "message": "Zamknij te duplikaty"
+  },
+  "closeTheseDuplicates_two": {
+    "message": "Zamknij te duplikaty"
+  },
+  "closeTheseDuplicates_zero": {
+    "message": "Zamknij te duplikaty"
+  },
+  "completedTaskFlagHelp": {
+    "message": "Ten element jest zadaniem. Kliknij tę ikonę, aby oznaczyć je jako oczekujące (nieukończone)."
+  },
+  "completeEditingShortcutInfo": {
+    "message": "Zakończenie edycji podczas edytowania pola notatek"
+  },
+  "configureShortcuts": {
+    "message": "Skonfiguruj skróty"
+  },
+  "conflictingShortcutsHint": {
+    "message": "Jeśli któryś ze skrótów powyżej nie działa lub koliduje z innymi aplikacjami, możesz skonfigurować inny klawisz skrótu."
+  },
+  "continue": {
+    "message": "Kontynuuj"
+  },
+  "convertTabsIntoAList": {
+    "message": "Zamień karty na listę"
+  },
+  "copiedToClipboard": {
+    "message": "Skopiowano do schowka"
+  },
+  "copy": {
+    "message": "Kopiuj"
+  },
+  "copyLinksToClipboard": {
+    "message": "Kopiuj linki do schowka"
+  },
+  "copySharedPageUrl": {
+    "message": "Skopiuj adres URL udostępnionej strony"
+  },
+  "copyToClipboard": {
+    "message": "Kopiuj do schowka"
+  },
+  "copyToClipboardMenuItemHelp": {
+    "message": "Skopiuj te linki internetowe do schowka, aby móc wkleić je w innych aplikacjach. Format tekstu w schowku możesz zmienić na stronie opcji OneTab."
+  },
+  "createANewGroupHere": {
+    "message": "Utwórz tutaj nową grupę"
+  },
+  "createdOnDate": {
+    "message": "Utworzono {DATE}"
+  },
+  "createdOnOrAfterColon": {
+    "message": "Utworzono nie wcześniej niż:"
+  },
+  "createdOnOrBeforeColon": {
+    "message": "Utworzono nie później niż:"
+  },
+  "createFolderAbove": {
+    "message": "Utwórz folder powyżej"
+  },
+  "createFolderAboveBelow": {
+    "message": "Utwórz folder powyżej / poniżej"
+  },
+  "createFolderAboveWithinBelow": {
+    "message": "Utwórz folder powyżej / wewnątrz / poniżej"
+  },
+  "createFolderBelow": {
+    "message": "Utwórz folder poniżej"
+  },
+  "createFolderWithin": {
+    "message": "Utwórz folder wewnątrz"
+  },
+  "createFolderWithinMenuItemHelp": {
+    "message": "Foldery służą do porządkowania grup. Foldery zawierają grupy, a grupy zawierają karty."
+  },
+  "createGroupAbove": {
+    "message": "Utwórz grupę powyżej"
+  },
+  "createGroupAboveBelow": {
+    "message": "Utwórz grupę powyżej / poniżej"
+  },
+  "createGroupAboveWithinBelow": {
+    "message": "Utwórz grupę powyżej / wewnątrz / poniżej"
+  },
+  "createGroupBelow": {
+    "message": "Utwórz grupę poniżej"
+  },
+  "createGroupInsideDestination": {
+    "message": "Utwórz nową grupę w miejscu docelowym"
+  },
+  "createGroupInsideDestinationHelp": {
+    "message": "Jeśli pole nie jest zaznaczone, twoje karty zostaną dodane bezpośrednio do grupy docelowej. Jeśli jest zaznaczone, wewnątrz grupy docelowej zostanie utworzona nowa grupa kart dla twoich kart. Zaznacz to pole tylko wtedy, gdy chcesz użyć funkcji „grupy kart” w przeglądarce."
+  },
+  "createGroupMenuItemHelp": {
+    "message": "Utwórz nową, pustą grupę. Grupa zawiera listę kart, które można wspólnie przywrócić w oknie."
+  },
+  "createGroupWithin": {
+    "message": "Utwórz grupę wewnątrz"
+  },
+  "createNewGroupTip": {
+    "message": "Aby utworzyć nową grupę, najpierw odznacz „Pokaż tylko foldery”. Dzięki temu zobaczysz nowo utworzoną grupę na liście."
+  },
+  "darkTheme": {
+    "message": "Ciemny motyw"
+  },
+  "dayCount_few": {
+    "message": "{COUNT} dni"
+  },
+  "dayCount_many": {
+    "message": "{COUNT} dni"
+  },
+  "dayCount_one": {
+    "message": "{COUNT} dzień"
+  },
+  "dayCount_other": {
+    "message": "{COUNT} dni"
+  },
+  "dayCount_two": {
+    "message": "{COUNT} dni"
+  },
+  "dayCount_zero": {
+    "message": "{COUNT} dni"
+  },
+  "delete": {
+    "message": "Usuń"
+  },
+  "deleteAllTrash": {
+    "message": "Opróżnij kosz"
+  },
+  "deleteThisCopy": {
+    "message": "Usuń tę kopię"
+  },
+  "deselectAll": {
+    "message": "Odznacz wszystko"
+  },
+  "destinationColon": {
+    "message": "Miejsce docelowe:"
+  },
+  "disabled": {
+    "message": "Wyłączone"
+  },
+  "doneTaskCount_few": {
+    "message": "{COUNT} ukończone zadania"
+  },
+  "doneTaskCount_many": {
+    "message": "{COUNT} ukończonych zadań"
+  },
+  "doneTaskCount_one": {
+    "message": "{COUNT} ukończone zadanie"
+  },
+  "doneTaskCount_other": {
+    "message": "{COUNT} ukończonych zadań"
+  },
+  "doneTaskCount_two": {
+    "message": "{COUNT} ukończone zadania"
+  },
+  "doneTaskCount_zero": {
+    "message": "{COUNT} ukończonych zadań"
+  },
+  "dontCloseGroupedTabs": {
+    "message": "Nie zamykaj żadnych kart w grupach kart"
+  },
+  "dontClosePinnedTabs": {
+    "message": "Nie zamykaj żadnych przypiętych kart"
+  },
+  "dontCloseTabsFromDomains": {
+    "message": "Nie zamykaj żadnych kart z EXAMPLE.COM"
+  },
+  "dragCopyKeysHtml": {
+    "message": "<x-key>{CTRL}</x-key> lub <x-key>{ALT}</x-key>"
+  },
+  "dragCopyModifierInfo": {
+    "message": "Przytrzymaj klawisz Ctrl lub Alt podczas przeciągania karty, aby utworzyć jej kopię zamiast ją przenosić."
+  },
+  "dragTabsHereForQuickList": {
+    "message": "Przeciągnij tu zapisane karty lub grupy. Zostaną dodane do szybkiej listy."
+  },
+  "editTabGroupTitleAndNotes": {
+    "message": "Edytuj tytuł i notatki grupy kart"
+  },
+  "emojiShortcutInfo": {
+    "message": "Otwarcie selektora emoji podczas edytowania pola notatek"
+  },
+  "emptyInBrackets": {
+    "message": "(puste)"
+  },
+  "emptyOneTabInfoMsg": {
+    "message": "Gdy masz otwartych wiele kart, kliknij ikonę OneTab na pasku narzędzi przeglądarki, a otwarte karty pojawią się tutaj."
+  },
+  "enabled": {
+    "message": "Włączone"
+  },
+  "everything": {
+    "message": "Wszystko"
+  },
+  "exampleLink": {
+    "message": "Przykładowy link"
+  },
+  "exampleLinkTitle": {
+    "message": "Przykładowy tytuł linku"
+  },
+  "exampleLinkTitleOptional": {
+    "message": "Przykładowy tytuł linku (opcjonalnie)"
+  },
+  "exampleRichTextParagraph": {
+    "message": "Przykładowy akapit tekstu z PLACEHOLDER i PLACEHOLDER"
+  },
+  "exampleWebsitePageTitle": {
+    "message": "Przykładowy tytuł strony internetowej"
+  },
+  "excludeDomainFromOneTab": {
+    "message": "Wyklucz EXAMPLE.COM z OneTab"
+  },
+  "excludeWebSiteFromOneTab": {
+    "message": "Wyklucz tę witrynę z OneTab"
+  },
+  "expiresColon": {
+    "message": "Wygasa:"
+  },
+  "export": {
+    "message": "Eksportuj"
+  },
+  "exportImportUrls": {
+    "message": "Eksportuj / importuj adresy URL"
+  },
+  "exportThenImportNote": {
+    "message": "Poniższą listę adresów URL można także zaimportować ponownie do OneTab na tym lub innym komputerze"
+  },
+  "exportUrls": {
+    "message": "Eksportuj adresy URL"
+  },
+  "feedback": {
+    "message": "Prześlij opinię"
+  },
+  "filter": {
+    "message": "Filtry"
+  },
+  "firefoxIncognitoInstructions": {
+    "message": "W ustawieniach przeglądarki przejdź do „Ustawienia” → „Dodatki i motywy” → „Rozszerzenia” → „OneTab” → „…” → „Zarządzaj”, a następnie włącz „Zezwalaj na działanie w oknach prywatnych”."
+  },
+  "firefoxIndexedDbUnavailable": {
+    "message": "OneTab nie może zapisywać ani pobierać danych. Jeśli skonfigurowano przeglądarkę Firefox tak, aby nigdy nie zapamiętywała historii, uniemożliwi to prawidłowe działanie OneTab. W przeciwnym razie skontaktuj się z nami przez naszą witrynę — być może będziemy mogli pomóc."
+  },
+  "firefoxShortcutConfigInstructions": {
+    "message": "Wpisz adres URL „about:addons?type=extension” w pasku adresu przeglądarki. Gdy pojawi się strona, kliknij ikonę koła zębatego, a następnie wybierz „Zarządzaj skrótami rozszerzeń”"
+  },
+  "Folder": {
+    "message": "Folder"
+  },
+  "folderCount_few": {
+    "message": "{COUNT} foldery"
+  },
+  "folderCount_many": {
+    "message": "{COUNT} folderów"
+  },
+  "folderCount_one": {
+    "message": "{COUNT} folder"
+  },
+  "folderCount_other": {
+    "message": "{COUNT} folderów"
+  },
+  "folderCount_two": {
+    "message": "{COUNT} foldery"
+  },
+  "folderCount_zero": {
+    "message": "{COUNT} folderów"
+  },
+  "folders": {
+    "message": "Foldery"
+  },
+  "foldersOnly": {
+    "message": "Tylko foldery"
+  },
+  "foldGroup": {
+    "message": "Zwiń grupę"
+  },
+  "gettingStarted": {
+    "message": "Pierwsze kroki"
+  },
+  "gotIt": {
+    "message": "Rozumiem"
+  },
+  "goToParentFolder": {
+    "message": "Przejdź do folderu nadrzędnego"
+  },
+  "groupCount_few": {
+    "message": "{COUNT} grupy"
+  },
+  "groupCount_many": {
+    "message": "{COUNT} grup"
+  },
+  "groupCount_one": {
+    "message": "{COUNT} grupa"
+  },
+  "groupCount_other": {
+    "message": "{COUNT} grup"
+  },
+  "groupCount_two": {
+    "message": "{COUNT} grupy"
+  },
+  "groupCount_zero": {
+    "message": "{COUNT} grup"
+  },
+  "groups": {
+    "message": "Grupy"
+  },
+  "hasNotes": {
+    "message": "Ma notatki"
+  },
+  "help": {
+    "message": "Pomoc"
+  },
+  "hideArchivedItems": {
+    "message": "Ukryj zarchiwizowane elementy"
+  },
+  "import": {
+    "message": "Importuj"
+  },
+  "importAndExport": {
+    "message": "Import i eksport"
+  },
+  "importBookmarks": {
+    "message": "Importuj zakładki"
+  },
+  "importedBookmarks": {
+    "message": "Zaimportowane zakładki"
+  },
+  "importExportShareMenuNoteHtml": {
+    "message": "Możesz też wyeksportować karty jako stronę internetową do udostępnienia lub plik HTML, używając opcji <b>Udostępnij jako stronę internetową</b> i <b>Zapisz jako plik HTML</b> w menu <b>Więcej…</b> grupy lub folderu."
+  },
+  "importFolderAndSubfolders": {
+    "message": "Importuj folder i podfoldery"
+  },
+  "importLinksHere": {
+    "message": "Importuj linki tutaj"
+  },
+  "importLinksHereMenuItemHelp": {
+    "message": "Możesz wkleić listę linków internetowych lub zaimportować zakładki przeglądarki."
+  },
+  "importNotesTruncatedNotice": {
+    "message": "Niektóre zaimportowane notatki przekraczały limit {MAX} znaków, dlatego ich końcówki zostały obcięte."
+  },
+  "importReadingList": {
+    "message": "Importuj listę czytelniczą"
+  },
+  "importText": {
+    "message": "Importuj tekst"
+  },
+  "importUrls": {
+    "message": "Importuj adresy URL"
+  },
+  "includeGroupedTabs": {
+    "message": "Uwzględnij karty w grupach kart"
+  },
+  "includeNotes": {
+    "message": "Dołącz notatki"
+  },
+  "includePinnedTabs": {
+    "message": "Uwzględnij przypięte karty"
+  },
+  "includeStarRatings": {
+    "message": "Dołącz gwiazdki"
+  },
+  "includeTabsAlreadyStored": {
+    "message": "Uwzględnij karty już zapisane"
+  },
+  "includeTabsFromDomains": {
+    "message": "Uwzględnij karty z EXAMPLE.COM"
+  },
+  "incogitoPermissionRequired": {
+    "message": "OneTab potrzebuje uprawnienia do tworzenia okien incognito."
+  },
+  "incognitoWindows": {
+    "message": "Okna incognito"
+  },
+  "invertSelection": {
+    "message": "Odwróć zaznaczenie"
+  },
+  "itemTextTruncatedNotice": {
+    "message": "Tekst przekraczał limit (notatki mogą mieć maksymalnie {NOTESMAX} znaków, a tytuły {TITLEMAX}), dlatego jego końcówka została obcięta."
+  },
+  "justNow": {
+    "message": "przed chwilą"
+  },
+  "kbdNavBackspaceInfo": {
+    "message": "Przejście do folderu nadrzędnego"
+  },
+  "kbdNavEnterInfo": {
+    "message": "Przywracanie kart lub otwieranie folderu"
+  },
+  "kbdNavEscInfo": {
+    "message": "Zakończenie nawigacji klawiaturą"
+  },
+  "kbdNavFocusInfo": {
+    "message": "Przełączanie fokusu między grupami a kartami"
+  },
+  "kbdNavFoldInfo": {
+    "message": "Zwijanie / rozwijanie grupy"
+  },
+  "kbdNavMoveInfo": {
+    "message": "Przechodzenie między elementami"
+  },
+  "kbdNavTabInfo": {
+    "message": "Rozpoczęcie nawigacji klawiaturą"
+  },
+  "keyboardShortcutsColon": {
+    "message": "Skróty klawiszowe:"
+  },
+  "languageTitle": {
+    "message": "Język:"
+  },
+  "licenseAlreadyHaveKey": {
+    "message": "Mam już klucz licencyjny"
+  },
+  "licenseAlreadySetUpRestarting": {
+    "message": "Ta licencja została już skonfigurowana, dlatego połączymy to urządzenie z istniejącą konfiguracją. Nowy kod wysłano e-mailem na zapisany adres."
+  },
+  "licenseBackLink": {
+    "message": "Wstecz"
+  },
+  "licenseBrowserOnOs": {
+    "message": "{BROWSER} w systemie {OS}"
+  },
+  "licenseBrowsersActiveOn": {
+    "message": "Aktywna {DATE}"
+  },
+  "licenseBrowsersActiveToday": {
+    "message": "Aktywna dzisiaj"
+  },
+  "licenseBrowsersAdded": {
+    "message": "Dodano {DATE}"
+  },
+  "licenseBrowsersThisBrowser": {
+    "message": "Ta przeglądarka"
+  },
+  "licenseBrowserUnknown": {
+    "message": "Przeglądarka"
+  },
+  "licenseChangeEmail": {
+    "message": "Zmień adres e-mail"
+  },
+  "licenseChangeEmailWebLink": {
+    "message": "Zmień adres e-mail"
+  },
+  "licenseChooseRecoveryTitle": {
+    "message": "Wybierz sposób ochrony klucza szyfrowania"
+  },
+  "licenseCloseModal": {
+    "message": "Zamknij"
+  },
+  "licenseCodeExpired": {
+    "message": "Ten kod wygasł. Poproś o nową wiadomość e-mail."
+  },
+  "licenseCodeIncorrectTriesRemaining": {
+    "message": "Nieprawidłowy kod. Pozostało prób: {COUNT}."
+  },
+  "licenseCodeInvalidFormat": {
+    "message": "Wpisz 6-cyfrowy kod z wiadomości e-mail."
+  },
+  "licenseCodePlaceholder": {
+    "message": "6-cyfrowy kod"
+  },
+  "licenseCodeSentTo": {
+    "message": "Wpisz 6-cyfrowy kod wysłany e-mailem na adres {EMAIL}."
+  },
+  "licenseCodeSourceDeviceOption": {
+    "message": "Uzyskaj kod z już połączonej przeglądarki"
+  },
+  "licenseCodeSourceDeviceOptionDescription": {
+    "message": "Otwórz tam Kopię zapasową i synchronizację, a następnie kliknij „Połącz inną przeglądarkę lub profil”."
+  },
+  "licenseCodeSourceEmailOption": {
+    "message": "Wyślij kod e-mailem na adres {EMAIL}"
+  },
+  "licenseCodeSourceTitle": {
+    "message": "Uzyskaj kod weryfikacyjny"
+  },
+  "licenseCodeTriesExhausted": {
+    "message": "Wykorzystano wszystkie próby dla tego kodu. Poproś o nową wiadomość e-mail."
+  },
+  "licenseConnectAnotherBrowser": {
+    "message": "Połącz inną przeglądarkę lub profil"
+  },
+  "licenseConnectedBrowsers": {
+    "message": "Połączone przeglądarki"
+  },
+  "licenseDeviceAddConnected": {
+    "message": "Przeglądarka {BROWSER} właśnie połączyła się z twoją licencją."
+  },
+  "licenseDeviceAddExpired": {
+    "message": "Ten kod wygasł."
+  },
+  "licenseDeviceAddExpiresIn": {
+    "message": "Wygasa za {TIME}"
+  },
+  "licenseDeviceAddGetNewCode": {
+    "message": "Uzyskaj nowy kod"
+  },
+  "licenseDeviceAddIntro": {
+    "message": "Aby połączyć inną przeglądarkę lub profil, wpisz tam klucz licencyjny, a po wyświetleniu prośby wpisz ten kod."
+  },
+  "licenseDeviceAddKeyReminder": {
+    "message": "Nadal potrzebujesz klucza licencyjnego — nie jest tutaj wyświetlany. Znajdziesz go w wiadomości e-mail, w której został pierwotnie wysłany, lub na stronie rozliczeń."
+  },
+  "licenseDeviceAddNeverShare": {
+    "message": "Użyj tego kodu wyłącznie w swojej nowej przeglądarce. Nigdy nikomu go nie udostępniaj — OneTab nigdy cię o niego nie poprosi. Działa tylko z licencją tej przeglądarki."
+  },
+  "licenseDeviceCodeInsteadLink": {
+    "message": "Zamiast tego uzyskaj kod z połączonej przeglądarki"
+  },
+  "licenseDeviceCodePrompt": {
+    "message": "W przeglądarce, która jest już połączona z twoją licencją, otwórz Kopię zapasową i synchronizację, a następnie kliknij „Połącz inną przeglądarkę lub profil”. Wpisz wyświetlony tam 6-cyfrowy kod."
+  },
+  "licenseDeviceLimitReached": {
+    "message": "Ta licencja osiągnęła limit urządzeń."
+  },
+  "licenseDoneButton": {
+    "message": "Gotowe"
+  },
+  "licenseEasyOptionDescription": {
+    "message": "Twój klucz szyfrowania jest bezpiecznie przechowywany na serwerze, więc możesz go odzyskać przez e-mail."
+  },
+  "licenseEasyOptionLabel": {
+    "message": "Łatwe odzyskiwanie"
+  },
+  "licenseEmailCodeInsteadLink": {
+    "message": "Zamiast tego wyślij mi kod e-mailem"
+  },
+  "licenseEmailPlaceholder": {
+    "message": "Adres e-mail"
+  },
+  "licenseEmailPrompt": {
+    "message": "Twój adres e-mail"
+  },
+  "licenseForgotKeyBack": {
+    "message": "Wróć do wpisywania klucza licencyjnego"
+  },
+  "licenseForgotKeyEnterKeyButton": {
+    "message": "Wpisz klucz licencyjny"
+  },
+  "licenseForgotKeyLink": {
+    "message": "Nie pamiętasz klucza licencyjnego?"
+  },
+  "licenseForgotKeyNoEmailOnRecord": {
+    "message": "Z tym adresem e-mail nie jest powiązany żaden klucz licencyjny. Sprawdź, czy nie ma literówki, albo wypróbuj inny używany wcześniej adres."
+  },
+  "licenseForgotKeyPrompt": {
+    "message": "Wpisz swój adres e-mail. Jeśli jest przypisany do klucza licencyjnego, wyślemy ten klucz na podany adres."
+  },
+  "licenseForgotKeySendButton": {
+    "message": "Wyślij"
+  },
+  "licenseForgotKeySentTo": {
+    "message": "Klucz licencyjny został wysłany na adres {EMAIL}. Gdy dotrze, możesz go tutaj wpisać."
+  },
+  "licenseForgotKeyTooManyRequests": {
+    "message": "Twój klucz licencyjny był ostatnio kilkukrotnie wysyłany na ten adres. Sprawdź folder ze spamem albo spróbuj ponownie jutro."
+  },
+  "licenseGenericError": {
+    "message": "Coś poszło nie tak. Spróbuj ponownie."
+  },
+  "licenseGoButton": {
+    "message": "Dalej"
+  },
+  "licenseInvalidEmail": {
+    "message": "Wpisz prawidłowy adres e-mail."
+  },
+  "licenseKeyInvalidFormat": {
+    "message": "To nie wygląda na prawidłowy klucz licencyjny. Powinien zawierać 20 liter (A–F) i cyfr, na przykład XXXX-XXXX-XXXX-XXXX-XXXX."
+  },
+  "licenseKeyNotFound": {
+    "message": "Nie znaleziono klucza licencyjnego. Sprawdź go i spróbuj ponownie."
+  },
+  "licenseNoLongerActiveError": {
+    "message": "Ta licencja nie jest już aktywna. Jeśli uważasz, że to pomyłka, skontaktuj się z pomocą techniczną."
+  },
+  "licenseRateLimitedError": {
+    "message": "Z twojej sieci wykonano zbyt wiele nieudanych prób. Poczekaj chwilę i spróbuj ponownie."
+  },
+  "licenseResendEmail": {
+    "message": "Wyślij nową wiadomość e-mail"
+  },
+  "licenseServiceProblemTryLater": {
+    "message": "Nie można teraz ukończyć tej operacji z powodu problemu po naszej stronie. Spróbuj ponownie później. Jeśli problem będzie się powtarzać, skontaktuj się z pomocą techniczną."
+  },
+  "licenseSuccess": {
+    "message": "Gotowe! Twoje zapisane karty będą teraz szyfrowane i bezpiecznie zapisywane w kopii zapasowej w chmurze."
+  },
+  "licenseSuccessJoin": {
+    "message": "Gotowe! Ta przeglądarka została połączona z twoją szyfrowaną kopią zapasową. Zapisane karty z tej i pozostałych przeglądarek będą teraz synchronizowane."
+  },
+  "licenseSuggestedEmailIntro": {
+    "message": "Klucz licencyjny wysłano na adres:"
+  },
+  "licenseSuggestedEmailNote": {
+    "message": "Na ten adres będą wysyłane kody weryfikacyjne i wiadomości umożliwiające odzyskanie konta, więc upewnij się, że należy do ciebie."
+  },
+  "licenseSuspendedBillingError": {
+    "message": "Nie można teraz połączyć tej licencji z powodu problemu z płatnością. Jeśli zarządzasz rozliczeniami, zaloguj się na one-tab.com, aby go rozwiązać. W przeciwnym razie skontaktuj się z osobą odpowiedzialną za zakup licencji."
+  },
+  "licenseUltraKeyConfirmCheckbox": {
+    "message": "Mam zapisaną kopię mojego klucza i rozumiem, że nigdy nie zostanie on ponownie wyświetlony."
+  },
+  "licenseUltraKeyConfirmRequired": {
+    "message": "Potwierdź, że masz zapisaną kopię klucza."
+  },
+  "licenseUltraKeyEnterPrompt": {
+    "message": "Wpisz klucz szyfrowania, aby dokończyć łączenie tego urządzenia."
+  },
+  "licenseUltraKeyIntro": {
+    "message": "To twój klucz szyfrowania. Zachowaj jego kopię w bezpiecznym miejscu, na przykład w menedżerze haseł, aby móc odzyskać dane po awarii lub kradzieży komputera."
+  },
+  "licenseUltraKeyMismatch": {
+    "message": "Ten klucz nie jest prawidłowy dla tej licencji. Sprawdź go i spróbuj ponownie."
+  },
+  "licenseUltraKeyNeverShownAgain": {
+    "message": "Ten klucz NIGDY nie zostanie ponownie wyświetlony."
+  },
+  "licenseUltraKeyPlaceholder": {
+    "message": "Klucz szyfrowania"
+  },
+  "licenseUltraOptionDescription": {
+    "message": "Tylko ty przechowujesz klucz szyfrowania, a jeśli go zgubisz, nie będzie można go odzyskać. Wybierz tę opcję tylko wtedy, gdy masz pewność, że bezpiecznie zachowasz jego kopię."
+  },
+  "licenseUltraOptionLabel": {
+    "message": "Maksymalna prywatność"
+  },
+  "licenseUseDifferentEmail": {
+    "message": "Użyj innego adresu e-mail"
+  },
+  "lightTheme": {
+    "message": "Jasny motyw"
+  },
+  "localBackupRestoredModal": {
+    "message": "Część profilu przeglądarki, w której są przechowywane dane OneTab, została uszkodzona lub usunięta. Może się tak zdarzyć po awarii przeglądarki albo gdy nieprawidłowo działające oprogramowanie do czyszczenia systemu lub ochrony prywatności usuwa dane przeglądarki."
+  },
+  "localBackupRestoredModalRecovery": {
+    "message": "Tym razem dopisało ci szczęście: uszkodzenie nie objęło oddzielnej części profilu, w której OneTab przechowuje cotygodniową kopię zapasową, dlatego twoje karty zostały przywrócone z kopii utworzonej {DATE}. Nie udało się odzyskać żadnych danych zapisanych lub zmienionych po tej dacie. Gdyby cały profil został utracony albo kopia zapasowa również uległa uszkodzeniu, nie byłoby z czego przywrócić danych."
+  },
+  "localBackupRestoredModalTitle": {
+    "message": "OneTab odzyskał twoje karty po utracie danych"
+  },
+  "localeId": {
+    "message": "pl"
+  },
+  "locationColon": {
+    "message": "Miejsce:"
+  },
+  "lock": {
+    "message": "Zablokuj"
+  },
+  "lockedGroupUnlockHelp": {
+    "message": "Aby odblokować, użyj menu „Więcej…”. Gdy grupa jest zablokowana, nie można usuwać grupy ani jej kart, a kart nie można zmieniać kolejności."
+  },
+  "lockMenuItemHelp": {
+    "message": "Gdy grupa jest zablokowana, nie można usuwać ani zmieniać kolejności elementów w grupie (dopóki jej nie odblokujesz)."
+  },
+  "makeThisATask": {
+    "message": "Oznacz jako zadanie"
+  },
+  "manifestDescription": {
+    "message": "Zaoszczędź do 95% pamięci i uporządkuj karty"
+  },
+  "markAsArchived": {
+    "message": "Oznacz jako zarchiwizowane"
+  },
+  "markAsArchivedMenuItemHelp": {
+    "message": "Gdy oznaczysz element jako zarchiwizowany, będzie miał szare tło. To wizualny wskaźnik, że praca z tym elementem została zakończona (np. jest to artykuł, który został już przeczytany). Jeśli zarchiwizujesz coś oznaczonego jako zadanie, zadanie nie będzie już widoczne w kolumnie zadań na stronie OneTab."
+  },
+  "markAsDoneTask": {
+    "message": "Oznacz jako zadanie ukończone"
+  },
+  "markAsDoneTaskMenuItemHelp": {
+    "message": "Wyróżnij wizualnie, że zadanie zostało ukończone"
+  },
+  "markAsPendingTask": {
+    "message": "Oznacz jako zadanie w toku"
+  },
+  "markAsPendingTaskMenuItemHelp": {
+    "message": "Wyróżnij wizualnie, że ten element jest zadaniem. Pojawi się ikona zadania, którą możesz potem kliknąć, aby wizualnie wskazać, że zadanie zostało ukończone. Wszystkie zadania (o ile nie są oznaczone jako zarchiwizowane) będą też widoczne w kolumnie zadań na stronie OneTab."
+  },
+  "matchCount_few": {
+    "message": "{COUNT} dopasowania"
+  },
+  "matchCount_many": {
+    "message": "{COUNT} dopasowań"
+  },
+  "matchCount_one": {
+    "message": "{COUNT} dopasowanie"
+  },
+  "matchCount_other": {
+    "message": "{COUNT} dopasowań"
+  },
+  "matchCount_two": {
+    "message": "{COUNT} dopasowania"
+  },
+  "matchCount_zero": {
+    "message": "{COUNT} dopasowań"
+  },
+  "matchWholeWordsOnly": {
+    "message": "Dopasowuj tylko całe wyrazy"
+  },
+  "mayNeedToRestartBrowser": {
+    "message": "Jeśli widzisz ten komunikat za każdym razem, zaktualizuj i uruchom ponownie przeglądarkę."
+  },
+  "mergeIntoParent": {
+    "message": "Scal z elementem nadrzędnym"
+  },
+  "mergeOpenTabsHere_few": {
+    "message": "Scal tutaj {COUNT} otwarte karty"
+  },
+  "mergeOpenTabsHere_many": {
+    "message": "Scal tutaj {COUNT} otwartych kart"
+  },
+  "mergeOpenTabsHere_one": {
+    "message": "Scal tutaj {COUNT} otwartą kartę"
+  },
+  "mergeOpenTabsHere_other": {
+    "message": "Scal tutaj {COUNT} otwartych kart"
+  },
+  "mergeOpenTabsHere_two": {
+    "message": "Scal tutaj {COUNT} otwarte karty"
+  },
+  "mergeOpenTabsHere_zero": {
+    "message": "Scal tutaj {COUNT} otwartych kart"
+  },
+  "mergeSelectedTabsHere_few": {
+    "message": "Scal tutaj {COUNT} wybrane karty"
+  },
+  "mergeSelectedTabsHere_many": {
+    "message": "Scal tutaj {COUNT} wybranych kart"
+  },
+  "mergeSelectedTabsHere_one": {
+    "message": "Scal tutaj {COUNT} wybraną kartę"
+  },
+  "mergeSelectedTabsHere_other": {
+    "message": "Scal tutaj {COUNT} wybranych kart"
+  },
+  "mergeSelectedTabsHere_two": {
+    "message": "Scal tutaj {COUNT} wybrane karty"
+  },
+  "mergeSelectedTabsHere_zero": {
+    "message": "Scal tutaj {COUNT} wybranych kart"
+  },
+  "mergeWithInnerGroups": {
+    "message": "Scal z grupami wewnętrznymi"
+  },
+  "modalMoveToTrashHintExampleGroupTitle": {
+    "message": "Przykładowy tytuł grupy"
+  },
+  "modalMoveToTrashHintHeading": {
+    "message": "Wskazówka: Najedź na tytuł grupy, a następnie kliknij X, aby przenieść ją do kosza."
+  },
+  "modalOptionAutoActionOnOpenHeading": {
+    "message": "Po przywróceniu kart:"
+  },
+  "modalOptionAutoActionOnOpenOpenDesc": {
+    "message": "Usuń ręcznie po zakończeniu"
+  },
+  "modalOptionAutoActionOnOpenTrashDesc": {
+    "message": "Ułatwia szybkie zapisywanie i przywracanie"
+  },
+  "modalRemigrationDontAskAgain": {
+    "message": "Nie pytaj ponownie"
+  },
+  "modalRemigrationFooterHtml": {
+    "message": "Kliknij <b>Tak</b>, chyba że migracja już się odbyła i celowo usunąłeś przeniesione karty."
+  },
+  "modalRemigrationNotNow": {
+    "message": "Nie teraz"
+  },
+  "modalRemigrationTabsFoundPrompt_few": {
+    "message": "Znaleziono {COUNT} karty z OneTab v1. Przenieść je?"
+  },
+  "modalRemigrationTabsFoundPrompt_many": {
+    "message": "Znaleziono {COUNT} kart z OneTab v1. Przenieść je?"
+  },
+  "modalRemigrationTabsFoundPrompt_one": {
+    "message": "Znaleziono {COUNT} kartę z OneTab v1. Przenieść ją?"
+  },
+  "modalRemigrationTabsFoundPrompt_other": {
+    "message": "Znaleziono {COUNT} kart z OneTab v1. Przenieść je?"
+  },
+  "modalRemigrationTabsFoundPrompt_two": {
+    "message": "Znaleziono {COUNT} karty z OneTab v1. Przenieść je?"
+  },
+  "modalRemigrationTabsFoundPrompt_zero": {
+    "message": "Znaleziono {COUNT} kart z OneTab v1. Przenieść je?"
+  },
+  "modalRemigrationYes": {
+    "message": "Tak"
+  },
+  "modalUpdateToV2Heading": {
+    "message": "OneTab został zaktualizowany"
+  },
+  "modalUpdateToV2QuickTourHtml": {
+    "message": "Chcesz szybkie wprowadzenie? Kliknij <b>Pomoc</b> u góry."
+  },
+  "modalUpdateToV2UseOneTabLikeBefore": {
+    "message": "Nadal możesz używać OneTab tak jak wcześniej — zapisuj karty jednym kliknięciem."
+  },
+  "modifySharing": {
+    "message": "Zmień udostępnianie"
+  },
+  "moreEllipsis": {
+    "message": "Więcej…"
+  },
+  "moreSearchFilters": {
+    "message": "Więcej filtrów wyszukiwania"
+  },
+  "move": {
+    "message": "Przenieś"
+  },
+  "moveBack": {
+    "message": "Przywróć"
+  },
+  "moveToTrash": {
+    "message": "Przenieś do kosza"
+  },
+  "namedOnly": {
+    "message": "Tylko nazwane"
+  },
+  "navigationFilter": {
+    "message": "Filtr nawigacji"
+  },
+  "navigationFilterColumnOnlyNote": {
+    "message": "Ten filtr dotyczy tylko kolumny nawigacji."
+  },
+  "newExclamation": {
+    "message": "Nowość!"
+  },
+  "noDupsExistExceptForColon": {
+    "message": "Nie ma duplikatów, z wyjątkiem:"
+  },
+  "noDupsFoundHere": {
+    "message": "Nie znaleziono duplikatów"
+  },
+  "noMatches": {
+    "message": "Brak wyników"
+  },
+  "noMatchesFound": {
+    "message": "Nie znaleziono wyników"
+  },
+  "nonArchived": {
+    "message": "Niezarchiwizowane"
+  },
+  "nonTabPinFlagHelp": {
+    "message": "Ten element jest przypięty na górze folderu. Kliknij tę ikonę, aby go odpiąć."
+  },
+  "noOpenTabsToStore": {
+    "message": "W tym oknie nie ma otwartych kart do zapisania."
+  },
+  "noReadingListEntries": {
+    "message": "Nie znaleziono elementów na liście czytelniczej"
+  },
+  "noTabsInOneTabYet": {
+    "message": "Nie masz jeszcze żadnych kart w OneTab"
+  },
+  "noTabsMeetCriteriaUseCheckboxes": {
+    "message": "Żadne otwarte karty nie spełniają kryteriów. Użyj pól wyboru powyżej."
+  },
+  "notAssigned": {
+    "message": "Nieprzypisane"
+  },
+  "notes": {
+    "message": "Notatki"
+  },
+  "notesAboutTheLinkOptional": {
+    "message": "Notatki o linku (opcjonalnie)"
+  },
+  "notesAboutTheSecondLinkOptional": {
+    "message": "Notatki o drugim linku (opcjonalnie)"
+  },
+  "noTextHasBeenEntered": {
+    "message": "Nie wprowadzono tekstu"
+  },
+  "ok": {
+    "message": "OK"
+  },
+  "omniboxShortcutInfo": {
+    "message": "Aby przeszukiwać listę OneTab z dowolnej karty: przejdź do paska adresu przeglądarki, wpisz 11, potem spację, a następnie szukane słowo kluczowe. Aby wykonać zwykłe wyszukiwanie (poza OneTab) zaczynające się od 11, wpisz 11, potem spację, a potem naciśnij Backspace"
+  },
+  "OneTabAlsoAvailableForFirefox": {
+    "message": "OneTab jest też dostępny dla Firefoksa"
+  },
+  "oneTabDesignedToProtectPrivacy": {
+    "message": "OneTab zaprojektowano z myślą o ochronie prywatności. Twoje karty nie są nam ujawniane."
+  },
+  "oneTabExportPageTitle": {
+    "message": "Eksport OneTab"
+  },
+  "oneTabFolderSlashShortcutInfo": {
+    "message": "Przejście do pola wyszukiwania z ograniczeniem do bieżącego folderu"
+  },
+  "oneTabImportExportPageTitle": {
+    "message": "OneTab — import/eksport"
+  },
+  "oneTabNeedsPermissionToAccessYourTabs": {
+    "message": "OneTab potrzebuje uprawnień dostępu do twoich kart."
+  },
+  "oneTabOptionsPageTitle": {
+    "message": "Opcje OneTab"
+  },
+  "oneTabPermissionRequired": {
+    "message": "OneTab — wymagane uprawnienie"
+  },
+  "oneTabRestartRequired": {
+    "message": "OneTab musi się uruchomić ponownie. Żadne inne karty nie zostaną zamknięte."
+  },
+  "oneTabSlashShortcutInfo": {
+    "message": "Przejście do pola wyszukiwania"
+  },
+  "open": {
+    "message": "Otwórz"
+  },
+  "openActionPopup": {
+    "message": "Akcja OneTab (odpowiednik kliknięcia ikony OneTab na pasku narzędzi)"
+  },
+  "openAsCollapsedTabGroup": {
+    "message": "Otwórz jako „zwiniętą” grupę kart"
+  },
+  "openAsCollapsedTabGroupMenuItemHelp": {
+    "message": "Jeśli otworzysz te karty jako „zwiniętą grupę kart”, do czasu kliknięcia będzie widoczna tylko etykieta grupy, a karty w środku zostaną pokazane dopiero potem."
+  },
+  "openAsPinnedTab": {
+    "message": "Przypnij kartę po otwarciu"
+  },
+  "openAsPinnedTabMenuItemHelp": {
+    "message": "Gdy ta karta zostanie przywrócona, przywróć ją jako przypiętą kartę przeglądarki. Przypięte karty zawsze będą wyświetlane jako pierwsze w oknie przeglądarki."
+  },
+  "openAsTabGroup": {
+    "message": "Otwórz jako grupę kart"
+  },
+  "openAsTabGroupMenuItemHelp": {
+    "message": "Twoja przeglądarka pozwala grupować karty w kolorowe „grupy kart” w obrębie okna."
+  },
+  "openFolder": {
+    "message": "Otwórz folder"
+  },
+  "openGroupsLimitNotice_few": {
+    "message": "Aby zapobiec przeciążeniu przeglądarki, zostaną otwarte tylko pierwsze {COUNT} grupy."
+  },
+  "openGroupsLimitNotice_many": {
+    "message": "Aby zapobiec przeciążeniu przeglądarki, zostanie otwartych tylko pierwszych {COUNT} grup."
+  },
+  "openGroupsLimitNotice_one": {
+    "message": "Aby zapobiec przeciążeniu przeglądarki, zostanie otwarta tylko {COUNT}. grupa."
+  },
+  "openGroupsLimitNotice_other": {
+    "message": "Aby zapobiec przeciążeniu przeglądarki, zostanie otwartych tylko pierwszych {COUNT} grup."
+  },
+  "openGroupsLimitNotice_two": {
+    "message": "Aby zapobiec przeciążeniu przeglądarki, zostaną otwarte tylko pierwsze {COUNT} grupy."
+  },
+  "openGroupsLimitNotice_zero": {
+    "message": "Aby zapobiec przeciążeniu przeglądarki, zostanie otwartych tylko pierwszych {COUNT} grup."
+  },
+  "openInIncognitoWindow": {
+    "message": "Przywróć w nowym oknie incognito"
+  },
+  "openInNewWindow": {
+    "message": "Przywróć w nowym oknie"
+  },
+  "openInThisWindow": {
+    "message": "Przywróć w tym oknie"
+  },
+  "openOneTab": {
+    "message": "Otwórz OneTab"
+  },
+  "openOneTabAfter": {
+    "message": "Otwórz OneTab po zapisaniu kart"
+  },
+  "openONETABLogo": {
+    "message": "Otwórz ONETAB"
+  },
+  "openParentFolder": {
+    "message": "Otwórz folder nadrzędny"
+  },
+  "openTabFromWebsite": {
+    "message": "Otwórz kartę i przejdź do tej witryny"
+  },
+  "openTabLimit_few": {
+    "message": "Aby zapobiec przeciążeniu przeglądarki, jednocześnie można otworzyć maksymalnie {COUNT} karty."
+  },
+  "openTabLimit_many": {
+    "message": "Aby zapobiec przeciążeniu przeglądarki, jednocześnie można otworzyć maksymalnie {COUNT} kart."
+  },
+  "openTabLimit_one": {
+    "message": "Aby zapobiec przeciążeniu przeglądarki, jednocześnie można otworzyć maksymalnie {COUNT} kartę."
+  },
+  "openTabLimit_other": {
+    "message": "Aby zapobiec przeciążeniu przeglądarki, jednocześnie można otworzyć maksymalnie {COUNT} kart."
+  },
+  "openTabLimit_two": {
+    "message": "Aby zapobiec przeciążeniu przeglądarki, jednocześnie można otworzyć maksymalnie {COUNT} karty."
+  },
+  "openTabLimit_zero": {
+    "message": "Aby zapobiec przeciążeniu przeglądarki, jednocześnie można otworzyć maksymalnie {COUNT} kart."
+  },
+  "openTabsAlreadyStoredHere_few": {
+    "message": "{COUNT} otwarte karty już tutaj zapisane:"
+  },
+  "openTabsAlreadyStoredHere_many": {
+    "message": "{COUNT} otwartych kart już tutaj zapisanych:"
+  },
+  "openTabsAlreadyStoredHere_one": {
+    "message": "{COUNT} otwarta karta już tutaj zapisana:"
+  },
+  "openTabsAlreadyStoredHere_other": {
+    "message": "{COUNT} otwartych kart już tutaj zapisanych:"
+  },
+  "openTabsAlreadyStoredHere_two": {
+    "message": "{COUNT} otwarte karty już tutaj zapisane:"
+  },
+  "openTabsAlreadyStoredHere_zero": {
+    "message": "{COUNT} otwartych kart już tutaj zapisanych:"
+  },
+  "openTabsConfirm_few": {
+    "message": "Za chwilę zostaną otwarte {COUNT} karty. Czy na pewno?"
+  },
+  "openTabsConfirm_many": {
+    "message": "Za chwilę zostanie otwartych {COUNT} kart. Czy na pewno?"
+  },
+  "openTabsConfirm_one": {
+    "message": "Za chwilę zostanie otwarta {COUNT} karta. Czy na pewno?"
+  },
+  "openTabsConfirm_other": {
+    "message": "Za chwilę zostanie otwartych {COUNT} kart. Czy na pewno?"
+  },
+  "openTabsConfirm_two": {
+    "message": "Za chwilę zostaną otwarte {COUNT} karty. Czy na pewno?"
+  },
+  "openTabsConfirm_zero": {
+    "message": "Za chwilę zostanie otwartych {COUNT} kart. Czy na pewno?"
+  },
+  "openTabsNotStoredInOneTab_few": {
+    "message": "{COUNT} otwarte karty niezapisane w OneTab"
+  },
+  "openTabsNotStoredInOneTab_many": {
+    "message": "{COUNT} otwartych kart niezapisanych w OneTab"
+  },
+  "openTabsNotStoredInOneTab_one": {
+    "message": "{COUNT} otwarta karta niezapisana w OneTab"
+  },
+  "openTabsNotStoredInOneTab_other": {
+    "message": "{COUNT} otwartych kart niezapisanych w OneTab"
+  },
+  "openTabsNotStoredInOneTab_two": {
+    "message": "{COUNT} otwarte karty niezapisane w OneTab"
+  },
+  "openTabsNotStoredInOneTab_zero": {
+    "message": "{COUNT} otwartych kart niezapisanych w OneTab"
+  },
+  "optionAutoActionOnOpenArchiveDesc": {
+    "message": "Oznaczenie kart jako zarchiwizowanych nadaje im szare, pasiaste tło. To wizualnie wskazuje, że karty zostały przeczytane lub nie są już potrzebne."
+  },
+  "optionAutoActionOnOpenArchiveTitle": {
+    "message": "Oznacz je jako zarchiwizowane"
+  },
+  "optionAutoActionOnOpenHeading": {
+    "message": "Podczas przywracania kart:"
+  },
+  "optionAutoActionOnOpenNote": {
+    "message": "Zablokowane grupy zawsze zachowują swoje karty"
+  },
+  "optionAutoActionOnOpenOpenDesc": {
+    "message": "Aby oznaczyć karty jako zarchiwizowane podczas ich przywracania, przytrzymaj klawisz Alt lub Option"
+  },
+  "optionAutoActionOnOpenOpenTitle": {
+    "message": "Zachowaj je na liście"
+  },
+  "optionAutoActionOnOpenTrashDesc": {
+    "message": "Aby zachować karty na liście podczas ich przywracania, przytrzymaj klawisz Ctrl lub Cmd"
+  },
+  "optionAutoActionOnOpenTrashTitle": {
+    "message": "Usuń je z listy"
+  },
+  "optionBrowserActionHeading": {
+    "message": "Po kliknięciu ikony OneTab na pasku narzędzi przeglądarki:"
+  },
+  "optionBrowserActionOpenPopupDesc": {
+    "message": "Wyskakujące okienko pokaże listę otwartych kart i pozwoli wybrać dokładnie te, które chcesz wysłać do OneTab. Umożliwi też ustawienie tytułu zapisywanej grupy, aby nie trzeba było robić tego później na stronie OneTab. Zapewni również łatwy dostęp do szybkiej listy z dowolnego okna przeglądarki."
+  },
+  "optionBrowserActionOpenPopupDesc2": {
+    "message": "Wybierz dokładnie, które karty zapisać"
+  },
+  "optionBrowserActionOpenPopupTitle": {
+    "message": "Pokaż wyskakujące okienko OneTab"
+  },
+  "optionBrowserActionSendCurrentTabDesc": {
+    "message": "Karta zostanie umieszczona w pierwszej grupie na stronie OneTab (z pominięciem grup przypiętych lub zablokowanych)"
+  },
+  "optionBrowserActionSendCurrentTabTitle": {
+    "message": "Wyślij tylko bieżącą kartę do OneTab"
+  },
+  "optionBrowserActionSendTabsInWindowDesc": {
+    "message": "Twoje karty zostaną zamknięte i zapisane na liście OneTab. Jeśli zaznaczysz wiele kart na pasku kart przeglądarki (używając klawisza Cmd, Ctrl lub Shift), do OneTab zostaną wysłane tylko zaznaczone karty. Jeśli używasz funkcji grup kart w przeglądarce, do OneTab zostanie wysłana tylko bieżąca grupa kart."
+  },
+  "optionBrowserActionSendTabsInWindowDesc2": {
+    "message": "Najszybszy sposób zapisywania kart"
+  },
+  "optionBrowserActionSendTabsInWindowTitle": {
+    "message": "Wyślij karty z bieżącego okna do OneTab"
+  },
+  "optionBrowserActionSendWholeWindowDesc": {
+    "message": "Tak samo jak powyżej, ale zostanie zapisane całe okno, a nie tylko bieżąca grupa kart"
+  },
+  "optionBrowserActionSendWholeWindowTitle": {
+    "message": "Wyślij bieżące okno do OneTab, w tym wszystkie karty i grupy kart"
+  },
+  "optionCopyToClipboardFormatHeading": {
+    "message": "Kopiowanie linków do schowka:"
+  },
+  "optionCopyToClipboardFormatMarkdownTitle": {
+    "message": "Markdown"
+  },
+  "optionCopyToClipboardFormatNote": {
+    "message": "To ustawienie dotyczy akcji „Kopiuj do schowka”. Możesz też przeciągać karty i grupy bezpośrednio z OneTab do dokumentu."
+  },
+  "optionCopyToClipboardFormatRichTextDesc": {
+    "message": "Aplikacje, takie jak edytory tekstu, pozwalają wklejać sformatowany tekst. Jeśli nie jest obsługiwany, zostanie wklejony zwykły tekst."
+  },
+  "optionCopyToClipboardFormatRichTextTitle": {
+    "message": "Sformatowany tekst (gdy dostępny)"
+  },
+  "optionCopyToClipboardFormatTitleUrlTitle": {
+    "message": "Tytuł i URL"
+  },
+  "optionCopyToClipboardFormatUrlOnlyTitle": {
+    "message": "Tylko URL"
+  },
+  "optionCopyToClipboardFormatUrlTitleTitle": {
+    "message": "URL i tytuł"
+  },
+  "optionDefaultTabGroupOpenTypeCurrentWindow": {
+    "message": "Otwórz grupę kart w bieżącym oknie"
+  },
+  "optionDefaultTabGroupOpenTypeHeading": {
+    "message": "Gdy otwierasz grupę skonfigurowaną do otwierania jako „grupa kart”:"
+  },
+  "optionDefaultTabGroupOpenTypeNewWindow": {
+    "message": "Otwórz grupę kart w nowym oknie"
+  },
+  "optionDefaultTabGroupOpenTypeNote": {
+    "message": "Jeśli z listy wybierzesz określoną opcję (np. otwieranie kart w oknie incognito), zostanie ona zapamiętana dla tej konkretnej grupy."
+  },
+  "optionDefaultWindowGroupOpenTypeCurrentWindow": {
+    "message": "Otwórz karty w bieżącym oknie"
+  },
+  "optionDefaultWindowGroupOpenTypeHeading": {
+    "message": "Podczas przywracania grupy:"
+  },
+  "optionDefaultWindowGroupOpenTypeNewWindow": {
+    "message": "Otwórz karty w nowym oknie, chyba że OneTab jest jedyną kartą w bieżącym oknie"
+  },
+  "optionDefaultWindowGroupOpenTypeNewWindowAlways": {
+    "message": "Otwórz karty w nowym oknie"
+  },
+  "optionDefaultWindowGroupOpenTypeNote": {
+    "message": "Opcje przywracania wybrane w menu „Więcej…” grupy są zapamiętywane dla tej grupy."
+  },
+  "optionDiscardNonActiveTabOnOpenHeading": {
+    "message": "Oszczędzaj pamięć (RAM) natychmiast przy pierwszym otwarciu kart:"
+  },
+  "optionDiscardNonActiveTabOnOpenNote": {
+    "message": "Jeśli to ustawienie jest włączone, karty otwierane po raz pierwszy z listy OneTab zostaną natychmiast zwolnione z pamięci. Jest to przydatne, jeśli często otwierasz naraz dziesiątki kart, ponieważ zapobiegnie ich wczytywaniu do pamięci, dopóki do nich nie przejdziesz. Jeśli to ustawienie jest wyłączone, wiele przeglądarek i tak automatycznie zdecyduje o zwolnieniu kart z pamięci, gdy aktualnie ich nie używasz."
+  },
+  "optionDisplayContextMenuHeading": {
+    "message": "Kliknij prawym przyciskiem na stronie, aby otworzyć menu kontekstowe OneTab:"
+  },
+  "optionDisplayContextMenuNote": {
+    "message": "Jeśli wyłączysz to menu, nie będzie można użyć funkcji „Wyklucz witrynę z OneTab”"
+  },
+  "optionDuplicatesAllow": {
+    "message": "Zezwalaj na duplikaty"
+  },
+  "optionDuplicatesReject": {
+    "message": "Odrzucaj duplikaty bez pytania"
+  },
+  "optionDuplicatesRejectDesc": {
+    "message": "Jeśli OneTab już zawiera tę kartę, nie zostanie ona dodana ponownie."
+  },
+  "optionDuplicatesTitle": {
+    "message": "Duplikaty:"
+  },
+  "optionGroupTitleClickActionEditTitle": {
+    "message": "Edytuj tytuł"
+  },
+  "optionGroupTitleClickActionHeading": {
+    "message": "Gdy klikniesz tytuł grupy lub folderu:"
+  },
+  "optionGroupTitleClickActionOpenDesc": {
+    "message": "Nadal możesz zmienić nazwę grupy w jej menu „Więcej…”."
+  },
+  "optionGroupTitleClickActionOpenTitle": {
+    "message": "Przywróć grupę lub otwórz folder"
+  },
+  "optionMoveOneTabToCurrentWindowOnOpenFalseTitle": {
+    "message": "Przełącz do okna, w którym karta OneTab jest już otwarta"
+  },
+  "optionMoveOneTabToCurrentWindowOnOpenHeading": {
+    "message": "Akcja „Otwórz OneTab”:"
+  },
+  "optionMoveOneTabToCurrentWindowOnOpenNote": {
+    "message": "Akcja „Otwórz OneTab”:"
+  },
+  "optionMoveOneTabToCurrentWindowOnOpenTrueTitle": {
+    "message": "Przenieś istniejącą kartę OneTab do bieżącego okna"
+  },
+  "optionPinnedTabsAllow": {
+    "message": "Zezwalaj na wysyłanie przypiętych kart do OneTab"
+  },
+  "optionPinnedTabsDontSend": {
+    "message": "Nie wysyłaj przypiętych kart do OneTab"
+  },
+  "optionPinnedTabsDontSendDesc": {
+    "message": "Nadal możesz ręcznie wysłać przypiętą kartę do OneTab: kliknij prawym przyciskiem na stronie, przejdź do menu OneTab, a następnie kliknij „Wyślij tylko tę kartę do OneTab”"
+  },
+  "optionPinnedTabsNote": {
+    "message": "Uwaga: karta staje się „przypięta”, gdy klikniesz ją prawym przyciskiem i wybierzesz „Przypnij”. Niektórzy przypinają witryny takie jak Facebook lub Gmail, aby łatwo je znaleźć. OneTab zapamięta, czy karta była przypięta, gdy ją przywrócisz."
+  },
+  "optionPinnedTabsTitle": {
+    "message": "Przypięte karty:"
+  },
+  "options": {
+    "message": "Opcje"
+  },
+  "optionStartupLaunchDisplay": {
+    "message": "Otwieraj OneTab automatycznie"
+  },
+  "optionStartupLaunchNone": {
+    "message": "Nie otwieraj OneTab automatycznie"
+  },
+  "optionStartupLaunchNoneDesc3": {
+    "message": "Aby otworzyć OneTab ręcznie, możesz kliknąć prawym przyciskiem na dowolnej stronie internetowej i kliknąć „Otwórz OneTab” w menu OneTab."
+  },
+  "optionStartupLaunchTitle": {
+    "message": "Przy uruchamianiu przeglądarki:"
+  },
+  "optionSwitchToOpenedTabFalseTitle": {
+    "message": "Otwórz kartę i pozostań w OneTab"
+  },
+  "optionSwitchToOpenedTabHeading": {
+    "message": "Podczas przywracania kart ze strony OneTab:"
+  },
+  "optionSwitchToOpenedTabNote": {
+    "message": "Jeśli podczas klikania przytrzymasz Shift, karta otworzy się w nowym oknie"
+  },
+  "optionSwitchToOpenedTabTrueTitle": {
+    "message": "Otwórz kartę i przełącz się na nią (chyba że przytrzymasz Command ⌘/Ctrl podczas klikania)"
+  },
+  "optionUpdateTitleOnDuplicateKeep": {
+    "message": "Zachowaj istniejący tytuł"
+  },
+  "optionUpdateTitleOnDuplicateKeepDesc": {
+    "message": "Możesz zmienić nazwę karty w OneTab, a własny tytuł zostanie zachowany."
+  },
+  "optionUpdateTitleOnDuplicateNote": {
+    "message": "Tytuły i notatki są wspólne dla wszystkich kopii tej samej karty."
+  },
+  "optionUpdateTitleOnDuplicateTitle": {
+    "message": "Podczas zapisywania karty, która jest już w OneTab:"
+  },
+  "optionUpdateTitleOnDuplicateUpdate": {
+    "message": "Użyj najnowszego tytułu"
+  },
+  "optionUpdateTitleOnDuplicateUpdateDesc": {
+    "message": "Zaktualizuj zapisany tytuł, aby pasował do właśnie wysłanej karty."
+  },
+  "optionUrlAbbr": {
+    "message": "Skrócony"
+  },
+  "optionUrlDisplayTitle": {
+    "message": "Wyświetlanie adresu URL:"
+  },
+  "optionUrlDomain": {
+    "message": "Tylko domena"
+  },
+  "optionUrlFull": {
+    "message": "Pełny"
+  },
+  "optionUrlNone": {
+    "message": "Brak"
+  },
+  "otherCopiesColon": {
+    "message": "Inne kopie:"
+  },
+  "pasteRichOrPlainTextBelow": {
+    "message": "Możesz wkleić poniżej tekst sformatowany lub zwykły."
+  },
+  "pendingTaskCount_few": {
+    "message": "{COUNT} oczekujące zadania"
+  },
+  "pendingTaskCount_many": {
+    "message": "{COUNT} oczekujących zadań"
+  },
+  "pendingTaskCount_one": {
+    "message": "{COUNT} oczekujące zadanie"
+  },
+  "pendingTaskCount_other": {
+    "message": "{COUNT} oczekujących zadań"
+  },
+  "pendingTaskCount_two": {
+    "message": "{COUNT} oczekujące zadania"
+  },
+  "pendingTaskCount_zero": {
+    "message": "{COUNT} oczekujących zadań"
+  },
+  "pendingTaskFlagHelp": {
+    "message": "Ten element jest zadaniem. Kliknij tę ikonę, aby oznaczyć je jako ukończone."
+  },
+  "permissionRequiredPleaseTryAgain": {
+    "message": "Aby utworzyć udostępnioną stronę dostępną z dowolnego komputera, wymagane jest zezwolenie na komunikację z serwerem OneTab. Spróbuj ponownie."
+  },
+  "pinnedTabs": {
+    "message": "przypięte karty"
+  },
+  "pinToTopOfFolder": {
+    "message": "Przypnij na górze folderu"
+  },
+  "pinToTopOfFolderMenuItemHelp": {
+    "message": "Przypnij tę grupę, aby zawsze była wyświetlana na górze folderu"
+  },
+  "pinToTopOfList": {
+    "message": "Przypnij na górze listy"
+  },
+  "placeholderAndOtherLocations_few": {
+    "message": "PLACEHOLDER i {COUNT} inne"
+  },
+  "placeholderAndOtherLocations_many": {
+    "message": "PLACEHOLDER i {COUNT} innych"
+  },
+  "placeholderAndOtherLocations_one": {
+    "message": "PLACEHOLDER i {COUNT} inna lokalizacja"
+  },
+  "placeholderAndOtherLocations_other": {
+    "message": "PLACEHOLDER i {COUNT} innych"
+  },
+  "placeholderAndOtherLocations_two": {
+    "message": "PLACEHOLDER i {COUNT} inne"
+  },
+  "placeholderAndOtherLocations_zero": {
+    "message": "PLACEHOLDER i {COUNT} innych"
+  },
+  "placeholderExplanation": {
+    "message": "Ze względu na zasady bezpieczeństwa przeglądarki OneTab nie może bezpośrednio przywrócić tej strony. Skopiuj adres URL i wklej go w pasku adresu przeglądarki."
+  },
+  "plainTextLineFormat": {
+    "message": "Jeśli wklejasz zwykły tekst, upewnij się, że każdy adres URL ma określony protokół (https://wikipedia.org, zamiast tylko wikipedia.org). Każda linia powinna mieć następujący format:"
+  },
+  "pleaseWaitTripleDot": {
+    "message": "Proszę czekać…"
+  },
+  "popupSlashShortcutInfo": {
+    "message": "Przy włączonym wyskakującym okienku OneTab: otwarcie wyboru miejsca docelowego i przejście do pola wyszukiwania"
+  },
+  "printUseSaveTabsAsHtmlFileAlertHtml": {
+    "message": "Aby uzyskać najlepsze wyniki drukowania, użyj opcji <b>Zapisz jako plik HTML</b> w menu <b>Więcej…</b> folderu, a następnie wydrukuj pobrany plik HTML."
+  },
+  "privacyAssurance": {
+    "message": "Ochrona prywatności"
+  },
+  "privacyAssuranceDetail": {
+    "message": "Twoja lista kart nigdy nie jest przesyłana ani ujawniana ani twórcom OneTab, ani żadnej innej stronie. Jedynym wyjątkiem jest świadome użycie funkcji „udostępnij jako stronę internetową”, która przesyła listę kart na stronę, aby móc ją udostępnić innym."
+  },
+  "privacyFirst": {
+    "message": "Prywatność przede wszystkim"
+  },
+  "privacyFirstMessage": {
+    "message": "OneTab zaprojektowano z myślą o ochronie twoich prywatnych danych. Twoje karty są przechowywane tylko na twoim komputerze i nigdy nie są udostępniane twórcom OneTab ani żadnej innej stronie.\nJeśli skorzystasz z naszej funkcji kopii zapasowej i synchronizacji, twoje dane będą szyfrowane metodą end-to-end z użyciem silnego szyfrowania AES-256. To uniemożliwia twórcom OneTab zobaczenie kart, których kopię zapasową utworzono lub które zsynchronizowano między urządzeniami, ponieważ tylko ty masz klucz szyfrowania. \nJedynym wyjątkiem jest sytuacja, gdy celowo zdecydujesz się udostępnić część kart innym osobom za pomocą naszej funkcji „Udostępnij jako stronę internetową”.\nWierzymy w zasadę: prywatność przede wszystkim."
+  },
+  "privateBrowsingPermissionRequired": {
+    "message": "OneTab potrzebuje uprawnienia do tworzenia okien prywatnych."
+  },
+  "privateBrowsingWindows": {
+    "message": "Okna prywatne"
+  },
+  "quickList": {
+    "message": "Szybka lista"
+  },
+  "readingList": {
+    "message": "Lista czytelnicza"
+  },
+  "readingListPermissionNecesssary": {
+    "message": "Uprawnienie do listy czytelniczej jest konieczne, aby OneTab mógł importować elementy z twojej listy czytelniczej. Jeśli ta funkcja nie działa, twoja przeglądarka może nie obsługiwać list czytelniczych."
+  },
+  "recent": {
+    "message": "Ostatnio używane"
+  },
+  "recentDestinationsColon": {
+    "message": "Ostatnie miejsca docelowe:"
+  },
+  "recentDuplicateRetainedHelp": {
+    "message": "Jeśli karta występuje więcej niż raz, zachowane zostanie tylko jej najnowsze wystąpienie"
+  },
+  "recentFolders": {
+    "message": "Ostatnie foldery"
+  },
+  "recentGroups": {
+    "message": "Ostatnie grupy"
+  },
+  "recentlyAccessed": {
+    "message": "Ostatnio używane"
+  },
+  "recentlyCreated": {
+    "message": "Ostatnio utworzone"
+  },
+  "recentlyModified": {
+    "message": "Ostatnio zmodyfikowane"
+  },
+  "reduceMemoryUsageBy95Pct": {
+    "message": "Zmniejsz użycie pamięci o 95%"
+  },
+  "removeDuplicates": {
+    "message": "Usuń duplikaty"
+  },
+  "removeDuplicatesMenuItemHelp": {
+    "message": "Będziesz mieć możliwość usunięcia duplikatów, które istnieją tutaj, ale nie gdzie indziej, lub gdzie indziej, ale nie tutaj."
+  },
+  "removeDuplicateTabsHere_few": {
+    "message": "Usuń {COUNT} zduplikowane karty tutaj"
+  },
+  "removeDuplicateTabsHere_many": {
+    "message": "Usuń {COUNT} zduplikowanych kart tutaj"
+  },
+  "removeDuplicateTabsHere_one": {
+    "message": "Usuń {COUNT} zduplikowaną kartę tutaj"
+  },
+  "removeDuplicateTabsHere_other": {
+    "message": "Usuń {COUNT} zduplikowanych kart tutaj"
+  },
+  "removeDuplicateTabsHere_two": {
+    "message": "Usuń {COUNT} zduplikowane karty tutaj"
+  },
+  "removeDuplicateTabsHere_zero": {
+    "message": "Usuń {COUNT} zduplikowanych kart tutaj"
+  },
+  "removeFromQuickList": {
+    "message": "Usuń z szybkiej listy"
+  },
+  "removeFromQuickListMenuItemHelp": {
+    "message": "Ten element nie zostanie przeniesiony do kosza — zostanie tylko usunięty z szybkiej listy."
+  },
+  "removeStar": {
+    "message": "Usuń gwiazdkę"
+  },
+  "removeTabsElsewhereAlsoHere_few": {
+    "message": "Usuń z innych lokalizacji {COUNT} karty, które istnieją też tutaj"
+  },
+  "removeTabsElsewhereAlsoHere_many": {
+    "message": "Usuń z innych lokalizacji {COUNT} kart, które istnieją też tutaj"
+  },
+  "removeTabsElsewhereAlsoHere_one": {
+    "message": "Usuń z innych lokalizacji {COUNT} kartę, która istnieje też tutaj"
+  },
+  "removeTabsElsewhereAlsoHere_other": {
+    "message": "Usuń z innych lokalizacji {COUNT} kart, które istnieją też tutaj"
+  },
+  "removeTabsElsewhereAlsoHere_two": {
+    "message": "Usuń z innych lokalizacji {COUNT} karty, które istnieją też tutaj"
+  },
+  "removeTabsElsewhereAlsoHere_zero": {
+    "message": "Usuń z innych lokalizacji {COUNT} kart, które istnieją też tutaj"
+  },
+  "removeTabsHereAlsoElsewhere_few": {
+    "message": "Usuń tutaj {COUNT} karty, które istnieją też gdzie indziej"
+  },
+  "removeTabsHereAlsoElsewhere_many": {
+    "message": "Usuń tutaj {COUNT} kart, które istnieją też gdzie indziej"
+  },
+  "removeTabsHereAlsoElsewhere_one": {
+    "message": "Usuń tutaj {COUNT} kartę, która istnieje też gdzie indziej"
+  },
+  "removeTabsHereAlsoElsewhere_other": {
+    "message": "Usuń tutaj {COUNT} kart, które istnieją też gdzie indziej"
+  },
+  "removeTabsHereAlsoElsewhere_two": {
+    "message": "Usuń tutaj {COUNT} karty, które istnieją też gdzie indziej"
+  },
+  "removeTabsHereAlsoElsewhere_zero": {
+    "message": "Usuń tutaj {COUNT} kart, które istnieją też gdzie indziej"
+  },
+  "rename": {
+    "message": "Zmień nazwę"
+  },
+  "renameOrAddNote": {
+    "message": "Zmień nazwę / Dodaj notatkę"
+  },
+  "restore": {
+    "message": "Przywróć"
+  },
+  "restoreAll": {
+    "message": "Przywróć wszystko"
+  },
+  "restrictSearchToFolderColon": {
+    "message": "Ogranicz wyszukiwanie do następującego folderu:"
+  },
+  "results": {
+    "message": "Wyniki"
+  },
+  "returnToOneTab": {
+    "message": "Wróć do OneTab"
+  },
+  "reverse": {
+    "message": "Odwrotna kolejność"
+  },
+  "rightClickAndOpenOneTabMenu": {
+    "message": "Kliknij prawym przyciskiem na stronie i przejdź do menu OneTab"
+  },
+  "rightClickMenuDisabledNote": {
+    "message": "Uwaga: menu kontekstowe OneTab jest wyłączone. Włącz je na stronie opcji OneTab."
+  },
+  "rightClickSelectionOptionsTip": {
+    "message": "Wskazówka: Po zaznaczeniu elementu kliknij prawym przyciskiem ikonę znacznika, aby zobaczyć więcej opcji zaznaczania"
+  },
+  "rightClickTickTip": {
+    "message": "Wskazówka: Kliknij prawym przyciskiem ikonę znacznika obok karty, aby wyświetlić narzędzia zaznaczania"
+  },
+  "safariApproveOneTabInSettings": {
+    "message": "Przejdź do Ustawień i zezwól OneTab na dostęp do wszystkich witryn."
+  },
+  "save95PctReduceTabClutterGoogleChrome": {
+    "message": "Zaoszczędź do 95% pamięci i uporządkuj karty w Google Chrome"
+  },
+  "saveChoice": {
+    "message": "Zapisz wybór"
+  },
+  "saveTabsAsHtmlFile": {
+    "message": "Zapisz jako plik HTML"
+  },
+  "saveTabsAsHtmlFileMenuItemHelp": {
+    "message": "Utwórz i pobierz plik HTML zawierający wszystkie grupy w tym folderze."
+  },
+  "searchHere": {
+    "message": "Szukaj tutaj"
+  },
+  "searchOneTab": {
+    "message": "Szukaj w OneTab"
+  },
+  "secondExampleLink": {
+    "message": "Drugi przykładowy link"
+  },
+  "secondExampleLinkTitle": {
+    "message": "Drugi przykładowy tytuł linku"
+  },
+  "secondExampleLinkTitleOptional": {
+    "message": "Drugi przykładowy tytuł linku (opcjonalnie)"
+  },
+  "seeOtherTabsInThisGroup_few": {
+    "message": "Zobacz {COUNT} inne karty w tej grupie"
+  },
+  "seeOtherTabsInThisGroup_many": {
+    "message": "Zobacz {COUNT} innych kart w tej grupie"
+  },
+  "seeOtherTabsInThisGroup_one": {
+    "message": "Zobacz {COUNT} inną kartę w tej grupie"
+  },
+  "seeOtherTabsInThisGroup_other": {
+    "message": "Zobacz {COUNT} innych kart w tej grupie"
+  },
+  "seeOtherTabsInThisGroup_two": {
+    "message": "Zobacz {COUNT} inne karty w tej grupie"
+  },
+  "seeOtherTabsInThisGroup_zero": {
+    "message": "Zobacz {COUNT} innych kart w tej grupie"
+  },
+  "seePasteInstructions": {
+    "message": "Zobacz instrukcje wklejania…"
+  },
+  "seeTabsInThisGroup_few": {
+    "message": "Zobacz {COUNT} karty w tej grupie"
+  },
+  "seeTabsInThisGroup_many": {
+    "message": "Zobacz {COUNT} kart w tej grupie"
+  },
+  "seeTabsInThisGroup_one": {
+    "message": "Zobacz {COUNT} kartę w tej grupie"
+  },
+  "seeTabsInThisGroup_other": {
+    "message": "Zobacz {COUNT} kart w tej grupie"
+  },
+  "seeTabsInThisGroup_two": {
+    "message": "Zobacz {COUNT} karty w tej grupie"
+  },
+  "seeTabsInThisGroup_zero": {
+    "message": "Zobacz {COUNT} kart w tej grupie"
+  },
+  "selectAll": {
+    "message": "Zaznacz wszystko"
+  },
+  "selectAllExceptThis": {
+    "message": "Zaznacz wszystko poza tym elementem"
+  },
+  "selectedItemCount_few": {
+    "message": "{COUNT} elementy"
+  },
+  "selectedItemCount_many": {
+    "message": "{COUNT} elementów"
+  },
+  "selectedItemCount_one": {
+    "message": "{COUNT} element"
+  },
+  "selectedItemCount_other": {
+    "message": "{COUNT} elementów"
+  },
+  "selectedItemCount_two": {
+    "message": "{COUNT} elementy"
+  },
+  "selectedItemCount_zero": {
+    "message": "{COUNT} elementów"
+  },
+  "selection": {
+    "message": "Zaznaczenie"
+  },
+  "selectThisAndAbove": {
+    "message": "Zaznacz ten element i wszystkie powyżej"
+  },
+  "selectThisAndBelow": {
+    "message": "Zaznacz ten element i wszystkie poniżej"
+  },
+  "sendAllTabsAllWindows": {
+    "message": "Wyślij wszystkie karty ze wszystkich okien"
+  },
+  "sendAllTabsAllWindowsToOneTab": {
+    "message": "Wyślij wszystkie karty ze wszystkich okien do OneTab"
+  },
+  "sendAllTabsExceptThis": {
+    "message": "Wyślij wszystkie karty z wyjątkiem tej"
+  },
+  "sendAllTabsExceptThisToOneTab": {
+    "message": "Wyślij wszystkie karty z wyjątkiem tej do OneTab"
+  },
+  "sendAllTabsInGroup": {
+    "message": "Wyślij wszystkie karty z tej grupy kart"
+  },
+  "sendAllTabsInGroupToOneTab": {
+    "message": "Wyślij wszystkie karty z tej grupy kart do OneTab"
+  },
+  "sendAllTabsInWindow": {
+    "message": "Wyślij wszystkie karty z tego okna"
+  },
+  "sendAllTabsInWindowToOneTab": {
+    "message": "Wyślij wszystkie karty z tego okna do OneTab"
+  },
+  "sendCurrentTabToOneTab": {
+    "message": "Wyślij bieżącą kartę do OneTab"
+  },
+  "sendLeftTabs": {
+    "message": "Wyślij karty po lewej"
+  },
+  "sendLeftTabsToOneTab": {
+    "message": "Wyślij karty po lewej do OneTab"
+  },
+  "sendOnlyThisTab": {
+    "message": "Wyślij tylko tę kartę"
+  },
+  "sendOnlyThisTabToOneTab": {
+    "message": "Wyślij tylko tę kartę do OneTab"
+  },
+  "sendRightTabs": {
+    "message": "Wyślij karty po prawej"
+  },
+  "sendRightTabsToOneTab": {
+    "message": "Wyślij karty po prawej do OneTab"
+  },
+  "sendSelectedTabs": {
+    "message": "Wyślij wybrane karty"
+  },
+  "sendSelectedTabsToOneTab": {
+    "message": "Wyślij wybrane karty do OneTab"
+  },
+  "sendThisWebLink": {
+    "message": "Wyślij ten link"
+  },
+  "sendThisWebLinkToOneTab": {
+    "message": "Wyślij ten link do OneTab"
+  },
+  "serverUnreachable": {
+    "message": "Serwer jest nieosiągalny. Sprawdź połączenie internetowe."
+  },
+  "share": {
+    "message": "Udostępnij"
+  },
+  "shareAsAWebPage": {
+    "message": "Udostępnij jako stronę internetową"
+  },
+  "shareAsAWebPageMenuItemHelp": {
+    "message": "Tworzy stronę internetową zawierającą Twoje karty, aby móc udostępnić ją innym prywatnie lub publicznie."
+  },
+  "shared": {
+    "message": "Udostępnione"
+  },
+  "sharedExpiresColon": {
+    "message": "Udostępniono jako stronę internetową. Wygasa:"
+  },
+  "sharedPageOptions": {
+    "message": "Opcje udostępnionej strony"
+  },
+  "sharedPageTabLimit_few": {
+    "message": "Udostępnione strony są ograniczone do {COUNT} kart"
+  },
+  "sharedPageTabLimit_many": {
+    "message": "Udostępnione strony są ograniczone do {COUNT} kart"
+  },
+  "sharedPageTabLimit_one": {
+    "message": "Udostępnione strony są ograniczone do {COUNT} karty"
+  },
+  "sharedPageTabLimit_other": {
+    "message": "Udostępnione strony są ograniczone do {COUNT} kart"
+  },
+  "sharedPageTabLimit_two": {
+    "message": "Udostępnione strony są ograniczone do {COUNT} kart"
+  },
+  "sharedPageTabLimit_zero": {
+    "message": "Udostępnione strony są ograniczone do {COUNT} kart"
+  },
+  "sharedPageWillAutomaticallyExpire": {
+    "message": "Udostępniona strona wygaśnie automatycznie, ale możesz w każdej chwili przedłużyć datę wygaśnięcia."
+  },
+  "showEverything": {
+    "message": "Pokaż wszystko"
+  },
+  "showFoldersOnly": {
+    "message": "Pokaż tylko foldery"
+  },
+  "showNamedItemsOnly": {
+    "message": "Pokaż tylko nazwane elementy"
+  },
+  "showNamedOnly": {
+    "message": "Pokaż tylko nazwane elementy"
+  },
+  "showNextCount_few": {
+    "message": "Następne {COUNT}"
+  },
+  "showNextCount_many": {
+    "message": "Następne {COUNT}"
+  },
+  "showNextCount_one": {
+    "message": "Pokaż następny element ({COUNT})"
+  },
+  "showNextCount_other": {
+    "message": "Następne {COUNT}"
+  },
+  "showNextCount_two": {
+    "message": "Następne {COUNT}"
+  },
+  "showNextCount_zero": {
+    "message": "Następne {COUNT}"
+  },
+  "showPreviousCount_few": {
+    "message": "Poprzednie {COUNT}"
+  },
+  "showPreviousCount_many": {
+    "message": "Poprzednie {COUNT}"
+  },
+  "showPreviousCount_one": {
+    "message": "Pokaż poprzedni element ({COUNT})"
+  },
+  "showPreviousCount_other": {
+    "message": "Poprzednie {COUNT}"
+  },
+  "showPreviousCount_two": {
+    "message": "Poprzednie {COUNT}"
+  },
+  "showPreviousCount_zero": {
+    "message": "Poprzednie {COUNT}"
+  },
+  "soon": {
+    "message": "wkrótce"
+  },
+  "sort": {
+    "message": "Sortowanie"
+  },
+  "sortByColon": {
+    "message": "Sortuj według:"
+  },
+  "sortGroups": {
+    "message": "Sortuj grupy"
+  },
+  "sortGroupsMenuFooterNote": {
+    "message": "Ta opcja sortuje grupy w tym folderze. Nie sortuje kart w tych grupach."
+  },
+  "sourceColon": {
+    "message": "Źródło:"
+  },
+  "star": {
+    "message": "Gwiazdka"
+  },
+  "starFlagHelp": {
+    "message": "Ten element jest oznaczony gwiazdką, aby wizualnie wskazać jego ważność. Kliknij tę ikonę, aby usunąć gwiazdkę."
+  },
+  "starMenuItemHelp": {
+    "message": "Użyj gwiazdki jako wizualnego wskaźnika, że coś jest ważne"
+  },
+  "starred": {
+    "message": "Oznaczone gwiazdką"
+  },
+  "storeAllOpenWindowsHere": {
+    "message": "Zapisz tutaj wszystkie otwarte okna"
+  },
+  "storeAllOpenWindowsHereMenuItemHelp": {
+    "message": "Zamknij wszystkie otwarte okna przeglądarki i zapisz je w tym folderze"
+  },
+  "storeSelectedTabsInONETAB_few": {
+    "message": "Zapisz {COUNT} wybrane karty w ONETAB"
+  },
+  "storeSelectedTabsInONETAB_many": {
+    "message": "Zapisz {COUNT} wybranych kart w ONETAB"
+  },
+  "storeSelectedTabsInONETAB_one": {
+    "message": "Zapisz {COUNT} wybraną kartę w ONETAB"
+  },
+  "storeSelectedTabsInONETAB_other": {
+    "message": "Zapisz {COUNT} wybranych kart w ONETAB"
+  },
+  "storeSelectedTabsInONETAB_two": {
+    "message": "Zapisz {COUNT} wybrane karty w ONETAB"
+  },
+  "storeSelectedTabsInONETAB_zero": {
+    "message": "Zapisz {COUNT} wybranych kart w ONETAB"
+  },
+  "storeTabsInAdditionalLocation_few": {
+    "message": "Zapisz karty ponownie mimo to"
+  },
+  "storeTabsInAdditionalLocation_many": {
+    "message": "Zapisz karty ponownie mimo to"
+  },
+  "storeTabsInAdditionalLocation_one": {
+    "message": "Zapisz kartę ponownie mimo to"
+  },
+  "storeTabsInAdditionalLocation_other": {
+    "message": "Zapisz karty ponownie mimo to"
+  },
+  "storeTabsInAdditionalLocation_two": {
+    "message": "Zapisz karty ponownie mimo to"
+  },
+  "storeTabsInAdditionalLocation_zero": {
+    "message": "Zapisz karty ponownie mimo to"
+  },
+  "storeTabsInONETAB_few": {
+    "message": "Zapisz karty w ONETAB"
+  },
+  "storeTabsInONETAB_many": {
+    "message": "Zapisz karty w ONETAB"
+  },
+  "storeTabsInONETAB_one": {
+    "message": "Zapisz kartę w ONETAB"
+  },
+  "storeTabsInONETAB_other": {
+    "message": "Zapisz karty w ONETAB"
+  },
+  "storeTabsInONETAB_two": {
+    "message": "Zapisz karty w ONETAB"
+  },
+  "storeTabsInONETAB_zero": {
+    "message": "Zapisz karty w ONETAB"
+  },
+  "subFoldersNotShared": {
+    "message": "Uwaga: podfoldery nie są udostępniane. Udostępniane są tylko grupy bezpośrednio w folderze."
+  },
+  "tab": {
+    "message": "karta"
+  },
+  "tabAlreadyStoredHere": {
+    "message": "Twoja otwarta karta jest już tutaj zapisana:"
+  },
+  "tabCaretTooltipTitleNotes": {
+    "message": "Edytuj tytuł i notatki karty"
+  },
+  "tabCaretTooltipTitleNotesUrl": {
+    "message": "Edytuj tytuł, adres URL i notatki karty"
+  },
+  "tabCount_few": {
+    "message": "{COUNT} karty"
+  },
+  "tabCount_many": {
+    "message": "{COUNT} kart"
+  },
+  "tabCount_one": {
+    "message": "{COUNT} karta"
+  },
+  "tabCount_other": {
+    "message": "{COUNT} kart"
+  },
+  "tabCount_two": {
+    "message": "{COUNT} karty"
+  },
+  "tabCount_zero": {
+    "message": "{COUNT} kart"
+  },
+  "tabGroupColorColon": {
+    "message": "Kolor grupy kart:"
+  },
+  "tabGroupIndicatorTooltipHelp": {
+    "message": "Ta grupa jest skonfigurowana do otwierania jako grupa kart. Możesz zmienić to ustawienie w menu „Więcej…”"
+  },
+  "tabPinFlagHelp": {
+    "message": "Ta karta zostanie przywrócona jako przypięta karta przeglądarki. Kliknij tę ikonę, aby ją odpiąć."
+  },
+  "tabs": {
+    "message": "Karty"
+  },
+  "tabsFromExcludedDomains": {
+    "message": "karty z wykluczonych domen"
+  },
+  "tabsInTabGroups": {
+    "message": "karty w grupach kart"
+  },
+  "tabTotalCount_few": {
+    "message": "Razem: {COUNT} karty"
+  },
+  "tabTotalCount_many": {
+    "message": "Razem: {COUNT} kart"
+  },
+  "tabTotalCount_one": {
+    "message": "Razem: {COUNT} karta"
+  },
+  "tabTotalCount_other": {
+    "message": "Razem: {COUNT} kart"
+  },
+  "tabTotalCount_two": {
+    "message": "Razem: {COUNT} karty"
+  },
+  "tabTotalCount_zero": {
+    "message": "Razem: {COUNT} kart"
+  },
+  "tasks": {
+    "message": "Zadania"
+  },
+  "tasksDone": {
+    "message": "Zadania (ukończone)"
+  },
+  "tasksPending": {
+    "message": "Zadania (w toku)"
+  },
+  "tasksWillAppearHere": {
+    "message": "Jeśli oznaczysz karty lub grupy jako zadania, pojawią się tutaj."
+  },
+  "taskTotalCount_few": {
+    "message": "{COUNT} zadania łącznie"
+  },
+  "taskTotalCount_many": {
+    "message": "{COUNT} zadań łącznie"
+  },
+  "taskTotalCount_one": {
+    "message": "{COUNT} zadanie łącznie"
+  },
+  "taskTotalCount_other": {
+    "message": "{COUNT} zadań łącznie"
+  },
+  "taskTotalCount_two": {
+    "message": "{COUNT} zadania łącznie"
+  },
+  "taskTotalCount_zero": {
+    "message": "{COUNT} zadań łącznie"
+  },
+  "themeQuickSwitchHint": {
+    "message": "Aby szybko przełączać motywy, przytrzymaj Ctrl lub Cmd podczas klikania ikony motywu"
+  },
+  "thenClickToolbarIcon": {
+    "message": "Następnie kliknij ponownie ikonę OneTab na pasku narzędzi, aby użyć OneTab."
+  },
+  "thisFolderIsEmpty": {
+    "message": "Ten folder jest pusty"
+  },
+  "thisTab": {
+    "message": "Ta karta"
+  },
+  "thisTabGroup": {
+    "message": "Ta grupa kart"
+  },
+  "thisTabNotStored": {
+    "message": "Ta karta nie jest zapisana w OneTab"
+  },
+  "thisWindow": {
+    "message": "To okno"
+  },
+  "tickOrUntickToExclude": {
+    "message": "Zaznacz lub odznacz, aby wykluczyć witrynę"
+  },
+  "title": {
+    "message": "Tytuł"
+  },
+  "toAddOrRemoveExclusions": {
+    "message": "Aby dodać lub usunąć witrynę z listy wykluczeń:"
+  },
+  "toAllowOneTabInIncognito": {
+    "message": "Aby ikona OneTab była widoczna w oknach incognito: "
+  },
+  "toImportBrowserBookmarksUseMenuOption": {
+    "message": "Aby zaimportować zakładki przeglądarki, użyj opcji menu „Importuj linki tutaj” na stronie OneTab"
+  },
+  "toMakeOpenButtonWorkApprovePermission": {
+    "message": "Aby przycisk \"Otwórz\" na udostępnionych stronach działał, zatwierdź prośbę o uprawnienie."
+  },
+  "tooManyTabsSpeedUpFirefox": {
+    "message": "Za dużo kart? Zamień karty na listę i przyspiesz Firefoksa"
+  },
+  "tooManyTabsSpeedUpSafari": {
+    "message": "Za dużo kart? Zamień karty na listę i przyspiesz Safari"
+  },
+  "toSaveChangesClickButton": {
+    "message": "Aby zapisać zmiany, kliknij przycisk"
+  },
+  "total0Tabs": {
+    "message": "Razem: 0 kart"
+  },
+  "trash": {
+    "message": "Kosz"
+  },
+  "unfoldGroup": {
+    "message": "Rozwiń grupę"
+  },
+  "unlock": {
+    "message": "Odblokuj"
+  },
+  "unmarkAsArchived": {
+    "message": "Cofnij archiwizację"
+  },
+  "unMarkAsTask": {
+    "message": "Cofnij oznaczenie jako zadanie"
+  },
+  "unpin": {
+    "message": "Odepnij"
+  },
+  "unshare": {
+    "message": "Cofnij udostępnianie"
+  },
+  "untitled": {
+    "message": "Bez tytułu"
+  },
+  "update": {
+    "message": "Zaktualizuj"
+  },
+  "userLanguage": {
+    "message": "Polski"
+  },
+  "website": {
+    "message": "Witryna"
+  },
+  "yearCount_few": {
+    "message": "{COUNT} lata"
+  },
+  "yearCount_many": {
+    "message": "{COUNT} lat"
+  },
+  "yearCount_one": {
+    "message": "{COUNT} rok"
+  },
+  "yearCount_other": {
+    "message": "{COUNT} lat"
+  },
+  "yearCount_two": {
+    "message": "{COUNT} lata"
+  },
+  "yearCount_zero": {
+    "message": "{COUNT} lat"
+  },
+  "yourTabAlreadyStoredHere": {
+    "message": "Twoja karta jest już tutaj zapisana:"
+  }
+}

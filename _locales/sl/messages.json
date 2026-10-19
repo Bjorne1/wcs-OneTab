@@ -1,0 +1,2330 @@
+{
+  "95PctMemoryReduction": {
+    "message": "95 % manjša poraba pomnilnika"
+  },
+  "about": {
+    "message": "O programu"
+  },
+  "actionPopupOverrideNote": {
+    "message": "To nastavitev je mogoče preglasiti v pojavnem oknu razširitve (če ste pojavno okno omogočili)."
+  },
+  "aDashZ": {
+    "message": "A–Ž"
+  },
+  "addOneTabNow": {
+    "message": "Dodaj OneTab zdaj"
+  },
+  "all": {
+    "message": "Vse"
+  },
+  "allBookmarks": {
+    "message": "Vsi zaznamki"
+  },
+  "allOpenTabsAlreadyStoredHere_few": {
+    "message": "Vsi odprti zavihki so že shranjeni na tem mestu:"
+  },
+  "allOpenTabsAlreadyStoredHere_many": {
+    "message": "Vsi odprti zavihki so že shranjeni na tem mestu:"
+  },
+  "allOpenTabsAlreadyStoredHere_one": {
+    "message": "Odprti zavihek je že shranjen na tem mestu:"
+  },
+  "allOpenTabsAlreadyStoredHere_other": {
+    "message": "Vsi odprti zavihki so že shranjeni na tem mestu:"
+  },
+  "allOpenTabsAlreadyStoredHere_two": {
+    "message": "Oba odprta zavihka sta že shranjena na tem mestu:"
+  },
+  "allOpenTabsAlreadyStoredHere_zero": {
+    "message": "Vsi odprti zavihki so že shranjeni na tem mestu:"
+  },
+  "allowFileAccessInstructions": {
+    "message": "Če želite dovoliti neposredno odpiranje datotek, odprite Nastavitve ➝ Razširitve ➝ OneTab ➝ Podrobnosti ➝ Dovoli dostop do URL-jev datotek"
+  },
+  "alreadyExistingOpenTabsWillBeClosedAfterMerge": {
+    "message": "Vsi odprti zavihki, ki že obstajajo v tej skupini, bodo po združitvi zaprti."
+  },
+  "alternatePlainTextFormat": {
+    "message": "Navadno besedilo je lahko tudi v obliki:"
+  },
+  "approve": {
+    "message": "Odobri"
+  },
+  "archived": {
+    "message": "Arhivirano"
+  },
+  "autoTheme": {
+    "message": "Samodejno (uporabi nastavitev operacijskega sistema)"
+  },
+  "backupAndSync": {
+    "message": "Varnostno kopiranje in sinhronizacija"
+  },
+  "betaReleaseReportBugsHere": {
+    "message": "Beta izdaja – prijavite napake tukaj"
+  },
+  "bookmarkCount_few": {
+    "message": "{COUNT} zaznamki"
+  },
+  "bookmarkCount_many": {
+    "message": "{COUNT} zaznamkov"
+  },
+  "bookmarkCount_one": {
+    "message": "{COUNT} zaznamek"
+  },
+  "bookmarkCount_other": {
+    "message": "{COUNT} zaznamkov"
+  },
+  "bookmarkCount_two": {
+    "message": "{COUNT} zaznamka"
+  },
+  "bookmarkCount_zero": {
+    "message": "{COUNT} zaznamkov"
+  },
+  "bookmarksPermissionNecesssary": {
+    "message": "Dovoljenje za zaznamke je potrebno, da lahko OneTab uvozi zaznamke brskalnika"
+  },
+  "bulkActions": {
+    "message": "Množična dejanja"
+  },
+  "cancel": {
+    "message": "Prekliči"
+  },
+  "canDragTextNote": {
+    "message": "Opomba: Besedilo, ki vsebuje spletne povezave, lahko tudi povlečete in spustite neposredno z druge spletne strani ali iz dokumenta. Besedilo lahko povlečete neposredno na stran OneTab, ne da bi morali uporabiti to uvozno polje."
+  },
+  "cannotConnectToServerDeletionRequestQueued": {
+    "message": "Povezava s strežnikom OneTab ni mogoča. Preverite internetno povezavo. Vaša zahteva za izbris strani v skupni rabi je bila lokalno postavljena v čakalno vrsto in bo samodejno poslana strežniku OneTab, takoj ko bo spet dosegljiv."
+  },
+  "cannotCreateTabGroupInTabGroup": {
+    "message": "Izbrani cilj je skupina zavihkov. Skupine zavihkov ne morete ustvariti znotraj obstoječe skupine zavihkov. Izberite drug cilj."
+  },
+  "cannotMixTabsGroupsFoldersDuringDrag": {
+    "message": "Pri vlečenju ni mogoče mešati zavihkov, skupin in map. Mape na primer ni mogoče povleči na ista mesta kot zavihek."
+  },
+  "cannotMoveItemAncestorHere": {
+    "message": "Nadrejenega elementa ni mogoče premakniti v njegov podrejeni element, ker bi to ustvarilo zanko."
+  },
+  "cannotMoveItemIntoItself": {
+    "message": "Elementa ni mogoče premakniti vase."
+  },
+  "canPasteWebContentForExample": {
+    "message": "Prilepite lahko besedilo, kopirano s spletne strani ali iz dokumenta, povezave pa bodo samodejno izvlečene. Primer:"
+  },
+  "caseSensitive": {
+    "message": "Razlikovanje velikih in malih črk"
+  },
+  "changesMadeSinceSharedPageCreation": {
+    "message": "Vaši shranjeni zavihki so se spremenili, odkar ste delili to stran. Kliknite gumb »Posodobi«, da posodobite obstoječo stran v skupni rabi."
+  },
+  "changeThisSettingAtAnyTimeInfo": {
+    "message": "To nastavitev lahko kadar koli spremenite tako, da kliknete gumb »Možnosti« na vrhu strani OneTab."
+  },
+  "changeThisSettingAtAnyTimeInfoHtml": {
+    "message": "To lahko pozneje spremenite v razdelku <b>Možnosti</b>."
+  },
+  "checkboxesDeterminePinnedAndGroupedTabMergeInclusion": {
+    "message": "Potrditvena polja na vrhu te strani določajo, ali so pripeti zavihki ali zavihki v skupinah zavihkov vključeni v združitev."
+  },
+  "chooseALocation": {
+    "message": "Izberite mesto"
+  },
+  "chooseALocationToImportTo": {
+    "message": "Izberite mesto za uvoz"
+  },
+  "chooseExportLocation": {
+    "message": "Izberite mesto, iz katerega želite izvoziti"
+  },
+  "chooseLightDarkTheme": {
+    "message": "Izberite svetlo/temno temo"
+  },
+  "chooseLocationToCopyTo": {
+    "message": "Izberite mesto, kamor želite kopirati"
+  },
+  "chooseLocationToMoveTo": {
+    "message": "Izberite mesto, kamor želite premakniti"
+  },
+  "chooseLocationToRestoreTo": {
+    "message": "Izberite mesto za obnovitev"
+  },
+  "chooseToIncludeNotes": {
+    "message": "Če ste zavihkom ali skupinam dodali opombe, izberite, ali jih želite vključiti v spletno stran v skupni rabi"
+  },
+  "chooseToIncludeRatings": {
+    "message": "Če ste zavihkom ali skupinam dodali zvezdice, izberite, ali jih želite vključiti v spletno stran v skupni rabi"
+  },
+  "chromeIncognitoInstructions": {
+    "message": "V nastavitvah brskalnika pojdite na »Nastavitve« → »Razširitve« → »OneTab« → »Podrobnosti« in nato omogočite »Dovoli v načinu brez beleženja zgodovine«."
+  },
+  "clickButtonToAllowTabAccess": {
+    "message": "Kliknite spodnji gumb, da aplikaciji OneTab dovolite dostop do odprtih zavihkov."
+  },
+  "clickHereToContinue": {
+    "message": "Kliknite tukaj za nadaljevanje."
+  },
+  "clickOneTabIconToStoreTabsHere": {
+    "message": "Kliknite ikono OneTab v orodni vrstici brskalnika, da tukaj shranite odprte zavihke."
+  },
+  "closeSelectedTabs_few": {
+    "message": "Zapri {COUNT} izbrane zavihke"
+  },
+  "closeSelectedTabs_many": {
+    "message": "Zapri {COUNT} izbranih zavihkov"
+  },
+  "closeSelectedTabs_one": {
+    "message": "Zapri {COUNT} izbrani zavihek"
+  },
+  "closeSelectedTabs_other": {
+    "message": "Zapri {COUNT} izbranih zavihkov"
+  },
+  "closeSelectedTabs_two": {
+    "message": "Zapri {COUNT} izbrana zavihka"
+  },
+  "closeSelectedTabs_zero": {
+    "message": "Zapri {COUNT} izbranih zavihkov"
+  },
+  "closeSelectedTabsAndStoreInONETAB_few": {
+    "message": "Zapri {COUNT} izbrane zavihke in jih shrani v ONETAB"
+  },
+  "closeSelectedTabsAndStoreInONETAB_many": {
+    "message": "Zapri {COUNT} izbranih zavihkov in jih shrani v ONETAB"
+  },
+  "closeSelectedTabsAndStoreInONETAB_one": {
+    "message": "Zapri {COUNT} izbrani zavihek in ga shrani v ONETAB"
+  },
+  "closeSelectedTabsAndStoreInONETAB_other": {
+    "message": "Zapri {COUNT} izbranih zavihkov in jih shrani v ONETAB"
+  },
+  "closeSelectedTabsAndStoreInONETAB_two": {
+    "message": "Zapri {COUNT} izbrana zavihka in ju shrani v ONETAB"
+  },
+  "closeSelectedTabsAndStoreInONETAB_zero": {
+    "message": "Zapri {COUNT} izbranih zavihkov in jih shrani v ONETAB"
+  },
+  "closeTabs_few": {
+    "message": "Zapri zavihke"
+  },
+  "closeTabs_many": {
+    "message": "Zapri zavihke"
+  },
+  "closeTabs_one": {
+    "message": "Zapri zavihek"
+  },
+  "closeTabs_other": {
+    "message": "Zapri zavihke"
+  },
+  "closeTabs_two": {
+    "message": "Zapri zavihka"
+  },
+  "closeTabs_zero": {
+    "message": "Zapri zavihke"
+  },
+  "closeTabsAfterMerge": {
+    "message": "Zapri zavihke po združitvi"
+  },
+  "closeTabsAlreadyStoredInOneTab_few": {
+    "message": "Zapri {COUNT} zavihke, že shranjene v OneTab"
+  },
+  "closeTabsAlreadyStoredInOneTab_many": {
+    "message": "Zapri {COUNT} zavihkov, že shranjenih v OneTab"
+  },
+  "closeTabsAlreadyStoredInOneTab_one": {
+    "message": "Zapri {COUNT} zavihek, že shranjen v OneTab"
+  },
+  "closeTabsAlreadyStoredInOneTab_other": {
+    "message": "Zapri {COUNT} zavihkov, že shranjenih v OneTab"
+  },
+  "closeTabsAlreadyStoredInOneTab_two": {
+    "message": "Zapri {COUNT} zavihka, že shranjena v OneTab"
+  },
+  "closeTabsAlreadyStoredInOneTab_zero": {
+    "message": "Zapri {COUNT} zavihkov, že shranjenih v OneTab"
+  },
+  "closeTabsAndStore_few": {
+    "message": "Zapri zavihke in jih shrani v ONETAB"
+  },
+  "closeTabsAndStore_many": {
+    "message": "Zapri zavihke in jih shrani v ONETAB"
+  },
+  "closeTabsAndStore_one": {
+    "message": "Zapri zavihek in ga shrani v ONETAB"
+  },
+  "closeTabsAndStore_other": {
+    "message": "Zapri zavihke in jih shrani v ONETAB"
+  },
+  "closeTabsAndStore_two": {
+    "message": "Zapri zavihka in ju shrani v ONETAB"
+  },
+  "closeTabsAndStore_zero": {
+    "message": "Zapri zavihke in jih shrani v ONETAB"
+  },
+  "closeTheseDuplicates_few": {
+    "message": "Zapri te podvojene zavihke"
+  },
+  "closeTheseDuplicates_many": {
+    "message": "Zapri te podvojene zavihke"
+  },
+  "closeTheseDuplicates_one": {
+    "message": "Zapri ta podvojeni zavihek"
+  },
+  "closeTheseDuplicates_other": {
+    "message": "Zapri te podvojene zavihke"
+  },
+  "closeTheseDuplicates_two": {
+    "message": "Zapri ta podvojena zavihka"
+  },
+  "closeTheseDuplicates_zero": {
+    "message": "Zapri te podvojene zavihke"
+  },
+  "completedTaskFlagHelp": {
+    "message": "Ta element je opravilo. Kliknite to ikono, da ga označite kot čakajoče (nedokončano)."
+  },
+  "completeEditingShortcutInfo": {
+    "message": "Dokončanje urejanja polja z opombami"
+  },
+  "configureShortcuts": {
+    "message": "Nastavite bližnjice"
+  },
+  "conflictingShortcutsHint": {
+    "message": "Če katera od zgornjih bližnjic na tipkovnici ne deluje ali je v sporu z drugimi aplikacijami, lahko nastavite drugo bližnjično tipko."
+  },
+  "continue": {
+    "message": "Nadaljuj"
+  },
+  "convertTabsIntoAList": {
+    "message": "Pretvori zavihke v seznam"
+  },
+  "copiedToClipboard": {
+    "message": "Kopirano v odložišče"
+  },
+  "copy": {
+    "message": "Kopiraj"
+  },
+  "copyLinksToClipboard": {
+    "message": "Kopiraj povezave v odložišče"
+  },
+  "copySharedPageUrl": {
+    "message": "Kopiraj URL strani v skupni rabi"
+  },
+  "copyToClipboard": {
+    "message": "Kopiraj v odložišče"
+  },
+  "copyToClipboardMenuItemHelp": {
+    "message": "Kopirajte te spletne povezave v odložišče, da jih boste lahko prilepili v druge aplikacije. Obliko besedila v odložišču lahko spremenite na strani z možnostmi OneTab."
+  },
+  "createANewGroupHere": {
+    "message": "Tukaj ustvarite novo skupino"
+  },
+  "createdOnDate": {
+    "message": "Ustvarjeno {DATE}"
+  },
+  "createdOnOrAfterColon": {
+    "message": "Ustvarjeno od:"
+  },
+  "createdOnOrBeforeColon": {
+    "message": "Ustvarjeno do:"
+  },
+  "createFolderAbove": {
+    "message": "Ustvari mapo zgoraj"
+  },
+  "createFolderAboveBelow": {
+    "message": "Ustvari mapo zgoraj / spodaj"
+  },
+  "createFolderAboveWithinBelow": {
+    "message": "Ustvari mapo zgoraj / znotraj / spodaj"
+  },
+  "createFolderBelow": {
+    "message": "Ustvari mapo spodaj"
+  },
+  "createFolderWithin": {
+    "message": "Ustvari mapo znotraj"
+  },
+  "createFolderWithinMenuItemHelp": {
+    "message": "Mape so namenjene organiziranju skupin. Mape vsebujejo skupine, skupine pa zavihke."
+  },
+  "createGroupAbove": {
+    "message": "Ustvari skupino zgoraj"
+  },
+  "createGroupAboveBelow": {
+    "message": "Ustvari skupino zgoraj / spodaj"
+  },
+  "createGroupAboveWithinBelow": {
+    "message": "Ustvari skupino zgoraj / znotraj / spodaj"
+  },
+  "createGroupBelow": {
+    "message": "Ustvari skupino spodaj"
+  },
+  "createGroupInsideDestination": {
+    "message": "Ustvari novo skupino znotraj cilja"
+  },
+  "createGroupInsideDestinationHelp": {
+    "message": "Če ni označeno, bodo vaši zavihki dodani neposredno v ciljno skupino. Če je označeno, bo znotraj ciljne skupine za vaše zavihke ustvarjena nova skupina zavihkov brskalnika. To polje označite samo, če želite uporabiti funkcijo »skupine zavihkov« v brskalniku."
+  },
+  "createGroupMenuItemHelp": {
+    "message": "Ustvarite novo prazno skupino. Skupina vsebuje seznam zavihkov, ki jih je mogoče skupaj obnoviti v okno."
+  },
+  "createGroupWithin": {
+    "message": "Ustvari skupino znotraj"
+  },
+  "createNewGroupTip": {
+    "message": "Če želite ustvariti novo skupino, najprej počistite možnost »Prikaži samo mape«. Tako boste lahko novo ustvarjeno skupino videli na seznamu."
+  },
+  "darkTheme": {
+    "message": "Temna tema"
+  },
+  "dayCount_few": {
+    "message": "{COUNT} dni"
+  },
+  "dayCount_many": {
+    "message": "{COUNT} dni"
+  },
+  "dayCount_one": {
+    "message": "{COUNT} dan"
+  },
+  "dayCount_other": {
+    "message": "{COUNT} dni"
+  },
+  "dayCount_two": {
+    "message": "{COUNT} dneva"
+  },
+  "dayCount_zero": {
+    "message": "{COUNT} dni"
+  },
+  "delete": {
+    "message": "Izbriši"
+  },
+  "deleteAllTrash": {
+    "message": "Izprazni koš"
+  },
+  "deleteThisCopy": {
+    "message": "Izbriši to kopijo"
+  },
+  "deselectAll": {
+    "message": "Počisti izbiro"
+  },
+  "destinationColon": {
+    "message": "Cilj:"
+  },
+  "disabled": {
+    "message": "Onemogočeno"
+  },
+  "doneTaskCount_few": {
+    "message": "{COUNT} dokončana"
+  },
+  "doneTaskCount_many": {
+    "message": "{COUNT} dokončanih"
+  },
+  "doneTaskCount_one": {
+    "message": "{COUNT} dokončano"
+  },
+  "doneTaskCount_other": {
+    "message": "{COUNT} dokončanih"
+  },
+  "doneTaskCount_two": {
+    "message": "{COUNT} dokončani"
+  },
+  "doneTaskCount_zero": {
+    "message": "{COUNT} dokončanih"
+  },
+  "dontCloseGroupedTabs": {
+    "message": "Ne zaprite nobenega zavihka v skupinah zavihkov"
+  },
+  "dontClosePinnedTabs": {
+    "message": "Ne zaprite nobenega pripetega zavihka"
+  },
+  "dontCloseTabsFromDomains": {
+    "message": "Ne zaprite nobenega zavihka z domene EXAMPLE.COM"
+  },
+  "dragCopyKeysHtml": {
+    "message": "<x-key>{CTRL}</x-key> ali <x-key>{ALT}</x-key>"
+  },
+  "dragCopyModifierInfo": {
+    "message": "Med vlečenjem zavihka pridržite tipko Ctrl ali Alt, da ustvarite njegovo kopijo, namesto da ga premaknete."
+  },
+  "dragTabsHereForQuickList": {
+    "message": "Sem povlecite shranjene zavihke ali skupine. Dodani bodo na vaš hitri seznam."
+  },
+  "editTabGroupTitleAndNotes": {
+    "message": "Uredi naslov in opombe skupine zavihkov"
+  },
+  "emojiShortcutInfo": {
+    "message": "Odpiranje izbirnika čustvenih simbolov pri urejanju polja z opombami"
+  },
+  "emptyInBrackets": {
+    "message": "(prazno)"
+  },
+  "emptyOneTabInfoMsg": {
+    "message": "Ko imate odprtih več zavihkov, kliknite ikono OneTab v orodni vrstici brskalnika in odprti zavihki bodo prikazani tukaj."
+  },
+  "enabled": {
+    "message": "Omogočeno"
+  },
+  "everything": {
+    "message": "Vse"
+  },
+  "exampleLink": {
+    "message": "Primer povezave"
+  },
+  "exampleLinkTitle": {
+    "message": "Primer naslova povezave"
+  },
+  "exampleLinkTitleOptional": {
+    "message": "Primer naslova povezave (izbirno)"
+  },
+  "exampleRichTextParagraph": {
+    "message": "Primer odstavka besedila s PLACEHOLDER in PLACEHOLDER"
+  },
+  "exampleWebsitePageTitle": {
+    "message": "Primer naslova strani spletnega mesta"
+  },
+  "excludeDomainFromOneTab": {
+    "message": "Izključi EXAMPLE.COM iz OneTab"
+  },
+  "excludeWebSiteFromOneTab": {
+    "message": "Izključi to spletno mesto iz OneTab"
+  },
+  "expiresColon": {
+    "message": "Poteče:"
+  },
+  "export": {
+    "message": "Izvozi"
+  },
+  "exportImportUrls": {
+    "message": "Izvoz/uvoz URL-jev"
+  },
+  "exportThenImportNote": {
+    "message": "Naslednji seznam URL-jev je mogoče uvoziti nazaj v OneTab na tem ali drugem računalniku"
+  },
+  "exportUrls": {
+    "message": "Izvozi URL-je"
+  },
+  "feedback": {
+    "message": "Povratne informacije"
+  },
+  "filter": {
+    "message": "Filter"
+  },
+  "firefoxIncognitoInstructions": {
+    "message": "V nastavitvah brskalnika pojdite na »Nastavitve« → »Razširitve in teme« → »Razširitve« → »OneTab« → »...« → »Upravljaj« in nato omogočite »Zaženi v zasebnih oknih«."
+  },
+  "firefoxIndexedDbUnavailable": {
+    "message": "OneTab ne more shranjevati ali pridobivati podatkov. Če ste Firefox nastavili tako, da nikoli ne shranjuje zgodovine, to preprečuje pravilno delovanje OneTab. V nasprotnem primeru nam pišite prek našega spletnega mesta in morda vam bomo lahko pomagali."
+  },
+  "firefoxShortcutConfigInstructions": {
+    "message": "V naslovno vrstico brskalnika vnesite URL »about:addons?type=extension«. Ko se stran prikaže, kliknite ikono zobnika in nato izberite »Upravljaj bližnjice razširitev«"
+  },
+  "Folder": {
+    "message": "Mapa"
+  },
+  "folderCount_few": {
+    "message": "{COUNT} mape"
+  },
+  "folderCount_many": {
+    "message": "{COUNT} map"
+  },
+  "folderCount_one": {
+    "message": "{COUNT} mapa"
+  },
+  "folderCount_other": {
+    "message": "{COUNT} map"
+  },
+  "folderCount_two": {
+    "message": "{COUNT} mapi"
+  },
+  "folderCount_zero": {
+    "message": "{COUNT} map"
+  },
+  "folders": {
+    "message": "Mape"
+  },
+  "foldersOnly": {
+    "message": "Samo mape"
+  },
+  "foldGroup": {
+    "message": "Strni skupino"
+  },
+  "gettingStarted": {
+    "message": "Prvi koraki"
+  },
+  "gotIt": {
+    "message": "Razumem"
+  },
+  "goToParentFolder": {
+    "message": "Pojdi v nadrejeno mapo"
+  },
+  "groupCount_few": {
+    "message": "{COUNT} skupine"
+  },
+  "groupCount_many": {
+    "message": "{COUNT} skupin"
+  },
+  "groupCount_one": {
+    "message": "{COUNT} skupina"
+  },
+  "groupCount_other": {
+    "message": "{COUNT} skupin"
+  },
+  "groupCount_two": {
+    "message": "{COUNT} skupini"
+  },
+  "groupCount_zero": {
+    "message": "{COUNT} skupin"
+  },
+  "groups": {
+    "message": "Skupine"
+  },
+  "hasNotes": {
+    "message": "Z opombami"
+  },
+  "help": {
+    "message": "Pomoč"
+  },
+  "hideArchivedItems": {
+    "message": "Skrij arhivirane elemente"
+  },
+  "import": {
+    "message": "Uvozi"
+  },
+  "importAndExport": {
+    "message": "Uvoz in izvoz"
+  },
+  "importBookmarks": {
+    "message": "Uvozi zaznamke"
+  },
+  "importedBookmarks": {
+    "message": "Uvoženi zaznamki"
+  },
+  "importExportShareMenuNoteHtml": {
+    "message": "Zavihke lahko izvozite tudi kot spletno stran za skupno rabo ali datoteko HTML z možnostma <b>Deli kot spletno stran</b> in <b>Shrani kot datoteko HTML</b> v meniju <b>Več…</b> za skupino ali mapo."
+  },
+  "importFolderAndSubfolders": {
+    "message": "Uvozi mapo in podmape"
+  },
+  "importLinksHere": {
+    "message": "Uvozi povezave sem"
+  },
+  "importLinksHereMenuItemHelp": {
+    "message": "Prilepite lahko seznam spletnih povezav ali uvozite zaznamke brskalnika."
+  },
+  "importNotesTruncatedNotice": {
+    "message": "Nekatere uvožene opombe so presegle omejitev {MAX} znakov, zato so bili njihovi konci odrezani."
+  },
+  "importReadingList": {
+    "message": "Uvozi bralni seznam"
+  },
+  "importText": {
+    "message": "Uvozi besedilo"
+  },
+  "importUrls": {
+    "message": "Uvozi URL-je"
+  },
+  "includeGroupedTabs": {
+    "message": "Vključite zavihke v skupinah zavihkov"
+  },
+  "includeNotes": {
+    "message": "Vključi opombe"
+  },
+  "includePinnedTabs": {
+    "message": "Vključi pripete zavihke"
+  },
+  "includeStarRatings": {
+    "message": "Vključi zvezdice"
+  },
+  "includeTabsAlreadyStored": {
+    "message": "Vključi zavihke, ki ste jih že shranili"
+  },
+  "includeTabsFromDomains": {
+    "message": "Vključi zavihke iz EXAMPLE.COM"
+  },
+  "incogitoPermissionRequired": {
+    "message": "OneTab potrebuje dovoljenje za ustvarjanje oken brez beleženja zgodovine."
+  },
+  "incognitoWindows": {
+    "message": "Okna brez beleženja zgodovine"
+  },
+  "invertSelection": {
+    "message": "Obrni izbiro"
+  },
+  "itemTextTruncatedNotice": {
+    "message": "Besedilo je preseglo omejitev (opombe lahko vsebujejo {NOTESMAX} znakov, naslovi pa {TITLEMAX}), zato je bil konec odrezan."
+  },
+  "justNow": {
+    "message": "pravkar"
+  },
+  "kbdNavBackspaceInfo": {
+    "message": "Prehod v nadrejeno mapo"
+  },
+  "kbdNavEnterInfo": {
+    "message": "Obnovitev zavihkov ali odpiranje mape"
+  },
+  "kbdNavEscInfo": {
+    "message": "Konec krmarjenja s tipkovnico"
+  },
+  "kbdNavFocusInfo": {
+    "message": "Premik fokusa s skupin na zavihke"
+  },
+  "kbdNavFoldInfo": {
+    "message": "Strnitev/razširitev skupine"
+  },
+  "kbdNavMoveInfo": {
+    "message": "Premikanje med elementi"
+  },
+  "kbdNavTabInfo": {
+    "message": "Začetek krmarjenja s tipkovnico"
+  },
+  "keyboardShortcutsColon": {
+    "message": "Bližnjice na tipkovnici:"
+  },
+  "languageTitle": {
+    "message": "Jezik:"
+  },
+  "licenseAlreadyHaveKey": {
+    "message": "Licenčni ključ že imam"
+  },
+  "licenseAlreadySetUpRestarting": {
+    "message": "Ta licenca je že nastavljena, zato bomo to napravo povezali z obstoječo nastavitvijo. Nova koda je bila poslana na evidentirani e-poštni naslov."
+  },
+  "licenseBackLink": {
+    "message": "Nazaj"
+  },
+  "licenseBrowserOnOs": {
+    "message": "{BROWSER} v sistemu {OS}"
+  },
+  "licenseBrowsersActiveOn": {
+    "message": "Aktiven {DATE}"
+  },
+  "licenseBrowsersActiveToday": {
+    "message": "Aktiven danes"
+  },
+  "licenseBrowsersAdded": {
+    "message": "Dodan {DATE}"
+  },
+  "licenseBrowsersThisBrowser": {
+    "message": "Ta brskalnik"
+  },
+  "licenseBrowserUnknown": {
+    "message": "Brskalnik"
+  },
+  "licenseChangeEmail": {
+    "message": "Sprememba e-poštnega naslova"
+  },
+  "licenseChangeEmailWebLink": {
+    "message": "Sprememba e-poštnega naslova"
+  },
+  "licenseChooseRecoveryTitle": {
+    "message": "Izberite način zaščite šifrirnega ključa"
+  },
+  "licenseCloseModal": {
+    "message": "Zaprite"
+  },
+  "licenseCodeExpired": {
+    "message": "Ta koda je potekla. Zahtevajte novo e-poštno sporočilo."
+  },
+  "licenseCodeIncorrectTriesRemaining": {
+    "message": "Napačna koda. Preostali poskusi: {COUNT}."
+  },
+  "licenseCodeInvalidFormat": {
+    "message": "Vnesite 6-mestno kodo iz e-poštnega sporočila."
+  },
+  "licenseCodePlaceholder": {
+    "message": "6-mestna koda"
+  },
+  "licenseCodeSentTo": {
+    "message": "Vnesite 6-mestno kodo, ki smo jo poslali na {EMAIL}."
+  },
+  "licenseCodeSourceDeviceOption": {
+    "message": "Pridobite kodo iz že povezanega brskalnika"
+  },
+  "licenseCodeSourceDeviceOptionDescription": {
+    "message": "Tam odprite Varnostno kopiranje in sinhronizacijo ter kliknite »Povežite drug brskalnik ali profil«."
+  },
+  "licenseCodeSourceEmailOption": {
+    "message": "Pošljite kodo na {EMAIL}"
+  },
+  "licenseCodeSourceTitle": {
+    "message": "Pridobitev kode za preverjanje"
+  },
+  "licenseCodeTriesExhausted": {
+    "message": "Za to kodo ni več poskusov. Zahtevajte novo e-poštno sporočilo."
+  },
+  "licenseConnectAnotherBrowser": {
+    "message": "Povežite drug brskalnik ali profil"
+  },
+  "licenseConnectedBrowsers": {
+    "message": "Povezani brskalniki"
+  },
+  "licenseDeviceAddConnected": {
+    "message": "{BROWSER} se je pravkar povezal z vašo licenco."
+  },
+  "licenseDeviceAddExpired": {
+    "message": "Ta koda je potekla."
+  },
+  "licenseDeviceAddExpiresIn": {
+    "message": "Poteče čez {TIME}"
+  },
+  "licenseDeviceAddGetNewCode": {
+    "message": "Pridobite novo kodo"
+  },
+  "licenseDeviceAddIntro": {
+    "message": "Če želite povezati drug brskalnik ali profil, tam vnesite licenčni ključ, nato pa ob pozivu še to kodo."
+  },
+  "licenseDeviceAddKeyReminder": {
+    "message": "Še vedno boste potrebovali licenčni ključ, ki tukaj ni prikazan. Najdete ga v e-poštnem sporočilu, s katerim ste ga prvotno prejeli, ali na strani za obračunavanje."
+  },
+  "licenseDeviceAddNeverShare": {
+    "message": "To kodo uporabite samo v svojem novem brskalniku. Nikoli je ne delite z nikomer – OneTab vas ne bo nikoli prosil zanjo. Deluje samo za licenco tega brskalnika."
+  },
+  "licenseDeviceCodeInsteadLink": {
+    "message": "Namesto tega pridobite kodo iz povezanega brskalnika"
+  },
+  "licenseDeviceCodePrompt": {
+    "message": "V brskalniku, ki je že povezan z vašo licenco, odprite Varnostno kopiranje in sinhronizacijo ter kliknite »Povežite drug brskalnik ali profil«. Vnesite tam prikazano 6-mestno kodo."
+  },
+  "licenseDeviceLimitReached": {
+    "message": "Ta licenca je dosegla omejitev števila naprav."
+  },
+  "licenseDoneButton": {
+    "message": "Končano"
+  },
+  "licenseEasyOptionDescription": {
+    "message": "Vaš šifrirni ključ je varno shranjen na strežniku, zato ga lahko obnovite prek e-pošte."
+  },
+  "licenseEasyOptionLabel": {
+    "message": "Preprosto"
+  },
+  "licenseEmailCodeInsteadLink": {
+    "message": "Namesto tega mi pošljite kodo po e-pošti"
+  },
+  "licenseEmailPlaceholder": {
+    "message": "E-poštni naslov"
+  },
+  "licenseEmailPrompt": {
+    "message": "Vaš e-poštni naslov"
+  },
+  "licenseForgotKeyBack": {
+    "message": "Nazaj na vnos licenčnega ključa"
+  },
+  "licenseForgotKeyEnterKeyButton": {
+    "message": "Vnesite licenčni ključ"
+  },
+  "licenseForgotKeyLink": {
+    "message": "Ste pozabili licenčni ključ?"
+  },
+  "licenseForgotKeyNoEmailOnRecord": {
+    "message": "S tem e-poštnim naslovom ni povezan noben licenčni ključ. Preverite, ali je v njem tipkarska napaka, ali poskusite drug naslov, ki ste ga morda uporabili."
+  },
+  "licenseForgotKeyPrompt": {
+    "message": "Vnesite e-poštni naslov. Če je povezan z licenčnim ključem, vam bomo ključ poslali nanj."
+  },
+  "licenseForgotKeySendButton": {
+    "message": "Pošljite"
+  },
+  "licenseForgotKeySentTo": {
+    "message": "Licenčni ključ smo poslali na {EMAIL}. Ko ga prejmete, ga lahko vnesete tukaj."
+  },
+  "licenseForgotKeyTooManyRequests": {
+    "message": "Vaš licenčni ključ je bil v zadnjem času že večkrat poslan na ta naslov. Preverite mapo z neželeno pošto ali poskusite znova jutri."
+  },
+  "licenseGenericError": {
+    "message": "Prišlo je do napake. Poskusite znova."
+  },
+  "licenseGoButton": {
+    "message": "Nadaljujte"
+  },
+  "licenseInvalidEmail": {
+    "message": "Vnesite veljaven e-poštni naslov."
+  },
+  "licenseKeyInvalidFormat": {
+    "message": "To ni videti kot veljaven licenčni ključ. Vsebovati mora 20 črk (A–F) in številk, na primer XXXX-XXXX-XXXX-XXXX-XXXX."
+  },
+  "licenseKeyNotFound": {
+    "message": "Licenčnega ključa ni mogoče najti. Preverite ga in poskusite znova."
+  },
+  "licenseNoLongerActiveError": {
+    "message": "Ta licenca ni več aktivna. Če menite, da gre za napako, se obrnite na podporo."
+  },
+  "licenseRateLimitedError": {
+    "message": "Iz vašega omrežja je bilo preveč neuspešnih poskusov. Počakajte nekaj časa in poskusite znova."
+  },
+  "licenseResendEmail": {
+    "message": "Pošljite novo e-poštno sporočilo"
+  },
+  "licenseServiceProblemTryLater": {
+    "message": "Tega trenutno ni mogoče dokončati zaradi težave na naši strani. Poskusite znova pozneje; če se težava ponavlja, se obrnite na podporo."
+  },
+  "licenseSuccess": {
+    "message": "Uspelo je! Vaši shranjeni zavihki bodo zdaj šifrirani in varno shranjeni v varnostni kopiji v oblaku."
+  },
+  "licenseSuccessJoin": {
+    "message": "Uspelo je! Ta brskalnik je zdaj povezan z vašo šifrirano varnostno kopijo. Shranjeni zavihki v tem in drugih brskalnikih bodo odslej sinhronizirani."
+  },
+  "licenseSuggestedEmailIntro": {
+    "message": "Vaš licenčni ključ je bil poslan na:"
+  },
+  "licenseSuggestedEmailNote": {
+    "message": "Kode za preverjanje in obnovitev računa bodo uporabljale ta naslov, zato se prepričajte, da je vaš."
+  },
+  "licenseSuspendedBillingError": {
+    "message": "Te licence trenutno ni mogoče povezati zaradi težave z obračunavanjem. Če upravljate obračunavanje, se prijavite na one-tab.com in odpravite težavo, sicer pa se obrnite na osebo, odgovorno za nakup vaše licence."
+  },
+  "licenseUltraKeyConfirmCheckbox": {
+    "message": "Kopijo ključa imam shranjeno in razumem, da ne bo nikoli več prikazan."
+  },
+  "licenseUltraKeyConfirmRequired": {
+    "message": "Potrdite, da ste shranili kopijo ključa."
+  },
+  "licenseUltraKeyEnterPrompt": {
+    "message": "Vnesite šifrirni ključ, da dokončate povezovanje te naprave."
+  },
+  "licenseUltraKeyIntro": {
+    "message": "To je vaš šifrirni ključ. Varno shranite njegovo kopijo, na primer v upravitelju gesel, da boste lahko obnovili podatke po okvari ali kraji računalnika."
+  },
+  "licenseUltraKeyMismatch": {
+    "message": "Ta ključ ni pravilen za to licenco. Preverite ga in poskusite znova."
+  },
+  "licenseUltraKeyNeverShownAgain": {
+    "message": "Ta ključ ne bo NIKOLI več prikazan."
+  },
+  "licenseUltraKeyPlaceholder": {
+    "message": "Šifrirni ključ"
+  },
+  "licenseUltraOptionDescription": {
+    "message": "Šifrirni ključ imate samo vi in ga v primeru izgube ni mogoče obnoviti. To možnost izberite samo, če ste prepričani, da lahko varno shranite njegovo kopijo."
+  },
+  "licenseUltraOptionLabel": {
+    "message": "Največja zasebnost"
+  },
+  "licenseUseDifferentEmail": {
+    "message": "Uporabite drug e-poštni naslov"
+  },
+  "lightTheme": {
+    "message": "Svetla tema"
+  },
+  "localBackupRestoredModal": {
+    "message": "Del profila brskalnika, v katerem so shranjeni podatki OneTab, je bil poškodovan ali izbrisan. To se lahko zgodi po zrušitvi brskalnika ali kadar nepravilno delujoča programska oprema za čiščenje sistema ali varovanje zasebnosti odstrani podatke brskalnika."
+  },
+  "localBackupRestoredModalRecovery": {
+    "message": "Tokrat ste imeli srečo: poškodba ni dosegla ločenega dela profila, v katerem OneTab hrani tedensko varnostno kopijo, zato so bili vaši zavihki obnovljeni iz varnostne kopije, ustvarjene {DATE}. Ničesar, kar ste shranili ali spremenili po tem datumu, ni bilo mogoče obnoviti. Če bi bil izgubljen celoten profil ali bi bila poškodovana tudi varnostna kopija, ne bi bilo ničesar, iz česar bi jih lahko obnovili."
+  },
+  "localBackupRestoredModalTitle": {
+    "message": "OneTab je po izgubi podatkov obnovil vaše zavihke"
+  },
+  "localeId": {
+    "message": "sl"
+  },
+  "locationColon": {
+    "message": "Mesto:"
+  },
+  "lock": {
+    "message": "Zakleni"
+  },
+  "lockedGroupUnlockHelp": {
+    "message": "Za odklepanje uporabite meni »Več…«. Ko je skupina zaklenjena, ne morete izbrisati skupine ali njenih zavihkov, zavihkov pa ni mogoče prerazporediti."
+  },
+  "lockMenuItemHelp": {
+    "message": "Ko je skupina zaklenjena, ne morete odstraniti ali prerazporediti elementov v skupini, dokler je ne odklenete."
+  },
+  "makeThisATask": {
+    "message": "Označi kot opravilo"
+  },
+  "manifestDescription": {
+    "message": "Prihranite do 95 % pomnilnika in zmanjšajte nered z zavihki"
+  },
+  "markAsArchived": {
+    "message": "Označi kot arhivirano"
+  },
+  "markAsArchivedMenuItemHelp": {
+    "message": "Ko element označite kot arhiviran, bo imel sivo ozadje. To je vizualni pokazatelj, da ste s tem elementom končali (na primer, da ste članek prebrali do konca). Če arhivirate nekaj, kar je označeno kot opravilo, opravilo ne bo več prikazano v stolpcu z opravili na strani OneTab."
+  },
+  "markAsDoneTask": {
+    "message": "Označi kot dokončano opravilo"
+  },
+  "markAsDoneTaskMenuItemHelp": {
+    "message": "Vizualno označite, da je opravilo dokončano"
+  },
+  "markAsPendingTask": {
+    "message": "Označi kot čakajoče opravilo"
+  },
+  "markAsPendingTaskMenuItemHelp": {
+    "message": "Vizualno označite, da je ta element opravilo. Prikazala se bo ikona opravila, ki jo lahko nato kliknete, da vizualno označite, da je opravilo dokončano. Vsa opravila (razen če so označena kot arhivirana) bodo prikazana tudi v stolpcu z opravili na strani OneTab."
+  },
+  "matchCount_few": {
+    "message": "{COUNT} zadetki"
+  },
+  "matchCount_many": {
+    "message": "{COUNT} zadetkov"
+  },
+  "matchCount_one": {
+    "message": "{COUNT} zadetek"
+  },
+  "matchCount_other": {
+    "message": "{COUNT} zadetkov"
+  },
+  "matchCount_two": {
+    "message": "{COUNT} zadetka"
+  },
+  "matchCount_zero": {
+    "message": "{COUNT} zadetkov"
+  },
+  "matchWholeWordsOnly": {
+    "message": "Ujemanje samo celih besed"
+  },
+  "mayNeedToRestartBrowser": {
+    "message": "Če se to sporočilo prikaže vsakič, posodobite in znova zaženite brskalnik."
+  },
+  "mergeIntoParent": {
+    "message": "Združi z nadrejenim elementom"
+  },
+  "mergeOpenTabsHere_few": {
+    "message": "Združite {COUNT} odprte zavihke tukaj"
+  },
+  "mergeOpenTabsHere_many": {
+    "message": "Združite {COUNT} odprtih zavihkov tukaj"
+  },
+  "mergeOpenTabsHere_one": {
+    "message": "Združite {COUNT} odprt zavihek tukaj"
+  },
+  "mergeOpenTabsHere_other": {
+    "message": "Združi {COUNT} odprtih zavihkov tukaj"
+  },
+  "mergeOpenTabsHere_two": {
+    "message": "Združite {COUNT} odprta zavihka tukaj"
+  },
+  "mergeOpenTabsHere_zero": {
+    "message": "Združite {COUNT} odprtih zavihkov tukaj"
+  },
+  "mergeSelectedTabsHere_few": {
+    "message": "Združite {COUNT} izbrane zavihke tukaj"
+  },
+  "mergeSelectedTabsHere_many": {
+    "message": "Združite {COUNT} izbranih zavihkov tukaj"
+  },
+  "mergeSelectedTabsHere_one": {
+    "message": "Združite {COUNT} izbran zavihek tukaj"
+  },
+  "mergeSelectedTabsHere_other": {
+    "message": "Združite {COUNT} izbranih zavihkov tukaj"
+  },
+  "mergeSelectedTabsHere_two": {
+    "message": "Združite {COUNT} izbrana zavihka tukaj"
+  },
+  "mergeSelectedTabsHere_zero": {
+    "message": "Združite {COUNT} izbranih zavihkov tukaj"
+  },
+  "mergeWithInnerGroups": {
+    "message": "Združi z notranjimi skupinami"
+  },
+  "modalMoveToTrashHintExampleGroupTitle": {
+    "message": "Primer naslova skupine"
+  },
+  "modalMoveToTrashHintHeading": {
+    "message": "Namig: Premaknite kazalec nad naslov skupine, nato kliknite X, da jo premaknete v koš."
+  },
+  "modalOptionAutoActionOnOpenHeading": {
+    "message": "Po obnovitvi zavihkov:"
+  },
+  "modalOptionAutoActionOnOpenOpenDesc": {
+    "message": "Ko končate, izbrišite ročno"
+  },
+  "modalOptionAutoActionOnOpenTrashDesc": {
+    "message": "Lažje za hitro shranjevanje in obnovitev"
+  },
+  "modalRemigrationDontAskAgain": {
+    "message": "Ne sprašuj več"
+  },
+  "modalRemigrationFooterHtml": {
+    "message": "Kliknite <b>Da</b>, razen če se je preselitev že zgodila in ste preseljene zavihke namenoma izbrisali."
+  },
+  "modalRemigrationNotNow": {
+    "message": "Ne zdaj"
+  },
+  "modalRemigrationTabsFoundPrompt_few": {
+    "message": "Najdeni so bili {COUNT} zavihki iz OneTab v1. Ali jih želite preseliti?"
+  },
+  "modalRemigrationTabsFoundPrompt_many": {
+    "message": "Najdenih je bilo {COUNT} zavihkov iz OneTab v1. Ali jih želite preseliti?"
+  },
+  "modalRemigrationTabsFoundPrompt_one": {
+    "message": "Najden je bil {COUNT} zavihek iz OneTab v1. Ali ga želite preseliti?"
+  },
+  "modalRemigrationTabsFoundPrompt_other": {
+    "message": "Najdenih je bilo {COUNT} zavihkov iz OneTab v1. Ali jih želite preseliti?"
+  },
+  "modalRemigrationTabsFoundPrompt_two": {
+    "message": "Najdena sta bila {COUNT} zavihka iz OneTab v1. Ali ju želite preseliti?"
+  },
+  "modalRemigrationTabsFoundPrompt_zero": {
+    "message": "Najdenih je bilo {COUNT} zavihkov iz OneTab v1. Ali jih želite preseliti?"
+  },
+  "modalRemigrationYes": {
+    "message": "Da"
+  },
+  "modalUpdateToV2Heading": {
+    "message": "OneTab je posodobljen"
+  },
+  "modalUpdateToV2QuickTourHtml": {
+    "message": "Želite hiter ogled? Na vrhu kliknite <b>Pomoč</b>."
+  },
+  "modalUpdateToV2UseOneTabLikeBefore": {
+    "message": "OneTab lahko še naprej uporabljate kot prej – zavihke shranite z enim klikom."
+  },
+  "modifySharing": {
+    "message": "Uredi skupno rabo"
+  },
+  "moreEllipsis": {
+    "message": "Več…"
+  },
+  "moreSearchFilters": {
+    "message": "Več iskalnih filtrov"
+  },
+  "move": {
+    "message": "Premakni"
+  },
+  "moveBack": {
+    "message": "Premakni nazaj"
+  },
+  "moveToTrash": {
+    "message": "Premakni v koš"
+  },
+  "namedOnly": {
+    "message": "Samo poimenovani elementi"
+  },
+  "navigationFilter": {
+    "message": "Filter krmarjenja"
+  },
+  "navigationFilterColumnOnlyNote": {
+    "message": "Ta filter velja samo za stolpec za krmarjenje."
+  },
+  "newExclamation": {
+    "message": "Novo!"
+  },
+  "noDupsExistExceptForColon": {
+    "message": "Dvojnikov ni, razen:"
+  },
+  "noDupsFoundHere": {
+    "message": "Tukaj ni najdenih dvojnikov"
+  },
+  "noMatches": {
+    "message": "Ni zadetkov"
+  },
+  "noMatchesFound": {
+    "message": "Ni najdenih zadetkov"
+  },
+  "nonArchived": {
+    "message": "Nearhivirano"
+  },
+  "nonTabPinFlagHelp": {
+    "message": "Ta element je pripet na vrh mape. Kliknite to ikono, da ga odpnete."
+  },
+  "noOpenTabsToStore": {
+    "message": "V tem oknu ni odprtih zavihkov za shranjevanje."
+  },
+  "noReadingListEntries": {
+    "message": "Ni najdenih vnosov bralnega seznama"
+  },
+  "noTabsInOneTabYet": {
+    "message": "V OneTab še nimate zavihkov"
+  },
+  "noTabsMeetCriteriaUseCheckboxes": {
+    "message": "Noben odprt zavihek ne ustreza vašim merilom. Uporabite zgornja potrditvena polja."
+  },
+  "notAssigned": {
+    "message": "Ni dodeljeno"
+  },
+  "notes": {
+    "message": "Opombe"
+  },
+  "notesAboutTheLinkOptional": {
+    "message": "Opombe o povezavi (izbirno)"
+  },
+  "notesAboutTheSecondLinkOptional": {
+    "message": "Opombe o drugi povezavi (izbirno)"
+  },
+  "noTextHasBeenEntered": {
+    "message": "Besedilo ni bilo vneseno"
+  },
+  "ok": {
+    "message": "V redu"
+  },
+  "omniboxShortcutInfo": {
+    "message": "Če želite iskati po seznamu OneTab s katerega koli zavihka: pojdite v naslovno vrstico brskalnika, vnesite 11, nato preslednico in nato iskalno ključno besedo. Če želite izvesti običajno iskanje (ne v OneTab), ki se začne z 11, pritisnite 11, nato preslednico in nato vračalko"
+  },
+  "OneTabAlsoAvailableForFirefox": {
+    "message": "OneTab je na voljo tudi za Firefox"
+  },
+  "oneTabDesignedToProtectPrivacy": {
+    "message": "OneTab je zasnovan za varovanje vaše zasebnosti. Vaši zavihki nam niso razkriti."
+  },
+  "oneTabExportPageTitle": {
+    "message": "Izvoz OneTab"
+  },
+  "oneTabFolderSlashShortcutInfo": {
+    "message": "Premik fokusa na iskalno polje in iskanje samo v trenutni mapi"
+  },
+  "oneTabImportExportPageTitle": {
+    "message": "Uvoz/izvoz OneTab"
+  },
+  "oneTabNeedsPermissionToAccessYourTabs": {
+    "message": "OneTab potrebuje dovoljenje za dostop do vaših zavihkov."
+  },
+  "oneTabOptionsPageTitle": {
+    "message": "Možnosti OneTab"
+  },
+  "oneTabPermissionRequired": {
+    "message": "OneTab – zahtevano dovoljenje"
+  },
+  "oneTabRestartRequired": {
+    "message": "OneTab se mora znova zagnati. Drugi zavihki ne bodo zaprti."
+  },
+  "oneTabSlashShortcutInfo": {
+    "message": "Premik fokusa na iskalno polje"
+  },
+  "open": {
+    "message": "Odpri"
+  },
+  "openActionPopup": {
+    "message": "Dejanje OneTab (enakovredno kliku ikone OneTab v orodni vrstici)"
+  },
+  "openAsCollapsedTabGroup": {
+    "message": "Odpri kot »strnjeno« skupino zavihkov"
+  },
+  "openAsCollapsedTabGroupMenuItemHelp": {
+    "message": "Če te zavihke odprete kot strnjeno »skupino zavihkov«, bo prikazana samo oznaka skupine, dokler je ne kliknete, da prikažete zavihke v njej."
+  },
+  "openAsPinnedTab": {
+    "message": "Pripni zavihek ob odpiranju"
+  },
+  "openAsPinnedTabMenuItemHelp": {
+    "message": "Ko bo ta zavihek obnovljen, bo obnovljen kot pripet zavihek brskalnika. Pripeti zavihki bodo v oknu brskalnika vedno prikazani prvi."
+  },
+  "openAsTabGroup": {
+    "message": "Odpri kot skupino zavihkov brskalnika"
+  },
+  "openAsTabGroupMenuItemHelp": {
+    "message": "Vaš brskalnik omogoča združevanje zavihkov v barvne »skupine zavihkov« znotraj okna."
+  },
+  "openFolder": {
+    "message": "Odpri mapo"
+  },
+  "openGroupsLimitNotice_few": {
+    "message": "Da se brskalnik ne preobremeni, bodo odprte samo prve {COUNT} skupine."
+  },
+  "openGroupsLimitNotice_many": {
+    "message": "Da se brskalnik ne preobremeni, bo odprtih samo prvih {COUNT} skupin."
+  },
+  "openGroupsLimitNotice_one": {
+    "message": "Da se brskalnik ne preobremeni, bo odprta samo prva {COUNT} skupina."
+  },
+  "openGroupsLimitNotice_other": {
+    "message": "Da se brskalnik ne preobremeni, bo odprtih samo prvih {COUNT} skupin."
+  },
+  "openGroupsLimitNotice_two": {
+    "message": "Da se brskalnik ne preobremeni, bosta odprti samo prvi {COUNT} skupini."
+  },
+  "openGroupsLimitNotice_zero": {
+    "message": "Da se brskalnik ne preobremeni, bo odprtih samo prvih {COUNT} skupin."
+  },
+  "openInIncognitoWindow": {
+    "message": "Obnovi v novem oknu brez beleženja zgodovine"
+  },
+  "openInNewWindow": {
+    "message": "Obnovi v novem oknu"
+  },
+  "openInThisWindow": {
+    "message": "Obnovi v tem oknu"
+  },
+  "openOneTab": {
+    "message": "Odpri OneTab"
+  },
+  "openOneTabAfter": {
+    "message": "Po shranjevanju zavihkov odpri OneTab"
+  },
+  "openONETABLogo": {
+    "message": "Odpri ONETAB"
+  },
+  "openParentFolder": {
+    "message": "Odpri nadrejeno mapo"
+  },
+  "openTabFromWebsite": {
+    "message": "Odprite zavihek in pojdite na spletno mesto"
+  },
+  "openTabLimit_few": {
+    "message": "Da se brskalnik ne preobremeni, je mogoče naenkrat odpreti največ {COUNT} zavihke."
+  },
+  "openTabLimit_many": {
+    "message": "Da se brskalnik ne preobremeni, je mogoče naenkrat odpreti največ {COUNT} zavihkov."
+  },
+  "openTabLimit_one": {
+    "message": "Da se brskalnik ne preobremeni, je mogoče naenkrat odpreti največ {COUNT} zavihek."
+  },
+  "openTabLimit_other": {
+    "message": "Da se brskalnik ne preobremeni, je mogoče naenkrat odpreti največ {COUNT} zavihkov."
+  },
+  "openTabLimit_two": {
+    "message": "Da se brskalnik ne preobremeni, je mogoče naenkrat odpreti največ {COUNT} zavihka."
+  },
+  "openTabLimit_zero": {
+    "message": "Da se brskalnik ne preobremeni, je mogoče naenkrat odpreti največ {COUNT} zavihkov."
+  },
+  "openTabsAlreadyStoredHere_few": {
+    "message": "{COUNT} odprti zavihki so že shranjeni na tem mestu:"
+  },
+  "openTabsAlreadyStoredHere_many": {
+    "message": "{COUNT} odprtih zavihkov je že shranjenih na tem mestu:"
+  },
+  "openTabsAlreadyStoredHere_one": {
+    "message": "{COUNT} odprt zavihek je že shranjen na tem mestu:"
+  },
+  "openTabsAlreadyStoredHere_other": {
+    "message": "{COUNT} odprtih zavihkov je že shranjenih na tem mestu:"
+  },
+  "openTabsAlreadyStoredHere_two": {
+    "message": "{COUNT} odprta zavihka sta že shranjena na tem mestu:"
+  },
+  "openTabsAlreadyStoredHere_zero": {
+    "message": "{COUNT} odprtih zavihkov je že shranjenih na tem mestu:"
+  },
+  "openTabsConfirm_few": {
+    "message": "Odprli boste {COUNT} zavihke. Ali ste prepričani?"
+  },
+  "openTabsConfirm_many": {
+    "message": "Odprli boste {COUNT} zavihkov. Ali ste prepričani?"
+  },
+  "openTabsConfirm_one": {
+    "message": "Odprli boste {COUNT} zavihek. Ali ste prepričani?"
+  },
+  "openTabsConfirm_other": {
+    "message": "Odprli boste {COUNT} zavihkov. Ali ste prepričani?"
+  },
+  "openTabsConfirm_two": {
+    "message": "Odprli boste {COUNT} zavihka. Ali ste prepričani?"
+  },
+  "openTabsConfirm_zero": {
+    "message": "Odprli boste {COUNT} zavihkov. Ali ste prepričani?"
+  },
+  "openTabsNotStoredInOneTab_few": {
+    "message": "{COUNT} odprti zavihki niso shranjeni v OneTab"
+  },
+  "openTabsNotStoredInOneTab_many": {
+    "message": "{COUNT} odprtih zavihkov ni shranjenih v OneTab"
+  },
+  "openTabsNotStoredInOneTab_one": {
+    "message": "{COUNT} odprt zavihek ni shranjen v OneTab"
+  },
+  "openTabsNotStoredInOneTab_other": {
+    "message": "{COUNT} odprtih zavihkov ni shranjenih v OneTab"
+  },
+  "openTabsNotStoredInOneTab_two": {
+    "message": "{COUNT} odprta zavihka nista shranjena v OneTab"
+  },
+  "openTabsNotStoredInOneTab_zero": {
+    "message": "{COUNT} odprtih zavihkov ni shranjenih v OneTab"
+  },
+  "optionAutoActionOnOpenArchiveDesc": {
+    "message": "Označitev zavihkov kot arhiviranih jim doda sivo črtasto ozadje. To je vizualni znak, da ste zavihke prebrali ali z njimi končali."
+  },
+  "optionAutoActionOnOpenArchiveTitle": {
+    "message": "Označi jih kot arhivirane"
+  },
+  "optionAutoActionOnOpenHeading": {
+    "message": "Pri obnavljanju zavihkov:"
+  },
+  "optionAutoActionOnOpenNote": {
+    "message": "Zaklenjene skupine vedno ohranijo svoje zavihke"
+  },
+  "optionAutoActionOnOpenOpenDesc": {
+    "message": "Če želite zavihke pri obnovitvi označiti kot arhivirane, pridržite tipko Alt ali Option"
+  },
+  "optionAutoActionOnOpenOpenTitle": {
+    "message": "Ohrani jih na seznamu"
+  },
+  "optionAutoActionOnOpenTrashDesc": {
+    "message": "Če želite zavihke pri obnovitvi ohraniti na seznamu, pridržite tipko Ctrl ali Cmd"
+  },
+  "optionAutoActionOnOpenTrashTitle": {
+    "message": "Odstrani jih s seznama"
+  },
+  "optionBrowserActionHeading": {
+    "message": "Ko kliknete ikono OneTab v orodni vrstici:"
+  },
+  "optionBrowserActionOpenPopupDesc": {
+    "message": "Pojavno okno vam bo prikazalo seznam odprtih zavihkov in omogočilo, da izberete točno tiste zavihke, ki jih želite poslati v OneTab. Omogočilo vam bo nastavitev naslova skupine, ki jo shranjujete, zato vam tega pozneje ne bo treba storiti na strani OneTab. Pojavno okno vam bo omogočilo tudi preprost dostop do hitrega seznama iz katerega koli okna brskalnika."
+  },
+  "optionBrowserActionOpenPopupDesc2": {
+    "message": "Izberite točno, katere zavihke želite shraniti"
+  },
+  "optionBrowserActionOpenPopupTitle": {
+    "message": "Prikaži pojavno okno OneTab"
+  },
+  "optionBrowserActionSendCurrentTabDesc": {
+    "message": "Zavihek bo postavljen v prvo skupino na strani OneTab (pri čemer bodo prezrte vse pripete ali zaklenjene skupine)"
+  },
+  "optionBrowserActionSendCurrentTabTitle": {
+    "message": "Pošlji samo trenutni zavihek v OneTab"
+  },
+  "optionBrowserActionSendTabsInWindowDesc": {
+    "message": "Vaši zavihki bodo zaprti in shranjeni na seznamu OneTab. Če ste v vrstici z zavihki brskalnika izbrali več zavihkov (s tipko Cmd, Ctrl ali Shift), bodo v OneTab poslani samo izbrani zavihki. Če uporabljate funkcijo skupin zavihkov v brskalniku, bo v OneTab poslana samo trenutna skupina zavihkov."
+  },
+  "optionBrowserActionSendTabsInWindowDesc2": {
+    "message": "Najhitrejši način za shranjevanje zavihkov"
+  },
+  "optionBrowserActionSendTabsInWindowTitle": {
+    "message": "Pošlji zavihke iz trenutnega okna v OneTab"
+  },
+  "optionBrowserActionSendWholeWindowDesc": {
+    "message": "Enako kot zgoraj, le da bo shranjeno celotno okno namesto samo trenutne skupine zavihkov"
+  },
+  "optionBrowserActionSendWholeWindowTitle": {
+    "message": "Pošljite trenutno okno v OneTab, vključno z vsemi zavihki in skupinami zavihkov"
+  },
+  "optionCopyToClipboardFormatHeading": {
+    "message": "Kopiranje povezav v odložišče:"
+  },
+  "optionCopyToClipboardFormatMarkdownTitle": {
+    "message": "Markdown"
+  },
+  "optionCopyToClipboardFormatNote": {
+    "message": "Ta nastavitev velja, ko uporabite dejanje »Kopiraj v odložišče«. Zavihke in skupine lahko tudi povlečete neposredno iz OneTab v dokument."
+  },
+  "optionCopyToClipboardFormatRichTextDesc": {
+    "message": "Programi, kot so urejevalniki besedil, omogočajo lepljenje obogatenega besedila. Če to ni podprto, bo namesto tega prilepljeno navadno besedilo."
+  },
+  "optionCopyToClipboardFormatRichTextTitle": {
+    "message": "Obogateno besedilo, kjer je na voljo"
+  },
+  "optionCopyToClipboardFormatTitleUrlTitle": {
+    "message": "Naslov in URL"
+  },
+  "optionCopyToClipboardFormatUrlOnlyTitle": {
+    "message": "Samo URL"
+  },
+  "optionCopyToClipboardFormatUrlTitleTitle": {
+    "message": "URL in naslov"
+  },
+  "optionDefaultTabGroupOpenTypeCurrentWindow": {
+    "message": "Odpri skupino zavihkov v trenutnem oknu"
+  },
+  "optionDefaultTabGroupOpenTypeHeading": {
+    "message": "Pri kliku za odpiranje skupine, ki je nastavljena za odpiranje kot »skupina zavihkov« v brskalniku:"
+  },
+  "optionDefaultTabGroupOpenTypeNewWindow": {
+    "message": "Odpri skupino zavihkov v novem oknu"
+  },
+  "optionDefaultTabGroupOpenTypeNote": {
+    "message": "Če v spustnem meniju izberete določeno možnost (na primer odpiranje zavihkov v oknu brez beleženja zgodovine), bo ta možnost zapomnjena za to skupino."
+  },
+  "optionDefaultWindowGroupOpenTypeCurrentWindow": {
+    "message": "Odpri zavihke v trenutnem oknu"
+  },
+  "optionDefaultWindowGroupOpenTypeHeading": {
+    "message": "Pri obnavljanju skupine:"
+  },
+  "optionDefaultWindowGroupOpenTypeNewWindow": {
+    "message": "Odpiranje zavihkov v novem oknu, razen če je OneTab edini zavihek v trenutnem oknu"
+  },
+  "optionDefaultWindowGroupOpenTypeNewWindowAlways": {
+    "message": "Odpiranje zavihkov v novem oknu"
+  },
+  "optionDefaultWindowGroupOpenTypeNote": {
+    "message": "Izbire za obnovitev iz menija skupine »Več…« se zapomnijo za to skupino."
+  },
+  "optionDiscardNonActiveTabOnOpenHeading": {
+    "message": "Takojšnje varčevanje s pomnilnikom (RAM) ob prvem odpiranju zavihkov:"
+  },
+  "optionDiscardNonActiveTabOnOpenNote": {
+    "message": "Če je ta nastavitev omogočena, bodo zavihki takoj odstranjeni iz pomnilnika, ko jih prvič odprete s seznama OneTab. To je uporabno, če pogosto odprete več deset zavihkov hkrati, saj prepreči, da bi se vsi naložili v pomnilnik, dokler do njih ne dostopate. Če je ta nastavitev onemogočena, bodo številni spletni brskalniki še vedno samodejno odstranili zavihke iz pomnilnika, če jih trenutno ne uporabljate."
+  },
+  "optionDisplayContextMenuHeading": {
+    "message": "Z desno tipko kliknite znotraj spletne strani za dostop do kontekstnega menija OneTab:"
+  },
+  "optionDisplayContextMenuNote": {
+    "message": "Če meni onemogočite, ne boste mogli dostopati do funkcije »Izključi spletno mesto iz OneTab«"
+  },
+  "optionDuplicatesAllow": {
+    "message": "Dovoli dvojnike"
+  },
+  "optionDuplicatesReject": {
+    "message": "Brez opozorila zavrni dvojnike"
+  },
+  "optionDuplicatesRejectDesc": {
+    "message": "Če OneTab že vsebuje ta zavihek, ne bo dodan znova."
+  },
+  "optionDuplicatesTitle": {
+    "message": "Dvojniki:"
+  },
+  "optionGroupTitleClickActionEditTitle": {
+    "message": "Urejanje naslova"
+  },
+  "optionGroupTitleClickActionHeading": {
+    "message": "Ko kliknete naslov skupine ali mape:"
+  },
+  "optionGroupTitleClickActionOpenDesc": {
+    "message": "Skupino lahko še vedno preimenujete prek njenega menija »Več…«."
+  },
+  "optionGroupTitleClickActionOpenTitle": {
+    "message": "Obnovitev skupine ali odpiranje mape"
+  },
+  "optionMoveOneTabToCurrentWindowOnOpenFalseTitle": {
+    "message": "Preklopi na okno, kjer je zavihek OneTab že odprt"
+  },
+  "optionMoveOneTabToCurrentWindowOnOpenHeading": {
+    "message": "Dejanje »Odpri OneTab«:"
+  },
+  "optionMoveOneTabToCurrentWindowOnOpenNote": {
+    "message": "Dejanje »Odpri OneTab«:"
+  },
+  "optionMoveOneTabToCurrentWindowOnOpenTrueTitle": {
+    "message": "Premakni morebitni obstoječi zavihek OneTab v trenutno okno"
+  },
+  "optionPinnedTabsAllow": {
+    "message": "Dovoli pošiljanje pripetih zavihkov v OneTab"
+  },
+  "optionPinnedTabsDontSend": {
+    "message": "Ne pošiljaj pripetih zavihkov v OneTab"
+  },
+  "optionPinnedTabsDontSendDesc": {
+    "message": "Pripet zavihek lahko še vedno ročno pošljete v OneTab tako, da z desno tipko kliknete znotraj spletne strani za dostop do menija OneTab in nato kliknete »Pošlji samo ta zavihek v OneTab«"
+  },
+  "optionPinnedTabsNote": {
+    "message": "Opomba: zavihek postane »pripet«, ko z desno tipko kliknete zavihek in kliknete »Pripni zavihek«. Nekateri radi pripnejo spletna mesta, kot sta Facebook ali Gmail, da jih lažje najdejo. OneTab si bo zapomnil, ali je bil zavihek pripet, ko ga obnovite."
+  },
+  "optionPinnedTabsTitle": {
+    "message": "Pripeti zavihki:"
+  },
+  "options": {
+    "message": "Možnosti"
+  },
+  "optionStartupLaunchDisplay": {
+    "message": "Samodejno odpri OneTab"
+  },
+  "optionStartupLaunchNone": {
+    "message": "Ne odpri OneTab samodejno"
+  },
+  "optionStartupLaunchNoneDesc3": {
+    "message": "Če želite OneTab odpreti ročno, z desno tipko kliknite znotraj katere koli spletne strani in v meniju OneTab kliknite »Odpri OneTab«."
+  },
+  "optionStartupLaunchTitle": {
+    "message": "Ob zagonu brskalnika:"
+  },
+  "optionSwitchToOpenedTabFalseTitle": {
+    "message": "Odpri zavihek in ostani v OneTab"
+  },
+  "optionSwitchToOpenedTabHeading": {
+    "message": "Pri obnavljanju zavihkov s strani OneTab:"
+  },
+  "optionSwitchToOpenedTabNote": {
+    "message": "Če ob kliku pridržite Shift, se bo zavihek odprl v novem oknu"
+  },
+  "optionSwitchToOpenedTabTrueTitle": {
+    "message": "Odpri zavihek in preklopi nanj (razen če ob kliku pridržite Command ⌘/Ctrl)"
+  },
+  "optionUpdateTitleOnDuplicateKeep": {
+    "message": "Ohranitev obstoječega naslova"
+  },
+  "optionUpdateTitleOnDuplicateKeepDesc": {
+    "message": "Zavihek lahko v OneTab preimenujete, naslov po meri pa bo ohranjen."
+  },
+  "optionUpdateTitleOnDuplicateNote": {
+    "message": "Naslovi in opombe so v skupni rabi v vseh kopijah istega zavihka."
+  },
+  "optionUpdateTitleOnDuplicateTitle": {
+    "message": "Pri shranjevanju zavihka, ki je že v OneTab:"
+  },
+  "optionUpdateTitleOnDuplicateUpdate": {
+    "message": "Uporaba najnovejšega naslova"
+  },
+  "optionUpdateTitleOnDuplicateUpdateDesc": {
+    "message": "Shranjeni naslov posodobite tako, da se ujema z zavihkom, ki ste ga pravkar poslali."
+  },
+  "optionUrlAbbr": {
+    "message": "Skrajšano"
+  },
+  "optionUrlDisplayTitle": {
+    "message": "Prikaz URL-ja:"
+  },
+  "optionUrlDomain": {
+    "message": "Samo domena"
+  },
+  "optionUrlFull": {
+    "message": "Celoten"
+  },
+  "optionUrlNone": {
+    "message": "Brez"
+  },
+  "otherCopiesColon": {
+    "message": "Druge kopije:"
+  },
+  "pasteRichOrPlainTextBelow": {
+    "message": "Spodaj lahko prilepite obogateno ali navadno besedilo."
+  },
+  "pendingTaskCount_few": {
+    "message": "{COUNT} v čakanju"
+  },
+  "pendingTaskCount_many": {
+    "message": "{COUNT} v čakanju"
+  },
+  "pendingTaskCount_one": {
+    "message": "{COUNT} v čakanju"
+  },
+  "pendingTaskCount_other": {
+    "message": "{COUNT} v čakanju"
+  },
+  "pendingTaskCount_two": {
+    "message": "{COUNT} v čakanju"
+  },
+  "pendingTaskCount_zero": {
+    "message": "{COUNT} v čakanju"
+  },
+  "pendingTaskFlagHelp": {
+    "message": "Ta element je opravilo. Kliknite to ikono, da ga označite kot dokončano."
+  },
+  "permissionRequiredPleaseTryAgain": {
+    "message": "Za ustvarjanje strani v skupni rabi, do katere je mogoče dostopati iz katerega koli računalnika, je potrebno dovoljenje za komunikacijo s spletnim strežnikom OneTab. Poskusite znova."
+  },
+  "pinnedTabs": {
+    "message": "pripeti zavihki"
+  },
+  "pinToTopOfFolder": {
+    "message": "Pripni na vrh mape"
+  },
+  "pinToTopOfFolderMenuItemHelp": {
+    "message": "Pripnite to skupino, da bo vedno navedena na vrhu mape"
+  },
+  "pinToTopOfList": {
+    "message": "Pripni na vrh seznama"
+  },
+  "placeholderAndOtherLocations_few": {
+    "message": "PLACEHOLDER in še {COUNT} druge lokacije"
+  },
+  "placeholderAndOtherLocations_many": {
+    "message": "PLACEHOLDER in še {COUNT} drugih"
+  },
+  "placeholderAndOtherLocations_one": {
+    "message": "PLACEHOLDER in še {COUNT} druga lokacija"
+  },
+  "placeholderAndOtherLocations_other": {
+    "message": "PLACEHOLDER in še {COUNT} drugih"
+  },
+  "placeholderAndOtherLocations_two": {
+    "message": "PLACEHOLDER in še {COUNT} drugi lokaciji"
+  },
+  "placeholderAndOtherLocations_zero": {
+    "message": "PLACEHOLDER in še {COUNT} drugih"
+  },
+  "placeholderExplanation": {
+    "message": "Zaradi varnostnih pravil spletnega brskalnika OneTab ne sme neposredno obnoviti te strani. Kopirajte URL in ga prilepite v naslovno vrstico brskalnika."
+  },
+  "plainTextLineFormat": {
+    "message": "Če prilepite navadno besedilo, poskrbite, da ima vsak URL naveden protokol (https://wikipedia.org namesto samo wikipedia.org). Vsaka vrstica mora biti v tej obliki:"
+  },
+  "pleaseWaitTripleDot": {
+    "message": "Počakajte…"
+  },
+  "popupSlashShortcutInfo": {
+    "message": "Če imate omogočeno pojavno okno OneTab, se odpre izbirnik cilja in fokus se premakne na iskalno polje"
+  },
+  "printUseSaveTabsAsHtmlFileAlertHtml": {
+    "message": "Za najboljše rezultate tiskanja uporabite dejanje <b>Shrani kot datoteko HTML</b> v meniju mape <b>Več…</b>, nato natisnite preneseno datoteko HTML."
+  },
+  "privacyAssurance": {
+    "message": "Zagotavljanje zasebnosti"
+  },
+  "privacyAssuranceDetail": {
+    "message": "Vaš seznam zavihkov ni nikoli poslan ali razkrit razvijalcem OneTab ali kateri koli drugi strani. Edina izjema je, če namenoma uporabite funkcijo »deli kot spletno stran«, da naložite svoj seznam zavihkov na spletno stran in ga delite z drugimi."
+  },
+  "privacyFirst": {
+    "message": "Zasebnost na prvem mestu"
+  },
+  "privacyFirstMessage": {
+    "message": "OneTab je zasnovan za varovanje vaših zasebnih podatkov. Vaši zavihki so shranjeni samo v vašem računalniku in se nikoli ne delijo z razvijalci OneTab ali katero koli drugo stranjo.\nČe uporabljate našo funkcijo varnostnega kopiranja/sinhronizacije, bodo vaši podatki šifrirani od konca do konca z močnim šifriranjem AES-256. Razvijalci OneTab zato ne morejo videti zavihkov, ki ste jih varnostno kopirali ali sinhronizirali med napravami, saj imate šifrirni ključ samo vi. \nEdina izjema je, če se namenoma odločite deliti nekatere svoje zavihke z drugimi z našo funkcijo »Deli kot spletno stran«.\nVerjamemo v zasebnost na prvem mestu."
+  },
+  "privateBrowsingPermissionRequired": {
+    "message": "OneTab potrebuje dovoljenje za ustvarjanje zasebnih oken."
+  },
+  "privateBrowsingWindows": {
+    "message": "Okna za zasebno brskanje"
+  },
+  "quickList": {
+    "message": "Hitri seznam"
+  },
+  "readingList": {
+    "message": "Bralni seznam"
+  },
+  "readingListPermissionNecesssary": {
+    "message": "Dovoljenje za bralni seznam je potrebno, da lahko OneTab uvozi elemente z vašega bralnega seznama. Če ta funkcija ne deluje, vaš brskalnik morda ne podpira bralnih seznamov."
+  },
+  "recent": {
+    "message": "Nedavno"
+  },
+  "recentDestinationsColon": {
+    "message": "Nedavni cilji:"
+  },
+  "recentDuplicateRetainedHelp": {
+    "message": "Če se zavihek pojavi več kot enkrat, bo ohranjen samo najnovejši dvojnik"
+  },
+  "recentFolders": {
+    "message": "Nedavne mape"
+  },
+  "recentGroups": {
+    "message": "Nedavne skupine"
+  },
+  "recentlyAccessed": {
+    "message": "Nedavno odprto"
+  },
+  "recentlyCreated": {
+    "message": "Nazadnje ustvarjeno"
+  },
+  "recentlyModified": {
+    "message": "Nazadnje spremenjeno"
+  },
+  "reduceMemoryUsageBy95Pct": {
+    "message": "Zmanjšajte porabo pomnilnika za 95 %"
+  },
+  "removeDuplicates": {
+    "message": "Odstrani dvojnike"
+  },
+  "removeDuplicatesMenuItemHelp": {
+    "message": "Izberete lahko, ali želite odstraniti tukajšnje dvojnike, ne pa tistih drugje, ali pa dvojnike drugje, ne pa tukaj."
+  },
+  "removeDuplicateTabsHere_few": {
+    "message": "Odstrani {COUNT} podvojene zavihke tukaj"
+  },
+  "removeDuplicateTabsHere_many": {
+    "message": "Odstrani {COUNT} podvojenih zavihkov tukaj"
+  },
+  "removeDuplicateTabsHere_one": {
+    "message": "Odstrani {COUNT} podvojeni zavihek tukaj"
+  },
+  "removeDuplicateTabsHere_other": {
+    "message": "Odstrani {COUNT} podvojenih zavihkov tukaj"
+  },
+  "removeDuplicateTabsHere_two": {
+    "message": "Odstrani {COUNT} podvojena zavihka tukaj"
+  },
+  "removeDuplicateTabsHere_zero": {
+    "message": "Odstrani {COUNT} podvojenih zavihkov tukaj"
+  },
+  "removeFromQuickList": {
+    "message": "Odstrani s hitrega seznama"
+  },
+  "removeFromQuickListMenuItemHelp": {
+    "message": "Element ne bo premaknjen v koš, ampak bo samo odstranjen s hitrega seznama."
+  },
+  "removeStar": {
+    "message": "Odstrani zvezdico"
+  },
+  "removeTabsElsewhereAlsoHere_few": {
+    "message": "Odstrani {COUNT} zavihke drugje, ki obstajajo tudi tukaj"
+  },
+  "removeTabsElsewhereAlsoHere_many": {
+    "message": "Odstrani {COUNT} zavihkov drugje, ki obstajajo tudi tukaj"
+  },
+  "removeTabsElsewhereAlsoHere_one": {
+    "message": "Odstrani {COUNT} zavihek drugje, ki obstaja tudi tukaj"
+  },
+  "removeTabsElsewhereAlsoHere_other": {
+    "message": "Odstrani {COUNT} zavihkov drugje, ki obstajajo tudi tukaj"
+  },
+  "removeTabsElsewhereAlsoHere_two": {
+    "message": "Odstrani {COUNT} zavihka drugje, ki obstajata tudi tukaj"
+  },
+  "removeTabsElsewhereAlsoHere_zero": {
+    "message": "Odstrani {COUNT} zavihkov drugje, ki obstajajo tudi tukaj"
+  },
+  "removeTabsHereAlsoElsewhere_few": {
+    "message": "Odstrani {COUNT} zavihke tukaj, ki obstajajo tudi drugje"
+  },
+  "removeTabsHereAlsoElsewhere_many": {
+    "message": "Odstrani {COUNT} zavihkov tukaj, ki obstajajo tudi drugje"
+  },
+  "removeTabsHereAlsoElsewhere_one": {
+    "message": "Odstrani {COUNT} zavihek tukaj, ki obstaja tudi drugje"
+  },
+  "removeTabsHereAlsoElsewhere_other": {
+    "message": "Odstrani {COUNT} zavihkov tukaj, ki obstajajo tudi drugje"
+  },
+  "removeTabsHereAlsoElsewhere_two": {
+    "message": "Odstrani {COUNT} zavihka tukaj, ki obstajata tudi drugje"
+  },
+  "removeTabsHereAlsoElsewhere_zero": {
+    "message": "Odstrani {COUNT} zavihkov tukaj, ki obstajajo tudi drugje"
+  },
+  "rename": {
+    "message": "Preimenuj"
+  },
+  "renameOrAddNote": {
+    "message": "Preimenuj / dodaj opombo"
+  },
+  "restore": {
+    "message": "Obnovi"
+  },
+  "restoreAll": {
+    "message": "Obnovi vse"
+  },
+  "restrictSearchToFolderColon": {
+    "message": "Omeji iskanje na naslednjo mapo:"
+  },
+  "results": {
+    "message": "Rezultati"
+  },
+  "returnToOneTab": {
+    "message": "Vrni se v OneTab"
+  },
+  "reverse": {
+    "message": "Obratno"
+  },
+  "rightClickAndOpenOneTabMenu": {
+    "message": "Z desno tipko kliknite spletno stran in odprite meni OneTab"
+  },
+  "rightClickMenuDisabledNote": {
+    "message": "Opomba: Onemogočili ste meni OneTab, ki se prikaže ob kliku z desno tipko. Omogočite ga na strani z možnostmi OneTab."
+  },
+  "rightClickSelectionOptionsTip": {
+    "message": "Namig: Ko označite element, z desno tipko kliknite ikono kljukice, da prikažete več možnosti izbire"
+  },
+  "rightClickTickTip": {
+    "message": "Namig: Za orodja za izbiro z desno tipko kliknite ikono kljukice ob vsakem zavihku"
+  },
+  "safariApproveOneTabInSettings": {
+    "message": "Odprite Nastavitve in OneTab odobrite dostop do vseh spletnih mest."
+  },
+  "save95PctReduceTabClutterGoogleChrome": {
+    "message": "Prihranite do 95 % pomnilnika in zmanjšajte nered z zavihki v brskalniku Google Chrome"
+  },
+  "saveChoice": {
+    "message": "Shrani izbiro"
+  },
+  "saveTabsAsHtmlFile": {
+    "message": "Shrani kot datoteko HTML"
+  },
+  "saveTabsAsHtmlFileMenuItemHelp": {
+    "message": "Ustvarite in prenesite datoteko HTML, ki vsebuje vse skupine v tej mapi."
+  },
+  "searchHere": {
+    "message": "Išči tukaj"
+  },
+  "searchOneTab": {
+    "message": "Išči v OneTab"
+  },
+  "secondExampleLink": {
+    "message": "Drugi primer povezave"
+  },
+  "secondExampleLinkTitle": {
+    "message": "Drugi primer naslova povezave"
+  },
+  "secondExampleLinkTitleOptional": {
+    "message": "Drugi primer naslova povezave (izbirno)"
+  },
+  "seeOtherTabsInThisGroup_few": {
+    "message": "Prikaži še {COUNT} druge zavihke v tej skupini"
+  },
+  "seeOtherTabsInThisGroup_many": {
+    "message": "Prikaži še {COUNT} drugih zavihkov v tej skupini"
+  },
+  "seeOtherTabsInThisGroup_one": {
+    "message": "Prikaži še {COUNT} drug zavihek v tej skupini"
+  },
+  "seeOtherTabsInThisGroup_other": {
+    "message": "Prikaži še {COUNT} drugih zavihkov v tej skupini"
+  },
+  "seeOtherTabsInThisGroup_two": {
+    "message": "Prikaži še {COUNT} druga zavihka v tej skupini"
+  },
+  "seeOtherTabsInThisGroup_zero": {
+    "message": "Prikaži še {COUNT} drugih zavihkov v tej skupini"
+  },
+  "seePasteInstructions": {
+    "message": "Prikaži navodila za lepljenje…"
+  },
+  "seeTabsInThisGroup_few": {
+    "message": "Prikaži {COUNT} zavihke v tej skupini"
+  },
+  "seeTabsInThisGroup_many": {
+    "message": "Prikaži {COUNT} zavihkov v tej skupini"
+  },
+  "seeTabsInThisGroup_one": {
+    "message": "Prikaži {COUNT} zavihek v tej skupini"
+  },
+  "seeTabsInThisGroup_other": {
+    "message": "Prikaži {COUNT} zavihkov v tej skupini"
+  },
+  "seeTabsInThisGroup_two": {
+    "message": "Prikaži {COUNT} zavihka v tej skupini"
+  },
+  "seeTabsInThisGroup_zero": {
+    "message": "Prikaži {COUNT} zavihkov v tej skupini"
+  },
+  "selectAll": {
+    "message": "Izberi vse"
+  },
+  "selectAllExceptThis": {
+    "message": "Izberite vse razen tega"
+  },
+  "selectedItemCount_few": {
+    "message": "{COUNT} elementi"
+  },
+  "selectedItemCount_many": {
+    "message": "{COUNT} elementov"
+  },
+  "selectedItemCount_one": {
+    "message": "{COUNT} element"
+  },
+  "selectedItemCount_other": {
+    "message": "{COUNT} elementov"
+  },
+  "selectedItemCount_two": {
+    "message": "{COUNT} elementa"
+  },
+  "selectedItemCount_zero": {
+    "message": "{COUNT} elementov"
+  },
+  "selection": {
+    "message": "Izbira"
+  },
+  "selectThisAndAbove": {
+    "message": "Izberi ta element in vse nad njim"
+  },
+  "selectThisAndBelow": {
+    "message": "Izberi ta element in vse pod njim"
+  },
+  "sendAllTabsAllWindows": {
+    "message": "Pošlji vse zavihke iz vseh oken"
+  },
+  "sendAllTabsAllWindowsToOneTab": {
+    "message": "Pošlji vse zavihke iz vseh oken v OneTab"
+  },
+  "sendAllTabsExceptThis": {
+    "message": "Pošlji vse zavihke razen tega"
+  },
+  "sendAllTabsExceptThisToOneTab": {
+    "message": "Pošlji vse zavihke razen tega zavihka v OneTab"
+  },
+  "sendAllTabsInGroup": {
+    "message": "Pošlji vse zavihke v tej skupini zavihkov"
+  },
+  "sendAllTabsInGroupToOneTab": {
+    "message": "Pošlji vse zavihke v tej skupini zavihkov v OneTab"
+  },
+  "sendAllTabsInWindow": {
+    "message": "Pošlji vse zavihke v tem oknu"
+  },
+  "sendAllTabsInWindowToOneTab": {
+    "message": "Pošlji vse zavihke v tem oknu v OneTab"
+  },
+  "sendCurrentTabToOneTab": {
+    "message": "Pošlji trenutni zavihek v OneTab"
+  },
+  "sendLeftTabs": {
+    "message": "Pošlji zavihke na levi"
+  },
+  "sendLeftTabsToOneTab": {
+    "message": "Pošlji zavihke na levi v OneTab"
+  },
+  "sendOnlyThisTab": {
+    "message": "Pošlji samo ta zavihek"
+  },
+  "sendOnlyThisTabToOneTab": {
+    "message": "Pošlji samo ta zavihek v OneTab"
+  },
+  "sendRightTabs": {
+    "message": "Pošlji zavihke na desni"
+  },
+  "sendRightTabsToOneTab": {
+    "message": "Pošlji zavihke na desni v OneTab"
+  },
+  "sendSelectedTabs": {
+    "message": "Pošlji izbrane zavihke"
+  },
+  "sendSelectedTabsToOneTab": {
+    "message": "Pošlji izbrane zavihke v OneTab"
+  },
+  "sendThisWebLink": {
+    "message": "Pošlji to spletno povezavo"
+  },
+  "sendThisWebLinkToOneTab": {
+    "message": "Pošlji to spletno povezavo v OneTab"
+  },
+  "serverUnreachable": {
+    "message": "Strežnik ni dosegljiv. Preverite internetno povezavo."
+  },
+  "share": {
+    "message": "Deli"
+  },
+  "shareAsAWebPage": {
+    "message": "Deli kot spletno stran"
+  },
+  "shareAsAWebPageMenuItemHelp": {
+    "message": "To ustvari spletno stran z vašimi zavihki, da jo lahko zasebno ali javno delite z drugimi."
+  },
+  "shared": {
+    "message": "V skupni rabi"
+  },
+  "sharedExpiresColon": {
+    "message": "V skupni rabi kot spletna stran. Poteče:"
+  },
+  "sharedPageOptions": {
+    "message": "Možnosti strani v skupni rabi"
+  },
+  "sharedPageTabLimit_few": {
+    "message": "Strani v skupni rabi so omejene na {COUNT} zavihke"
+  },
+  "sharedPageTabLimit_many": {
+    "message": "Strani v skupni rabi so omejene na {COUNT} zavihkov"
+  },
+  "sharedPageTabLimit_one": {
+    "message": "Strani v skupni rabi so omejene na {COUNT} zavihek"
+  },
+  "sharedPageTabLimit_other": {
+    "message": "Strani v skupni rabi so omejene na {COUNT} zavihkov"
+  },
+  "sharedPageTabLimit_two": {
+    "message": "Strani v skupni rabi so omejene na {COUNT} zavihka"
+  },
+  "sharedPageTabLimit_zero": {
+    "message": "Strani v skupni rabi so omejene na {COUNT} zavihkov"
+  },
+  "sharedPageWillAutomaticallyExpire": {
+    "message": "Stran v skupni rabi bo samodejno potekla, vendar lahko datum poteka kadar koli podaljšate."
+  },
+  "showEverything": {
+    "message": "Prikaži vse"
+  },
+  "showFoldersOnly": {
+    "message": "Prikaži samo mape"
+  },
+  "showNamedItemsOnly": {
+    "message": "Prikaži samo poimenovane elemente"
+  },
+  "showNamedOnly": {
+    "message": "Prikaži samo poimenovane elemente"
+  },
+  "showNextCount_few": {
+    "message": "{COUNT} naslednji elementi"
+  },
+  "showNextCount_many": {
+    "message": "{COUNT} naslednjih elementov"
+  },
+  "showNextCount_one": {
+    "message": "{COUNT} naslednji element"
+  },
+  "showNextCount_other": {
+    "message": "{COUNT} naslednjih elementov"
+  },
+  "showNextCount_two": {
+    "message": "{COUNT} naslednja elementa"
+  },
+  "showNextCount_zero": {
+    "message": "{COUNT} naslednjih elementov"
+  },
+  "showPreviousCount_few": {
+    "message": "{COUNT} prejšnji elementi"
+  },
+  "showPreviousCount_many": {
+    "message": "{COUNT} prejšnjih elementov"
+  },
+  "showPreviousCount_one": {
+    "message": "{COUNT} prejšnji element"
+  },
+  "showPreviousCount_other": {
+    "message": "{COUNT} prejšnjih elementov"
+  },
+  "showPreviousCount_two": {
+    "message": "{COUNT} prejšnja elementa"
+  },
+  "showPreviousCount_zero": {
+    "message": "{COUNT} prejšnjih elementov"
+  },
+  "soon": {
+    "message": "kmalu"
+  },
+  "sort": {
+    "message": "Razvrščanje"
+  },
+  "sortByColon": {
+    "message": "Razvrsti po:"
+  },
+  "sortGroups": {
+    "message": "Razvrsti skupine"
+  },
+  "sortGroupsMenuFooterNote": {
+    "message": "S tem razvrstite skupine v tej mapi. Zavihki v njih se ne razvrstijo."
+  },
+  "sourceColon": {
+    "message": "Vir:"
+  },
+  "star": {
+    "message": "Dodaj zvezdico"
+  },
+  "starFlagHelp": {
+    "message": "Ta element je označen z zvezdico, kar vizualno označuje njegovo pomembnost. Kliknite to ikono, da odstranite zvezdico."
+  },
+  "starMenuItemHelp": {
+    "message": "Uporabite zvezdico kot vizualni pokazatelj, da je nekaj pomembno"
+  },
+  "starred": {
+    "message": "Z zvezdico"
+  },
+  "storeAllOpenWindowsHere": {
+    "message": "Shrani vsa odprta okna sem"
+  },
+  "storeAllOpenWindowsHereMenuItemHelp": {
+    "message": "Zaprite vsa odprta okna brskalnika in jih shranite v to mapo"
+  },
+  "storeSelectedTabsInONETAB_few": {
+    "message": "Shrani {COUNT} izbrane zavihke v ONETAB"
+  },
+  "storeSelectedTabsInONETAB_many": {
+    "message": "Shrani {COUNT} izbranih zavihkov v ONETAB"
+  },
+  "storeSelectedTabsInONETAB_one": {
+    "message": "Shrani {COUNT} izbrani zavihek v ONETAB"
+  },
+  "storeSelectedTabsInONETAB_other": {
+    "message": "Shrani {COUNT} izbranih zavihkov v ONETAB"
+  },
+  "storeSelectedTabsInONETAB_two": {
+    "message": "Shrani {COUNT} izbrana zavihka v ONETAB"
+  },
+  "storeSelectedTabsInONETAB_zero": {
+    "message": "Shrani {COUNT} izbranih zavihkov v ONETAB"
+  },
+  "storeTabsInAdditionalLocation_few": {
+    "message": "Vseeno znova shrani zavihke"
+  },
+  "storeTabsInAdditionalLocation_many": {
+    "message": "Vseeno znova shrani zavihke"
+  },
+  "storeTabsInAdditionalLocation_one": {
+    "message": "Vseeno znova shrani zavihek"
+  },
+  "storeTabsInAdditionalLocation_other": {
+    "message": "Vseeno znova shrani zavihke"
+  },
+  "storeTabsInAdditionalLocation_two": {
+    "message": "Vseeno znova shrani zavihka"
+  },
+  "storeTabsInAdditionalLocation_zero": {
+    "message": "Vseeno znova shrani zavihke"
+  },
+  "storeTabsInONETAB_few": {
+    "message": "Shrani zavihke v ONETAB"
+  },
+  "storeTabsInONETAB_many": {
+    "message": "Shrani zavihke v ONETAB"
+  },
+  "storeTabsInONETAB_one": {
+    "message": "Shrani zavihek v ONETAB"
+  },
+  "storeTabsInONETAB_other": {
+    "message": "Shrani zavihke v ONETAB"
+  },
+  "storeTabsInONETAB_two": {
+    "message": "Shrani zavihka v ONETAB"
+  },
+  "storeTabsInONETAB_zero": {
+    "message": "Shrani zavihke v ONETAB"
+  },
+  "subFoldersNotShared": {
+    "message": "Upoštevajte, da podmape niso v skupni rabi. V skupni rabi so samo skupine, ki so neposredno v mapi."
+  },
+  "tab": {
+    "message": "zavihek"
+  },
+  "tabAlreadyStoredHere": {
+    "message": "Vaš odprti zavihek je že shranjen na tem mestu:"
+  },
+  "tabCaretTooltipTitleNotes": {
+    "message": "Uredi naslov in opombe zavihka"
+  },
+  "tabCaretTooltipTitleNotesUrl": {
+    "message": "Uredi naslov, URL in opombe zavihka"
+  },
+  "tabCount_few": {
+    "message": "{COUNT} zavihki"
+  },
+  "tabCount_many": {
+    "message": "{COUNT} zavihkov"
+  },
+  "tabCount_one": {
+    "message": "{COUNT} zavihek"
+  },
+  "tabCount_other": {
+    "message": "{COUNT} zavihkov"
+  },
+  "tabCount_two": {
+    "message": "{COUNT} zavihka"
+  },
+  "tabCount_zero": {
+    "message": "{COUNT} zavihkov"
+  },
+  "tabGroupColorColon": {
+    "message": "Barva skupine zavihkov:"
+  },
+  "tabGroupIndicatorTooltipHelp": {
+    "message": "Ta skupina je nastavljena tako, da se odpre kot skupina zavihkov brskalnika. To nastavitev lahko spremenite v meniju »Več…«"
+  },
+  "tabPinFlagHelp": {
+    "message": "Ta zavihek bo obnovljen kot pripet zavihek brskalnika. Kliknite to ikono, da ga odpnete."
+  },
+  "tabs": {
+    "message": "Zavihki"
+  },
+  "tabsFromExcludedDomains": {
+    "message": "zavihki iz izključenih domen"
+  },
+  "tabsInTabGroups": {
+    "message": "zavihki v skupinah zavihkov"
+  },
+  "tabTotalCount_few": {
+    "message": "Skupaj: {COUNT} zavihki"
+  },
+  "tabTotalCount_many": {
+    "message": "Skupaj: {COUNT} zavihkov"
+  },
+  "tabTotalCount_one": {
+    "message": "Skupaj: {COUNT} zavihek"
+  },
+  "tabTotalCount_other": {
+    "message": "Skupaj: {COUNT} zavihkov"
+  },
+  "tabTotalCount_two": {
+    "message": "Skupaj: {COUNT} zavihka"
+  },
+  "tabTotalCount_zero": {
+    "message": "Skupaj: {COUNT} zavihkov"
+  },
+  "tasks": {
+    "message": "Opravila"
+  },
+  "tasksDone": {
+    "message": "Opravila (dokončana)"
+  },
+  "tasksPending": {
+    "message": "Opravila (čakajoča)"
+  },
+  "tasksWillAppearHere": {
+    "message": "Če zavihke ali skupine označite kot opravila, bodo prikazani tukaj."
+  },
+  "taskTotalCount_few": {
+    "message": "{COUNT} skupaj"
+  },
+  "taskTotalCount_many": {
+    "message": "{COUNT} skupaj"
+  },
+  "taskTotalCount_one": {
+    "message": "{COUNT} skupaj"
+  },
+  "taskTotalCount_other": {
+    "message": "{COUNT} skupaj"
+  },
+  "taskTotalCount_two": {
+    "message": "{COUNT} skupaj"
+  },
+  "taskTotalCount_zero": {
+    "message": "{COUNT} skupaj"
+  },
+  "themeQuickSwitchHint": {
+    "message": "Za hitro preklapljanje tem pridržite Ctrl ali Cmd, ko kliknete ikono teme"
+  },
+  "thenClickToolbarIcon": {
+    "message": "Nato znova kliknite ikono OneTab v orodni vrstici, da uporabite OneTab."
+  },
+  "thisFolderIsEmpty": {
+    "message": "Ta mapa je prazna"
+  },
+  "thisTab": {
+    "message": "Ta zavihek"
+  },
+  "thisTabGroup": {
+    "message": "Ta skupina zavihkov"
+  },
+  "thisTabNotStored": {
+    "message": "Ta zavihek ni shranjen v OneTab"
+  },
+  "thisWindow": {
+    "message": "To okno"
+  },
+  "tickOrUntickToExclude": {
+    "message": "Označite ali počistite možnost za izključitev spletnega mesta"
+  },
+  "title": {
+    "message": "Naslov"
+  },
+  "toAddOrRemoveExclusions": {
+    "message": "Če želite dodati spletno mesto na seznam izključitev ali ga odstraniti z njega:"
+  },
+  "toAllowOneTabInIncognito": {
+    "message": "Če želite dovoliti prikaz ikone OneTab v oknih brez beleženja zgodovine: "
+  },
+  "toImportBrowserBookmarksUseMenuOption": {
+    "message": "Za uvoz iz zaznamkov brskalnika uporabite možnost menija »Uvozi povezave tukaj« na strani OneTab"
+  },
+  "toMakeOpenButtonWorkApprovePermission": {
+    "message": "Če želite, da gumb »Odpri« na straneh v skupni rabi deluje, odobrite zahtevo za dovoljenje."
+  },
+  "tooManyTabsSpeedUpFirefox": {
+    "message": "Preveč zavihkov? Pretvorite zavihke v seznam in pospešite Firefox"
+  },
+  "tooManyTabsSpeedUpSafari": {
+    "message": "Preveč zavihkov? Pretvorite zavihke v seznam in pospešite Safari"
+  },
+  "toSaveChangesClickButton": {
+    "message": "Če želite shraniti spremembe, kliknite gumb"
+  },
+  "total0Tabs": {
+    "message": "Skupaj: 0 zavihkov"
+  },
+  "trash": {
+    "message": "Koš"
+  },
+  "unfoldGroup": {
+    "message": "Razširi skupino"
+  },
+  "unlock": {
+    "message": "Odkleni"
+  },
+  "unmarkAsArchived": {
+    "message": "Odstrani oznako arhiviranosti"
+  },
+  "unMarkAsTask": {
+    "message": "Odstrani oznako opravila"
+  },
+  "unpin": {
+    "message": "Odpni"
+  },
+  "unshare": {
+    "message": "Prekliči skupno rabo"
+  },
+  "untitled": {
+    "message": "Brez naslova"
+  },
+  "update": {
+    "message": "Posodobi"
+  },
+  "userLanguage": {
+    "message": "Slovenščina"
+  },
+  "website": {
+    "message": "Spletno mesto"
+  },
+  "yearCount_few": {
+    "message": "{COUNT} leta"
+  },
+  "yearCount_many": {
+    "message": "{COUNT} let"
+  },
+  "yearCount_one": {
+    "message": "{COUNT} leto"
+  },
+  "yearCount_other": {
+    "message": "{COUNT} let"
+  },
+  "yearCount_two": {
+    "message": "{COUNT} leti"
+  },
+  "yearCount_zero": {
+    "message": "{COUNT} let"
+  },
+  "yourTabAlreadyStoredHere": {
+    "message": "Vaš zavihek je že shranjen na tem mestu:"
+  }
+}

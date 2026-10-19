@@ -1,0 +1,2330 @@
+{
+  "95PctMemoryReduction": {
+    "message": "95% vermindering in geheuegebruik"
+  },
+  "about": {
+    "message": "Meer oor"
+  },
+  "actionPopupOverrideNote": {
+    "message": "Hierdie instelling kan in die aksie-opspringvenster oorskryf word (as jy die aksie-opspringvenster geaktiveer het)."
+  },
+  "aDashZ": {
+    "message": "A-Z"
+  },
+  "addOneTabNow": {
+    "message": "Voeg OneTab nou by"
+  },
+  "all": {
+    "message": "Alles"
+  },
+  "allBookmarks": {
+    "message": "Alle boekmerke"
+  },
+  "allOpenTabsAlreadyStoredHere_few": {
+    "message": "Alle oop oortjies reeds hier gestoor:"
+  },
+  "allOpenTabsAlreadyStoredHere_many": {
+    "message": "Alle oop oortjies reeds hier gestoor:"
+  },
+  "allOpenTabsAlreadyStoredHere_one": {
+    "message": "Alle oop oortjies reeds hier gestoor:"
+  },
+  "allOpenTabsAlreadyStoredHere_other": {
+    "message": "Alle oop oortjies reeds hier gestoor:"
+  },
+  "allOpenTabsAlreadyStoredHere_two": {
+    "message": "Alle oop oortjies reeds hier gestoor:"
+  },
+  "allOpenTabsAlreadyStoredHere_zero": {
+    "message": "Alle oop oortjies reeds hier gestoor:"
+  },
+  "allowFileAccessInstructions": {
+    "message": "Om toe te laat dat lêers direk oopgemaak word, gaan na Instellings ➝ Uitbreidings ➝ OneTab ➝ Besonderhede ➝ Laat toegang tot lêer-URL's toe"
+  },
+  "alreadyExistingOpenTabsWillBeClosedAfterMerge": {
+    "message": "Alle oop oortjies wat reeds in hierdie groep voorkom, sal ná die saamvoeging toegemaak word."
+  },
+  "alternatePlainTextFormat": {
+    "message": "Gewone teks kan ook in die volgende formaat wees:"
+  },
+  "approve": {
+    "message": "Keur goed"
+  },
+  "archived": {
+    "message": "Geargiveer"
+  },
+  "autoTheme": {
+    "message": "Outomaties (gebruik bedryfstelselinstelling)"
+  },
+  "backupAndSync": {
+    "message": "Rugsteun en sinkronisering"
+  },
+  "betaReleaseReportBugsHere": {
+    "message": "Beta-vrystelling – Rapporteer foute hier"
+  },
+  "bookmarkCount_few": {
+    "message": "{COUNT} boekmerke"
+  },
+  "bookmarkCount_many": {
+    "message": "{COUNT} boekmerke"
+  },
+  "bookmarkCount_one": {
+    "message": "{COUNT} boekmerk"
+  },
+  "bookmarkCount_other": {
+    "message": "{COUNT} boekmerke"
+  },
+  "bookmarkCount_two": {
+    "message": "{COUNT} boekmerke"
+  },
+  "bookmarkCount_zero": {
+    "message": "{COUNT} boekmerke"
+  },
+  "bookmarksPermissionNecesssary": {
+    "message": "Die boekmerktoestemming is nodig om OneTab toe te laat om jou blaaierboekmerke in te voer"
+  },
+  "bulkActions": {
+    "message": "Grootmaataksies"
+  },
+  "cancel": {
+    "message": "Kanselleer"
+  },
+  "canDragTextNote": {
+    "message": "Let wel: Dit is ook moontlik om teks wat webskakels bevat direk vanaf ’n ander webblad of uit ’n dokument te sleep en te los. Jy kan die teks direk na jou OneTab-bladsy sleep, sonder om hierdie invoerblokkie te gebruik."
+  },
+  "cannotConnectToServerDeletionRequestQueued": {
+    "message": "Kan nie aan die OneTab-bediener koppel nie. Gaan asseblief jou internetverbinding na. Jou versoek om die gedeelde bladsy uit te vee is plaaslik in die tou geplaas en sal outomaties na die OneTab-bediener gestuur word sodra dit weer bereikbaar is."
+  },
+  "cannotCreateTabGroupInTabGroup": {
+    "message": "Jou gekose bestemming is ’n Oortjiegroep. Jy kan nie ’n Oortjiegroep binne ’n bestaande Oortjiegroep skep nie. Kies asseblief ’n ander bestemming."
+  },
+  "cannotMixTabsGroupsFoldersDuringDrag": {
+    "message": "Dit is nie moontlik om oortjies, groepe en vouers te meng wanneer jy sleep nie. Dit is omdat jy byvoorbeeld nie ’n vouer na dieselfde plekke kan sleep as waarheen jy ’n oortjie kan sleep nie."
+  },
+  "cannotMoveItemAncestorHere": {
+    "message": "’n Oueritem kan nie na sy eie kind geskuif word nie, want dit sal ’n lus skep."
+  },
+  "cannotMoveItemIntoItself": {
+    "message": "’n Item kan nie na homself geskuif word nie."
+  },
+  "canPasteWebContentForExample": {
+    "message": "Jy kan teks plak wat van ’n webblad of dokument gekopieer is, en skakels sal outomaties onttrek word. Byvoorbeeld:"
+  },
+  "caseSensitive": {
+    "message": "Hooflettergevoelig"
+  },
+  "changesMadeSinceSharedPageCreation": {
+    "message": "Jou gestoorde oortjies het verander sedert jy hierdie bladsy gedeel het. Klik die “Dateer op”-knoppie om die bestaande gedeelde bladsy op te dateer."
+  },
+  "changeThisSettingAtAnyTimeInfo": {
+    "message": "Jy kan hierdie instelling enige tyd verander deur op die “Opsies”-knoppie boaan jou OneTab-bladsy te klik."
+  },
+  "changeThisSettingAtAnyTimeInfoHtml": {
+    "message": "Jy kan dit later in <b>Opsies</b> verander."
+  },
+  "checkboxesDeterminePinnedAndGroupedTabMergeInclusion": {
+    "message": "Die merkblokkies boaan hierdie bladsy bepaal of vasgespelde oortjies of oortjies in oortjiegroepe by die saamvoeging ingesluit word."
+  },
+  "chooseALocation": {
+    "message": "Kies ’n ligging"
+  },
+  "chooseALocationToImportTo": {
+    "message": "Kies ’n invoerbestemming"
+  },
+  "chooseExportLocation": {
+    "message": "Kies ’n uitvoerbron"
+  },
+  "chooseLightDarkTheme": {
+    "message": "Kies ligte/donker tema"
+  },
+  "chooseLocationToCopyTo": {
+    "message": "Kies ’n kopieerbestemming"
+  },
+  "chooseLocationToMoveTo": {
+    "message": "Kies ’n skuifbestemming"
+  },
+  "chooseLocationToRestoreTo": {
+    "message": "Kies ’n herstelbestemming"
+  },
+  "chooseToIncludeNotes": {
+    "message": "As jy enige notas by oortjies of groepe gevoeg het, kies of jy dit by die gedeelde webblad wil insluit"
+  },
+  "chooseToIncludeRatings": {
+    "message": "As jy sterre by oortjies of groepe gevoeg het, kies of jy dit by die gedeelde webblad wil insluit"
+  },
+  "chromeIncognitoInstructions": {
+    "message": "Gaan in jou blaaierinstellings na “Instellings” → “Uitbreidings” → “OneTab” → “Besonderhede”, en aktiveer dan “Laat toe in Incognito”."
+  },
+  "clickButtonToAllowTabAccess": {
+    "message": "Klik die knoppie hieronder om OneTab toe te laat om toegang tot jou oop oortjies te kry."
+  },
+  "clickHereToContinue": {
+    "message": "Klik hier om voort te gaan."
+  },
+  "clickOneTabIconToStoreTabsHere": {
+    "message": "Klik die OneTab-ikoon in jou blaaier se nutsbalk om jou oop oortjies hier te stoor."
+  },
+  "closeSelectedTabs_few": {
+    "message": "Maak {COUNT} geselekteerde oortjies toe"
+  },
+  "closeSelectedTabs_many": {
+    "message": "Maak {COUNT} geselekteerde oortjies toe"
+  },
+  "closeSelectedTabs_one": {
+    "message": "Maak {COUNT} geselekteerde oortjie toe"
+  },
+  "closeSelectedTabs_other": {
+    "message": "Maak {COUNT} geselekteerde oortjies toe"
+  },
+  "closeSelectedTabs_two": {
+    "message": "Maak {COUNT} geselekteerde oortjies toe"
+  },
+  "closeSelectedTabs_zero": {
+    "message": "Maak {COUNT} geselekteerde oortjies toe"
+  },
+  "closeSelectedTabsAndStoreInONETAB_few": {
+    "message": "Maak {COUNT} geselekteerde oortjies toe en stoor dit in ONETAB"
+  },
+  "closeSelectedTabsAndStoreInONETAB_many": {
+    "message": "Maak {COUNT} geselekteerde oortjies toe en stoor dit in ONETAB"
+  },
+  "closeSelectedTabsAndStoreInONETAB_one": {
+    "message": "Maak {COUNT} geselekteerde oortjie toe en stoor dit in ONETAB"
+  },
+  "closeSelectedTabsAndStoreInONETAB_other": {
+    "message": "Maak {COUNT} geselekteerde oortjies toe en stoor dit in ONETAB"
+  },
+  "closeSelectedTabsAndStoreInONETAB_two": {
+    "message": "Maak {COUNT} geselekteerde oortjies toe en stoor dit in ONETAB"
+  },
+  "closeSelectedTabsAndStoreInONETAB_zero": {
+    "message": "Maak {COUNT} geselekteerde oortjies toe en stoor dit in ONETAB"
+  },
+  "closeTabs_few": {
+    "message": "Maak oortjies toe"
+  },
+  "closeTabs_many": {
+    "message": "Maak oortjies toe"
+  },
+  "closeTabs_one": {
+    "message": "Maak oortjie toe"
+  },
+  "closeTabs_other": {
+    "message": "Maak oortjies toe"
+  },
+  "closeTabs_two": {
+    "message": "Maak oortjies toe"
+  },
+  "closeTabs_zero": {
+    "message": "Maak oortjies toe"
+  },
+  "closeTabsAfterMerge": {
+    "message": "Maak oortjies toe ná saamvoeging"
+  },
+  "closeTabsAlreadyStoredInOneTab_few": {
+    "message": "Maak {COUNT} oortjies toe wat reeds in OneTab gestoor is"
+  },
+  "closeTabsAlreadyStoredInOneTab_many": {
+    "message": "Maak {COUNT} oortjies toe wat reeds in OneTab gestoor is"
+  },
+  "closeTabsAlreadyStoredInOneTab_one": {
+    "message": "Maak {COUNT} oortjie toe wat reeds in OneTab gestoor is"
+  },
+  "closeTabsAlreadyStoredInOneTab_other": {
+    "message": "Maak {COUNT} oortjies toe wat reeds in OneTab gestoor is"
+  },
+  "closeTabsAlreadyStoredInOneTab_two": {
+    "message": "Maak {COUNT} oortjies toe wat reeds in OneTab gestoor is"
+  },
+  "closeTabsAlreadyStoredInOneTab_zero": {
+    "message": "Maak {COUNT} oortjies toe wat reeds in OneTab gestoor is"
+  },
+  "closeTabsAndStore_few": {
+    "message": "Maak oortjies toe en stoor dit in ONETAB"
+  },
+  "closeTabsAndStore_many": {
+    "message": "Maak oortjies toe en stoor dit in ONETAB"
+  },
+  "closeTabsAndStore_one": {
+    "message": "Maak oortjie toe en stoor dit in ONETAB"
+  },
+  "closeTabsAndStore_other": {
+    "message": "Maak oortjies toe en stoor dit in ONETAB"
+  },
+  "closeTabsAndStore_two": {
+    "message": "Maak oortjies toe en stoor dit in ONETAB"
+  },
+  "closeTabsAndStore_zero": {
+    "message": "Maak oortjies toe en stoor dit in ONETAB"
+  },
+  "closeTheseDuplicates_few": {
+    "message": "Maak hierdie duplikate toe"
+  },
+  "closeTheseDuplicates_many": {
+    "message": "Maak hierdie duplikate toe"
+  },
+  "closeTheseDuplicates_one": {
+    "message": "Maak hierdie duplikaat toe"
+  },
+  "closeTheseDuplicates_other": {
+    "message": "Maak hierdie duplikate toe"
+  },
+  "closeTheseDuplicates_two": {
+    "message": "Maak hierdie duplikate toe"
+  },
+  "closeTheseDuplicates_zero": {
+    "message": "Maak hierdie duplikate toe"
+  },
+  "completedTaskFlagHelp": {
+    "message": "Hierdie item is ’n taak. Klik hierdie ikoon om dit as hangend (nie voltooi nie) te merk."
+  },
+  "completeEditingShortcutInfo": {
+    "message": "Wanneer jy ’n notasveld wysig, voltooi die wysiging"
+  },
+  "configureShortcuts": {
+    "message": "Stel kortpaaie op"
+  },
+  "conflictingShortcutsHint": {
+    "message": "As enige van die sleutelbordkortpaaie hierbo nie werk nie of met enige ander toepassings bots, kan jy ’n ander kortpadsleutel instel."
+  },
+  "continue": {
+    "message": "Gaan voort"
+  },
+  "convertTabsIntoAList": {
+    "message": "Skakel oortjies om in ’n lys"
+  },
+  "copiedToClipboard": {
+    "message": "Gekopieer na knipbord"
+  },
+  "copy": {
+    "message": "Kopieer"
+  },
+  "copyLinksToClipboard": {
+    "message": "Kopieer skakels na knipbord"
+  },
+  "copySharedPageUrl": {
+    "message": "Kopieer gedeelde bladsy-URL"
+  },
+  "copyToClipboard": {
+    "message": "Kopieer na knipbord"
+  },
+  "copyToClipboardMenuItemHelp": {
+    "message": "Kopieer hierdie webskakels na die knipbord sodat jy dit in ander toepassings kan plak. Jy kan die knipbordteksformaat op die OneTab-opsiesbladsy verander."
+  },
+  "createANewGroupHere": {
+    "message": "Skep ’n nuwe groep hier"
+  },
+  "createdOnDate": {
+    "message": "Geskep {DATE}"
+  },
+  "createdOnOrAfterColon": {
+    "message": "Geskep op of ná:"
+  },
+  "createdOnOrBeforeColon": {
+    "message": "Geskep op of voor:"
+  },
+  "createFolderAbove": {
+    "message": "Skep vouer hierbo"
+  },
+  "createFolderAboveBelow": {
+    "message": "Skep vouer bo / onder"
+  },
+  "createFolderAboveWithinBelow": {
+    "message": "Skep vouer bo / binne / onder"
+  },
+  "createFolderBelow": {
+    "message": "Skep vouer hieronder"
+  },
+  "createFolderWithin": {
+    "message": "Skep vouer hierbinne"
+  },
+  "createFolderWithinMenuItemHelp": {
+    "message": "Vouers is om groepe oortjies te organiseer. Vouers bevat groepe, en groepe bevat oortjies."
+  },
+  "createGroupAbove": {
+    "message": "Skep groep hierbo"
+  },
+  "createGroupAboveBelow": {
+    "message": "Skep groep bo / onder"
+  },
+  "createGroupAboveWithinBelow": {
+    "message": "Skep groep bo / binne / onder"
+  },
+  "createGroupBelow": {
+    "message": "Skep groep hieronder"
+  },
+  "createGroupInsideDestination": {
+    "message": "Skep nuwe groep binne bestemming"
+  },
+  "createGroupInsideDestinationHelp": {
+    "message": "As dit nie gemerk is nie, sal jou oortjies direk by die bestemmingsgroep gevoeg word. As dit gemerk is, sal ’n nuwe Oortjiegroep vir jou oortjies binne die bestemmingsgroep geskep word. Merk hierdie blokkie slegs as jy jou blaaier se “Oortjiegroepe”-kenmerk wil gebruik."
+  },
+  "createGroupMenuItemHelp": {
+    "message": "Skep ’n nuwe, leë groep. ’n Groep bevat ’n lys oortjies wat saam in ’n venster herstel kan word."
+  },
+  "createGroupWithin": {
+    "message": "Skep groep hierbinne"
+  },
+  "createNewGroupTip": {
+    "message": "Om ’n nuwe groep te skep, ontmerk eers “Wys slegs vouers”. Dit is sodat jy die nuutgeskepte groep in die lys sal kan sien."
+  },
+  "darkTheme": {
+    "message": "Donker tema"
+  },
+  "dayCount_few": {
+    "message": "{COUNT} dae"
+  },
+  "dayCount_many": {
+    "message": "{COUNT} dae"
+  },
+  "dayCount_one": {
+    "message": "{COUNT} dag"
+  },
+  "dayCount_other": {
+    "message": "{COUNT} dae"
+  },
+  "dayCount_two": {
+    "message": "{COUNT} dae"
+  },
+  "dayCount_zero": {
+    "message": "{COUNT} dae"
+  },
+  "delete": {
+    "message": "Vee uit"
+  },
+  "deleteAllTrash": {
+    "message": "Vee hele asblik uit"
+  },
+  "deleteThisCopy": {
+    "message": "Vee hierdie kopie uit"
+  },
+  "deselectAll": {
+    "message": "Ontkies alles"
+  },
+  "destinationColon": {
+    "message": "Bestemming:"
+  },
+  "disabled": {
+    "message": "Gedeaktiveer"
+  },
+  "doneTaskCount_few": {
+    "message": "{COUNT} voltooi"
+  },
+  "doneTaskCount_many": {
+    "message": "{COUNT} voltooi"
+  },
+  "doneTaskCount_one": {
+    "message": "{COUNT} voltooi"
+  },
+  "doneTaskCount_other": {
+    "message": "{COUNT} voltooi"
+  },
+  "doneTaskCount_two": {
+    "message": "{COUNT} voltooi"
+  },
+  "doneTaskCount_zero": {
+    "message": "{COUNT} voltooi"
+  },
+  "dontCloseGroupedTabs": {
+    "message": "Moenie enige oortjies binne oortjiegroepe toemaak nie"
+  },
+  "dontClosePinnedTabs": {
+    "message": "Moenie enige vasgespelde oortjies toemaak nie"
+  },
+  "dontCloseTabsFromDomains": {
+    "message": "Moenie enige oortjies van EXAMPLE.COM toemaak nie"
+  },
+  "dragCopyKeysHtml": {
+    "message": "<x-key>{CTRL}</x-key> of <x-key>{ALT}</x-key>"
+  },
+  "dragCopyModifierInfo": {
+    "message": "Hou die Ctrl- of Alt-sleutel in wanneer jy ’n oortjie sleep om ’n kopie daarvan te skep in plaas daarvan om dit te skuif."
+  },
+  "dragTabsHereForQuickList": {
+    "message": "Sleep jou gestoorde oortjies of groepe hierheen. Hulle sal by jou vinnige lys gevoeg word."
+  },
+  "editTabGroupTitleAndNotes": {
+    "message": "Wysig die Oortjiegroep se titel en notas"
+  },
+  "emojiShortcutInfo": {
+    "message": "Wanneer jy ’n notasveld wysig, maak die emoji-kieser oop"
+  },
+  "emptyInBrackets": {
+    "message": "(leeg)"
+  },
+  "emptyOneTabInfoMsg": {
+    "message": "Wanneer jy verskeie oortjies oop het, klik die OneTab-ikoon op jou blaaier se nutsbalk en jou oop oortjies sal hier verskyn."
+  },
+  "enabled": {
+    "message": "Geaktiveer"
+  },
+  "everything": {
+    "message": "Alles"
+  },
+  "exampleLink": {
+    "message": "Voorbeeldskakel"
+  },
+  "exampleLinkTitle": {
+    "message": "Voorbeeldskakeltitel"
+  },
+  "exampleLinkTitleOptional": {
+    "message": "Voorbeeldskakeltitel (opsioneel)"
+  },
+  "exampleRichTextParagraph": {
+    "message": "Voorbeeldparagraaf van teks met PLACEHOLDER en PLACEHOLDER"
+  },
+  "exampleWebsitePageTitle": {
+    "message": "Voorbeeld van webwerfbladsytitel"
+  },
+  "excludeDomainFromOneTab": {
+    "message": "Sluit EXAMPLE.COM van OneTab uit"
+  },
+  "excludeWebSiteFromOneTab": {
+    "message": "Sluit hierdie webwerf van OneTab uit"
+  },
+  "expiresColon": {
+    "message": "Verval:"
+  },
+  "export": {
+    "message": "Voer uit"
+  },
+  "exportImportUrls": {
+    "message": "Voer URL's uit / in"
+  },
+  "exportThenImportNote": {
+    "message": "Die volgende lys URL's kan ook op hierdie of ’n ander rekenaar weer in OneTab ingevoer word"
+  },
+  "exportUrls": {
+    "message": "Voer URL's uit"
+  },
+  "feedback": {
+    "message": "Terugvoer"
+  },
+  "filter": {
+    "message": "Filter"
+  },
+  "firefoxIncognitoInstructions": {
+    "message": "Gaan in jou blaaierinstellings na “Instellings” → “Uitbreidings en temas” → “Uitbreidings” → “OneTab” → “...” → “Bestuur”, en aktiveer dan “Laat in privaat vensters loop”."
+  },
+  "firefoxIndexedDbUnavailable": {
+    "message": "OneTab kan nie data stoor of ophaal nie. As jy Firefox opgestel het om nooit enige geskiedenis te onthou nie, sal dit voorkom dat OneTab behoorlik funksioneer. Andersins, kontak ons asseblief via ons webwerf en ons kan moontlik help."
+  },
+  "firefoxShortcutConfigInstructions": {
+    "message": "Voer die URL “about:addons?type=extension” in jou blaaier se adresbalk in. Wanneer die bladsy verskyn, klik die rat-ikoon en kies dan “Bestuur uitbreidingskortpaaie”"
+  },
+  "Folder": {
+    "message": "Vouer"
+  },
+  "folderCount_few": {
+    "message": "{COUNT} vouers"
+  },
+  "folderCount_many": {
+    "message": "{COUNT} vouers"
+  },
+  "folderCount_one": {
+    "message": "{COUNT} vouer"
+  },
+  "folderCount_other": {
+    "message": "{COUNT} vouers"
+  },
+  "folderCount_two": {
+    "message": "{COUNT} vouers"
+  },
+  "folderCount_zero": {
+    "message": "{COUNT} vouers"
+  },
+  "folders": {
+    "message": "Vouers"
+  },
+  "foldersOnly": {
+    "message": "Slegs vouers"
+  },
+  "foldGroup": {
+    "message": "Vou groep in"
+  },
+  "gettingStarted": {
+    "message": "Aan die slag"
+  },
+  "gotIt": {
+    "message": "Verstaan"
+  },
+  "goToParentFolder": {
+    "message": "Gaan na ouervouer"
+  },
+  "groupCount_few": {
+    "message": "{COUNT} groepe"
+  },
+  "groupCount_many": {
+    "message": "{COUNT} groepe"
+  },
+  "groupCount_one": {
+    "message": "{COUNT} groep"
+  },
+  "groupCount_other": {
+    "message": "{COUNT} groepe"
+  },
+  "groupCount_two": {
+    "message": "{COUNT} groepe"
+  },
+  "groupCount_zero": {
+    "message": "{COUNT} groepe"
+  },
+  "groups": {
+    "message": "Groepe"
+  },
+  "hasNotes": {
+    "message": "Met notas"
+  },
+  "help": {
+    "message": "Hulp"
+  },
+  "hideArchivedItems": {
+    "message": "Versteek geargiveerde items"
+  },
+  "import": {
+    "message": "Voer in"
+  },
+  "importAndExport": {
+    "message": "Invoer en uitvoer"
+  },
+  "importBookmarks": {
+    "message": "Voer boekmerke in"
+  },
+  "importedBookmarks": {
+    "message": "Ingevoerde boekmerke"
+  },
+  "importExportShareMenuNoteHtml": {
+    "message": "Jy kan jou oortjies ook as ’n deelbare webblad of ’n HTML-lêer uitvoer deur die <b>Deel as ’n webblad</b>- en <b>Stoor as HTML-lêer</b>-opsies in ’n groep of vouer se <b>Meer…</b>-kieslys te gebruik."
+  },
+  "importFolderAndSubfolders": {
+    "message": "Voer vouer en subvouers in"
+  },
+  "importLinksHere": {
+    "message": "Voer skakels hier in"
+  },
+  "importLinksHereMenuItemHelp": {
+    "message": "Jy kan ’n lys webskakels plak of blaaierboekmerke invoer."
+  },
+  "importNotesTruncatedNotice": {
+    "message": "Sommige ingevoerde notas was langer as die limiet van {MAX} karakters, daarom is hul eindes afgesny."
+  },
+  "importReadingList": {
+    "message": "Voer leeslys in"
+  },
+  "importText": {
+    "message": "Voer teks in"
+  },
+  "importUrls": {
+    "message": "Voer URL's in"
+  },
+  "includeGroupedTabs": {
+    "message": "Sluit gegroepeerde oortjies in"
+  },
+  "includeNotes": {
+    "message": "Sluit notas in"
+  },
+  "includePinnedTabs": {
+    "message": "Sluit vasgespelde oortjies in"
+  },
+  "includeStarRatings": {
+    "message": "Sluit sterre in"
+  },
+  "includeTabsAlreadyStored": {
+    "message": "Sluit oortjies in wat jy reeds gestoor het"
+  },
+  "includeTabsFromDomains": {
+    "message": "Sluit oortjies van EXAMPLE.COM in"
+  },
+  "incogitoPermissionRequired": {
+    "message": "OneTab benodig toestemming om Incognito-vensters te skep."
+  },
+  "incognitoWindows": {
+    "message": "Incognito-vensters"
+  },
+  "invertSelection": {
+    "message": "Keer seleksie om"
+  },
+  "itemTextTruncatedNotice": {
+    "message": "Die teks was langer as die limiet (notas kan {NOTESMAX} karakters bevat en titels {TITLEMAX}), daarom is die einde afgesny."
+  },
+  "justNow": {
+    "message": "nou net"
+  },
+  "kbdNavBackspaceInfo": {
+    "message": "Gaan op na die ouervouer"
+  },
+  "kbdNavEnterInfo": {
+    "message": "Herstel oortjies of maak vouer oop"
+  },
+  "kbdNavEscInfo": {
+    "message": "Beëindig sleutelbordnavigasie"
+  },
+  "kbdNavFocusInfo": {
+    "message": "Verander fokus van groepe na oortjies"
+  },
+  "kbdNavFoldInfo": {
+    "message": "Vou ’n groep in/uit"
+  },
+  "kbdNavMoveInfo": {
+    "message": "Beweeg tussen items"
+  },
+  "kbdNavTabInfo": {
+    "message": "Begin sleutelbordnavigasie"
+  },
+  "keyboardShortcutsColon": {
+    "message": "Sleutelbordkortpaaie:"
+  },
+  "languageTitle": {
+    "message": "Taal:"
+  },
+  "licenseAlreadyHaveKey": {
+    "message": "Ek het reeds ’n lisensiesleutel"
+  },
+  "licenseAlreadySetUpRestarting": {
+    "message": "Hierdie lisensie is reeds opgestel, daarom sal ons hierdie toestel aan die bestaande opstelling koppel. ’n Nuwe kode is per e-pos na die geregistreerde adres gestuur."
+  },
+  "licenseBackLink": {
+    "message": "Terug"
+  },
+  "licenseBrowserOnOs": {
+    "message": "{BROWSER} op {OS}"
+  },
+  "licenseBrowsersActiveOn": {
+    "message": "Aktief op {DATE}"
+  },
+  "licenseBrowsersActiveToday": {
+    "message": "Aktief vandag"
+  },
+  "licenseBrowsersAdded": {
+    "message": "Bygevoeg op {DATE}"
+  },
+  "licenseBrowsersThisBrowser": {
+    "message": "Hierdie blaaier"
+  },
+  "licenseBrowserUnknown": {
+    "message": "Blaaier"
+  },
+  "licenseChangeEmail": {
+    "message": "Verander e-posadres"
+  },
+  "licenseChangeEmailWebLink": {
+    "message": "Verander e-posadres"
+  },
+  "licenseChooseRecoveryTitle": {
+    "message": "Kies hoe jou enkripsiesleutel beskerm word"
+  },
+  "licenseCloseModal": {
+    "message": "Maak toe"
+  },
+  "licenseCodeExpired": {
+    "message": "Daardie kode het verval. Versoek asseblief ’n nuwe e-pos."
+  },
+  "licenseCodeIncorrectTriesRemaining": {
+    "message": "Verkeerde kode. Pogings oor: {COUNT}."
+  },
+  "licenseCodeInvalidFormat": {
+    "message": "Voer asseblief die 6-syferkode uit die e-pos in."
+  },
+  "licenseCodePlaceholder": {
+    "message": "6-syferkode"
+  },
+  "licenseCodeSentTo": {
+    "message": "Voer die 6-syferkode in wat ons per e-pos na {EMAIL} gestuur het."
+  },
+  "licenseCodeSourceDeviceOption": {
+    "message": "Kry ’n kode van ’n blaaier wat reeds gekoppel is"
+  },
+  "licenseCodeSourceDeviceOptionDescription": {
+    "message": "Maak Rugsteun en sinkronisering daar oop en klik “Koppel nog ’n blaaier of profiel”."
+  },
+  "licenseCodeSourceEmailOption": {
+    "message": "Stuur ’n kode per e-pos na {EMAIL}"
+  },
+  "licenseCodeSourceTitle": {
+    "message": "Kry ’n verifikasiekode"
+  },
+  "licenseCodeTriesExhausted": {
+    "message": "Daar is geen pogings vir daardie kode oor nie. Versoek asseblief ’n nuwe e-pos."
+  },
+  "licenseConnectAnotherBrowser": {
+    "message": "Koppel nog ’n blaaier of profiel"
+  },
+  "licenseConnectedBrowsers": {
+    "message": "Gekoppelde blaaiers"
+  },
+  "licenseDeviceAddConnected": {
+    "message": "{BROWSER} is pas aan jou lisensie gekoppel."
+  },
+  "licenseDeviceAddExpired": {
+    "message": "Hierdie kode het verval."
+  },
+  "licenseDeviceAddExpiresIn": {
+    "message": "Verval oor {TIME}"
+  },
+  "licenseDeviceAddGetNewCode": {
+    "message": "Kry ’n nuwe kode"
+  },
+  "licenseDeviceAddIntro": {
+    "message": "Om nog ’n blaaier of profiel te koppel: voer jou lisensiesleutel daar in en voer dan hierdie kode in wanneer jy gevra word."
+  },
+  "licenseDeviceAddKeyReminder": {
+    "message": "Jy sal steeds jou lisensiesleutel nodig hê — dit word nie hier gewys nie. Dit is in die e-pos waarin jy dit oorspronklik ontvang het, of op jou faktureringsbladsy."
+  },
+  "licenseDeviceAddNeverShare": {
+    "message": "Gebruik hierdie kode net in jou eie nuwe blaaier. Moet dit nooit met enigiemand deel nie — OneTab sal jou nooit daarvoor vra nie. Dit werk net vir hierdie blaaier se lisensie."
+  },
+  "licenseDeviceCodeInsteadLink": {
+    "message": "Kry eerder ’n kode van ’n gekoppelde blaaier"
+  },
+  "licenseDeviceCodePrompt": {
+    "message": "Maak Rugsteun en sinkronisering oop in ’n blaaier wat reeds aan jou lisensie gekoppel is en klik “Koppel nog ’n blaaier of profiel”. Voer die 6-syferkode in wat daar gewys word."
+  },
+  "licenseDeviceLimitReached": {
+    "message": "Hierdie lisensie het sy toestellimiet bereik."
+  },
+  "licenseDoneButton": {
+    "message": "Klaar"
+  },
+  "licenseEasyOptionDescription": {
+    "message": "Jou enkripsiesleutel word veilig op die bediener bewaar, sodat jy dit per e-pos kan herwin."
+  },
+  "licenseEasyOptionLabel": {
+    "message": "Maklik"
+  },
+  "licenseEmailCodeInsteadLink": {
+    "message": "Stuur eerder vir my ’n kode per e-pos"
+  },
+  "licenseEmailPlaceholder": {
+    "message": "E-posadres"
+  },
+  "licenseEmailPrompt": {
+    "message": "Jou e-posadres"
+  },
+  "licenseForgotKeyBack": {
+    "message": "Terug na lisensiesleutelinvoer"
+  },
+  "licenseForgotKeyEnterKeyButton": {
+    "message": "Voer lisensiesleutel in"
+  },
+  "licenseForgotKeyLink": {
+    "message": "Het jy jou lisensiesleutel vergeet?"
+  },
+  "licenseForgotKeyNoEmailOnRecord": {
+    "message": "Geen lisensiesleutel word met daardie e-posadres geassosieer nie. Kyk vir tikfoute of probeer ’n ander adres wat jy dalk gebruik het."
+  },
+  "licenseForgotKeyPrompt": {
+    "message": "Voer jou e-posadres in. As dit vir ’n lisensiesleutel geregistreer is, sal ons die sleutel per e-pos daarheen stuur."
+  },
+  "licenseForgotKeySendButton": {
+    "message": "Stuur"
+  },
+  "licenseForgotKeySentTo": {
+    "message": "Ons het jou lisensiesleutel per e-pos na {EMAIL} gestuur. Sodra dit opdaag, kan jy dit hier invoer."
+  },
+  "licenseForgotKeyTooManyRequests": {
+    "message": "Jou lisensiesleutel is onlangs reeds verskeie kere per e-pos na daardie adres gestuur. Gaan asseblief jou strooiposvouer na of probeer môre weer."
+  },
+  "licenseGenericError": {
+    "message": "Iets het verkeerd geloop. Probeer asseblief weer."
+  },
+  "licenseGoButton": {
+    "message": "Gaan"
+  },
+  "licenseInvalidEmail": {
+    "message": "Voer asseblief ’n geldige e-posadres in."
+  },
+  "licenseKeyInvalidFormat": {
+    "message": "Dit lyk nie soos ’n geldige lisensiesleutel nie. Dit moet 20 letters (A–F) en syfers wees, soos XXXX-XXXX-XXXX-XXXX-XXXX."
+  },
+  "licenseKeyNotFound": {
+    "message": "Lisensiesleutel nie gevind nie. Gaan dit na en probeer weer."
+  },
+  "licenseNoLongerActiveError": {
+    "message": "Hierdie lisensie is nie meer aktief nie. As jy dink dit is ’n fout, kontak ondersteuning."
+  },
+  "licenseRateLimitedError": {
+    "message": "Te veel mislukte pogings vanaf jou netwerk. Wag asseblief ’n rukkie en probeer weer."
+  },
+  "licenseResendEmail": {
+    "message": "Stuur ’n nuwe e-pos"
+  },
+  "licenseServiceProblemTryLater": {
+    "message": "Dit kan weens ’n probleem aan ons kant nie nou voltooi word nie. Probeer asseblief later weer — as dit aanhou gebeur, kontak ondersteuning."
+  },
+  "licenseSuccess": {
+    "message": "Sukses! Jou gestoorde oortjies sal nou geënkripteer en veilig in die wolk gerugsteun word."
+  },
+  "licenseSuccessJoin": {
+    "message": "Sukses! Hierdie blaaier is by jou geënkripteerde rugsteun gevoeg. Jou gestoorde oortjies van hier en van jou ander blaaiers sal nou gesinkroniseer bly."
+  },
+  "licenseSuggestedEmailIntro": {
+    "message": "Jou lisensiesleutel is per e-pos gestuur na:"
+  },
+  "licenseSuggestedEmailNote": {
+    "message": "Hierdie adres sal vir verifikasiekodes en rekeningherwinning gebruik word, so maak seker dit is joune."
+  },
+  "licenseSuspendedBillingError": {
+    "message": "Hierdie lisensie kan weens ’n faktureringsprobleem nie nou gekoppel word nie. As jy die fakturering bestuur, meld asseblief by one-tab.com aan om dit op te los — andersins, kontak die persoon wat verantwoordelik is vir die aankoop van jou lisensie."
+  },
+  "licenseUltraKeyConfirmCheckbox": {
+    "message": "Ek het ’n kopie van my sleutel gestoor en verstaan dat dit nooit weer gewys sal word nie."
+  },
+  "licenseUltraKeyConfirmRequired": {
+    "message": "Bevestig asseblief dat jy ’n kopie van jou sleutel gestoor het."
+  },
+  "licenseUltraKeyEnterPrompt": {
+    "message": "Voer jou enkripsiesleutel in om hierdie toestel klaar te koppel."
+  },
+  "licenseUltraKeyIntro": {
+    "message": "Dit is jou enkripsiesleutel. Bewaar ’n veilige kopie daarvan (byvoorbeeld in ’n wagwoordbestuurder) sodat jy jou data ná ’n rekenaarfaling of diefstal kan herwin."
+  },
+  "licenseUltraKeyMismatch": {
+    "message": "Daardie sleutel is nie korrek vir hierdie lisensie nie. Gaan dit na en probeer weer."
+  },
+  "licenseUltraKeyNeverShownAgain": {
+    "message": "Hierdie sleutel sal NOOIT weer gewys word nie."
+  },
+  "licenseUltraKeyPlaceholder": {
+    "message": "Enkripsiesleutel"
+  },
+  "licenseUltraOptionDescription": {
+    "message": "Net jy besit die enkripsiesleutel, en dit kan nie herwin word as jy dit verloor nie. Kies hierdie opsie slegs as jy seker is dat jy ’n veilige kopie daarvan kan bewaar."
+  },
+  "licenseUltraOptionLabel": {
+    "message": "Ultraprivaatheid"
+  },
+  "licenseUseDifferentEmail": {
+    "message": "Gebruik ’n ander e-posadres"
+  },
+  "lightTheme": {
+    "message": "Ligte tema"
+  },
+  "localBackupRestoredModal": {
+    "message": "Die deel van jou blaaierprofiel wat OneTab se data stoor, is beskadig of uitgevee. Dit kan gebeur nadat ’n blaaier omgeval het, of wanneer foutiewe stelselskoonmaker- of privaatheidskoonmaker-sagteware blaaierdata verwyder."
+  },
+  "localBackupRestoredModalRecovery": {
+    "message": "Jy was hierdie keer gelukkig: die skade het nie die afsonderlike deel van die profiel bereik waar OneTab ’n weeklikse rugsteun bewaar nie, daarom is jou oortjies herstel uit die rugsteun wat op {DATE} gemaak is. Enigiets wat jy ná daardie datum gestoor of verander het, kon nie herwin word nie. As die hele profiel verlore gegaan het, of die rugsteun ook beskadig was, sou daar niks gewees het waaruit herstel kon word nie."
+  },
+  "localBackupRestoredModalTitle": {
+    "message": "OneTab het jou oortjies ná dataverlies herwin"
+  },
+  "localeId": {
+    "message": "af"
+  },
+  "locationColon": {
+    "message": "Ligging:"
+  },
+  "lock": {
+    "message": "Sluit"
+  },
+  "lockedGroupUnlockHelp": {
+    "message": "Om te ontsluit, gebruik die Meer…-kieslys. Wanneer ’n groep gesluit is, kan jy nie die groep of sy oortjies uitvee nie, en oortjies kan nie herrangskik word nie."
+  },
+  "lockMenuItemHelp": {
+    "message": "Wanneer ’n groep gesluit is, kan jy nie items binne die groep verwyder of herrangskik nie (totdat jy die groep ontsluit)."
+  },
+  "makeThisATask": {
+    "message": "Maak dit ’n taak"
+  },
+  "manifestDescription": {
+    "message": "Bespaar tot 95% geheue en verminder oortjierommel"
+  },
+  "markAsArchived": {
+    "message": "Merk as geargiveer"
+  },
+  "markAsArchivedMenuItemHelp": {
+    "message": "Wanneer jy ’n item as geargiveer merk, sal dit ’n grys agtergrond hê. Dit is ’n visuele aanduiding dat jy klaar is met hierdie item (byvoorbeeld, dit is ’n artikel wat jy klaar gelees het). As jy iets argiveer wat as ’n taak gemerk is, sal die taak nie meer in die takekolom op jou OneTab-bladsy verskyn nie."
+  },
+  "markAsDoneTask": {
+    "message": "Merk as voltooide taak"
+  },
+  "markAsDoneTaskMenuItemHelp": {
+    "message": "Dui visueel aan dat ’n taak voltooi is"
+  },
+  "markAsPendingTask": {
+    "message": "Merk as uitstaande taak"
+  },
+  "markAsPendingTaskMenuItemHelp": {
+    "message": "Dui visueel aan dat hierdie item ’n taak is. ’n Taakikoon sal verskyn waarop jy dan kan klik om visueel aan te dui dat die taak voltooi is. Alle take (tensy dit as geargiveer gemerk is) sal ook in die takekolom op jou OneTab-bladsy verskyn."
+  },
+  "matchCount_few": {
+    "message": "{COUNT} treffers"
+  },
+  "matchCount_many": {
+    "message": "{COUNT} treffers"
+  },
+  "matchCount_one": {
+    "message": "{COUNT} treffer"
+  },
+  "matchCount_other": {
+    "message": "{COUNT} treffers"
+  },
+  "matchCount_two": {
+    "message": "{COUNT} treffers"
+  },
+  "matchCount_zero": {
+    "message": "{COUNT} treffers"
+  },
+  "matchWholeWordsOnly": {
+    "message": "Laat slegs hele woorde ooreenstem"
+  },
+  "mayNeedToRestartBrowser": {
+    "message": "As jy hierdie boodskap elke keer sien, dateer asseblief jou blaaier op en herbegin dit."
+  },
+  "mergeIntoParent": {
+    "message": "Voeg met ouer saam"
+  },
+  "mergeOpenTabsHere_few": {
+    "message": "Voeg {COUNT} oop oortjies hier saam"
+  },
+  "mergeOpenTabsHere_many": {
+    "message": "Voeg {COUNT} oop oortjies hier saam"
+  },
+  "mergeOpenTabsHere_one": {
+    "message": "Voeg {COUNT} oop oortjie hier saam"
+  },
+  "mergeOpenTabsHere_other": {
+    "message": "Voeg {COUNT} oop oortjies hier saam"
+  },
+  "mergeOpenTabsHere_two": {
+    "message": "Voeg {COUNT} oop oortjies hier saam"
+  },
+  "mergeOpenTabsHere_zero": {
+    "message": "Voeg {COUNT} oop oortjies hier saam"
+  },
+  "mergeSelectedTabsHere_few": {
+    "message": "Voeg {COUNT} geselekteerde oortjies hier saam"
+  },
+  "mergeSelectedTabsHere_many": {
+    "message": "Voeg {COUNT} geselekteerde oortjies hier saam"
+  },
+  "mergeSelectedTabsHere_one": {
+    "message": "Voeg {COUNT} geselekteerde oortjie hier saam"
+  },
+  "mergeSelectedTabsHere_other": {
+    "message": "Voeg {COUNT} geselekteerde oortjies hier saam"
+  },
+  "mergeSelectedTabsHere_two": {
+    "message": "Voeg {COUNT} geselekteerde oortjies hier saam"
+  },
+  "mergeSelectedTabsHere_zero": {
+    "message": "Voeg {COUNT} geselekteerde oortjies hier saam"
+  },
+  "mergeWithInnerGroups": {
+    "message": "Voeg met subgroepe saam"
+  },
+  "modalMoveToTrashHintExampleGroupTitle": {
+    "message": "Voorbeeld van groeptitel"
+  },
+  "modalMoveToTrashHintHeading": {
+    "message": "Wenk: Beweeg die muis oor ’n groeptitel en klik dan op die X om dit na die asblik te skuif."
+  },
+  "modalOptionAutoActionOnOpenHeading": {
+    "message": "Nadat oortjies herstel is:"
+  },
+  "modalOptionAutoActionOnOpenOpenDesc": {
+    "message": "Vee handmatig uit wanneer jy klaar is"
+  },
+  "modalOptionAutoActionOnOpenTrashDesc": {
+    "message": "Makliker vir vinnige stoor en herstel"
+  },
+  "modalRemigrationDontAskAgain": {
+    "message": "Moenie weer vra nie"
+  },
+  "modalRemigrationFooterHtml": {
+    "message": "Klik <b>Ja</b>, tensy die migrasie reeds plaasgevind het en jy die gemigreerde oortjies doelbewus uitgevee het."
+  },
+  "modalRemigrationNotNow": {
+    "message": "Nie nou nie"
+  },
+  "modalRemigrationTabsFoundPrompt_few": {
+    "message": "{COUNT} oortjies van OneTab v1 gevind. Migreer hulle?"
+  },
+  "modalRemigrationTabsFoundPrompt_many": {
+    "message": "{COUNT} oortjies van OneTab v1 gevind. Migreer hulle?"
+  },
+  "modalRemigrationTabsFoundPrompt_one": {
+    "message": "{COUNT} oortjie van OneTab v1 gevind. Migreer dit?"
+  },
+  "modalRemigrationTabsFoundPrompt_other": {
+    "message": "{COUNT} oortjies van OneTab v1 gevind. Migreer hulle?"
+  },
+  "modalRemigrationTabsFoundPrompt_two": {
+    "message": "{COUNT} oortjies van OneTab v1 gevind. Migreer hulle?"
+  },
+  "modalRemigrationTabsFoundPrompt_zero": {
+    "message": "{COUNT} oortjies van OneTab v1 gevind. Migreer hulle?"
+  },
+  "modalRemigrationYes": {
+    "message": "Ja"
+  },
+  "modalUpdateToV2Heading": {
+    "message": "OneTab is opgedateer"
+  },
+  "modalUpdateToV2QuickTourHtml": {
+    "message": "Wil jy ’n vinnige toer hê? Klik <b>Hulp</b> boaan."
+  },
+  "modalUpdateToV2UseOneTabLikeBefore": {
+    "message": "Jy kan OneTab steeds net soos voorheen gebruik — stoor jou oortjies met ’n enkele klik."
+  },
+  "modifySharing": {
+    "message": "Wysig deling"
+  },
+  "moreEllipsis": {
+    "message": "Meer…"
+  },
+  "moreSearchFilters": {
+    "message": "Meer soekfilters"
+  },
+  "move": {
+    "message": "Skuif"
+  },
+  "moveBack": {
+    "message": "Skuif terug"
+  },
+  "moveToTrash": {
+    "message": "Skuif na asblik"
+  },
+  "namedOnly": {
+    "message": "Slegs benoemde items"
+  },
+  "navigationFilter": {
+    "message": "Navigasiefilter"
+  },
+  "navigationFilterColumnOnlyNote": {
+    "message": "Hierdie filter geld net vir die navigasiekolom."
+  },
+  "newExclamation": {
+    "message": "Nuut!"
+  },
+  "noDupsExistExceptForColon": {
+    "message": "Geen duplikate nie, behalwe vir:"
+  },
+  "noDupsFoundHere": {
+    "message": "Geen duplikate hier gevind nie"
+  },
+  "noMatches": {
+    "message": "Geen treffers"
+  },
+  "noMatchesFound": {
+    "message": "Geen treffers gevind nie"
+  },
+  "nonArchived": {
+    "message": "Nie geargiveer nie"
+  },
+  "nonTabPinFlagHelp": {
+    "message": "Hierdie item is boaan die vouer vasgespeld. Klik hierdie ikoon om dit los te speld."
+  },
+  "noOpenTabsToStore": {
+    "message": "Daar is geen oop oortjies in hierdie venster om te stoor nie."
+  },
+  "noReadingListEntries": {
+    "message": "Geen leeslysinskrywings gevind nie"
+  },
+  "noTabsInOneTabYet": {
+    "message": "Jy het nog geen oortjies in OneTab nie"
+  },
+  "noTabsMeetCriteriaUseCheckboxes": {
+    "message": "Geen oop oortjies voldoen aan jou kriteria nie. Gebruik asseblief die merkblokkies hierbo."
+  },
+  "notAssigned": {
+    "message": "Nie toegewys nie"
+  },
+  "notes": {
+    "message": "Notas"
+  },
+  "notesAboutTheLinkOptional": {
+    "message": "Notas oor die skakel (opsioneel)"
+  },
+  "notesAboutTheSecondLinkOptional": {
+    "message": "Notas oor die tweede skakel (opsioneel)"
+  },
+  "noTextHasBeenEntered": {
+    "message": "Geen teks is ingevoer nie"
+  },
+  "ok": {
+    "message": "OK"
+  },
+  "omniboxShortcutInfo": {
+    "message": "Om jou lys in OneTab vanuit enige oortjie te deursoek: Gaan na jou blaaier se adresbalk, tik 11, dan spasie, dan ’n soekwoord. Om ’n gewone soektog (nie in OneTab nie) te doen wat met 11 begin, druk 11, dan spasie, dan terugspasie"
+  },
+  "OneTabAlsoAvailableForFirefox": {
+    "message": "OneTab is ook beskikbaar vir Firefox"
+  },
+  "oneTabDesignedToProtectPrivacy": {
+    "message": "OneTab is ontwerp om jou privaatheid te beskerm. Jou oortjies word nie aan ons bekendgemaak nie."
+  },
+  "oneTabExportPageTitle": {
+    "message": "OneTab-uitvoer"
+  },
+  "oneTabFolderSlashShortcutInfo": {
+    "message": "Fokus die soekblokkie en soek net binne die huidige vouer"
+  },
+  "oneTabImportExportPageTitle": {
+    "message": "OneTab-invoer/uitvoer"
+  },
+  "oneTabNeedsPermissionToAccessYourTabs": {
+    "message": "OneTab benodig toestemming om toegang tot jou oortjies te kry."
+  },
+  "oneTabOptionsPageTitle": {
+    "message": "OneTab-opsies"
+  },
+  "oneTabPermissionRequired": {
+    "message": "OneTab – toestemming vereis"
+  },
+  "oneTabRestartRequired": {
+    "message": "OneTab moet herbegin. Geen ander oortjies sal toegemaak word nie."
+  },
+  "oneTabSlashShortcutInfo": {
+    "message": "Fokus die soekblokkie"
+  },
+  "open": {
+    "message": "Maak oop"
+  },
+  "openActionPopup": {
+    "message": "OneTab-aksie (gelykstaande daaraan om die OneTab-nutsbalkikoon te klik)"
+  },
+  "openAsCollapsedTabGroup": {
+    "message": "Maak as ’n “ingevoude” Oortjiegroep oop"
+  },
+  "openAsCollapsedTabGroupMenuItemHelp": {
+    "message": "As jy hierdie oortjies as ’n ingevoude “Oortjiegroep” oopmaak, sal slegs die groeplabel gewys word totdat jy daarop klik om die oortjies binne-in te wys."
+  },
+  "openAsPinnedTab": {
+    "message": "Speld oortjie vas by oopmaak"
+  },
+  "openAsPinnedTabMenuItemHelp": {
+    "message": "Wanneer hierdie oortjie herstel word, word dit as ’n vasgespelde blaaieroortjie herstel. Vasgespelde oortjies sal altyd eerste in die blaaiervenster verskyn."
+  },
+  "openAsTabGroup": {
+    "message": "Maak as ’n Oortjiegroep oop"
+  },
+  "openAsTabGroupMenuItemHelp": {
+    "message": "Jou blaaier laat toe dat oortjies in gekleurde “Oortjiegroepe” binne ’n venster gegroepeer word."
+  },
+  "openFolder": {
+    "message": "Maak vouer oop"
+  },
+  "openGroupsLimitNotice_few": {
+    "message": "Om te voorkom dat jou blaaier oorlaai word, sal slegs die eerste {COUNT} groepe oopgemaak word."
+  },
+  "openGroupsLimitNotice_many": {
+    "message": "Om te voorkom dat jou blaaier oorlaai word, sal slegs die eerste {COUNT} groepe oopgemaak word."
+  },
+  "openGroupsLimitNotice_one": {
+    "message": "Om te voorkom dat jou blaaier oorlaai word, sal slegs die eerste {COUNT} groep oopgemaak word."
+  },
+  "openGroupsLimitNotice_other": {
+    "message": "Om te voorkom dat jou blaaier oorlaai word, sal slegs die eerste {COUNT} groepe oopgemaak word."
+  },
+  "openGroupsLimitNotice_two": {
+    "message": "Om te voorkom dat jou blaaier oorlaai word, sal slegs die eerste {COUNT} groepe oopgemaak word."
+  },
+  "openGroupsLimitNotice_zero": {
+    "message": "Om te voorkom dat jou blaaier oorlaai word, sal slegs die eerste {COUNT} groepe oopgemaak word."
+  },
+  "openInIncognitoWindow": {
+    "message": "Herstel in ’n nuwe Incognito-venster"
+  },
+  "openInNewWindow": {
+    "message": "Herstel in ’n nuwe venster"
+  },
+  "openInThisWindow": {
+    "message": "Herstel in hierdie venster"
+  },
+  "openOneTab": {
+    "message": "Maak OneTab oop"
+  },
+  "openOneTabAfter": {
+    "message": "Maak OneTab oop nadat oortjies gestoor is"
+  },
+  "openONETABLogo": {
+    "message": "Maak ONETAB oop"
+  },
+  "openParentFolder": {
+    "message": "Maak ouervouer oop"
+  },
+  "openTabFromWebsite": {
+    "message": "Maak ’n oortjie oop en gaan na die webwerf"
+  },
+  "openTabLimit_few": {
+    "message": "Om te voorkom dat jou blaaier oorlaai word, kan hoogstens {COUNT} oortjies gelyktydig oopgemaak word."
+  },
+  "openTabLimit_many": {
+    "message": "Om te voorkom dat jou blaaier oorlaai word, kan hoogstens {COUNT} oortjies gelyktydig oopgemaak word."
+  },
+  "openTabLimit_one": {
+    "message": "Om te voorkom dat jou blaaier oorlaai word, kan hoogstens {COUNT} oortjie gelyktydig oopgemaak word."
+  },
+  "openTabLimit_other": {
+    "message": "Om te voorkom dat jou blaaier oorlaai word, kan hoogstens {COUNT} oortjies gelyktydig oopgemaak word."
+  },
+  "openTabLimit_two": {
+    "message": "Om te voorkom dat jou blaaier oorlaai word, kan hoogstens {COUNT} oortjies gelyktydig oopgemaak word."
+  },
+  "openTabLimit_zero": {
+    "message": "Om te voorkom dat jou blaaier oorlaai word, kan hoogstens {COUNT} oortjies gelyktydig oopgemaak word."
+  },
+  "openTabsAlreadyStoredHere_few": {
+    "message": "{COUNT} oop oortjies reeds hier gestoor:"
+  },
+  "openTabsAlreadyStoredHere_many": {
+    "message": "{COUNT} oop oortjies reeds hier gestoor:"
+  },
+  "openTabsAlreadyStoredHere_one": {
+    "message": "{COUNT} oop oortjie reeds hier gestoor:"
+  },
+  "openTabsAlreadyStoredHere_other": {
+    "message": "{COUNT} oop oortjies reeds hier gestoor:"
+  },
+  "openTabsAlreadyStoredHere_two": {
+    "message": "{COUNT} oop oortjies reeds hier gestoor:"
+  },
+  "openTabsAlreadyStoredHere_zero": {
+    "message": "{COUNT} oop oortjies reeds hier gestoor:"
+  },
+  "openTabsConfirm_few": {
+    "message": "Jy staan op die punt om {COUNT} oortjies oop te maak. Is jy seker?"
+  },
+  "openTabsConfirm_many": {
+    "message": "Jy staan op die punt om {COUNT} oortjies oop te maak. Is jy seker?"
+  },
+  "openTabsConfirm_one": {
+    "message": "Jy staan op die punt om {COUNT} oortjie oop te maak. Is jy seker?"
+  },
+  "openTabsConfirm_other": {
+    "message": "Jy staan op die punt om {COUNT} oortjies oop te maak. Is jy seker?"
+  },
+  "openTabsConfirm_two": {
+    "message": "Jy staan op die punt om {COUNT} oortjies oop te maak. Is jy seker?"
+  },
+  "openTabsConfirm_zero": {
+    "message": "Jy staan op die punt om {COUNT} oortjies oop te maak. Is jy seker?"
+  },
+  "openTabsNotStoredInOneTab_few": {
+    "message": "{COUNT} oop oortjies nie in OneTab gestoor nie"
+  },
+  "openTabsNotStoredInOneTab_many": {
+    "message": "{COUNT} oop oortjies nie in OneTab gestoor nie"
+  },
+  "openTabsNotStoredInOneTab_one": {
+    "message": "{COUNT} oop oortjie nie in OneTab gestoor nie"
+  },
+  "openTabsNotStoredInOneTab_other": {
+    "message": "{COUNT} oop oortjies nie in OneTab gestoor nie"
+  },
+  "openTabsNotStoredInOneTab_two": {
+    "message": "{COUNT} oop oortjies nie in OneTab gestoor nie"
+  },
+  "openTabsNotStoredInOneTab_zero": {
+    "message": "{COUNT} oop oortjies nie in OneTab gestoor nie"
+  },
+  "optionAutoActionOnOpenArchiveDesc": {
+    "message": "As oortjies as geargiveer gemerk word, kry hulle ’n grys gestreepte agtergrond. Dit gee ’n visuele aanduiding dat jy die oortjies gelees het of daarmee klaar is."
+  },
+  "optionAutoActionOnOpenArchiveTitle": {
+    "message": "Merk hulle as geargiveer"
+  },
+  "optionAutoActionOnOpenHeading": {
+    "message": "Wanneer oortjies herstel word:"
+  },
+  "optionAutoActionOnOpenNote": {
+    "message": "Geslote groepe behou altyd hul oortjies"
+  },
+  "optionAutoActionOnOpenOpenDesc": {
+    "message": "Om die oortjies as geargiveer te merk wanneer jy dit herstel, hou die Alt- of Option-sleutel in"
+  },
+  "optionAutoActionOnOpenOpenTitle": {
+    "message": "Hou hulle in jou lys"
+  },
+  "optionAutoActionOnOpenTrashDesc": {
+    "message": "Hou die Ctrl- of Cmd-sleutel in om die oortjies tydens herstel in jou lys te behou"
+  },
+  "optionAutoActionOnOpenTrashTitle": {
+    "message": "Verwyder hulle uit jou lys"
+  },
+  "optionBrowserActionHeading": {
+    "message": "Wanneer jy op die OneTab-nutsbalkikoon klik:"
+  },
+  "optionBrowserActionOpenPopupDesc": {
+    "message": "Die aksie-opspringvenster sal vir jou ’n lys oop oortjies wys en jou laat kies presies watter oortjies jy na OneTab wil stuur. Dit sal jou ’n titel laat instel vir die groep oortjies wat jy stoor, sodat jy dit nie later op die OneTab-bladsy hoef te doen nie. Die opspringvenster sal jou ook maklike toegang tot jou vinnige lys vanuit enige blaaiervenster gee."
+  },
+  "optionBrowserActionOpenPopupDesc2": {
+    "message": "Kies presies watter oortjies om te stoor"
+  },
+  "optionBrowserActionOpenPopupTitle": {
+    "message": "Wys die OneTab-aksieopspringvenster"
+  },
+  "optionBrowserActionSendCurrentTabDesc": {
+    "message": "Die oortjie sal in die eerste groep op jou OneTab-bladsy geplaas word (enige groepe wat vasgespeld of gesluit is, word geïgnoreer)"
+  },
+  "optionBrowserActionSendCurrentTabTitle": {
+    "message": "Stuur slegs die huidige oortjie na OneTab"
+  },
+  "optionBrowserActionSendTabsInWindowDesc": {
+    "message": "Jou oortjies sal toegemaak en in jou OneTab-lys gestoor word. As jy verskeie oortjies in jou blaaier se oortjiebalk gekies het (met die Cmd-, Ctrl- of Shift-sleutel), sal slegs die gekose oortjies na OneTab gestuur word. As jy jou blaaier se Oortjiegroepe-funksie gebruik, sal slegs die huidige Oortjiegroep na OneTab gestuur word."
+  },
+  "optionBrowserActionSendTabsInWindowDesc2": {
+    "message": "Die vinnigste manier om oortjies te stoor"
+  },
+  "optionBrowserActionSendTabsInWindowTitle": {
+    "message": "Stuur oortjies in die huidige venster na OneTab"
+  },
+  "optionBrowserActionSendWholeWindowDesc": {
+    "message": "Dieselfde as hierbo, maar die hele venster word gestoor in plaas van net die huidige Oortjiegroep"
+  },
+  "optionBrowserActionSendWholeWindowTitle": {
+    "message": "Stuur die huidige venster na OneTab, met alle oortjies en Oortjiegroepe"
+  },
+  "optionCopyToClipboardFormatHeading": {
+    "message": "Skakels na die knipbord kopieer:"
+  },
+  "optionCopyToClipboardFormatMarkdownTitle": {
+    "message": "Markdown"
+  },
+  "optionCopyToClipboardFormatNote": {
+    "message": "Hierdie instelling geld wanneer jy die “Kopieer na knipbord”-aksie gebruik. Jy kan ook oortjies en groepe direk van OneTab na ’n dokument sleep."
+  },
+  "optionCopyToClipboardFormatRichTextDesc": {
+    "message": "Toepassings soos woordverwerkers sal jou toelaat om ryk teks te plak. As dit nie ondersteun word nie, sal gewone teks eerder geplak word."
+  },
+  "optionCopyToClipboardFormatRichTextTitle": {
+    "message": "Ryk teks, waar beskikbaar"
+  },
+  "optionCopyToClipboardFormatTitleUrlTitle": {
+    "message": "Titel en URL"
+  },
+  "optionCopyToClipboardFormatUrlOnlyTitle": {
+    "message": "Slegs URL"
+  },
+  "optionCopyToClipboardFormatUrlTitleTitle": {
+    "message": "URL en titel"
+  },
+  "optionDefaultTabGroupOpenTypeCurrentWindow": {
+    "message": "Maak die Oortjiegroep in die huidige venster oop"
+  },
+  "optionDefaultTabGroupOpenTypeHeading": {
+    "message": "Wanneer jy klik om ’n groep oortjies oop te maak wat ingestel is om as ’n “Oortjiegroep” oop te maak:"
+  },
+  "optionDefaultTabGroupOpenTypeNewWindow": {
+    "message": "Maak die Oortjiegroep in ’n nuwe venster oop"
+  },
+  "optionDefaultTabGroupOpenTypeNote": {
+    "message": "As jy die aftrekkieslys gebruik om ’n spesifieke opsie te kies (soos om oortjies in ’n Incognito-venster oop te maak), sal daardie opsie vir daardie spesifieke groep onthou word."
+  },
+  "optionDefaultWindowGroupOpenTypeCurrentWindow": {
+    "message": "Maak die oortjies in die huidige venster oop"
+  },
+  "optionDefaultWindowGroupOpenTypeHeading": {
+    "message": "Wanneer ’n groep oortjies herstel word:"
+  },
+  "optionDefaultWindowGroupOpenTypeNewWindow": {
+    "message": "Maak die oortjies in ’n nuwe venster oop, tensy OneTab die enigste oortjie in die huidige venster is"
+  },
+  "optionDefaultWindowGroupOpenTypeNewWindowAlways": {
+    "message": "Maak die oortjies in ’n nuwe venster oop"
+  },
+  "optionDefaultWindowGroupOpenTypeNote": {
+    "message": "Herstelkeuses wat uit ’n groep se “Meer…”-kieslys gemaak word, word vir daardie groep onthou."
+  },
+  "optionDiscardNonActiveTabOnOpenHeading": {
+    "message": "Bespaar onmiddellik geheue (RAM) wanneer oortjies die eerste keer oopgemaak word:"
+  },
+  "optionDiscardNonActiveTabOnOpenNote": {
+    "message": "As hierdie instelling geaktiveer is, sal dit oortjies onmiddellik uit die geheue ontlaai wanneer jy hulle die eerste keer uit jou OneTab-lys oopmaak. Dit is nuttig as jy gereeld tientalle oortjies gelyktydig oopmaak, aangesien dit sal voorkom dat hulle almal in die geheue gelaai word totdat jy toegang tot hulle kry. As hierdie instelling gedeaktiveer is, sal baie webblaaiers steeds outomaties kies om oortjies uit die geheue te ontlaai as jy hulle nie tans gebruik nie."
+  },
+  "optionDisplayContextMenuHeading": {
+    "message": "Regsklik binne ’n webblad om toegang tot die OneTab-kontekskieslys te kry:"
+  },
+  "optionDisplayContextMenuNote": {
+    "message": "As jy die kieslys deaktiveer, sal jy nie toegang tot die “Sluit webwerf van OneTab uit”-kenmerk kan kry nie"
+  },
+  "optionDuplicatesAllow": {
+    "message": "Laat duplikate toe"
+  },
+  "optionDuplicatesReject": {
+    "message": "Verwerp duplikate stilweg"
+  },
+  "optionDuplicatesRejectDesc": {
+    "message": "As OneTab reeds die oortjie bevat, sal dit nie weer bygevoeg word nie."
+  },
+  "optionDuplicatesTitle": {
+    "message": "Duplikate:"
+  },
+  "optionGroupTitleClickActionEditTitle": {
+    "message": "Wysig die titel"
+  },
+  "optionGroupTitleClickActionHeading": {
+    "message": "Wanneer jy op ’n groep of vouer se titel klik:"
+  },
+  "optionGroupTitleClickActionOpenDesc": {
+    "message": "Jy kan steeds ’n groep via sy “Meer…”-kieslys hernoem."
+  },
+  "optionGroupTitleClickActionOpenTitle": {
+    "message": "Herstel die groep, of maak die vouer oop"
+  },
+  "optionMoveOneTabToCurrentWindowOnOpenFalseTitle": {
+    "message": "Skakel oor na die venster waar die OneTab-oortjie reeds oop is"
+  },
+  "optionMoveOneTabToCurrentWindowOnOpenHeading": {
+    "message": "\"Maak OneTab oop\"-aksie:"
+  },
+  "optionMoveOneTabToCurrentWindowOnOpenNote": {
+    "message": "\"Maak OneTab oop\"-aksie:"
+  },
+  "optionMoveOneTabToCurrentWindowOnOpenTrueTitle": {
+    "message": "Skuif enige bestaande OneTab-oortjie na die huidige venster"
+  },
+  "optionPinnedTabsAllow": {
+    "message": "Laat vasgespelde oortjies toe om na OneTab gestuur te word"
+  },
+  "optionPinnedTabsDontSend": {
+    "message": "Moenie vasgespelde oortjies na OneTab stuur nie"
+  },
+  "optionPinnedTabsDontSendDesc": {
+    "message": "Jy kan steeds handmatig ’n vasgespelde oortjie na OneTab stuur deur binne die webblad te regsklik om toegang tot die OneTab-kieslys te kry, en dan op “Stuur slegs hierdie oortjie na OneTab” te klik"
+  },
+  "optionPinnedTabsNote": {
+    "message": "Let wel: ’n Oortjie word “vasgespeld” wanneer jy op die oortjie regsklik en op “Speld oortjie vas” klik. Sommige mense hou daarvan om werwe soos Facebook of Gmail vas te speld sodat hulle dit maklik kan vind. OneTab sal onthou of ’n oortjie vasgespeld was wanneer jy dit herstel."
+  },
+  "optionPinnedTabsTitle": {
+    "message": "Vasgespelde oortjies:"
+  },
+  "options": {
+    "message": "Opsies"
+  },
+  "optionStartupLaunchDisplay": {
+    "message": "Maak OneTab outomaties oop"
+  },
+  "optionStartupLaunchNone": {
+    "message": "Moenie OneTab outomaties oopmaak nie"
+  },
+  "optionStartupLaunchNoneDesc3": {
+    "message": "Om OneTab handmatig oop te maak, kan jy binne enige webblad regsklik en op “Maak OneTab oop” in die OneTab-kieslys klik."
+  },
+  "optionStartupLaunchTitle": {
+    "message": "Wanneer die blaaier begin:"
+  },
+  "optionSwitchToOpenedTabFalseTitle": {
+    "message": "Maak die oortjie oop en bly in OneTab"
+  },
+  "optionSwitchToOpenedTabHeading": {
+    "message": "Wanneer oortjies vanaf die OneTab-bladsy herstel word:"
+  },
+  "optionSwitchToOpenedTabNote": {
+    "message": "As u Shift inhou wanneer u klik, sal die oortjie in ’n nuwe venster oopmaak"
+  },
+  "optionSwitchToOpenedTabTrueTitle": {
+    "message": "Maak die oortjie oop en skakel daarna oor (tensy u Command ⌘/Ctrl inhou wanneer u klik)"
+  },
+  "optionUpdateTitleOnDuplicateKeep": {
+    "message": "Behou die bestaande titel"
+  },
+  "optionUpdateTitleOnDuplicateKeepDesc": {
+    "message": "Jy kan die oortjie in OneTab hernoem, en jou pasgemaakte titel sal behou word."
+  },
+  "optionUpdateTitleOnDuplicateNote": {
+    "message": "Titels en notas word oor alle kopieë van dieselfde oortjie gedeel."
+  },
+  "optionUpdateTitleOnDuplicateTitle": {
+    "message": "Wanneer ’n oortjie gestoor word wat reeds in OneTab is:"
+  },
+  "optionUpdateTitleOnDuplicateUpdate": {
+    "message": "Gebruik die jongste titel"
+  },
+  "optionUpdateTitleOnDuplicateUpdateDesc": {
+    "message": "Dateer die gestoorde titel op sodat dit ooreenstem met die oortjie wat jy pas gestuur het."
+  },
+  "optionUrlAbbr": {
+    "message": "Verkort"
+  },
+  "optionUrlDisplayTitle": {
+    "message": "URL-vertoning:"
+  },
+  "optionUrlDomain": {
+    "message": "Slegs domein"
+  },
+  "optionUrlFull": {
+    "message": "Volledig"
+  },
+  "optionUrlNone": {
+    "message": "Geen"
+  },
+  "otherCopiesColon": {
+    "message": "Ander kopieë:"
+  },
+  "pasteRichOrPlainTextBelow": {
+    "message": "Jy kan ryk teks of gewone teks hieronder plak."
+  },
+  "pendingTaskCount_few": {
+    "message": "{COUNT} uitstaande"
+  },
+  "pendingTaskCount_many": {
+    "message": "{COUNT} uitstaande"
+  },
+  "pendingTaskCount_one": {
+    "message": "{COUNT} uitstaande"
+  },
+  "pendingTaskCount_other": {
+    "message": "{COUNT} uitstaande"
+  },
+  "pendingTaskCount_two": {
+    "message": "{COUNT} uitstaande"
+  },
+  "pendingTaskCount_zero": {
+    "message": "{COUNT} uitstaande"
+  },
+  "pendingTaskFlagHelp": {
+    "message": "Hierdie item is ’n taak. Klik hierdie ikoon om dit as voltooi te merk."
+  },
+  "permissionRequiredPleaseTryAgain": {
+    "message": "Om ’n gedeelde bladsy te skep wat vanaf enige rekenaar toeganklik is, is toestemming nodig om met die OneTab-webbediener te koördineer. Probeer asseblief weer."
+  },
+  "pinnedTabs": {
+    "message": "vasgespelde oortjies"
+  },
+  "pinToTopOfFolder": {
+    "message": "Speld boaan vouer vas"
+  },
+  "pinToTopOfFolderMenuItemHelp": {
+    "message": "Speld hierdie groep vas sodat dit altyd boaan die vouer gelys word"
+  },
+  "pinToTopOfList": {
+    "message": "Speld boaan lys vas"
+  },
+  "placeholderAndOtherLocations_few": {
+    "message": "PLACEHOLDER en {COUNT} ander"
+  },
+  "placeholderAndOtherLocations_many": {
+    "message": "PLACEHOLDER en {COUNT} ander"
+  },
+  "placeholderAndOtherLocations_one": {
+    "message": "PLACEHOLDER en {COUNT} ander"
+  },
+  "placeholderAndOtherLocations_other": {
+    "message": "PLACEHOLDER en {COUNT} ander"
+  },
+  "placeholderAndOtherLocations_two": {
+    "message": "PLACEHOLDER en {COUNT} ander"
+  },
+  "placeholderAndOtherLocations_zero": {
+    "message": "PLACEHOLDER en {COUNT} ander"
+  },
+  "placeholderExplanation": {
+    "message": "Weens webblaaiersekuriteitsreëls mag OneTab nie hierdie bladsy direk herstel nie. Kopieer asseblief jou URL en plak dit in jou blaaier se adresbalk."
+  },
+  "plainTextLineFormat": {
+    "message": "As jy gewone teks plak, maak seker dat elke URL ’n gespesifiseerde protokol het (https://wikipedia.org, in plaas van net wikipedia.org). Elke reël moet in die volgende formaat wees:"
+  },
+  "pleaseWaitTripleDot": {
+    "message": "Wag asseblief…"
+  },
+  "popupSlashShortcutInfo": {
+    "message": "As jy die OneTab-aksie-opspringvenster geaktiveer het, maak die bestemmingskieser oop en fokus die soekblokkie"
+  },
+  "printUseSaveTabsAsHtmlFileAlertHtml": {
+    "message": "Vir die beste drukresultate, gebruik die <b>Stoor as HTML-lêer</b>-aksie in die vouer se <b>Meer…</b>-kieslys, en druk dan die afgelaaide HTML-lêer."
+  },
+  "privacyAssurance": {
+    "message": "Privaatheidswaarborg"
+  },
+  "privacyAssuranceDetail": {
+    "message": "Jou lys oortjies word nooit na die OneTab-ontwikkelaars of enige ander party versend of bekendgemaak nie. Die enigste uitsondering hierop is as jy doelbewus die “deel as ’n webblad”-kenmerk gebruik om jou lys oortjies na ’n webblad op te laai sodat jy dit met ander kan deel."
+  },
+  "privacyFirst": {
+    "message": "Privaatheid eerste"
+  },
+  "privacyFirstMessage": {
+    "message": "OneTab is ontwerp om jou private data te beskerm. Jou oortjies word slegs op jou rekenaar gestoor en word nooit met die OneTab-ontwikkelaars of enige ander party gedeel nie.\nAs jy ons rugsteun-/sinkroniseringskenmerk gebruik, sal jou data end-tot-end geënkripteer word met hoësterkte AES-256-enkripsie. Dit maak dit onmoontlik vir die OneTab-ontwikkelaars om die oortjies te sien wat jy gerugsteun of tussen toestelle gesinkroniseer het, omdat net jy die enkripsiesleutel het. \nDie enigste uitsondering is as jy doelbewus besluit om sommige van jou oortjies met ander mense te deel deur ons “Deel as ’n webblad”-kenmerk te gebruik.\nOns glo in Privaatheid eerste."
+  },
+  "privateBrowsingPermissionRequired": {
+    "message": "OneTab benodig toestemming om privaatblaaivensters te skep."
+  },
+  "privateBrowsingWindows": {
+    "message": "Privaatblaaivensters"
+  },
+  "quickList": {
+    "message": "Vinnige lys"
+  },
+  "readingList": {
+    "message": "Leeslys"
+  },
+  "readingListPermissionNecesssary": {
+    "message": "Die leeslystoestemming is nodig om OneTab toe te laat om items uit jou leeslys in te voer. As hierdie kenmerk nie werk nie, ondersteun jou blaaier dalk nie leeslyste nie."
+  },
+  "recent": {
+    "message": "Onlangs"
+  },
+  "recentDestinationsColon": {
+    "message": "Onlangse bestemmings:"
+  },
+  "recentDuplicateRetainedHelp": {
+    "message": "As ’n oortjie meer as een keer voorkom, sal slegs die mees onlangse duplikaat behou word"
+  },
+  "recentFolders": {
+    "message": "Onlangse vouers"
+  },
+  "recentGroups": {
+    "message": "Onlangse groepe"
+  },
+  "recentlyAccessed": {
+    "message": "Onlangs gebruik"
+  },
+  "recentlyCreated": {
+    "message": "Onlangs geskep"
+  },
+  "recentlyModified": {
+    "message": "Onlangs gewysig"
+  },
+  "reduceMemoryUsageBy95Pct": {
+    "message": "Verminder geheuegebruik met 95%"
+  },
+  "removeDuplicates": {
+    "message": "Verwyder duplikate"
+  },
+  "removeDuplicatesMenuItemHelp": {
+    "message": "Jy sal kan kies om duplikate hier te verwyder maar nie elders nie, of elders te verwyder maar nie hier nie."
+  },
+  "removeDuplicateTabsHere_few": {
+    "message": "Verwyder {COUNT} duplikaatoortjies hier"
+  },
+  "removeDuplicateTabsHere_many": {
+    "message": "Verwyder {COUNT} duplikaatoortjies hier"
+  },
+  "removeDuplicateTabsHere_one": {
+    "message": "Verwyder {COUNT} duplikaatoortjie hier"
+  },
+  "removeDuplicateTabsHere_other": {
+    "message": "Verwyder {COUNT} duplikaatoortjies hier"
+  },
+  "removeDuplicateTabsHere_two": {
+    "message": "Verwyder {COUNT} duplikaatoortjies hier"
+  },
+  "removeDuplicateTabsHere_zero": {
+    "message": "Verwyder {COUNT} duplikaatoortjies hier"
+  },
+  "removeFromQuickList": {
+    "message": "Verwyder uit vinnige lys"
+  },
+  "removeFromQuickListMenuItemHelp": {
+    "message": "Die item sal nie na die asblik gestuur word nie – dit sal slegs uit jou vinnige lys verwyder word."
+  },
+  "removeStar": {
+    "message": "Verwyder ster"
+  },
+  "removeTabsElsewhereAlsoHere_few": {
+    "message": "Verwyder {COUNT} oortjies elders wat ook hier voorkom"
+  },
+  "removeTabsElsewhereAlsoHere_many": {
+    "message": "Verwyder {COUNT} oortjies elders wat ook hier voorkom"
+  },
+  "removeTabsElsewhereAlsoHere_one": {
+    "message": "Verwyder {COUNT} oortjie elders wat ook hier voorkom"
+  },
+  "removeTabsElsewhereAlsoHere_other": {
+    "message": "Verwyder {COUNT} oortjies elders wat ook hier voorkom"
+  },
+  "removeTabsElsewhereAlsoHere_two": {
+    "message": "Verwyder {COUNT} oortjies elders wat ook hier voorkom"
+  },
+  "removeTabsElsewhereAlsoHere_zero": {
+    "message": "Verwyder {COUNT} oortjies elders wat ook hier voorkom"
+  },
+  "removeTabsHereAlsoElsewhere_few": {
+    "message": "Verwyder {COUNT} oortjies hier wat ook elders voorkom"
+  },
+  "removeTabsHereAlsoElsewhere_many": {
+    "message": "Verwyder {COUNT} oortjies hier wat ook elders voorkom"
+  },
+  "removeTabsHereAlsoElsewhere_one": {
+    "message": "Verwyder {COUNT} oortjie hier wat ook elders voorkom"
+  },
+  "removeTabsHereAlsoElsewhere_other": {
+    "message": "Verwyder {COUNT} oortjies hier wat ook elders voorkom"
+  },
+  "removeTabsHereAlsoElsewhere_two": {
+    "message": "Verwyder {COUNT} oortjies hier wat ook elders voorkom"
+  },
+  "removeTabsHereAlsoElsewhere_zero": {
+    "message": "Verwyder {COUNT} oortjies hier wat ook elders voorkom"
+  },
+  "rename": {
+    "message": "Hernoem"
+  },
+  "renameOrAddNote": {
+    "message": "Hernoem / voeg nota by"
+  },
+  "restore": {
+    "message": "Herstel"
+  },
+  "restoreAll": {
+    "message": "Herstel alles"
+  },
+  "restrictSearchToFolderColon": {
+    "message": "Beperk die soektog tot die volgende vouer:"
+  },
+  "results": {
+    "message": "Resultate"
+  },
+  "returnToOneTab": {
+    "message": "Keer terug na OneTab"
+  },
+  "reverse": {
+    "message": "Omgekeerd"
+  },
+  "rightClickAndOpenOneTabMenu": {
+    "message": "Regsklik binne die webblad en gaan na die OneTab-kieslys"
+  },
+  "rightClickMenuDisabledNote": {
+    "message": "Let wel: Jy het die OneTab-regsklikkieslys gedeaktiveer. Aktiveer dit asseblief op die OneTab-opsiesbladsy."
+  },
+  "rightClickSelectionOptionsTip": {
+    "message": "Wenk: Nadat jy ’n item gemerk het, regsklik op die merkie-ikoon om meer seleksieopsies te wys"
+  },
+  "rightClickTickTip": {
+    "message": "Wenk: Regsklik op die merkie-ikoon langs elke oortjie vir seleksienutsgoed"
+  },
+  "safariApproveOneTabInSettings": {
+    "message": "Gaan asseblief na Instellings en gee OneTab toestemming om toegang tot alle webwerwe te kry."
+  },
+  "save95PctReduceTabClutterGoogleChrome": {
+    "message": "Bespaar tot 95% geheue en verminder oortjierommel in Google Chrome"
+  },
+  "saveChoice": {
+    "message": "Stoor keuse"
+  },
+  "saveTabsAsHtmlFile": {
+    "message": "Stoor as HTML-lêer"
+  },
+  "saveTabsAsHtmlFileMenuItemHelp": {
+    "message": "Skep en laai ’n HTML-lêer af wat alle groepe oortjies in hierdie vouer bevat."
+  },
+  "searchHere": {
+    "message": "Soek hier"
+  },
+  "searchOneTab": {
+    "message": "Deursoek OneTab"
+  },
+  "secondExampleLink": {
+    "message": "Tweede voorbeeldskakel"
+  },
+  "secondExampleLinkTitle": {
+    "message": "Tweede voorbeeldskakeltitel"
+  },
+  "secondExampleLinkTitleOptional": {
+    "message": "Tweede voorbeeldskakeltitel (opsioneel)"
+  },
+  "seeOtherTabsInThisGroup_few": {
+    "message": "Bekyk {COUNT} ander oortjies in hierdie groep"
+  },
+  "seeOtherTabsInThisGroup_many": {
+    "message": "Bekyk {COUNT} ander oortjies in hierdie groep"
+  },
+  "seeOtherTabsInThisGroup_one": {
+    "message": "Bekyk {COUNT} ander oortjie in hierdie groep"
+  },
+  "seeOtherTabsInThisGroup_other": {
+    "message": "Bekyk {COUNT} ander oortjies in hierdie groep"
+  },
+  "seeOtherTabsInThisGroup_two": {
+    "message": "Bekyk {COUNT} ander oortjies in hierdie groep"
+  },
+  "seeOtherTabsInThisGroup_zero": {
+    "message": "Bekyk {COUNT} ander oortjies in hierdie groep"
+  },
+  "seePasteInstructions": {
+    "message": "Bekyk plakinstruksies…"
+  },
+  "seeTabsInThisGroup_few": {
+    "message": "Bekyk {COUNT} oortjies in hierdie groep"
+  },
+  "seeTabsInThisGroup_many": {
+    "message": "Bekyk {COUNT} oortjies in hierdie groep"
+  },
+  "seeTabsInThisGroup_one": {
+    "message": "Bekyk {COUNT} oortjie in hierdie groep"
+  },
+  "seeTabsInThisGroup_other": {
+    "message": "Bekyk {COUNT} oortjies in hierdie groep"
+  },
+  "seeTabsInThisGroup_two": {
+    "message": "Bekyk {COUNT} oortjies in hierdie groep"
+  },
+  "seeTabsInThisGroup_zero": {
+    "message": "Bekyk {COUNT} oortjies in hierdie groep"
+  },
+  "selectAll": {
+    "message": "Selekteer alles"
+  },
+  "selectAllExceptThis": {
+    "message": "Selekteer alles behalwe hierdie item"
+  },
+  "selectedItemCount_few": {
+    "message": "{COUNT} items"
+  },
+  "selectedItemCount_many": {
+    "message": "{COUNT} items"
+  },
+  "selectedItemCount_one": {
+    "message": "{COUNT} item"
+  },
+  "selectedItemCount_other": {
+    "message": "{COUNT} items"
+  },
+  "selectedItemCount_two": {
+    "message": "{COUNT} items"
+  },
+  "selectedItemCount_zero": {
+    "message": "{COUNT} items"
+  },
+  "selection": {
+    "message": "Seleksie"
+  },
+  "selectThisAndAbove": {
+    "message": "Selekteer hierdie item en alles hierbo"
+  },
+  "selectThisAndBelow": {
+    "message": "Selekteer hierdie item en alles hieronder"
+  },
+  "sendAllTabsAllWindows": {
+    "message": "Stuur alle oortjies uit alle vensters"
+  },
+  "sendAllTabsAllWindowsToOneTab": {
+    "message": "Stuur alle oortjies uit alle vensters na OneTab"
+  },
+  "sendAllTabsExceptThis": {
+    "message": "Stuur alle oortjies behalwe hierdie oortjie"
+  },
+  "sendAllTabsExceptThisToOneTab": {
+    "message": "Stuur alle oortjies behalwe hierdie oortjie na OneTab"
+  },
+  "sendAllTabsInGroup": {
+    "message": "Stuur alle oortjies in hierdie oortjiegroep"
+  },
+  "sendAllTabsInGroupToOneTab": {
+    "message": "Stuur alle oortjies in hierdie oortjiegroep na OneTab"
+  },
+  "sendAllTabsInWindow": {
+    "message": "Stuur alle oortjies in hierdie venster"
+  },
+  "sendAllTabsInWindowToOneTab": {
+    "message": "Stuur alle oortjies in hierdie venster na OneTab"
+  },
+  "sendCurrentTabToOneTab": {
+    "message": "Stuur die huidige oortjie na OneTab"
+  },
+  "sendLeftTabs": {
+    "message": "Stuur oortjies aan die linkerkant"
+  },
+  "sendLeftTabsToOneTab": {
+    "message": "Stuur oortjies aan die linkerkant na OneTab"
+  },
+  "sendOnlyThisTab": {
+    "message": "Stuur slegs hierdie oortjie"
+  },
+  "sendOnlyThisTabToOneTab": {
+    "message": "Stuur slegs hierdie oortjie na OneTab"
+  },
+  "sendRightTabs": {
+    "message": "Stuur oortjies aan die regterkant"
+  },
+  "sendRightTabsToOneTab": {
+    "message": "Stuur oortjies aan die regterkant na OneTab"
+  },
+  "sendSelectedTabs": {
+    "message": "Stuur geselekteerde oortjies"
+  },
+  "sendSelectedTabsToOneTab": {
+    "message": "Stuur geselekteerde oortjies na OneTab"
+  },
+  "sendThisWebLink": {
+    "message": "Stuur hierdie webskakel"
+  },
+  "sendThisWebLinkToOneTab": {
+    "message": "Stuur hierdie webskakel na OneTab"
+  },
+  "serverUnreachable": {
+    "message": "Die bediener is onbereikbaar. Gaan asseblief jou internetverbinding na."
+  },
+  "share": {
+    "message": "Deel"
+  },
+  "shareAsAWebPage": {
+    "message": "Deel as ’n webblad"
+  },
+  "shareAsAWebPageMenuItemHelp": {
+    "message": "Dit skep ’n webblad wat jou oortjies bevat, sodat jy die bladsy privaat of publiek met ander kan deel."
+  },
+  "shared": {
+    "message": "Gedeel"
+  },
+  "sharedExpiresColon": {
+    "message": "Gedeel as ’n webblad. Verval:"
+  },
+  "sharedPageOptions": {
+    "message": "Gedeelde bladsy-opsies"
+  },
+  "sharedPageTabLimit_few": {
+    "message": "Gedeelde bladsye is beperk tot {COUNT} oortjies"
+  },
+  "sharedPageTabLimit_many": {
+    "message": "Gedeelde bladsye is beperk tot {COUNT} oortjies"
+  },
+  "sharedPageTabLimit_one": {
+    "message": "Gedeelde bladsye is beperk tot {COUNT} oortjie"
+  },
+  "sharedPageTabLimit_other": {
+    "message": "Gedeelde bladsye is beperk tot {COUNT} oortjies"
+  },
+  "sharedPageTabLimit_two": {
+    "message": "Gedeelde bladsye is beperk tot {COUNT} oortjies"
+  },
+  "sharedPageTabLimit_zero": {
+    "message": "Gedeelde bladsye is beperk tot {COUNT} oortjies"
+  },
+  "sharedPageWillAutomaticallyExpire": {
+    "message": "Die gedeelde bladsy sal outomaties verval, maar jy kan die vervaldatum enige tyd verleng."
+  },
+  "showEverything": {
+    "message": "Wys alles"
+  },
+  "showFoldersOnly": {
+    "message": "Wys slegs vouers"
+  },
+  "showNamedItemsOnly": {
+    "message": "Wys slegs benoemde items"
+  },
+  "showNamedOnly": {
+    "message": "Wys slegs benoemde items"
+  },
+  "showNextCount_few": {
+    "message": "Volgende {COUNT}"
+  },
+  "showNextCount_many": {
+    "message": "Volgende {COUNT}"
+  },
+  "showNextCount_one": {
+    "message": "Volgende {COUNT}"
+  },
+  "showNextCount_other": {
+    "message": "Volgende {COUNT}"
+  },
+  "showNextCount_two": {
+    "message": "Volgende {COUNT}"
+  },
+  "showNextCount_zero": {
+    "message": "Volgende {COUNT}"
+  },
+  "showPreviousCount_few": {
+    "message": "Vorige {COUNT}"
+  },
+  "showPreviousCount_many": {
+    "message": "Vorige {COUNT}"
+  },
+  "showPreviousCount_one": {
+    "message": "Vorige {COUNT}"
+  },
+  "showPreviousCount_other": {
+    "message": "Vorige {COUNT}"
+  },
+  "showPreviousCount_two": {
+    "message": "Vorige {COUNT}"
+  },
+  "showPreviousCount_zero": {
+    "message": "Vorige {COUNT}"
+  },
+  "soon": {
+    "message": "binnekort"
+  },
+  "sort": {
+    "message": "Sortering"
+  },
+  "sortByColon": {
+    "message": "Sorteer volgens:"
+  },
+  "sortGroups": {
+    "message": "Sorteer groepe"
+  },
+  "sortGroupsMenuFooterNote": {
+    "message": "Dit sorteer die groepe in hierdie vouer. Dit sorteer nie die oortjies daarin nie."
+  },
+  "sourceColon": {
+    "message": "Bron:"
+  },
+  "star": {
+    "message": "Merk met ster"
+  },
+  "starFlagHelp": {
+    "message": "Hierdie item is met ’n ster gemerk om die belangrikheid daarvan visueel aan te dui. Klik hierdie ikoon om die ster te verwyder."
+  },
+  "starMenuItemHelp": {
+    "message": "Gebruik die ster as ’n visuele aanduiding dat iets belangrik is"
+  },
+  "starred": {
+    "message": "Met ster"
+  },
+  "storeAllOpenWindowsHere": {
+    "message": "Stoor alle oop vensters hier"
+  },
+  "storeAllOpenWindowsHereMenuItemHelp": {
+    "message": "Maak alle oop blaaiervensters toe en stoor hulle in hierdie vouer"
+  },
+  "storeSelectedTabsInONETAB_few": {
+    "message": "Stoor {COUNT} geselekteerde oortjies in ONETAB"
+  },
+  "storeSelectedTabsInONETAB_many": {
+    "message": "Stoor {COUNT} geselekteerde oortjies in ONETAB"
+  },
+  "storeSelectedTabsInONETAB_one": {
+    "message": "Stoor {COUNT} geselekteerde oortjie in ONETAB"
+  },
+  "storeSelectedTabsInONETAB_other": {
+    "message": "Stoor {COUNT} geselekteerde oortjies in ONETAB"
+  },
+  "storeSelectedTabsInONETAB_two": {
+    "message": "Stoor {COUNT} geselekteerde oortjies in ONETAB"
+  },
+  "storeSelectedTabsInONETAB_zero": {
+    "message": "Stoor {COUNT} geselekteerde oortjies in ONETAB"
+  },
+  "storeTabsInAdditionalLocation_few": {
+    "message": "Stoor jou oortjies in elk geval weer"
+  },
+  "storeTabsInAdditionalLocation_many": {
+    "message": "Stoor jou oortjies in elk geval weer"
+  },
+  "storeTabsInAdditionalLocation_one": {
+    "message": "Stoor jou oortjie in elk geval weer"
+  },
+  "storeTabsInAdditionalLocation_other": {
+    "message": "Stoor jou oortjies in elk geval weer"
+  },
+  "storeTabsInAdditionalLocation_two": {
+    "message": "Stoor jou oortjies in elk geval weer"
+  },
+  "storeTabsInAdditionalLocation_zero": {
+    "message": "Stoor jou oortjies in elk geval weer"
+  },
+  "storeTabsInONETAB_few": {
+    "message": "Stoor oortjies in ONETAB"
+  },
+  "storeTabsInONETAB_many": {
+    "message": "Stoor oortjies in ONETAB"
+  },
+  "storeTabsInONETAB_one": {
+    "message": "Stoor oortjie in ONETAB"
+  },
+  "storeTabsInONETAB_other": {
+    "message": "Stoor oortjies in ONETAB"
+  },
+  "storeTabsInONETAB_two": {
+    "message": "Stoor oortjies in ONETAB"
+  },
+  "storeTabsInONETAB_zero": {
+    "message": "Stoor oortjies in ONETAB"
+  },
+  "subFoldersNotShared": {
+    "message": "Let daarop dat subvouers nie gedeel word nie. Slegs groepe oortjies direk binne die vouer word gedeel."
+  },
+  "tab": {
+    "message": "oortjie"
+  },
+  "tabAlreadyStoredHere": {
+    "message": "Jou oop oortjie is reeds hier gestoor:"
+  },
+  "tabCaretTooltipTitleNotes": {
+    "message": "Wysig die oortjie se titel en notas"
+  },
+  "tabCaretTooltipTitleNotesUrl": {
+    "message": "Wysig die oortjie se titel, URL en notas"
+  },
+  "tabCount_few": {
+    "message": "{COUNT} oortjies"
+  },
+  "tabCount_many": {
+    "message": "{COUNT} oortjies"
+  },
+  "tabCount_one": {
+    "message": "{COUNT} oortjie"
+  },
+  "tabCount_other": {
+    "message": "{COUNT} oortjies"
+  },
+  "tabCount_two": {
+    "message": "{COUNT} oortjies"
+  },
+  "tabCount_zero": {
+    "message": "{COUNT} oortjies"
+  },
+  "tabGroupColorColon": {
+    "message": "Oortjiegroepkleur:"
+  },
+  "tabGroupIndicatorTooltipHelp": {
+    "message": "Hierdie groep is ingestel om as ’n Oortjiegroep oop te maak. Jy kan hierdie instelling in die “Meer…”-kieslys verander"
+  },
+  "tabPinFlagHelp": {
+    "message": "Hierdie oortjie sal as ’n vasgespelde blaaieroortjie herstel word. Klik hierdie ikoon om dit los te speld."
+  },
+  "tabs": {
+    "message": "Oortjies"
+  },
+  "tabsFromExcludedDomains": {
+    "message": "oortjies van uitgeslote domeine"
+  },
+  "tabsInTabGroups": {
+    "message": "oortjies in oortjiegroepe"
+  },
+  "tabTotalCount_few": {
+    "message": "Totaal: {COUNT} oortjies"
+  },
+  "tabTotalCount_many": {
+    "message": "Totaal: {COUNT} oortjies"
+  },
+  "tabTotalCount_one": {
+    "message": "Totaal: {COUNT} oortjie"
+  },
+  "tabTotalCount_other": {
+    "message": "Totaal: {COUNT} oortjies"
+  },
+  "tabTotalCount_two": {
+    "message": "Totaal: {COUNT} oortjies"
+  },
+  "tabTotalCount_zero": {
+    "message": "Totaal: {COUNT} oortjies"
+  },
+  "tasks": {
+    "message": "Take"
+  },
+  "tasksDone": {
+    "message": "Take (voltooi)"
+  },
+  "tasksPending": {
+    "message": "Take (uitstaande)"
+  },
+  "tasksWillAppearHere": {
+    "message": "As jy enige van jou oortjies of groepe as take merk, sal hulle hier verskyn."
+  },
+  "taskTotalCount_few": {
+    "message": "{COUNT} totaal"
+  },
+  "taskTotalCount_many": {
+    "message": "{COUNT} totaal"
+  },
+  "taskTotalCount_one": {
+    "message": "{COUNT} totaal"
+  },
+  "taskTotalCount_other": {
+    "message": "{COUNT} totaal"
+  },
+  "taskTotalCount_two": {
+    "message": "{COUNT} totaal"
+  },
+  "taskTotalCount_zero": {
+    "message": "{COUNT} totaal"
+  },
+  "themeQuickSwitchHint": {
+    "message": "Om vinnig van tema te wissel, hou ctrl of cmd in wanneer jy op die tema-ikoon klik"
+  },
+  "thenClickToolbarIcon": {
+    "message": "Klik dan weer die OneTab-nutsbalkikoon om OneTab te gebruik."
+  },
+  "thisFolderIsEmpty": {
+    "message": "Hierdie vouer is leeg"
+  },
+  "thisTab": {
+    "message": "Hierdie oortjie"
+  },
+  "thisTabGroup": {
+    "message": "Hierdie oortjiegroep"
+  },
+  "thisTabNotStored": {
+    "message": "Hierdie oortjie is nie in OneTab gestoor nie"
+  },
+  "thisWindow": {
+    "message": "Hierdie venster"
+  },
+  "tickOrUntickToExclude": {
+    "message": "Merk of ontmerk om die webwerf uit te sluit"
+  },
+  "title": {
+    "message": "Titel"
+  },
+  "toAddOrRemoveExclusions": {
+    "message": "Om ’n webwerf by die uitsluitingslys te voeg of daaruit te verwyder:"
+  },
+  "toAllowOneTabInIncognito": {
+    "message": "Om toe te laat dat die OneTab-ikoon in Incognito-vensters verskyn: "
+  },
+  "toImportBrowserBookmarksUseMenuOption": {
+    "message": "Om vanaf blaaierboekmerke in te voer, gebruik die “Voer skakels hier in”-kieslysopsie op jou OneTab-bladsy"
+  },
+  "toMakeOpenButtonWorkApprovePermission": {
+    "message": "Om die \"Maak oop\"-knoppie op gedeelde bladsye te laat werk, keur asseblief die toestemmingsversoek goed."
+  },
+  "tooManyTabsSpeedUpFirefox": {
+    "message": "Te veel oortjies? Skakel jou oortjies om in ’n lys en versnel Firefox"
+  },
+  "tooManyTabsSpeedUpSafari": {
+    "message": "Te veel oortjies? Skakel jou oortjies om in ’n lys en versnel Safari"
+  },
+  "toSaveChangesClickButton": {
+    "message": "Om jou veranderinge te stoor, klik die knoppie"
+  },
+  "total0Tabs": {
+    "message": "Totaal: 0 oortjies"
+  },
+  "trash": {
+    "message": "Asblik"
+  },
+  "unfoldGroup": {
+    "message": "Vou groep uit"
+  },
+  "unlock": {
+    "message": "Ontsluit"
+  },
+  "unmarkAsArchived": {
+    "message": "Verwyder argiefmerk"
+  },
+  "unMarkAsTask": {
+    "message": "Ontmerk as taak"
+  },
+  "unpin": {
+    "message": "Speld los"
+  },
+  "unshare": {
+    "message": "Hou op deel"
+  },
+  "untitled": {
+    "message": "Naamloos"
+  },
+  "update": {
+    "message": "Dateer op"
+  },
+  "userLanguage": {
+    "message": "Afrikaans"
+  },
+  "website": {
+    "message": "Webwerf"
+  },
+  "yearCount_few": {
+    "message": "{COUNT} jaar"
+  },
+  "yearCount_many": {
+    "message": "{COUNT} jaar"
+  },
+  "yearCount_one": {
+    "message": "{COUNT} jaar"
+  },
+  "yearCount_other": {
+    "message": "{COUNT} jaar"
+  },
+  "yearCount_two": {
+    "message": "{COUNT} jaar"
+  },
+  "yearCount_zero": {
+    "message": "{COUNT} jaar"
+  },
+  "yourTabAlreadyStoredHere": {
+    "message": "Jou oortjie is reeds hier gestoor:"
+  }
+}

@@ -1,0 +1,2330 @@
+{
+  "95PctMemoryReduction": {
+    "message": "95 % mažiau naudojamos atminties"
+  },
+  "about": {
+    "message": "Apie"
+  },
+  "actionPopupOverrideNote": {
+    "message": "Šį nustatymą galima pakeisti veiksmo iššokančiajame lange (jei esate įjungę veiksmo iššokantįjį langą)."
+  },
+  "aDashZ": {
+    "message": "A–Ž"
+  },
+  "addOneTabNow": {
+    "message": "Pridėti OneTab dabar"
+  },
+  "all": {
+    "message": "Viskas"
+  },
+  "allBookmarks": {
+    "message": "Visos žymės"
+  },
+  "allOpenTabsAlreadyStoredHere_few": {
+    "message": "Visi atidaryti skirtukai jau išsaugoti čia:"
+  },
+  "allOpenTabsAlreadyStoredHere_many": {
+    "message": "Visi atidaryti skirtukai jau išsaugoti čia:"
+  },
+  "allOpenTabsAlreadyStoredHere_one": {
+    "message": "Atidarytas skirtukas jau išsaugotas čia:"
+  },
+  "allOpenTabsAlreadyStoredHere_other": {
+    "message": "Visi atidaryti skirtukai jau išsaugoti čia:"
+  },
+  "allOpenTabsAlreadyStoredHere_two": {
+    "message": "Visi atidaryti skirtukai jau išsaugoti čia:"
+  },
+  "allOpenTabsAlreadyStoredHere_zero": {
+    "message": "Visi atidaryti skirtukai jau išsaugoti čia:"
+  },
+  "allowFileAccessInstructions": {
+    "message": "Kad būtų galima tiesiogiai atidaryti failus, eikite į Nustatymai ➝ Plėtiniai ➝ OneTab ➝ Išsami informacija ➝ Leisti prieigą prie failų URL"
+  },
+  "alreadyExistingOpenTabsWillBeClosedAfterMerge": {
+    "message": "Visi atidaryti skirtukai, kurie jau yra šioje grupėje, po sujungimo bus uždaryti."
+  },
+  "alternatePlainTextFormat": {
+    "message": "Arba paprastasis tekstas gali būti tokio formato:"
+  },
+  "approve": {
+    "message": "Patvirtinti"
+  },
+  "archived": {
+    "message": "Archyvuoti"
+  },
+  "autoTheme": {
+    "message": "Automatinė (pagal operacinės sistemos nustatymą)"
+  },
+  "backupAndSync": {
+    "message": "Atsarginis kopijavimas ir sinchronizavimas"
+  },
+  "betaReleaseReportBugsHere": {
+    "message": "Beta – pranešti apie klaidas"
+  },
+  "bookmarkCount_few": {
+    "message": "{COUNT} žymės"
+  },
+  "bookmarkCount_many": {
+    "message": "{COUNT} žymių"
+  },
+  "bookmarkCount_one": {
+    "message": "{COUNT} žymė"
+  },
+  "bookmarkCount_other": {
+    "message": "{COUNT} žymių"
+  },
+  "bookmarkCount_two": {
+    "message": "{COUNT} žymės"
+  },
+  "bookmarkCount_zero": {
+    "message": "{COUNT} žymių"
+  },
+  "bookmarksPermissionNecesssary": {
+    "message": "Leidimas pasiekti žymes būtinas, kad OneTab galėtų importuoti jūsų naršyklės žymes"
+  },
+  "bulkActions": {
+    "message": "Masiniai veiksmai"
+  },
+  "cancel": {
+    "message": "Atšaukti"
+  },
+  "canDragTextNote": {
+    "message": "Pastaba: tekstą su žiniatinklio nuorodomis taip pat galima nuvilkti tiesiai iš kito tinklalapio arba dokumento. Galite nuvilkti tekstą tiesiai į savo OneTab puslapį, nenaudodami šio importavimo laukelio."
+  },
+  "cannotConnectToServerDeletionRequestQueued": {
+    "message": "Nepavyksta prisijungti prie OneTab serverio. Patikrinkite interneto ryšį. Jūsų bendrinamo puslapio ištrynimo užklausa įrašyta į vietinę eilę ir bus automatiškai perduota OneTab serveriui, kai tik jis vėl bus pasiekiamas."
+  },
+  "cannotCreateTabGroupInTabGroup": {
+    "message": "Jūsų pasirinkta paskirties vieta yra skirtukų grupė. Negalite sukurti skirtukų grupės esamoje skirtukų grupėje. Pasirinkite kitą paskirties vietą."
+  },
+  "cannotMixTabsGroupsFoldersDuringDrag": {
+    "message": "Velkant negalima maišyti skirtukų, grupių ir aplankų. Taip yra todėl, kad, pavyzdžiui, aplanko negalima vilkti į tas pačias vietas kaip skirtuko."
+  },
+  "cannotMoveItemAncestorHere": {
+    "message": "Pirminio elemento negalima perkelti į jo paties antrinį elementą, nes taip būtų sukurta kilpa."
+  },
+  "cannotMoveItemIntoItself": {
+    "message": "Elemento negalima perkelti į jį patį."
+  },
+  "canPasteWebContentForExample": {
+    "message": "Galite įklijuoti iš tinklalapio ar dokumento nukopijuotą tekstą, o nuorodos bus automatiškai išgautos. Pavyzdžiui:"
+  },
+  "caseSensitive": {
+    "message": "Skirti didžiąsias ir mažąsias raides"
+  },
+  "changesMadeSinceSharedPageCreation": {
+    "message": "Nuo tada, kai bendrinote šį puslapį, jūsų išsaugoti skirtukai pasikeitė. Spustelėkite mygtuką „Atnaujinti“, kad atnaujintumėte esamą bendrinamą puslapį."
+  },
+  "changeThisSettingAtAnyTimeInfo": {
+    "message": "Šį nustatymą galite bet kada pakeisti spustelėję mygtuką „Parinktys“ OneTab puslapio viršuje."
+  },
+  "changeThisSettingAtAnyTimeInfoHtml": {
+    "message": "Vėliau tai galite pakeisti skiltyje <b>Parinktys</b>."
+  },
+  "checkboxesDeterminePinnedAndGroupedTabMergeInclusion": {
+    "message": "Šio puslapio viršuje esantys žymimieji langeliai nustato, ar prisegti arba sugrupuoti skirtukai įtraukiami į sujungimą."
+  },
+  "chooseALocation": {
+    "message": "Pasirinkite vietą"
+  },
+  "chooseALocationToImportTo": {
+    "message": "Pasirinkite importavimo vietą"
+  },
+  "chooseExportLocation": {
+    "message": "Pasirinkite vietą, iš kurios eksportuoti"
+  },
+  "chooseLightDarkTheme": {
+    "message": "Pasirinkti šviesią / tamsią temą"
+  },
+  "chooseLocationToCopyTo": {
+    "message": "Pasirinkite vietą, į kurią kopijuoti"
+  },
+  "chooseLocationToMoveTo": {
+    "message": "Pasirinkite vietą, į kurią perkelti"
+  },
+  "chooseLocationToRestoreTo": {
+    "message": "Pasirinkite vietą, į kurią atkurti"
+  },
+  "chooseToIncludeNotes": {
+    "message": "Jei prie skirtukų ar grupių pridėjote pastabų, pasirinkite, ar jas įtraukti į bendrinamą tinklalapį"
+  },
+  "chooseToIncludeRatings": {
+    "message": "Jei skirtukams ar grupėms pridėjote žvaigždučių, pasirinkite, ar jas įtraukti į bendrinamą tinklalapį"
+  },
+  "chromeIncognitoInstructions": {
+    "message": "Naršyklės nustatymuose eikite į „Nustatymai“ → „Plėtiniai“ → „OneTab“ → „Išsami informacija“, tada įjunkite „Leisti inkognito režimu“."
+  },
+  "clickButtonToAllowTabAccess": {
+    "message": "Spustelėkite toliau esantį mygtuką, kad leistumėte OneTab pasiekti jūsų atidarytus skirtukus."
+  },
+  "clickHereToContinue": {
+    "message": "Spustelėkite čia, kad tęstumėte."
+  },
+  "clickOneTabIconToStoreTabsHere": {
+    "message": "Norėdami čia išsaugoti atidarytus skirtukus, naršyklės įrankių juostoje spustelėkite OneTab piktogramą."
+  },
+  "closeSelectedTabs_few": {
+    "message": "Uždaryti {COUNT} pasirinktus skirtukus"
+  },
+  "closeSelectedTabs_many": {
+    "message": "Uždaryti {COUNT} pasirinktų skirtukų"
+  },
+  "closeSelectedTabs_one": {
+    "message": "Uždaryti {COUNT} pasirinktą skirtuką"
+  },
+  "closeSelectedTabs_other": {
+    "message": "Uždaryti {COUNT} pasirinktų skirtukų"
+  },
+  "closeSelectedTabs_two": {
+    "message": "Uždaryti {COUNT} pasirinktus skirtukus"
+  },
+  "closeSelectedTabs_zero": {
+    "message": "Uždaryti {COUNT} pasirinktų skirtukų"
+  },
+  "closeSelectedTabsAndStoreInONETAB_few": {
+    "message": "Uždaryti {COUNT} pasirinktus skirtukus ir išsaugoti programoje ONETAB"
+  },
+  "closeSelectedTabsAndStoreInONETAB_many": {
+    "message": "Uždaryti {COUNT} pasirinktų skirtukų ir išsaugoti programoje ONETAB"
+  },
+  "closeSelectedTabsAndStoreInONETAB_one": {
+    "message": "Uždaryti {COUNT} pasirinktą skirtuką ir išsaugoti programoje ONETAB"
+  },
+  "closeSelectedTabsAndStoreInONETAB_other": {
+    "message": "Uždaryti {COUNT} pasirinktų skirtukų ir išsaugoti programoje ONETAB"
+  },
+  "closeSelectedTabsAndStoreInONETAB_two": {
+    "message": "Uždaryti {COUNT} pasirinktus skirtukus ir išsaugoti programoje ONETAB"
+  },
+  "closeSelectedTabsAndStoreInONETAB_zero": {
+    "message": "Uždaryti {COUNT} pasirinktų skirtukų ir išsaugoti programoje ONETAB"
+  },
+  "closeTabs_few": {
+    "message": "Uždaryti skirtukus"
+  },
+  "closeTabs_many": {
+    "message": "Uždaryti skirtukus"
+  },
+  "closeTabs_one": {
+    "message": "Uždaryti skirtuką"
+  },
+  "closeTabs_other": {
+    "message": "Uždaryti skirtukus"
+  },
+  "closeTabs_two": {
+    "message": "Uždaryti skirtukus"
+  },
+  "closeTabs_zero": {
+    "message": "Uždaryti skirtukus"
+  },
+  "closeTabsAfterMerge": {
+    "message": "Uždaryti skirtukus po sujungimo"
+  },
+  "closeTabsAlreadyStoredInOneTab_few": {
+    "message": "Uždaryti {COUNT} skirtukus, jau išsaugotus programoje OneTab"
+  },
+  "closeTabsAlreadyStoredInOneTab_many": {
+    "message": "Uždaryti {COUNT} skirtukų, jau išsaugotų programoje OneTab"
+  },
+  "closeTabsAlreadyStoredInOneTab_one": {
+    "message": "Uždaryti {COUNT} skirtuką, jau išsaugotą programoje OneTab"
+  },
+  "closeTabsAlreadyStoredInOneTab_other": {
+    "message": "Uždaryti {COUNT} skirtukų, jau išsaugotų programoje OneTab"
+  },
+  "closeTabsAlreadyStoredInOneTab_two": {
+    "message": "Uždaryti {COUNT} skirtukus, jau išsaugotus programoje OneTab"
+  },
+  "closeTabsAlreadyStoredInOneTab_zero": {
+    "message": "Uždaryti {COUNT} skirtukų, jau išsaugotų programoje OneTab"
+  },
+  "closeTabsAndStore_few": {
+    "message": "Uždaryti skirtukus ir išsaugoti programoje ONETAB"
+  },
+  "closeTabsAndStore_many": {
+    "message": "Uždaryti skirtukus ir išsaugoti programoje ONETAB"
+  },
+  "closeTabsAndStore_one": {
+    "message": "Uždaryti skirtuką ir išsaugoti programoje ONETAB"
+  },
+  "closeTabsAndStore_other": {
+    "message": "Uždaryti skirtukus ir išsaugoti programoje ONETAB"
+  },
+  "closeTabsAndStore_two": {
+    "message": "Uždaryti skirtukus ir išsaugoti programoje ONETAB"
+  },
+  "closeTabsAndStore_zero": {
+    "message": "Uždaryti skirtukus ir išsaugoti programoje ONETAB"
+  },
+  "closeTheseDuplicates_few": {
+    "message": "Uždaryti šiuos dublikatus"
+  },
+  "closeTheseDuplicates_many": {
+    "message": "Uždaryti šiuos dublikatus"
+  },
+  "closeTheseDuplicates_one": {
+    "message": "Uždaryti šį dublikatą"
+  },
+  "closeTheseDuplicates_other": {
+    "message": "Uždaryti šiuos dublikatus"
+  },
+  "closeTheseDuplicates_two": {
+    "message": "Uždaryti šiuos dublikatus"
+  },
+  "closeTheseDuplicates_zero": {
+    "message": "Uždaryti šiuos dublikatus"
+  },
+  "completedTaskFlagHelp": {
+    "message": "Šis elementas yra užduotis. Spustelėkite šią piktogramą, kad pažymėtumėte ją kaip neatliktą."
+  },
+  "completeEditingShortcutInfo": {
+    "message": "Redaguojant pastabų lauką – baigti redaguoti"
+  },
+  "configureShortcuts": {
+    "message": "Konfigūruoti sparčiuosius klavišus"
+  },
+  "conflictingShortcutsHint": {
+    "message": "Jei kuris nors iš pirmiau nurodytų sparčiųjų klavišų neveikia arba konfliktuoja su kitomis programomis, galite nustatyti kitą spartųjį klavišą."
+  },
+  "continue": {
+    "message": "Tęsti"
+  },
+  "convertTabsIntoAList": {
+    "message": "Paversti skirtukus sąrašu"
+  },
+  "copiedToClipboard": {
+    "message": "Nukopijuota į iškarpinę"
+  },
+  "copy": {
+    "message": "Kopijuoti"
+  },
+  "copyLinksToClipboard": {
+    "message": "Kopijuoti nuorodas į iškarpinę"
+  },
+  "copySharedPageUrl": {
+    "message": "Kopijuoti bendrinamo puslapio URL"
+  },
+  "copyToClipboard": {
+    "message": "Kopijuoti į iškarpinę"
+  },
+  "copyToClipboardMenuItemHelp": {
+    "message": "Kopijuokite šias žiniatinklio nuorodas į iškarpinę, kad galėtumėte jas įklijuoti į kitas programas. Iškarpinės teksto formatą galite pakeisti OneTab parinkčių puslapyje."
+  },
+  "createANewGroupHere": {
+    "message": "Čia sukurti naują grupę"
+  },
+  "createdOnDate": {
+    "message": "Sukurta {DATE}"
+  },
+  "createdOnOrAfterColon": {
+    "message": "Sukurta šią dieną arba vėliau:"
+  },
+  "createdOnOrBeforeColon": {
+    "message": "Sukurta šią dieną arba anksčiau:"
+  },
+  "createFolderAbove": {
+    "message": "Sukurti aplanką aukščiau"
+  },
+  "createFolderAboveBelow": {
+    "message": "Sukurti aplanką aukščiau / žemiau"
+  },
+  "createFolderAboveWithinBelow": {
+    "message": "Sukurti aplanką aukščiau / viduje / žemiau"
+  },
+  "createFolderBelow": {
+    "message": "Sukurti aplanką žemiau"
+  },
+  "createFolderWithin": {
+    "message": "Sukurti aplanką šiame elemente"
+  },
+  "createFolderWithinMenuItemHelp": {
+    "message": "Aplankai skirti grupėms tvarkyti. Aplankuose yra grupės, o grupėse – skirtukai."
+  },
+  "createGroupAbove": {
+    "message": "Sukurti grupę aukščiau"
+  },
+  "createGroupAboveBelow": {
+    "message": "Sukurti grupę aukščiau / žemiau"
+  },
+  "createGroupAboveWithinBelow": {
+    "message": "Sukurti grupę aukščiau / viduje / žemiau"
+  },
+  "createGroupBelow": {
+    "message": "Sukurti grupę žemiau"
+  },
+  "createGroupInsideDestination": {
+    "message": "Sukurti naują grupę paskirties vietoje"
+  },
+  "createGroupInsideDestinationHelp": {
+    "message": "Jei nepažymėta, jūsų skirtukai bus pridėti tiesiai į paskirties grupę. Jei pažymėta, jūsų skirtukams paskirties grupėje bus sukurta nauja naršyklės skirtukų grupė. Pažymėkite šį langelį tik jei norite naudoti naršyklės funkciją „skirtukų grupės“."
+  },
+  "createGroupMenuItemHelp": {
+    "message": "Sukurti naują tuščią grupę. Grupėje yra skirtukų sąrašas, kurį galima kartu atkurti į langą."
+  },
+  "createGroupWithin": {
+    "message": "Sukurti grupę šiame elemente"
+  },
+  "createNewGroupTip": {
+    "message": "Norėdami sukurti naują grupę, pirmiausia panaikinkite žymėjimą „Rodyti tik aplankus“. Taip galėsite matyti naujai sukurtą grupę sąraše."
+  },
+  "darkTheme": {
+    "message": "Tamsi tema"
+  },
+  "dayCount_few": {
+    "message": "{COUNT} dienos"
+  },
+  "dayCount_many": {
+    "message": "{COUNT} dienų"
+  },
+  "dayCount_one": {
+    "message": "{COUNT} diena"
+  },
+  "dayCount_other": {
+    "message": "{COUNT} dienų"
+  },
+  "dayCount_two": {
+    "message": "{COUNT} dienos"
+  },
+  "dayCount_zero": {
+    "message": "{COUNT} dienų"
+  },
+  "delete": {
+    "message": "Ištrinti"
+  },
+  "deleteAllTrash": {
+    "message": "Ištrinti visą šiukšliadėžės turinį"
+  },
+  "deleteThisCopy": {
+    "message": "Ištrinti šią kopiją"
+  },
+  "deselectAll": {
+    "message": "Panaikinti visų pasirinkimą"
+  },
+  "destinationColon": {
+    "message": "Paskirties vieta:"
+  },
+  "disabled": {
+    "message": "Išjungta"
+  },
+  "doneTaskCount_few": {
+    "message": "{COUNT} atlikta"
+  },
+  "doneTaskCount_many": {
+    "message": "{COUNT} atlikta"
+  },
+  "doneTaskCount_one": {
+    "message": "{COUNT} atlikta"
+  },
+  "doneTaskCount_other": {
+    "message": "{COUNT} atlikta"
+  },
+  "doneTaskCount_two": {
+    "message": "{COUNT} atlikta"
+  },
+  "doneTaskCount_zero": {
+    "message": "{COUNT} atlikta"
+  },
+  "dontCloseGroupedTabs": {
+    "message": "Neuždaryti jokių skirtukų, esančių skirtukų grupėse"
+  },
+  "dontClosePinnedTabs": {
+    "message": "Neuždaryti jokių prisegtų skirtukų"
+  },
+  "dontCloseTabsFromDomains": {
+    "message": "Neuždaryti jokių skirtukų iš EXAMPLE.COM"
+  },
+  "dragCopyKeysHtml": {
+    "message": "<x-key>{CTRL}</x-key> arba <x-key>{ALT}</x-key>"
+  },
+  "dragCopyModifierInfo": {
+    "message": "Velkant skirtuką, laikykite nuspaudę Ctrl arba Alt klavišą, kad sukurtumėte jo kopiją, o ne perkeltumėte."
+  },
+  "dragTabsHereForQuickList": {
+    "message": "Nuvilkite čia išsaugotus skirtukus arba grupes. Jie bus įtraukti į jūsų spartųjį sąrašą."
+  },
+  "editTabGroupTitleAndNotes": {
+    "message": "Redaguoti skirtukų grupės pavadinimą ir pastabas"
+  },
+  "emojiShortcutInfo": {
+    "message": "Redaguojant pastabų lauką – atidaryti jaustukų pasirinkiklį"
+  },
+  "emptyInBrackets": {
+    "message": "(tuščia)"
+  },
+  "emptyOneTabInfoMsg": {
+    "message": "Kai turite atidarę kelis skirtukus, naršyklės įrankių juostoje spustelėkite OneTab piktogramą ir atidaryti skirtukai bus rodomi čia."
+  },
+  "enabled": {
+    "message": "Įjungta"
+  },
+  "everything": {
+    "message": "Viskas"
+  },
+  "exampleLink": {
+    "message": "Pavyzdinė nuoroda"
+  },
+  "exampleLinkTitle": {
+    "message": "Pavyzdinės nuorodos pavadinimas"
+  },
+  "exampleLinkTitleOptional": {
+    "message": "Pavyzdinės nuorodos pavadinimas (nebūtina)"
+  },
+  "exampleRichTextParagraph": {
+    "message": "Pavyzdinė teksto pastraipa su PLACEHOLDER ir PLACEHOLDER"
+  },
+  "exampleWebsitePageTitle": {
+    "message": "Pavyzdinės svetainės puslapio pavadinimas"
+  },
+  "excludeDomainFromOneTab": {
+    "message": "Neįtraukti EXAMPLE.COM į OneTab"
+  },
+  "excludeWebSiteFromOneTab": {
+    "message": "Neįtraukti šios svetainės į OneTab"
+  },
+  "expiresColon": {
+    "message": "Galioja iki:"
+  },
+  "export": {
+    "message": "Eksportuoti"
+  },
+  "exportImportUrls": {
+    "message": "Eksportuoti / importuoti URL"
+  },
+  "exportThenImportNote": {
+    "message": "Toliau pateiktą URL sąrašą taip pat galima importuoti atgal į OneTab šiame arba kitame kompiuteryje"
+  },
+  "exportUrls": {
+    "message": "Eksportuoti URL"
+  },
+  "feedback": {
+    "message": "Atsiliepimai"
+  },
+  "filter": {
+    "message": "Filtras"
+  },
+  "firefoxIncognitoInstructions": {
+    "message": "Naršyklės nustatymuose eikite į „Nuostatos“ → „Priedai ir temos“ → „Plėtiniai“ → „OneTab“ → „...“ → „Tvarkyti“, tada įjunkite „Vykdyti privačiuosiuose languose“."
+  },
+  "firefoxIndexedDbUnavailable": {
+    "message": "OneTab negali saugoti arba gauti duomenų. Jei nustatėte, kad Firefox niekada neįsimintų jokios istorijos, tai trukdytų OneTab tinkamai veikti. Kitu atveju susisiekite su mumis per mūsų svetainę ir galbūt galėsime padėti."
+  },
+  "firefoxShortcutConfigInstructions": {
+    "message": "Naršyklės adreso juostoje įveskite URL „about:addons?type=extension“. Kai puslapis bus rodomas, spustelėkite krumpliaračio piktogramą, tada pasirinkite „Tvarkyti plėtinių sparčiuosius klavišus“"
+  },
+  "Folder": {
+    "message": "Aplankas"
+  },
+  "folderCount_few": {
+    "message": "{COUNT} aplankai"
+  },
+  "folderCount_many": {
+    "message": "{COUNT} aplankų"
+  },
+  "folderCount_one": {
+    "message": "{COUNT} aplankas"
+  },
+  "folderCount_other": {
+    "message": "{COUNT} aplankų"
+  },
+  "folderCount_two": {
+    "message": "{COUNT} aplankai"
+  },
+  "folderCount_zero": {
+    "message": "{COUNT} aplankų"
+  },
+  "folders": {
+    "message": "Aplankai"
+  },
+  "foldersOnly": {
+    "message": "Tik aplankai"
+  },
+  "foldGroup": {
+    "message": "Sutraukti grupę"
+  },
+  "gettingStarted": {
+    "message": "Darbo pradžia"
+  },
+  "gotIt": {
+    "message": "Supratau"
+  },
+  "goToParentFolder": {
+    "message": "Eiti į pirminį aplanką"
+  },
+  "groupCount_few": {
+    "message": "{COUNT} grupės"
+  },
+  "groupCount_many": {
+    "message": "{COUNT} grupių"
+  },
+  "groupCount_one": {
+    "message": "{COUNT} grupė"
+  },
+  "groupCount_other": {
+    "message": "{COUNT} grupių"
+  },
+  "groupCount_two": {
+    "message": "{COUNT} grupės"
+  },
+  "groupCount_zero": {
+    "message": "{COUNT} grupių"
+  },
+  "groups": {
+    "message": "Grupės"
+  },
+  "hasNotes": {
+    "message": "Su pastabomis"
+  },
+  "help": {
+    "message": "Pagalba"
+  },
+  "hideArchivedItems": {
+    "message": "Slėpti archyvuotus elementus"
+  },
+  "import": {
+    "message": "Importuoti"
+  },
+  "importAndExport": {
+    "message": "Importuoti ir eksportuoti"
+  },
+  "importBookmarks": {
+    "message": "Žymių importavimas"
+  },
+  "importedBookmarks": {
+    "message": "Importuotos žymės"
+  },
+  "importExportShareMenuNoteHtml": {
+    "message": "Skirtukus taip pat galite eksportuoti kaip bendrinamą tinklalapį arba HTML failą naudodami parinktis <b>Bendrinti kaip tinklalapį</b> ir <b>Išsaugoti kaip HTML failą</b> grupės arba aplanko meniu <b>Daugiau…</b>."
+  },
+  "importFolderAndSubfolders": {
+    "message": "Importuoti aplanką ir poaplankius"
+  },
+  "importLinksHere": {
+    "message": "Importuoti nuorodas čia"
+  },
+  "importLinksHereMenuItemHelp": {
+    "message": "Galite įklijuoti žiniatinklio nuorodų sąrašą arba importuoti naršyklės žymes."
+  },
+  "importNotesTruncatedNotice": {
+    "message": "Kai kurios importuotos pastabos viršijo {MAX} simbolių limitą, todėl jų pabaigos buvo nukirptos."
+  },
+  "importReadingList": {
+    "message": "Skaitinių sąrašo importavimas"
+  },
+  "importText": {
+    "message": "Teksto importavimas"
+  },
+  "importUrls": {
+    "message": "Importuoti URL"
+  },
+  "includeGroupedTabs": {
+    "message": "Įtraukti sugrupuotus skirtukus"
+  },
+  "includeNotes": {
+    "message": "Įtraukti pastabas"
+  },
+  "includePinnedTabs": {
+    "message": "Įtraukti prisegtus skirtukus"
+  },
+  "includeStarRatings": {
+    "message": "Įtraukti žvaigždutes"
+  },
+  "includeTabsAlreadyStored": {
+    "message": "Įtraukti jau išsaugotus skirtukus"
+  },
+  "includeTabsFromDomains": {
+    "message": "Įtraukti skirtukus iš EXAMPLE.COM"
+  },
+  "incogitoPermissionRequired": {
+    "message": "OneTab reikia leidimo kurti inkognito langus."
+  },
+  "incognitoWindows": {
+    "message": "Inkognito langai"
+  },
+  "invertSelection": {
+    "message": "Invertuoti pasirinkimą"
+  },
+  "itemTextTruncatedNotice": {
+    "message": "Tekstas viršijo leistiną ilgį (pastabose gali būti {NOTESMAX} simbolių, o pavadinimuose – {TITLEMAX}), todėl jo pabaiga buvo nukirpta."
+  },
+  "justNow": {
+    "message": "ką tik"
+  },
+  "kbdNavBackspaceInfo": {
+    "message": "Eiti į pirminį aplanką"
+  },
+  "kbdNavEnterInfo": {
+    "message": "Atkurti skirtukus arba atidaryti aplanką"
+  },
+  "kbdNavEscInfo": {
+    "message": "Baigti naršymą klaviatūra"
+  },
+  "kbdNavFocusInfo": {
+    "message": "Perkelti fokusą tarp grupių ir skirtukų"
+  },
+  "kbdNavFoldInfo": {
+    "message": "Sutraukti / išskleisti grupę"
+  },
+  "kbdNavMoveInfo": {
+    "message": "Pereiti tarp elementų"
+  },
+  "kbdNavTabInfo": {
+    "message": "Pradėti naršymą klaviatūra"
+  },
+  "keyboardShortcutsColon": {
+    "message": "Spartieji klavišai:"
+  },
+  "languageTitle": {
+    "message": "Kalba:"
+  },
+  "licenseAlreadyHaveKey": {
+    "message": "Jau turiu licencijos raktą"
+  },
+  "licenseAlreadySetUpRestarting": {
+    "message": "Ši licencija jau nustatyta, todėl prijungsime šį įrenginį prie esamos sąrankos. Naujas kodas išsiųstas užregistruotu el. pašto adresu."
+  },
+  "licenseBackLink": {
+    "message": "Atgal"
+  },
+  "licenseBrowserOnOs": {
+    "message": "{BROWSER} sistemoje {OS}"
+  },
+  "licenseBrowsersActiveOn": {
+    "message": "Aktyvi {DATE}"
+  },
+  "licenseBrowsersActiveToday": {
+    "message": "Aktyvi šiandien"
+  },
+  "licenseBrowsersAdded": {
+    "message": "Pridėta {DATE}"
+  },
+  "licenseBrowsersThisBrowser": {
+    "message": "Ši naršyklė"
+  },
+  "licenseBrowserUnknown": {
+    "message": "Naršyklė"
+  },
+  "licenseChangeEmail": {
+    "message": "Keisti el. pašto adresą"
+  },
+  "licenseChangeEmailWebLink": {
+    "message": "Keisti el. pašto adresą"
+  },
+  "licenseChooseRecoveryTitle": {
+    "message": "Pasirinkite šifravimo rakto apsaugos būdą"
+  },
+  "licenseCloseModal": {
+    "message": "Uždaryti"
+  },
+  "licenseCodeExpired": {
+    "message": "Šis kodas nebegalioja. Paprašykite naujo laiško."
+  },
+  "licenseCodeIncorrectTriesRemaining": {
+    "message": "Kodas neteisingas. Liko bandymų: {COUNT}."
+  },
+  "licenseCodeInvalidFormat": {
+    "message": "Įveskite laiške gautą 6 skaitmenų kodą."
+  },
+  "licenseCodePlaceholder": {
+    "message": "6 skaitmenų kodas"
+  },
+  "licenseCodeSentTo": {
+    "message": "Įveskite 6 skaitmenų kodą, kurį išsiuntėme adresu {EMAIL}."
+  },
+  "licenseCodeSourceDeviceOption": {
+    "message": "Gauti kodą iš jau prijungtos naršyklės"
+  },
+  "licenseCodeSourceDeviceOptionDescription": {
+    "message": "Ten atidarykite „Atsarginis kopijavimas ir sinchronizavimas“ ir spustelėkite „Prijungti kitą naršyklę arba profilį“."
+  },
+  "licenseCodeSourceEmailOption": {
+    "message": "Siųsti kodą adresu {EMAIL}"
+  },
+  "licenseCodeSourceTitle": {
+    "message": "Gauti patvirtinimo kodą"
+  },
+  "licenseCodeTriesExhausted": {
+    "message": "Išnaudoti visi bandymai įvesti šį kodą. Paprašykite naujo laiško."
+  },
+  "licenseConnectAnotherBrowser": {
+    "message": "Prijungti kitą naršyklę arba profilį"
+  },
+  "licenseConnectedBrowsers": {
+    "message": "Prijungtos naršyklės"
+  },
+  "licenseDeviceAddConnected": {
+    "message": "Naršyklė {BROWSER} ką tik prijungta prie jūsų licencijos."
+  },
+  "licenseDeviceAddExpired": {
+    "message": "Šis kodas nebegalioja."
+  },
+  "licenseDeviceAddExpiresIn": {
+    "message": "Nustos galioti po {TIME}"
+  },
+  "licenseDeviceAddGetNewCode": {
+    "message": "Gauti naują kodą"
+  },
+  "licenseDeviceAddIntro": {
+    "message": "Norėdami prijungti kitą naršyklę arba profilį, ten įveskite licencijos raktą, o kai būsite paprašyti, įveskite šį kodą."
+  },
+  "licenseDeviceAddKeyReminder": {
+    "message": "Jums vis tiek reikės licencijos rakto – čia jis nerodomas. Jį rasite pradiniame laiške arba atsiskaitymo puslapyje."
+  },
+  "licenseDeviceAddNeverShare": {
+    "message": "Šį kodą naudokite tik savo naujoje naršyklėje. Niekada jo niekam neatskleiskite – OneTab niekada jo neprašys. Jis galioja tik šios naršyklės licencijai."
+  },
+  "licenseDeviceCodeInsteadLink": {
+    "message": "Vietoj to gauti kodą iš prijungtos naršyklės"
+  },
+  "licenseDeviceCodePrompt": {
+    "message": "Naršyklėje, kuri jau prijungta prie jūsų licencijos, atidarykite „Atsarginis kopijavimas ir sinchronizavimas“ ir spustelėkite „Prijungti kitą naršyklę arba profilį“. Įveskite ten rodomą 6 skaitmenų kodą."
+  },
+  "licenseDeviceLimitReached": {
+    "message": "Pasiektas šios licencijos įrenginių limitas."
+  },
+  "licenseDoneButton": {
+    "message": "Baigti"
+  },
+  "licenseEasyOptionDescription": {
+    "message": "Jūsų šifravimo raktas saugiai laikomas serveryje, todėl galite jį atkurti el. paštu."
+  },
+  "licenseEasyOptionLabel": {
+    "message": "Paprasta"
+  },
+  "licenseEmailCodeInsteadLink": {
+    "message": "Vietoj to siųsti kodą el. paštu"
+  },
+  "licenseEmailPlaceholder": {
+    "message": "El. pašto adresas"
+  },
+  "licenseEmailPrompt": {
+    "message": "Jūsų el. pašto adresas"
+  },
+  "licenseForgotKeyBack": {
+    "message": "Grįžti prie licencijos rakto įvedimo"
+  },
+  "licenseForgotKeyEnterKeyButton": {
+    "message": "Įvesti licencijos raktą"
+  },
+  "licenseForgotKeyLink": {
+    "message": "Pamiršote licencijos raktą?"
+  },
+  "licenseForgotKeyNoEmailOnRecord": {
+    "message": "Su šiuo el. pašto adresu nesusietas joks licencijos raktas. Patikrinkite, ar nepadarėte klaidos, arba išbandykite kitą adresą, kurį galėjote naudoti."
+  },
+  "licenseForgotKeyPrompt": {
+    "message": "Įveskite savo el. pašto adresą. Jei jis užregistruotas prie licencijos rakto, išsiųsime raktą šiuo adresu."
+  },
+  "licenseForgotKeySendButton": {
+    "message": "Siųsti"
+  },
+  "licenseForgotKeySentTo": {
+    "message": "Jūsų licencijos raktą išsiuntėme adresu {EMAIL}. Gavę laišką galėsite įvesti jį čia."
+  },
+  "licenseForgotKeyTooManyRequests": {
+    "message": "Pastaruoju metu jūsų licencijos raktas šiuo adresu jau buvo išsiųstas kelis kartus. Patikrinkite šlamšto aplanką arba bandykite dar kartą rytoj."
+  },
+  "licenseGenericError": {
+    "message": "Įvyko klaida. Bandykite dar kartą."
+  },
+  "licenseGoButton": {
+    "message": "Tęsti"
+  },
+  "licenseInvalidEmail": {
+    "message": "Įveskite galiojantį el. pašto adresą."
+  },
+  "licenseKeyInvalidFormat": {
+    "message": "Tai nepanašu į galiojantį licencijos raktą. Jį turi sudaryti 20 raidžių (A–F) ir skaitmenų, pvz., XXXX-XXXX-XXXX-XXXX-XXXX."
+  },
+  "licenseKeyNotFound": {
+    "message": "Licencijos raktas nerastas. Patikrinkite jį ir bandykite dar kartą."
+  },
+  "licenseNoLongerActiveError": {
+    "message": "Ši licencija nebeaktyvi. Jei manote, kad tai klaida, susisiekite su pagalbos tarnyba."
+  },
+  "licenseRateLimitedError": {
+    "message": "Iš jūsų tinklo atlikta per daug nesėkmingų bandymų. Šiek tiek palaukite ir bandykite dar kartą."
+  },
+  "licenseResendEmail": {
+    "message": "Siųsti naują laišką"
+  },
+  "licenseServiceProblemTryLater": {
+    "message": "Šiuo metu veiksmo užbaigti negalima dėl mūsų sistemos problemos. Bandykite dar kartą vėliau, o jei problema kartosis, susisiekite su pagalbos tarnyba."
+  },
+  "licenseSuccess": {
+    "message": "Pavyko! Nuo šiol jūsų išsaugoti skirtukai bus šifruojami ir saugiai kopijuojami į debesį."
+  },
+  "licenseSuccessJoin": {
+    "message": "Pavyko! Ši naršyklė prijungta prie jūsų šifruotos atsarginės kopijos. Dabar čia ir kitose jūsų naršyklėse išsaugoti skirtukai bus sinchronizuojami."
+  },
+  "licenseSuggestedEmailIntro": {
+    "message": "Jūsų licencijos raktas išsiųstas el. paštu:"
+  },
+  "licenseSuggestedEmailNote": {
+    "message": "Patvirtinimo kodai ir paskyros atkūrimo informacija bus siunčiami šiuo adresu, todėl įsitikinkite, kad jis priklauso jums."
+  },
+  "licenseSuspendedBillingError": {
+    "message": "Šiuo metu šios licencijos prijungti negalima dėl atsiskaitymo problemos. Jei tvarkote atsiskaitymą, prisijunkite adresu one-tab.com ir išspręskite problemą, kitu atveju susisiekite su asmeniu, atsakingu už jūsų licencijos įsigijimą."
+  },
+  "licenseUltraKeyConfirmCheckbox": {
+    "message": "Išsisaugojau savo rakto kopiją ir suprantu, kad jis niekada nebebus rodomas."
+  },
+  "licenseUltraKeyConfirmRequired": {
+    "message": "Patvirtinkite, kad išsisaugojote savo rakto kopiją."
+  },
+  "licenseUltraKeyEnterPrompt": {
+    "message": "Įveskite savo šifravimo raktą, kad užbaigtumėte šio įrenginio prijungimą."
+  },
+  "licenseUltraKeyIntro": {
+    "message": "Tai jūsų šifravimo raktas. Saugiai išsisaugokite jo kopiją, pavyzdžiui, slaptažodžių tvarkytuvėje, kad galėtumėte atkurti duomenis sugedus ar pavogus kompiuterį."
+  },
+  "licenseUltraKeyMismatch": {
+    "message": "Šis raktas netinka šiai licencijai. Patikrinkite jį ir bandykite dar kartą."
+  },
+  "licenseUltraKeyNeverShownAgain": {
+    "message": "Šis raktas NIEKADA nebebus rodomas."
+  },
+  "licenseUltraKeyPlaceholder": {
+    "message": "Šifravimo raktas"
+  },
+  "licenseUltraOptionDescription": {
+    "message": "Šifravimo raktą turite tik jūs, todėl jį praradus atkurti nebus galima. Rinkitės šią parinktį, tik jei esate tikri, kad galėsite saugiai laikyti jo kopiją."
+  },
+  "licenseUltraOptionLabel": {
+    "message": "Ypatingas privatumas"
+  },
+  "licenseUseDifferentEmail": {
+    "message": "Naudoti kitą el. pašto adresą"
+  },
+  "lightTheme": {
+    "message": "Šviesi tema"
+  },
+  "localBackupRestoredModal": {
+    "message": "Jūsų naršyklės profilio dalis, kurioje saugomi OneTab duomenys, buvo sugadinta arba ištrinta. Taip gali nutikti naršyklei užstrigus arba kai netinkamai veikianti sistemos ar privatumo valymo programinė įranga pašalina naršyklės duomenis."
+  },
+  "localBackupRestoredModalRecovery": {
+    "message": "Šį kartą jums pasisekė: pažeidimas nepasiekė atskiros profilio dalies, kurioje OneTab saugo kassavaitinę atsarginę kopiją, todėl jūsų skirtukai buvo atkurti iš {DATE} sukurtos atsarginės kopijos. Nieko, ką išsaugojote ar pakeitėte po šios datos, atkurti nepavyko. Jei būtų prarastas visas profilis arba sugadinta ir atsarginė kopija, nebūtų buvę iš ko atkurti duomenų."
+  },
+  "localBackupRestoredModalTitle": {
+    "message": "OneTab atkūrė jūsų skirtukus praradus duomenis"
+  },
+  "localeId": {
+    "message": "lt"
+  },
+  "locationColon": {
+    "message": "Vieta:"
+  },
+  "lock": {
+    "message": "Užrakinti"
+  },
+  "lockedGroupUnlockHelp": {
+    "message": "Norėdami atrakinti, naudokite meniu „Daugiau…“. Kai grupė užrakinta, negalite ištrinti grupės ar jos skirtukų, o skirtukų tvarkos negalima keisti."
+  },
+  "lockMenuItemHelp": {
+    "message": "Kai grupė užrakinta, negalite pašalinti ar pertvarkyti grupės elementų (kol grupės neatrakinsite)."
+  },
+  "makeThisATask": {
+    "message": "Pažymėti kaip užduotį"
+  },
+  "manifestDescription": {
+    "message": "Sutaupykite iki 95 % atminties ir sumažinkite skirtukų netvarką"
+  },
+  "markAsArchived": {
+    "message": "Pažymėti kaip archyvuotą"
+  },
+  "markAsArchivedMenuItemHelp": {
+    "message": "Kai elementą pažymite kaip archyvuotą, jo fonas bus pilkas. Tai vaizdinis indikatorius, kad su šiuo elementu baigėte darbą (pvz., tai yra straipsnis, kurį jau perskaitėte). Jei archyvuosite elementą, pažymėtą kaip užduotis, užduotis nebebus rodoma užduočių stulpelyje jūsų OneTab puslapyje."
+  },
+  "markAsDoneTask": {
+    "message": "Pažymėti kaip atliktą užduotį"
+  },
+  "markAsDoneTaskMenuItemHelp": {
+    "message": "Vaizdžiai pažymėti, kad užduotis atlikta"
+  },
+  "markAsPendingTask": {
+    "message": "Pažymėti kaip neatliktą užduotį"
+  },
+  "markAsPendingTaskMenuItemHelp": {
+    "message": "Vaizdžiai parodyti, kad šis elementas yra užduotis. Atsiras užduoties piktograma, kurią galėsite spustelėti, kad vaizdžiai pažymėtumėte, jog užduotis atlikta. Visos užduotys (nebent pažymėtos kaip archyvuotos) taip pat bus rodomos užduočių stulpelyje jūsų OneTab puslapyje."
+  },
+  "matchCount_few": {
+    "message": "{COUNT} atitiktys"
+  },
+  "matchCount_many": {
+    "message": "{COUNT} atitikčių"
+  },
+  "matchCount_one": {
+    "message": "{COUNT} atitiktis"
+  },
+  "matchCount_other": {
+    "message": "{COUNT} atitikčių"
+  },
+  "matchCount_two": {
+    "message": "{COUNT} atitiktys"
+  },
+  "matchCount_zero": {
+    "message": "{COUNT} atitikčių"
+  },
+  "matchWholeWordsOnly": {
+    "message": "Atitikti tik ištisus žodžius"
+  },
+  "mayNeedToRestartBrowser": {
+    "message": "Jei šį pranešimą matote kaskart, atnaujinkite ir paleiskite naršyklę iš naujo."
+  },
+  "mergeIntoParent": {
+    "message": "Sujungti į pirminį elementą"
+  },
+  "mergeOpenTabsHere_few": {
+    "message": "Sujungti čia {COUNT} atidarytus skirtukus"
+  },
+  "mergeOpenTabsHere_many": {
+    "message": "Sujungti čia {COUNT} atidarytų skirtukų"
+  },
+  "mergeOpenTabsHere_one": {
+    "message": "Sujungti čia {COUNT} atidarytą skirtuką"
+  },
+  "mergeOpenTabsHere_other": {
+    "message": "Sujungti čia {COUNT} atidarytų skirtukų"
+  },
+  "mergeOpenTabsHere_two": {
+    "message": "Sujungti čia {COUNT} atidarytus skirtukus"
+  },
+  "mergeOpenTabsHere_zero": {
+    "message": "Sujungti čia {COUNT} atidarytų skirtukų"
+  },
+  "mergeSelectedTabsHere_few": {
+    "message": "Sujungti čia {COUNT} pasirinktus skirtukus"
+  },
+  "mergeSelectedTabsHere_many": {
+    "message": "Sujungti čia {COUNT} pasirinktų skirtukų"
+  },
+  "mergeSelectedTabsHere_one": {
+    "message": "Sujungti čia {COUNT} pasirinktą skirtuką"
+  },
+  "mergeSelectedTabsHere_other": {
+    "message": "Sujungti čia {COUNT} pasirinktų skirtukų"
+  },
+  "mergeSelectedTabsHere_two": {
+    "message": "Sujungti čia {COUNT} pasirinktus skirtukus"
+  },
+  "mergeSelectedTabsHere_zero": {
+    "message": "Sujungti čia {COUNT} pasirinktų skirtukų"
+  },
+  "mergeWithInnerGroups": {
+    "message": "Sujungti su vidinėmis grupėmis"
+  },
+  "modalMoveToTrashHintExampleGroupTitle": {
+    "message": "Pavyzdinis grupės pavadinimas"
+  },
+  "modalMoveToTrashHintHeading": {
+    "message": "Patarimas: užveskite pelės žymeklį ant grupės pavadinimo, tada spustelėkite X, kad perkeltumėte ją į šiukšliadėžę."
+  },
+  "modalOptionAutoActionOnOpenHeading": {
+    "message": "Atkūrus skirtukus:"
+  },
+  "modalOptionAutoActionOnOpenOpenDesc": {
+    "message": "Baigę ištrinkite rankiniu būdu"
+  },
+  "modalOptionAutoActionOnOpenTrashDesc": {
+    "message": "Lengviau greitai išsaugoti ir atkurti"
+  },
+  "modalRemigrationDontAskAgain": {
+    "message": "Daugiau neklausti"
+  },
+  "modalRemigrationFooterHtml": {
+    "message": "Spustelėkite <b>Taip</b>, nebent perkėlimas jau įvyko ir sąmoningai ištrynėte perkeltus skirtukus."
+  },
+  "modalRemigrationNotNow": {
+    "message": "Ne dabar"
+  },
+  "modalRemigrationTabsFoundPrompt_few": {
+    "message": "Rasti {COUNT} skirtukai iš OneTab v1. Perkelti juos?"
+  },
+  "modalRemigrationTabsFoundPrompt_many": {
+    "message": "Rasta {COUNT} skirtukų iš OneTab v1. Perkelti juos?"
+  },
+  "modalRemigrationTabsFoundPrompt_one": {
+    "message": "Rastas {COUNT} skirtukas iš OneTab v1. Perkelti jį?"
+  },
+  "modalRemigrationTabsFoundPrompt_other": {
+    "message": "Rasta {COUNT} skirtukų iš OneTab v1. Perkelti juos?"
+  },
+  "modalRemigrationTabsFoundPrompt_two": {
+    "message": "Rasti {COUNT} skirtukai iš OneTab v1. Perkelti juos?"
+  },
+  "modalRemigrationTabsFoundPrompt_zero": {
+    "message": "Rasta {COUNT} skirtukų iš OneTab v1. Perkelti juos?"
+  },
+  "modalRemigrationYes": {
+    "message": "Taip"
+  },
+  "modalUpdateToV2Heading": {
+    "message": "OneTab atnaujinta"
+  },
+  "modalUpdateToV2QuickTourHtml": {
+    "message": "Norite trumpos apžvalgos? Viršuje spustelėkite <b>Pagalba</b>."
+  },
+  "modalUpdateToV2UseOneTabLikeBefore": {
+    "message": "Vis dar galite naudoti OneTab kaip anksčiau – išsaugoti skirtukus vienu spustelėjimu."
+  },
+  "modifySharing": {
+    "message": "Keisti bendrinimą"
+  },
+  "moreEllipsis": {
+    "message": "Daugiau…"
+  },
+  "moreSearchFilters": {
+    "message": "Daugiau paieškos filtrų"
+  },
+  "move": {
+    "message": "Perkelti"
+  },
+  "moveBack": {
+    "message": "Perkelti atgal"
+  },
+  "moveToTrash": {
+    "message": "Perkelti į šiukšliadėžę"
+  },
+  "namedOnly": {
+    "message": "Tik pavadinti elementai"
+  },
+  "navigationFilter": {
+    "message": "Naršymo filtras"
+  },
+  "navigationFilterColumnOnlyNote": {
+    "message": "Šis filtras taikomas tik naršymo stulpeliui."
+  },
+  "newExclamation": {
+    "message": "Nauja!"
+  },
+  "noDupsExistExceptForColon": {
+    "message": "Dublikatų nėra, išskyrus:"
+  },
+  "noDupsFoundHere": {
+    "message": "Čia dublikatų nerasta"
+  },
+  "noMatches": {
+    "message": "Nėra atitikčių"
+  },
+  "noMatchesFound": {
+    "message": "Atitikčių nerasta"
+  },
+  "nonArchived": {
+    "message": "Nearchyvuoti"
+  },
+  "nonTabPinFlagHelp": {
+    "message": "Šis elementas prisegtas aplanko viršuje. Spustelėkite šią piktogramą, kad jį atsegtumėte."
+  },
+  "noOpenTabsToStore": {
+    "message": "Šiame lange nėra atidarytų skirtukų, kuriuos būtų galima išsaugoti."
+  },
+  "noReadingListEntries": {
+    "message": "Skaitinių sąrašo įrašų nerasta"
+  },
+  "noTabsInOneTabYet": {
+    "message": "Dar neturite jokių skirtukų programoje OneTab"
+  },
+  "noTabsMeetCriteriaUseCheckboxes": {
+    "message": "Nėra atidarytų skirtukų, atitinkančių jūsų kriterijus. Naudokite pirmiau esančius žymimuosius langelius."
+  },
+  "notAssigned": {
+    "message": "Nepriskirta"
+  },
+  "notes": {
+    "message": "Pastabos"
+  },
+  "notesAboutTheLinkOptional": {
+    "message": "Pastabos apie nuorodą (nebūtina)"
+  },
+  "notesAboutTheSecondLinkOptional": {
+    "message": "Pastabos apie antrąją nuorodą (nebūtina)"
+  },
+  "noTextHasBeenEntered": {
+    "message": "Neįvesta jokio teksto"
+  },
+  "ok": {
+    "message": "Gerai"
+  },
+  "omniboxShortcutInfo": {
+    "message": "Norėdami ieškoti savo OneTab sąraše iš bet kurio skirtuko, naršyklės adreso juostoje įveskite 11, tada tarpą, tada paieškos raktažodį. Norėdami atlikti įprastą (ne OneTab) paiešką, prasidedančią nuo 11, paspauskite 11, tada tarpą, tada Backspace"
+  },
+  "OneTabAlsoAvailableForFirefox": {
+    "message": "OneTab taip pat skirta Firefox"
+  },
+  "oneTabDesignedToProtectPrivacy": {
+    "message": "OneTab sukurta taip, kad apsaugotų jūsų privatumą. Jūsų skirtukai mums neatskleidžiami."
+  },
+  "oneTabExportPageTitle": {
+    "message": "OneTab eksportas"
+  },
+  "oneTabFolderSlashShortcutInfo": {
+    "message": "Aktyvinti paieškos lauką ir ieškoti tik dabartiniame aplanke"
+  },
+  "oneTabImportExportPageTitle": {
+    "message": "OneTab importavimas / eksportavimas"
+  },
+  "oneTabNeedsPermissionToAccessYourTabs": {
+    "message": "OneTab reikia leidimo pasiekti jūsų skirtukus."
+  },
+  "oneTabOptionsPageTitle": {
+    "message": "OneTab parinktys"
+  },
+  "oneTabPermissionRequired": {
+    "message": "OneTab – reikalingas leidimas"
+  },
+  "oneTabRestartRequired": {
+    "message": "Reikia iš naujo paleisti OneTab. Jokie kiti skirtukai nebus uždaryti."
+  },
+  "oneTabSlashShortcutInfo": {
+    "message": "Aktyvinti paieškos lauką"
+  },
+  "open": {
+    "message": "Atidaryti"
+  },
+  "openActionPopup": {
+    "message": "OneTab veiksmas (atitinka OneTab įrankių juostos piktogramos spustelėjimą)"
+  },
+  "openAsCollapsedTabGroup": {
+    "message": "Atidaryti kaip „sutrauktą“ skirtukų grupę"
+  },
+  "openAsCollapsedTabGroupMenuItemHelp": {
+    "message": "Jei atidarysite šiuos skirtukus kaip sutrauktą „skirtukų grupę“, bus rodoma tik grupės etiketė, kol ją spustelėsite, kad būtų parodyti joje esantys skirtukai."
+  },
+  "openAsPinnedTab": {
+    "message": "Atidarant prisegti skirtuką"
+  },
+  "openAsPinnedTabMenuItemHelp": {
+    "message": "Atkūrus šį skirtuką, atkurti jį kaip prisegtą naršyklės skirtuką. Prisegti skirtukai naršyklės lange visada rodomi pirmi."
+  },
+  "openAsTabGroup": {
+    "message": "Atidaryti kaip naršyklės skirtukų grupę"
+  },
+  "openAsTabGroupMenuItemHelp": {
+    "message": "Jūsų naršyklėje skirtukus lange galima grupuoti į spalvotas „skirtukų grupes“."
+  },
+  "openFolder": {
+    "message": "Atidaryti aplanką"
+  },
+  "openGroupsLimitNotice_few": {
+    "message": "Kad jūsų naršyklė nebūtų perkrauta, bus atidarytos tik pirmosios {COUNT} grupės."
+  },
+  "openGroupsLimitNotice_many": {
+    "message": "Kad jūsų naršyklė nebūtų perkrauta, bus atidaryta tik {COUNT} pirmųjų grupių."
+  },
+  "openGroupsLimitNotice_one": {
+    "message": "Kad jūsų naršyklė nebūtų perkrauta, bus atidaryta tik {COUNT} grupė – pirmoji."
+  },
+  "openGroupsLimitNotice_other": {
+    "message": "Kad jūsų naršyklė nebūtų perkrauta, bus atidarytos tik pirmosios {COUNT} grupės."
+  },
+  "openGroupsLimitNotice_two": {
+    "message": "Kad jūsų naršyklė nebūtų perkrauta, bus atidarytos tik pirmosios {COUNT} grupės."
+  },
+  "openGroupsLimitNotice_zero": {
+    "message": "Kad jūsų naršyklė nebūtų perkrauta, bus atidaryta tik {COUNT} pirmųjų grupių."
+  },
+  "openInIncognitoWindow": {
+    "message": "Atkurti naujame inkognito lange"
+  },
+  "openInNewWindow": {
+    "message": "Atkurti naujame lange"
+  },
+  "openInThisWindow": {
+    "message": "Atkurti šiame lange"
+  },
+  "openOneTab": {
+    "message": "Atidaryti OneTab"
+  },
+  "openOneTabAfter": {
+    "message": "Atidaryti OneTab išsaugojus skirtukus"
+  },
+  "openONETABLogo": {
+    "message": "Atidaryti ONETAB"
+  },
+  "openParentFolder": {
+    "message": "Atidaryti pirminį aplanką"
+  },
+  "openTabFromWebsite": {
+    "message": "Atidarykite skirtuką ir eikite į svetainę"
+  },
+  "openTabLimit_few": {
+    "message": "Kad jūsų naršyklė nebūtų perkrauta, vienu metu galima atidaryti ne daugiau kaip {COUNT} skirtukus."
+  },
+  "openTabLimit_many": {
+    "message": "Kad jūsų naršyklė nebūtų perkrauta, vienu metu galima atidaryti ne daugiau kaip {COUNT} skirtukų."
+  },
+  "openTabLimit_one": {
+    "message": "Kad jūsų naršyklė nebūtų perkrauta, vienu metu galima atidaryti ne daugiau kaip {COUNT} skirtuką."
+  },
+  "openTabLimit_other": {
+    "message": "Kad jūsų naršyklė nebūtų perkrauta, vienu metu galima atidaryti ne daugiau kaip {COUNT} skirtukų."
+  },
+  "openTabLimit_two": {
+    "message": "Kad jūsų naršyklė nebūtų perkrauta, vienu metu galima atidaryti ne daugiau kaip {COUNT} skirtukus."
+  },
+  "openTabLimit_zero": {
+    "message": "Kad jūsų naršyklė nebūtų perkrauta, vienu metu galima atidaryti ne daugiau kaip {COUNT} skirtukų."
+  },
+  "openTabsAlreadyStoredHere_few": {
+    "message": "{COUNT} atidaryti skirtukai jau išsaugoti čia:"
+  },
+  "openTabsAlreadyStoredHere_many": {
+    "message": "{COUNT} atidarytų skirtukų jau išsaugota čia:"
+  },
+  "openTabsAlreadyStoredHere_one": {
+    "message": "{COUNT} atidarytas skirtukas jau išsaugotas čia:"
+  },
+  "openTabsAlreadyStoredHere_other": {
+    "message": "{COUNT} atidarytų skirtukų jau išsaugota čia:"
+  },
+  "openTabsAlreadyStoredHere_two": {
+    "message": "{COUNT} atidaryti skirtukai jau išsaugoti čia:"
+  },
+  "openTabsAlreadyStoredHere_zero": {
+    "message": "{COUNT} atidarytų skirtukų jau išsaugota čia:"
+  },
+  "openTabsConfirm_few": {
+    "message": "Ketinate atidaryti {COUNT} skirtukus. Ar tikrai?"
+  },
+  "openTabsConfirm_many": {
+    "message": "Ketinate atidaryti {COUNT} skirtukų. Ar tikrai?"
+  },
+  "openTabsConfirm_one": {
+    "message": "Ketinate atidaryti {COUNT} skirtuką. Ar tikrai?"
+  },
+  "openTabsConfirm_other": {
+    "message": "Ketinate atidaryti {COUNT} skirtukų. Ar tikrai?"
+  },
+  "openTabsConfirm_two": {
+    "message": "Ketinate atidaryti {COUNT} skirtukus. Ar tikrai?"
+  },
+  "openTabsConfirm_zero": {
+    "message": "Ketinate atidaryti {COUNT} skirtukų. Ar tikrai?"
+  },
+  "openTabsNotStoredInOneTab_few": {
+    "message": "{COUNT} atidaryti skirtukai neišsaugoti programoje OneTab"
+  },
+  "openTabsNotStoredInOneTab_many": {
+    "message": "{COUNT} atidarytų skirtukų neišsaugota programoje OneTab"
+  },
+  "openTabsNotStoredInOneTab_one": {
+    "message": "{COUNT} atidarytas skirtukas neišsaugotas programoje OneTab"
+  },
+  "openTabsNotStoredInOneTab_other": {
+    "message": "{COUNT} atidarytų skirtukų neišsaugota programoje OneTab"
+  },
+  "openTabsNotStoredInOneTab_two": {
+    "message": "{COUNT} atidaryti skirtukai neišsaugoti programoje OneTab"
+  },
+  "openTabsNotStoredInOneTab_zero": {
+    "message": "{COUNT} atidarytų skirtukų neišsaugota programoje OneTab"
+  },
+  "optionAutoActionOnOpenArchiveDesc": {
+    "message": "Pažymėjus skirtukus kaip archyvuotus, jiems suteikiamas pilkas dryžuotas fonas. Tai vizualiai parodo, kad skirtukus jau perskaitėte arba su jais baigėte darbą."
+  },
+  "optionAutoActionOnOpenArchiveTitle": {
+    "message": "Pažymėti juos kaip archyvuotus"
+  },
+  "optionAutoActionOnOpenHeading": {
+    "message": "Atkuriant skirtukus:"
+  },
+  "optionAutoActionOnOpenNote": {
+    "message": "Užrakintos grupės visada išlaiko savo skirtukus"
+  },
+  "optionAutoActionOnOpenOpenDesc": {
+    "message": "Norėdami atkuriamus skirtukus pažymėti kaip archyvuotus, laikykite nuspaudę Alt arba Option klavišą"
+  },
+  "optionAutoActionOnOpenOpenTitle": {
+    "message": "Palikti juos sąraše"
+  },
+  "optionAutoActionOnOpenTrashDesc": {
+    "message": "Norėdami atkuriamus skirtukus palikti sąraše, laikykite nuspaudę Ctrl arba Cmd klavišą"
+  },
+  "optionAutoActionOnOpenTrashTitle": {
+    "message": "Pašalinti juos iš sąrašo"
+  },
+  "optionBrowserActionHeading": {
+    "message": "Spustelėjus OneTab įrankių juostos piktogramą:"
+  },
+  "optionBrowserActionOpenPopupDesc": {
+    "message": "Veiksmo iššokantysis langas parodys atidarytų skirtukų sąrašą ir leis tiksliai pasirinkti, kuriuos skirtukus norite siųsti į OneTab. Jame galėsite nustatyti saugomos grupės pavadinimą, todėl vėliau to nereikės daryti OneTab puslapyje. Iššokantysis langas taip pat suteiks lengvą prieigą prie sparčiojo sąrašo iš bet kurio naršyklės lango."
+  },
+  "optionBrowserActionOpenPopupDesc2": {
+    "message": "Tiksliai pasirinkite, kuriuos skirtukus išsaugoti"
+  },
+  "optionBrowserActionOpenPopupTitle": {
+    "message": "Rodyti OneTab veiksmo iššokantįjį langą"
+  },
+  "optionBrowserActionSendCurrentTabDesc": {
+    "message": "Skirtukas bus įdėtas į pirmąją grupę jūsų OneTab puslapyje (praleidžiant visas prisegtas ar užrakintas grupes)"
+  },
+  "optionBrowserActionSendCurrentTabTitle": {
+    "message": "Siųsti tik dabartinį skirtuką į OneTab"
+  },
+  "optionBrowserActionSendTabsInWindowDesc": {
+    "message": "Jūsų skirtukai bus uždaryti ir išsaugoti jūsų OneTab sąraše. Jei naršyklės skirtukų juostoje pasirinkote kelis skirtukus (naudodami Cmd, Ctrl arba Shift klavišą), į OneTab bus nusiųsti tik pasirinkti skirtukai. Jei naudojate naršyklės skirtukų grupių funkciją, į OneTab bus nusiųsta tik dabartinė skirtukų grupė."
+  },
+  "optionBrowserActionSendTabsInWindowDesc2": {
+    "message": "Greičiausias būdas išsaugoti skirtukus"
+  },
+  "optionBrowserActionSendTabsInWindowTitle": {
+    "message": "Siųsti dabartinio lango skirtukus į OneTab"
+  },
+  "optionBrowserActionSendWholeWindowDesc": {
+    "message": "Tas pats kaip pirmiau, tik bus išsaugotas visas langas, o ne tik dabartinė skirtukų grupė"
+  },
+  "optionBrowserActionSendWholeWindowTitle": {
+    "message": "Siųsti dabartinį langą į OneTab, įskaitant visus skirtukus ir skirtukų grupes"
+  },
+  "optionCopyToClipboardFormatHeading": {
+    "message": "Kopijuojant nuorodas į iškarpinę:"
+  },
+  "optionCopyToClipboardFormatMarkdownTitle": {
+    "message": "Markdown"
+  },
+  "optionCopyToClipboardFormatNote": {
+    "message": "Šis nustatymas taikomas naudojant veiksmą „Kopijuoti į iškarpinę“. Taip pat galite vilkti skirtukus ir grupes tiesiai iš OneTab į dokumentą."
+  },
+  "optionCopyToClipboardFormatRichTextDesc": {
+    "message": "Tokios programos kaip teksto rengyklės leis įklijuoti raiškųjį tekstą. Jei jis nepalaikomas, vietoje jo bus įklijuotas paprastasis tekstas."
+  },
+  "optionCopyToClipboardFormatRichTextTitle": {
+    "message": "Raiškusis tekstas, jei palaikoma"
+  },
+  "optionCopyToClipboardFormatTitleUrlTitle": {
+    "message": "Pavadinimas ir URL"
+  },
+  "optionCopyToClipboardFormatUrlOnlyTitle": {
+    "message": "Tik URL"
+  },
+  "optionCopyToClipboardFormatUrlTitleTitle": {
+    "message": "URL ir pavadinimas"
+  },
+  "optionDefaultTabGroupOpenTypeCurrentWindow": {
+    "message": "Atidaryti naršyklės skirtukų grupę dabartiniame lange"
+  },
+  "optionDefaultTabGroupOpenTypeHeading": {
+    "message": "Atidarant grupę, kuri nustatyta atsidaryti kaip „naršyklės skirtukų grupė“:"
+  },
+  "optionDefaultTabGroupOpenTypeNewWindow": {
+    "message": "Atidaryti naršyklės skirtukų grupę naujame lange"
+  },
+  "optionDefaultTabGroupOpenTypeNote": {
+    "message": "Jei išskleidžiamajame sąraše pasirinksite konkrečią parinktį (pvz., atidaryti skirtukus inkognito lange), ši parinktis bus įsiminta tai konkrečiai grupei."
+  },
+  "optionDefaultWindowGroupOpenTypeCurrentWindow": {
+    "message": "Atidaryti skirtukus dabartiniame lange"
+  },
+  "optionDefaultWindowGroupOpenTypeHeading": {
+    "message": "Atkuriant grupę su skirtukais:"
+  },
+  "optionDefaultWindowGroupOpenTypeNewWindow": {
+    "message": "Atidaryti skirtukus naujame lange, nebent OneTab yra vienintelis skirtukas dabartiniame lange"
+  },
+  "optionDefaultWindowGroupOpenTypeNewWindowAlways": {
+    "message": "Atidaryti skirtukus naujame lange"
+  },
+  "optionDefaultWindowGroupOpenTypeNote": {
+    "message": "Grupės meniu „Daugiau…“ pasirinktos atkūrimo parinktys įsimenamos tai grupei."
+  },
+  "optionDiscardNonActiveTabOnOpenHeading": {
+    "message": "Iš karto taupyti atmintį (RAM), kai skirtukai pirmą kartą atidaromi:"
+  },
+  "optionDiscardNonActiveTabOnOpenNote": {
+    "message": "Jei šis nustatymas įjungtas, pirmą kartą atidarius skirtukus iš OneTab sąrašo, jie iš karto bus iškrauti iš atminties. Tai naudinga, jei dažnai vienu metu atidarote dešimtis skirtukų, nes taip jie nebus įkelti į atmintį, kol prie jų nepereisite. Jei šis nustatymas išjungtas, daugelis žiniatinklio naršyklių vis tiek automatiškai pasirinks iškrauti skirtukus iš atminties, jei šiuo metu jų nenaudojate."
+  },
+  "optionDisplayContextMenuHeading": {
+    "message": "Dešiniuoju pelės mygtuku spustelėkite tinklalapyje, kad pasiektumėte OneTab kontekstinį meniu:"
+  },
+  "optionDisplayContextMenuNote": {
+    "message": "Jei išjungsite meniu, negalėsite naudoti funkcijos „Neįtraukti šios svetainės į OneTab“"
+  },
+  "optionDuplicatesAllow": {
+    "message": "Leisti dublikatus"
+  },
+  "optionDuplicatesReject": {
+    "message": "Atmesti dublikatus be pranešimo"
+  },
+  "optionDuplicatesRejectDesc": {
+    "message": "Jei OneTab jau yra toks skirtukas, jis nebus pridėtas dar kartą."
+  },
+  "optionDuplicatesTitle": {
+    "message": "Dublikatai:"
+  },
+  "optionGroupTitleClickActionEditTitle": {
+    "message": "Redaguoti pavadinimą"
+  },
+  "optionGroupTitleClickActionHeading": {
+    "message": "Spustelėjus grupės arba aplanko pavadinimą:"
+  },
+  "optionGroupTitleClickActionOpenDesc": {
+    "message": "Grupę vis tiek galite pervardyti jos meniu „Daugiau…“."
+  },
+  "optionGroupTitleClickActionOpenTitle": {
+    "message": "Atkurti grupę arba atidaryti aplanką"
+  },
+  "optionMoveOneTabToCurrentWindowOnOpenFalseTitle": {
+    "message": "Pereiti į langą, kuriame OneTab skirtukas jau atidarytas"
+  },
+  "optionMoveOneTabToCurrentWindowOnOpenHeading": {
+    "message": "Veiksmas „Atidaryti OneTab“:"
+  },
+  "optionMoveOneTabToCurrentWindowOnOpenNote": {
+    "message": "Veiksmas „Atidaryti OneTab“:"
+  },
+  "optionMoveOneTabToCurrentWindowOnOpenTrueTitle": {
+    "message": "Perkelti esamą OneTab skirtuką į dabartinį langą"
+  },
+  "optionPinnedTabsAllow": {
+    "message": "Leisti siųsti prisegtus skirtukus į OneTab"
+  },
+  "optionPinnedTabsDontSend": {
+    "message": "Nesiųsti prisegtų skirtukų į OneTab"
+  },
+  "optionPinnedTabsDontSendDesc": {
+    "message": "Vis tiek galite rankiniu būdu nusiųsti prisegtą skirtuką į OneTab: dešiniuoju pelės mygtuku spustelėkite tinklalapyje, kad atidarytumėte OneTab meniu, tada spustelėkite „Siųsti tik šį skirtuką į OneTab“"
+  },
+  "optionPinnedTabsNote": {
+    "message": "Pastaba: skirtukas tampa „prisegtas“, kai dešiniuoju pelės mygtuku spustelite skirtuką ir pasirenkate „Prisegti skirtuką“. Kai kurie žmonės mėgsta prisegti tokias svetaines kaip Facebook ar Gmail, kad jas galėtų lengvai rasti. OneTab prisimins, ar skirtukas buvo prisegtas, kai jį atkursite."
+  },
+  "optionPinnedTabsTitle": {
+    "message": "Prisegti skirtukai:"
+  },
+  "options": {
+    "message": "Parinktys"
+  },
+  "optionStartupLaunchDisplay": {
+    "message": "Automatiškai atidaryti OneTab"
+  },
+  "optionStartupLaunchNone": {
+    "message": "Neatidaryti OneTab automatiškai"
+  },
+  "optionStartupLaunchNoneDesc3": {
+    "message": "Norėdami atidaryti OneTab rankiniu būdu, galite dešiniuoju pelės mygtuku spustelėti bet kuriame tinklalapyje ir OneTab meniu spustelėti „Atidaryti OneTab“."
+  },
+  "optionStartupLaunchTitle": {
+    "message": "Paleidus naršyklę:"
+  },
+  "optionSwitchToOpenedTabFalseTitle": {
+    "message": "Atidaryti skirtuką ir likti OneTab puslapyje"
+  },
+  "optionSwitchToOpenedTabHeading": {
+    "message": "Atkuriant skirtukus iš OneTab puslapio:"
+  },
+  "optionSwitchToOpenedTabNote": {
+    "message": "Jei spustelėdami laikysite nuspaudę Shift, skirtukas bus atidarytas naujame lange"
+  },
+  "optionSwitchToOpenedTabTrueTitle": {
+    "message": "Atidaryti skirtuką ir į jį pereiti (nebent spustelėdami laikote nuspaudę Command ⌘ / Ctrl)"
+  },
+  "optionUpdateTitleOnDuplicateKeep": {
+    "message": "Palikti esamą pavadinimą"
+  },
+  "optionUpdateTitleOnDuplicateKeepDesc": {
+    "message": "Galite pervardyti skirtuką OneTab, o jūsų tinkintas pavadinimas bus išsaugotas."
+  },
+  "optionUpdateTitleOnDuplicateNote": {
+    "message": "Pavadinimai ir pastabos bendrinami visose to paties skirtuko kopijose."
+  },
+  "optionUpdateTitleOnDuplicateTitle": {
+    "message": "Išsaugant skirtuką, kuris jau yra OneTab:"
+  },
+  "optionUpdateTitleOnDuplicateUpdate": {
+    "message": "Naudoti naujausią pavadinimą"
+  },
+  "optionUpdateTitleOnDuplicateUpdateDesc": {
+    "message": "Atnaujinti išsaugotą pavadinimą, kad jis atitiktų ką tik nusiųstą skirtuką."
+  },
+  "optionUrlAbbr": {
+    "message": "Sutrumpintas"
+  },
+  "optionUrlDisplayTitle": {
+    "message": "URL rodymas:"
+  },
+  "optionUrlDomain": {
+    "message": "Tik domenas"
+  },
+  "optionUrlFull": {
+    "message": "Visas"
+  },
+  "optionUrlNone": {
+    "message": "Nerodyti"
+  },
+  "otherCopiesColon": {
+    "message": "Kitos kopijos:"
+  },
+  "pasteRichOrPlainTextBelow": {
+    "message": "Žemiau galite įklijuoti raiškųjį arba paprastąjį tekstą."
+  },
+  "pendingTaskCount_few": {
+    "message": "{COUNT} laukiama"
+  },
+  "pendingTaskCount_many": {
+    "message": "{COUNT} laukiama"
+  },
+  "pendingTaskCount_one": {
+    "message": "{COUNT} laukiama"
+  },
+  "pendingTaskCount_other": {
+    "message": "{COUNT} laukiama"
+  },
+  "pendingTaskCount_two": {
+    "message": "{COUNT} laukiama"
+  },
+  "pendingTaskCount_zero": {
+    "message": "{COUNT} laukiama"
+  },
+  "pendingTaskFlagHelp": {
+    "message": "Šis elementas yra užduotis. Spustelėkite šią piktogramą, kad pažymėtumėte ją kaip atliktą."
+  },
+  "permissionRequiredPleaseTryAgain": {
+    "message": "Norint sukurti bendrinamą puslapį, pasiekiamą iš bet kurio kompiuterio, reikalingas leidimas sąveikauti su OneTab žiniatinklio serveriu. Bandykite dar kartą."
+  },
+  "pinnedTabs": {
+    "message": "prisegti skirtukai"
+  },
+  "pinToTopOfFolder": {
+    "message": "Prisegti aplanko viršuje"
+  },
+  "pinToTopOfFolderMenuItemHelp": {
+    "message": "Prisegti šią grupę, kad ji visada būtų rodoma aplanko viršuje"
+  },
+  "pinToTopOfList": {
+    "message": "Prisegti sąrašo viršuje"
+  },
+  "placeholderAndOtherLocations_few": {
+    "message": "PLACEHOLDER ir dar {COUNT} kitos vietos"
+  },
+  "placeholderAndOtherLocations_many": {
+    "message": "PLACEHOLDER ir dar {COUNT} kitų vietų"
+  },
+  "placeholderAndOtherLocations_one": {
+    "message": "PLACEHOLDER ir dar {COUNT} kita vieta"
+  },
+  "placeholderAndOtherLocations_other": {
+    "message": "PLACEHOLDER ir dar {COUNT} kitų vietų"
+  },
+  "placeholderAndOtherLocations_two": {
+    "message": "PLACEHOLDER ir dar {COUNT} kitos vietos"
+  },
+  "placeholderAndOtherLocations_zero": {
+    "message": "PLACEHOLDER ir dar {COUNT} kitų vietų"
+  },
+  "placeholderExplanation": {
+    "message": "Dėl žiniatinklio naršyklės saugos taisyklių OneTab neleidžiama tiesiogiai atkurti šio puslapio. Nukopijuokite URL ir įklijuokite jį į naršyklės adreso juostą."
+  },
+  "plainTextLineFormat": {
+    "message": "Jei įklijuojate paprastąjį tekstą, įsitikinkite, kad kiekvienam URL nurodytas protokolas (https://wikipedia.org, o ne tik wikipedia.org). Kiekviena eilutė turi būti tokio formato:"
+  },
+  "pleaseWaitTripleDot": {
+    "message": "Palaukite…"
+  },
+  "popupSlashShortcutInfo": {
+    "message": "Jei įjungtas OneTab veiksmo iššokantysis langas, atidaryti paskirties vietos pasirinkiklį ir aktyvinti paieškos lauką"
+  },
+  "printUseSaveTabsAsHtmlFileAlertHtml": {
+    "message": "Norėdami gauti geriausius spausdinimo rezultatus, aplanko meniu <b>Daugiau…</b> pasirinkite veiksmą <b>Išsaugoti kaip HTML failą</b>, tada išspausdinkite atsisiųstą HTML failą."
+  },
+  "privacyAssurance": {
+    "message": "Privatumo užtikrinimas"
+  },
+  "privacyAssuranceDetail": {
+    "message": "Jūsų skirtukų sąrašas niekada neperduodamas ir neatskleidžiamas nei OneTab kūrėjams, nei jokiai kitai šaliai. Vienintelė išimtis – jei sąmoningai naudojate funkciją „Bendrinti kaip tinklalapį“, kad įkeltumėte savo skirtukų sąrašą į tinklalapį ir galėtumėte bendrinti jį su kitais."
+  },
+  "privacyFirst": {
+    "message": "Pirmiausia privatumas"
+  },
+  "privacyFirstMessage": {
+    "message": "OneTab sukurta taip, kad apsaugotų jūsų privačius duomenis. Jūsų skirtukai saugomi tik jūsų kompiuteryje ir niekada nebendrinami su OneTab kūrėjais ar jokia kita šalimi.\nJei naudojate mūsų atsarginių kopijų / sinchronizavimo funkciją, jūsų duomenys bus šifruojami nuo galo iki galo naudojant stiprų AES-256 šifravimą. Dėl to OneTab kūrėjai negali matyti skirtukų, kurių atsargines kopijas sukūrėte arba kuriuos sinchronizavote tarp įrenginių, nes šifravimo raktą turite tik jūs. \nVienintelė išimtis – jei sąmoningai nusprendžiate bendrinti kai kuriuos savo skirtukus su kitais žmonėmis naudodami mūsų funkciją „Bendrinti kaip tinklalapį“.\nTikime principu „Pirmiausia privatumas“."
+  },
+  "privateBrowsingPermissionRequired": {
+    "message": "OneTab reikia leidimo kurti privačiojo naršymo langus."
+  },
+  "privateBrowsingWindows": {
+    "message": "Privačiojo naršymo langai"
+  },
+  "quickList": {
+    "message": "Spartusis sąrašas"
+  },
+  "readingList": {
+    "message": "Skaitinių sąrašas"
+  },
+  "readingListPermissionNecesssary": {
+    "message": "Leidimas pasiekti skaitinių sąrašą būtinas, kad OneTab galėtų importuoti elementus iš jūsų skaitinių sąrašo. Jei ši funkcija neveikia, jūsų naršyklė gali nepalaikyti skaitinių sąrašų."
+  },
+  "recent": {
+    "message": "Naujausi"
+  },
+  "recentDestinationsColon": {
+    "message": "Naujausios paskirties vietos:"
+  },
+  "recentDuplicateRetainedHelp": {
+    "message": "Jei skirtukas pasikartoja daugiau nei kartą, bus paliktas tik naujausias dublikatas"
+  },
+  "recentFolders": {
+    "message": "Naujausi aplankai"
+  },
+  "recentGroups": {
+    "message": "Naujausios grupės"
+  },
+  "recentlyAccessed": {
+    "message": "Neseniai pasiekti"
+  },
+  "recentlyCreated": {
+    "message": "Neseniai sukurti"
+  },
+  "recentlyModified": {
+    "message": "Neseniai pakeisti"
+  },
+  "reduceMemoryUsageBy95Pct": {
+    "message": "Sumažinkite atminties naudojimą 95 %"
+  },
+  "removeDuplicates": {
+    "message": "Pašalinti dublikatus"
+  },
+  "removeDuplicatesMenuItemHelp": {
+    "message": "Galėsite pašalinti dublikatus, kurie yra čia, bet ne kitur, arba kitur, bet ne čia."
+  },
+  "removeDuplicateTabsHere_few": {
+    "message": "Pašalinti {COUNT} čia esančius pasikartojančius skirtukus"
+  },
+  "removeDuplicateTabsHere_many": {
+    "message": "Pašalinti {COUNT} čia esančių pasikartojančių skirtukų"
+  },
+  "removeDuplicateTabsHere_one": {
+    "message": "Pašalinti {COUNT} čia esantį pasikartojantį skirtuką"
+  },
+  "removeDuplicateTabsHere_other": {
+    "message": "Pašalinti {COUNT} čia esančių pasikartojančių skirtukų"
+  },
+  "removeDuplicateTabsHere_two": {
+    "message": "Pašalinti {COUNT} čia esančius pasikartojančius skirtukus"
+  },
+  "removeDuplicateTabsHere_zero": {
+    "message": "Pašalinti {COUNT} čia esančių pasikartojančių skirtukų"
+  },
+  "removeFromQuickList": {
+    "message": "Pašalinti iš sparčiojo sąrašo"
+  },
+  "removeFromQuickListMenuItemHelp": {
+    "message": "Elementas nebus perkeltas į šiukšliadėžę – jis bus tik pašalintas iš jūsų sparčiojo sąrašo."
+  },
+  "removeStar": {
+    "message": "Pašalinti žvaigždutę"
+  },
+  "removeTabsElsewhereAlsoHere_few": {
+    "message": "Pašalinti {COUNT} kitur esančius skirtukus, kurie yra ir čia"
+  },
+  "removeTabsElsewhereAlsoHere_many": {
+    "message": "Pašalinti {COUNT} kitur esančių skirtukų, kurie yra ir čia"
+  },
+  "removeTabsElsewhereAlsoHere_one": {
+    "message": "Pašalinti {COUNT} kitur esantį skirtuką, kuris yra ir čia"
+  },
+  "removeTabsElsewhereAlsoHere_other": {
+    "message": "Pašalinti {COUNT} kitur esančių skirtukų, kurie yra ir čia"
+  },
+  "removeTabsElsewhereAlsoHere_two": {
+    "message": "Pašalinti {COUNT} kitur esančius skirtukus, kurie yra ir čia"
+  },
+  "removeTabsElsewhereAlsoHere_zero": {
+    "message": "Pašalinti {COUNT} kitur esančių skirtukų, kurie yra ir čia"
+  },
+  "removeTabsHereAlsoElsewhere_few": {
+    "message": "Pašalinti {COUNT} čia esančius skirtukus, kurie yra ir kitur"
+  },
+  "removeTabsHereAlsoElsewhere_many": {
+    "message": "Pašalinti {COUNT} čia esančių skirtukų, kurie yra ir kitur"
+  },
+  "removeTabsHereAlsoElsewhere_one": {
+    "message": "Pašalinti {COUNT} čia esantį skirtuką, kuris yra ir kitur"
+  },
+  "removeTabsHereAlsoElsewhere_other": {
+    "message": "Pašalinti {COUNT} čia esančių skirtukų, kurie yra ir kitur"
+  },
+  "removeTabsHereAlsoElsewhere_two": {
+    "message": "Pašalinti {COUNT} čia esančius skirtukus, kurie yra ir kitur"
+  },
+  "removeTabsHereAlsoElsewhere_zero": {
+    "message": "Pašalinti {COUNT} čia esančių skirtukų, kurie yra ir kitur"
+  },
+  "rename": {
+    "message": "Pervardyti"
+  },
+  "renameOrAddNote": {
+    "message": "Pervardyti / pridėti pastabą"
+  },
+  "restore": {
+    "message": "Atkurti"
+  },
+  "restoreAll": {
+    "message": "Atkurti viską"
+  },
+  "restrictSearchToFolderColon": {
+    "message": "Apriboti paiešką šiuo aplanku:"
+  },
+  "results": {
+    "message": "Rezultatai"
+  },
+  "returnToOneTab": {
+    "message": "Grįžti į OneTab"
+  },
+  "reverse": {
+    "message": "Atvirkščiai"
+  },
+  "rightClickAndOpenOneTabMenu": {
+    "message": "Dešiniuoju pelės mygtuku spustelėkite tinklalapyje ir eikite į OneTab meniu"
+  },
+  "rightClickMenuDisabledNote": {
+    "message": "Pastaba: išjungėte OneTab dešiniojo pelės mygtuko meniu. Įjunkite jį OneTab parinkčių puslapyje."
+  },
+  "rightClickSelectionOptionsTip": {
+    "message": "Patarimas: pažymėję elementą varnele, dešiniuoju pelės mygtuku spustelėkite varnelės piktogramą, kad būtų parodyta daugiau pasirinkimo parinkčių"
+  },
+  "rightClickTickTip": {
+    "message": "Patarimas: dešiniuoju pelės mygtuku spustelėkite varnelės piktogramą šalia kiekvieno skirtuko, kad pasiektumėte pasirinkimo įrankius"
+  },
+  "safariApproveOneTabInSettings": {
+    "message": "Atidarykite „Nustatymai“ ir suteikite OneTab leidimą pasiekti visas svetaines."
+  },
+  "save95PctReduceTabClutterGoogleChrome": {
+    "message": "Sutaupykite iki 95 % atminties ir sumažinkite skirtukų netvarką naršyklėje Google Chrome"
+  },
+  "saveChoice": {
+    "message": "Išsaugoti pasirinkimą"
+  },
+  "saveTabsAsHtmlFile": {
+    "message": "Išsaugoti kaip HTML failą"
+  },
+  "saveTabsAsHtmlFileMenuItemHelp": {
+    "message": "Sukurti ir atsisiųsti HTML failą, kuriame yra visos šiame aplanke esančios grupės ir jų skirtukai."
+  },
+  "searchHere": {
+    "message": "Ieškoti čia"
+  },
+  "searchOneTab": {
+    "message": "Ieškoti OneTab"
+  },
+  "secondExampleLink": {
+    "message": "Antroji pavyzdinė nuoroda"
+  },
+  "secondExampleLinkTitle": {
+    "message": "Antrosios pavyzdinės nuorodos pavadinimas"
+  },
+  "secondExampleLinkTitleOptional": {
+    "message": "Antrosios pavyzdinės nuorodos pavadinimas (nebūtina)"
+  },
+  "seeOtherTabsInThisGroup_few": {
+    "message": "Rodyti {COUNT} kitus šios grupės skirtukus"
+  },
+  "seeOtherTabsInThisGroup_many": {
+    "message": "Rodyti {COUNT} kitų šios grupės skirtukų"
+  },
+  "seeOtherTabsInThisGroup_one": {
+    "message": "Rodyti {COUNT} kitą šios grupės skirtuką"
+  },
+  "seeOtherTabsInThisGroup_other": {
+    "message": "Rodyti {COUNT} kitų šios grupės skirtukų"
+  },
+  "seeOtherTabsInThisGroup_two": {
+    "message": "Rodyti {COUNT} kitus šios grupės skirtukus"
+  },
+  "seeOtherTabsInThisGroup_zero": {
+    "message": "Rodyti {COUNT} kitų šios grupės skirtukų"
+  },
+  "seePasteInstructions": {
+    "message": "Rodyti įklijavimo instrukcijas…"
+  },
+  "seeTabsInThisGroup_few": {
+    "message": "Rodyti {COUNT} šios grupės skirtukus"
+  },
+  "seeTabsInThisGroup_many": {
+    "message": "Rodyti {COUNT} šios grupės skirtukų"
+  },
+  "seeTabsInThisGroup_one": {
+    "message": "Rodyti {COUNT} šios grupės skirtuką"
+  },
+  "seeTabsInThisGroup_other": {
+    "message": "Rodyti {COUNT} šios grupės skirtukų"
+  },
+  "seeTabsInThisGroup_two": {
+    "message": "Rodyti {COUNT} šios grupės skirtukus"
+  },
+  "seeTabsInThisGroup_zero": {
+    "message": "Rodyti {COUNT} šios grupės skirtukų"
+  },
+  "selectAll": {
+    "message": "Pasirinkti viską"
+  },
+  "selectAllExceptThis": {
+    "message": "Pasirinkti viską, išskyrus šį elementą"
+  },
+  "selectedItemCount_few": {
+    "message": "{COUNT} elementai"
+  },
+  "selectedItemCount_many": {
+    "message": "{COUNT} elementų"
+  },
+  "selectedItemCount_one": {
+    "message": "{COUNT} elementas"
+  },
+  "selectedItemCount_other": {
+    "message": "{COUNT} elementų"
+  },
+  "selectedItemCount_two": {
+    "message": "{COUNT} elementai"
+  },
+  "selectedItemCount_zero": {
+    "message": "{COUNT} elementų"
+  },
+  "selection": {
+    "message": "Pasirinkimas"
+  },
+  "selectThisAndAbove": {
+    "message": "Pasirinkti šį elementą ir visus aukščiau"
+  },
+  "selectThisAndBelow": {
+    "message": "Pasirinkti šį elementą ir visus žemiau"
+  },
+  "sendAllTabsAllWindows": {
+    "message": "Siųsti visus skirtukus iš visų langų"
+  },
+  "sendAllTabsAllWindowsToOneTab": {
+    "message": "Siųsti visus skirtukus iš visų langų į OneTab"
+  },
+  "sendAllTabsExceptThis": {
+    "message": "Siųsti visus skirtukus, išskyrus šį skirtuką"
+  },
+  "sendAllTabsExceptThisToOneTab": {
+    "message": "Siųsti visus skirtukus, išskyrus šį skirtuką, į OneTab"
+  },
+  "sendAllTabsInGroup": {
+    "message": "Siųsti visus šios skirtukų grupės skirtukus"
+  },
+  "sendAllTabsInGroupToOneTab": {
+    "message": "Siųsti visus šios skirtukų grupės skirtukus į OneTab"
+  },
+  "sendAllTabsInWindow": {
+    "message": "Siųsti visus šio lango skirtukus"
+  },
+  "sendAllTabsInWindowToOneTab": {
+    "message": "Siųsti visus šio lango skirtukus į OneTab"
+  },
+  "sendCurrentTabToOneTab": {
+    "message": "Siųsti dabartinį skirtuką į OneTab"
+  },
+  "sendLeftTabs": {
+    "message": "Siųsti kairėje esančius skirtukus"
+  },
+  "sendLeftTabsToOneTab": {
+    "message": "Siųsti kairėje esančius skirtukus į OneTab"
+  },
+  "sendOnlyThisTab": {
+    "message": "Siųsti tik šį skirtuką"
+  },
+  "sendOnlyThisTabToOneTab": {
+    "message": "Siųsti tik šį skirtuką į OneTab"
+  },
+  "sendRightTabs": {
+    "message": "Siųsti dešinėje esančius skirtukus"
+  },
+  "sendRightTabsToOneTab": {
+    "message": "Siųsti dešinėje esančius skirtukus į OneTab"
+  },
+  "sendSelectedTabs": {
+    "message": "Siųsti pasirinktus skirtukus"
+  },
+  "sendSelectedTabsToOneTab": {
+    "message": "Siųsti pasirinktus skirtukus į OneTab"
+  },
+  "sendThisWebLink": {
+    "message": "Siųsti šią žiniatinklio nuorodą"
+  },
+  "sendThisWebLinkToOneTab": {
+    "message": "Siųsti šią žiniatinklio nuorodą į OneTab"
+  },
+  "serverUnreachable": {
+    "message": "Serveris nepasiekiamas. Patikrinkite interneto ryšį."
+  },
+  "share": {
+    "message": "Bendrinti"
+  },
+  "shareAsAWebPage": {
+    "message": "Bendrinti kaip tinklalapį"
+  },
+  "shareAsAWebPageMenuItemHelp": {
+    "message": "Taip sukuriamas tinklalapis su jūsų skirtukais, kad galėtumėte bendrinti jį privačiai arba viešai su kitais."
+  },
+  "shared": {
+    "message": "Bendrinami"
+  },
+  "sharedExpiresColon": {
+    "message": "Bendrinama kaip tinklalapis. Galioja iki:"
+  },
+  "sharedPageOptions": {
+    "message": "Bendrinamo puslapio parinktys"
+  },
+  "sharedPageTabLimit_few": {
+    "message": "Bendrinamuose puslapiuose gali būti ne daugiau kaip {COUNT} skirtukai"
+  },
+  "sharedPageTabLimit_many": {
+    "message": "Bendrinamuose puslapiuose gali būti ne daugiau kaip {COUNT} skirtukų"
+  },
+  "sharedPageTabLimit_one": {
+    "message": "Bendrinamuose puslapiuose gali būti ne daugiau kaip {COUNT} skirtukas"
+  },
+  "sharedPageTabLimit_other": {
+    "message": "Bendrinamuose puslapiuose gali būti ne daugiau kaip {COUNT} skirtukų"
+  },
+  "sharedPageTabLimit_two": {
+    "message": "Bendrinamuose puslapiuose gali būti ne daugiau kaip {COUNT} skirtukai"
+  },
+  "sharedPageTabLimit_zero": {
+    "message": "Bendrinamuose puslapiuose gali būti ne daugiau kaip {COUNT} skirtukų"
+  },
+  "sharedPageWillAutomaticallyExpire": {
+    "message": "Bendrinamas puslapis automatiškai nustos galioti, bet galiojimo datą galite bet kada pratęsti."
+  },
+  "showEverything": {
+    "message": "Rodyti viską"
+  },
+  "showFoldersOnly": {
+    "message": "Rodyti tik aplankus"
+  },
+  "showNamedItemsOnly": {
+    "message": "Rodyti tik pavadintus elementus"
+  },
+  "showNamedOnly": {
+    "message": "Rodyti tik pavadintus elementus"
+  },
+  "showNextCount_few": {
+    "message": "Kiti {COUNT}"
+  },
+  "showNextCount_many": {
+    "message": "Kiti {COUNT}"
+  },
+  "showNextCount_one": {
+    "message": "Kitas {COUNT}"
+  },
+  "showNextCount_other": {
+    "message": "Kiti {COUNT}"
+  },
+  "showNextCount_two": {
+    "message": "Kiti {COUNT}"
+  },
+  "showNextCount_zero": {
+    "message": "Kiti {COUNT}"
+  },
+  "showPreviousCount_few": {
+    "message": "Ankstesni {COUNT}"
+  },
+  "showPreviousCount_many": {
+    "message": "Ankstesni {COUNT}"
+  },
+  "showPreviousCount_one": {
+    "message": "Ankstesnis {COUNT}"
+  },
+  "showPreviousCount_other": {
+    "message": "Ankstesni {COUNT}"
+  },
+  "showPreviousCount_two": {
+    "message": "Ankstesni {COUNT}"
+  },
+  "showPreviousCount_zero": {
+    "message": "Ankstesni {COUNT}"
+  },
+  "soon": {
+    "message": "netrukus"
+  },
+  "sort": {
+    "message": "Rikiavimas"
+  },
+  "sortByColon": {
+    "message": "Rikiuoti pagal:"
+  },
+  "sortGroups": {
+    "message": "Rikiuoti grupes"
+  },
+  "sortGroupsMenuFooterNote": {
+    "message": "Taip rikiuojamos šio aplanko grupės. Jų viduje esantys skirtukai nerikiuojami."
+  },
+  "sourceColon": {
+    "message": "Šaltinis:"
+  },
+  "star": {
+    "message": "Pažymėti žvaigždute"
+  },
+  "starFlagHelp": {
+    "message": "Šis elementas pažymėtas žvaigždute, kad būtų matyti jo svarba. Spustelėkite šią piktogramą, kad panaikintumėte žvaigždutę."
+  },
+  "starMenuItemHelp": {
+    "message": "Naudokite žvaigždutę kaip vaizdinį ženklą, kad kažkas yra svarbu"
+  },
+  "starred": {
+    "message": "Pažymėti žvaigždute"
+  },
+  "storeAllOpenWindowsHere": {
+    "message": "Čia išsaugoti visus atidarytus langus"
+  },
+  "storeAllOpenWindowsHereMenuItemHelp": {
+    "message": "Uždaryti visus atidarytus naršyklės langus ir išsaugoti juos šiame aplanke"
+  },
+  "storeSelectedTabsInONETAB_few": {
+    "message": "Išsaugoti {COUNT} pasirinktus skirtukus programoje ONETAB"
+  },
+  "storeSelectedTabsInONETAB_many": {
+    "message": "Išsaugoti {COUNT} pasirinktų skirtukų programoje ONETAB"
+  },
+  "storeSelectedTabsInONETAB_one": {
+    "message": "Išsaugoti {COUNT} pasirinktą skirtuką programoje ONETAB"
+  },
+  "storeSelectedTabsInONETAB_other": {
+    "message": "Išsaugoti {COUNT} pasirinktų skirtukų programoje ONETAB"
+  },
+  "storeSelectedTabsInONETAB_two": {
+    "message": "Išsaugoti {COUNT} pasirinktus skirtukus programoje ONETAB"
+  },
+  "storeSelectedTabsInONETAB_zero": {
+    "message": "Išsaugoti {COUNT} pasirinktų skirtukų programoje ONETAB"
+  },
+  "storeTabsInAdditionalLocation_few": {
+    "message": "Vis tiek dar kartą išsaugoti skirtukus"
+  },
+  "storeTabsInAdditionalLocation_many": {
+    "message": "Vis tiek dar kartą išsaugoti skirtukus"
+  },
+  "storeTabsInAdditionalLocation_one": {
+    "message": "Vis tiek dar kartą išsaugoti skirtuką"
+  },
+  "storeTabsInAdditionalLocation_other": {
+    "message": "Vis tiek dar kartą išsaugoti skirtukus"
+  },
+  "storeTabsInAdditionalLocation_two": {
+    "message": "Vis tiek dar kartą išsaugoti skirtukus"
+  },
+  "storeTabsInAdditionalLocation_zero": {
+    "message": "Vis tiek dar kartą išsaugoti skirtukus"
+  },
+  "storeTabsInONETAB_few": {
+    "message": "Išsaugoti skirtukus programoje ONETAB"
+  },
+  "storeTabsInONETAB_many": {
+    "message": "Išsaugoti skirtukus programoje ONETAB"
+  },
+  "storeTabsInONETAB_one": {
+    "message": "Išsaugoti skirtuką programoje ONETAB"
+  },
+  "storeTabsInONETAB_other": {
+    "message": "Išsaugoti skirtukus programoje ONETAB"
+  },
+  "storeTabsInONETAB_two": {
+    "message": "Išsaugoti skirtukus programoje ONETAB"
+  },
+  "storeTabsInONETAB_zero": {
+    "message": "Išsaugoti skirtukus programoje ONETAB"
+  },
+  "subFoldersNotShared": {
+    "message": "Atminkite, kad poaplankiai nebendrinami. Bendrinamos tik tiesiogiai aplanke esančios grupės."
+  },
+  "tab": {
+    "message": "skirtukas"
+  },
+  "tabAlreadyStoredHere": {
+    "message": "Jūsų atidarytas skirtukas jau išsaugotas čia:"
+  },
+  "tabCaretTooltipTitleNotes": {
+    "message": "Redaguoti skirtuko pavadinimą ir pastabas"
+  },
+  "tabCaretTooltipTitleNotesUrl": {
+    "message": "Redaguoti skirtuko pavadinimą, URL ir pastabas"
+  },
+  "tabCount_few": {
+    "message": "{COUNT} skirtukai"
+  },
+  "tabCount_many": {
+    "message": "{COUNT} skirtukų"
+  },
+  "tabCount_one": {
+    "message": "{COUNT} skirtukas"
+  },
+  "tabCount_other": {
+    "message": "{COUNT} skirtukų"
+  },
+  "tabCount_two": {
+    "message": "{COUNT} skirtukai"
+  },
+  "tabCount_zero": {
+    "message": "{COUNT} skirtukų"
+  },
+  "tabGroupColorColon": {
+    "message": "Skirtukų grupės spalva:"
+  },
+  "tabGroupIndicatorTooltipHelp": {
+    "message": "Ši grupė sukonfigūruota atsidaryti kaip naršyklės skirtukų grupė. Šį nustatymą galite pakeisti meniu „Daugiau…“"
+  },
+  "tabPinFlagHelp": {
+    "message": "Šis skirtukas bus atkurtas kaip prisegtas naršyklės skirtukas. Spustelėkite šią piktogramą, kad jį atsegtumėte."
+  },
+  "tabs": {
+    "message": "Skirtukai"
+  },
+  "tabsFromExcludedDomains": {
+    "message": "skirtukai iš neįtrauktų domenų"
+  },
+  "tabsInTabGroups": {
+    "message": "skirtukai skirtukų grupėse"
+  },
+  "tabTotalCount_few": {
+    "message": "Iš viso: {COUNT} skirtukai"
+  },
+  "tabTotalCount_many": {
+    "message": "Iš viso: {COUNT} skirtukų"
+  },
+  "tabTotalCount_one": {
+    "message": "Iš viso: {COUNT} skirtukas"
+  },
+  "tabTotalCount_other": {
+    "message": "Iš viso: {COUNT} skirtukų"
+  },
+  "tabTotalCount_two": {
+    "message": "Iš viso: {COUNT} skirtukai"
+  },
+  "tabTotalCount_zero": {
+    "message": "Iš viso: {COUNT} skirtukų"
+  },
+  "tasks": {
+    "message": "Užduotys"
+  },
+  "tasksDone": {
+    "message": "Užduotys (atliktos)"
+  },
+  "tasksPending": {
+    "message": "Užduotys (neatliktos)"
+  },
+  "tasksWillAppearHere": {
+    "message": "Jei savo skirtukus ar grupes pažymėsite kaip užduotis, šie elementai bus rodomi čia."
+  },
+  "taskTotalCount_few": {
+    "message": "{COUNT} iš viso"
+  },
+  "taskTotalCount_many": {
+    "message": "{COUNT} iš viso"
+  },
+  "taskTotalCount_one": {
+    "message": "{COUNT} iš viso"
+  },
+  "taskTotalCount_other": {
+    "message": "{COUNT} iš viso"
+  },
+  "taskTotalCount_two": {
+    "message": "{COUNT} iš viso"
+  },
+  "taskTotalCount_zero": {
+    "message": "{COUNT} iš viso"
+  },
+  "themeQuickSwitchHint": {
+    "message": "Norėdami greitai perjungti temas, spustelėdami temos piktogramą laikykite nuspaudę Ctrl arba Cmd"
+  },
+  "thenClickToolbarIcon": {
+    "message": "Tada dar kartą spustelėkite OneTab įrankių juostos piktogramą, kad naudotumėte OneTab."
+  },
+  "thisFolderIsEmpty": {
+    "message": "Šis aplankas tuščias"
+  },
+  "thisTab": {
+    "message": "Šis skirtukas"
+  },
+  "thisTabGroup": {
+    "message": "Ši skirtukų grupė"
+  },
+  "thisTabNotStored": {
+    "message": "Šis skirtukas neišsaugotas OneTab"
+  },
+  "thisWindow": {
+    "message": "Šis langas"
+  },
+  "tickOrUntickToExclude": {
+    "message": "Pažymėkite arba panaikinkite žymėjimą, kad svetainė būtų neįtraukta"
+  },
+  "title": {
+    "message": "Pavadinimas"
+  },
+  "toAddOrRemoveExclusions": {
+    "message": "Norėdami įtraukti svetainę į neįtraukiamų svetainių sąrašą arba ją pašalinti:"
+  },
+  "toAllowOneTabInIncognito": {
+    "message": "Norėdami leisti OneTab piktogramai būti rodomai inkognito languose: "
+  },
+  "toImportBrowserBookmarksUseMenuOption": {
+    "message": "Norėdami importuoti iš naršyklės žymių, OneTab puslapyje naudokite meniu parinktį „Importuoti nuorodas čia“"
+  },
+  "toMakeOpenButtonWorkApprovePermission": {
+    "message": "Kad bendrinamuose puslapiuose veiktų mygtukas „Atidaryti“, patvirtinkite leidimo užklausą."
+  },
+  "tooManyTabsSpeedUpFirefox": {
+    "message": "Per daug skirtukų? Paverskite skirtukus sąrašu ir paspartinkite Firefox"
+  },
+  "tooManyTabsSpeedUpSafari": {
+    "message": "Per daug skirtukų? Paverskite skirtukus sąrašu ir paspartinkite Safari"
+  },
+  "toSaveChangesClickButton": {
+    "message": "Norėdami išsaugoti pakeitimus, spustelėkite mygtuką"
+  },
+  "total0Tabs": {
+    "message": "Iš viso: 0 skirtukų"
+  },
+  "trash": {
+    "message": "Šiukšliadėžė"
+  },
+  "unfoldGroup": {
+    "message": "Išskleisti grupę"
+  },
+  "unlock": {
+    "message": "Atrakinti"
+  },
+  "unmarkAsArchived": {
+    "message": "Panaikinti archyvavimo žymą"
+  },
+  "unMarkAsTask": {
+    "message": "Pašalinti užduoties žymą"
+  },
+  "unpin": {
+    "message": "Atsegti"
+  },
+  "unshare": {
+    "message": "Nebebendrinti"
+  },
+  "untitled": {
+    "message": "Be pavadinimo"
+  },
+  "update": {
+    "message": "Atnaujinti"
+  },
+  "userLanguage": {
+    "message": "Lietuvių"
+  },
+  "website": {
+    "message": "Svetainė"
+  },
+  "yearCount_few": {
+    "message": "{COUNT} metai"
+  },
+  "yearCount_many": {
+    "message": "{COUNT} metų"
+  },
+  "yearCount_one": {
+    "message": "{COUNT} metai"
+  },
+  "yearCount_other": {
+    "message": "{COUNT} metų"
+  },
+  "yearCount_two": {
+    "message": "{COUNT} metai"
+  },
+  "yearCount_zero": {
+    "message": "{COUNT} metų"
+  },
+  "yourTabAlreadyStoredHere": {
+    "message": "Jūsų skirtukas jau išsaugotas čia:"
+  }
+}

@@ -1,0 +1,2330 @@
+{
+  "95PctMemoryReduction": {
+    "message": "Zníženie využitia pamäte o 95 %"
+  },
+  "about": {
+    "message": "O aplikácii"
+  },
+  "actionPopupOverrideNote": {
+    "message": "Toto nastavenie možno prepísať vo vyskakovacom okne OneTab (ak ste ho povolili)."
+  },
+  "aDashZ": {
+    "message": "A – Z"
+  },
+  "addOneTabNow": {
+    "message": "Pridať OneTab teraz"
+  },
+  "all": {
+    "message": "Všetko"
+  },
+  "allBookmarks": {
+    "message": "Všetky záložky"
+  },
+  "allOpenTabsAlreadyStoredHere_few": {
+    "message": "Všetky otvorené karty sú tu už uložené:"
+  },
+  "allOpenTabsAlreadyStoredHere_many": {
+    "message": "Všetky otvorené karty sú tu už uložené:"
+  },
+  "allOpenTabsAlreadyStoredHere_one": {
+    "message": "Všetky otvorené karty sú tu už uložené:"
+  },
+  "allOpenTabsAlreadyStoredHere_other": {
+    "message": "Všetky otvorené karty sú tu už uložené:"
+  },
+  "allOpenTabsAlreadyStoredHere_two": {
+    "message": "Všetky otvorené karty sú tu už uložené:"
+  },
+  "allOpenTabsAlreadyStoredHere_zero": {
+    "message": "Všetky otvorené karty sú tu už uložené:"
+  },
+  "allowFileAccessInstructions": {
+    "message": "Ak chcete povoliť priame otváranie súborov, prejdite na Nastavenia ➝ Rozšírenia ➝ OneTab ➝ Podrobnosti ➝ Povoliť prístup k adresám URL súborov"
+  },
+  "alreadyExistingOpenTabsWillBeClosedAfterMerge": {
+    "message": "Všetky otvorené karty, ktoré už existujú v tejto skupine, sa po zlúčení zavrú."
+  },
+  "alternatePlainTextFormat": {
+    "message": "Obyčajný text môže byť prípadne vo formáte:"
+  },
+  "approve": {
+    "message": "Schváliť"
+  },
+  "archived": {
+    "message": "Archivované"
+  },
+  "autoTheme": {
+    "message": "Automaticky (podľa nastavenia operačného systému)"
+  },
+  "backupAndSync": {
+    "message": "Zálohovanie a synchronizácia"
+  },
+  "betaReleaseReportBugsHere": {
+    "message": "Beta verzia – chyby hláste tu"
+  },
+  "bookmarkCount_few": {
+    "message": "{COUNT} záložky"
+  },
+  "bookmarkCount_many": {
+    "message": "{COUNT} záložiek"
+  },
+  "bookmarkCount_one": {
+    "message": "{COUNT} záložka"
+  },
+  "bookmarkCount_other": {
+    "message": "{COUNT} záložiek"
+  },
+  "bookmarkCount_two": {
+    "message": "{COUNT} záložky"
+  },
+  "bookmarkCount_zero": {
+    "message": "{COUNT} záložiek"
+  },
+  "bookmarksPermissionNecesssary": {
+    "message": "Povolenie pre záložky je potrebné, aby OneTab mohol importovať záložky z vášho prehliadača"
+  },
+  "bulkActions": {
+    "message": "Hromadné akcie"
+  },
+  "cancel": {
+    "message": "Zrušiť"
+  },
+  "canDragTextNote": {
+    "message": "Poznámka: Text obsahujúci webové odkazy môžete tiež presunúť myšou priamo z inej webovej stránky alebo dokumentu. Text môžete presunúť priamo na svoju stránku OneTab bez použitia tohto poľa na import."
+  },
+  "cannotConnectToServerDeletionRequestQueued": {
+    "message": "Nie je možné pripojiť sa k serveru OneTab. Skontrolujte svoje internetové pripojenie. Vaša požiadavka na odstránenie zdieľanej stránky bola lokálne zaradená do frontu a automaticky sa odošle serveru OneTab, hneď ako bude znova dostupný."
+  },
+  "cannotCreateTabGroupInTabGroup": {
+    "message": "Vybraným cieľom je skupina kariet. Skupinu kariet nemôžete vytvoriť v existujúcej skupine kariet. Vyberte iný cieľ."
+  },
+  "cannotMixTabsGroupsFoldersDuringDrag": {
+    "message": "Pri presúvaní nie je možné miešať karty, skupiny a priečinky. Napríklad priečinok nemôžete presunúť na rovnaké miesta ako kartu."
+  },
+  "cannotMoveItemAncestorHere": {
+    "message": "Nadradenú položku nemožno presunúť do jej vlastného potomka, pretože by sa tým vytvorila slučka."
+  },
+  "cannotMoveItemIntoItself": {
+    "message": "Položku nemožno presunúť do seba samej."
+  },
+  "canPasteWebContentForExample": {
+    "message": "Môžete vložiť text skopírovaný z webovej stránky alebo dokumentu a odkazy sa automaticky extrahujú. Napríklad:"
+  },
+  "caseSensitive": {
+    "message": "Rozlišovať veľké a malé písmená"
+  },
+  "changesMadeSinceSharedPageCreation": {
+    "message": "Vaše uložené karty sa od zdieľania tejto stránky zmenili. Kliknutím na tlačidlo „Aktualizovať“ aktualizujete existujúcu zdieľanú stránku."
+  },
+  "changeThisSettingAtAnyTimeInfo": {
+    "message": "Toto nastavenie môžete kedykoľvek zmeniť kliknutím na tlačidlo „Možnosti“ v hornej časti stránky OneTab."
+  },
+  "changeThisSettingAtAnyTimeInfoHtml": {
+    "message": "Neskôr to môžete zmeniť v časti <b>Možnosti</b>."
+  },
+  "checkboxesDeterminePinnedAndGroupedTabMergeInclusion": {
+    "message": "Začiarkavacie políčka v hornej časti tejto stránky určujú, či sa do zlúčenia zahrnú pripnuté karty alebo karty v skupinách kariet."
+  },
+  "chooseALocation": {
+    "message": "Vyberte umiestnenie"
+  },
+  "chooseALocationToImportTo": {
+    "message": "Vyberte umiestnenie na import"
+  },
+  "chooseExportLocation": {
+    "message": "Vyberte umiestnenie, z ktorého chcete exportovať"
+  },
+  "chooseLightDarkTheme": {
+    "message": "Vybrať svetlý/tmavý motív"
+  },
+  "chooseLocationToCopyTo": {
+    "message": "Vyberte umiestnenie na kopírovanie"
+  },
+  "chooseLocationToMoveTo": {
+    "message": "Vyberte umiestnenie na presunutie"
+  },
+  "chooseLocationToRestoreTo": {
+    "message": "Vyberte umiestnenie na obnovenie"
+  },
+  "chooseToIncludeNotes": {
+    "message": "Ak ste ku kartám alebo skupinám pridali poznámky, vyberte, či ich chcete zahrnúť do zdieľanej webovej stránky"
+  },
+  "chooseToIncludeRatings": {
+    "message": "Ak ste ku kartám alebo skupinám pridali hviezdičky, vyberte, či ich chcete zahrnúť do zdieľanej webovej stránky"
+  },
+  "chromeIncognitoInstructions": {
+    "message": "V nastaveniach prehliadača prejdite na „Nastavenia“ → „Rozšírenia“ → „OneTab“ → „Podrobnosti“ a potom povoľte „Povoliť v režime inkognito“."
+  },
+  "clickButtonToAllowTabAccess": {
+    "message": "Kliknutím na tlačidlo nižšie povoľte OneTab prístup k otvoreným kartám."
+  },
+  "clickHereToContinue": {
+    "message": "Kliknutím sem pokračujte."
+  },
+  "clickOneTabIconToStoreTabsHere": {
+    "message": "Ak chcete svoje otvorené karty uložiť sem, kliknite na ikonu OneTab na paneli s nástrojmi prehliadača."
+  },
+  "closeSelectedTabs_few": {
+    "message": "Zavrieť {COUNT} vybraté karty"
+  },
+  "closeSelectedTabs_many": {
+    "message": "Zavrieť {COUNT} vybratých kariet"
+  },
+  "closeSelectedTabs_one": {
+    "message": "Zavrieť {COUNT} vybratú kartu"
+  },
+  "closeSelectedTabs_other": {
+    "message": "Zavrieť {COUNT} vybratých kariet"
+  },
+  "closeSelectedTabs_two": {
+    "message": "Zavrieť {COUNT} vybraté karty"
+  },
+  "closeSelectedTabs_zero": {
+    "message": "Zavrieť {COUNT} vybratých kariet"
+  },
+  "closeSelectedTabsAndStoreInONETAB_few": {
+    "message": "Zavrieť {COUNT} vybraté karty a uložiť ich do ONETAB"
+  },
+  "closeSelectedTabsAndStoreInONETAB_many": {
+    "message": "Zavrieť {COUNT} vybratých kariet a uložiť ich do ONETAB"
+  },
+  "closeSelectedTabsAndStoreInONETAB_one": {
+    "message": "Zavrieť {COUNT} vybratú kartu a uložiť ju do ONETAB"
+  },
+  "closeSelectedTabsAndStoreInONETAB_other": {
+    "message": "Zavrieť {COUNT} vybratých kariet a uložiť ich do ONETAB"
+  },
+  "closeSelectedTabsAndStoreInONETAB_two": {
+    "message": "Zavrieť {COUNT} vybraté karty a uložiť ich do ONETAB"
+  },
+  "closeSelectedTabsAndStoreInONETAB_zero": {
+    "message": "Zavrieť {COUNT} vybratých kariet a uložiť ich do ONETAB"
+  },
+  "closeTabs_few": {
+    "message": "Zavrieť karty"
+  },
+  "closeTabs_many": {
+    "message": "Zavrieť karty"
+  },
+  "closeTabs_one": {
+    "message": "Zavrieť kartu"
+  },
+  "closeTabs_other": {
+    "message": "Zavrieť karty"
+  },
+  "closeTabs_two": {
+    "message": "Zavrieť karty"
+  },
+  "closeTabs_zero": {
+    "message": "Zavrieť karty"
+  },
+  "closeTabsAfterMerge": {
+    "message": "Zavrieť karty po zlúčení"
+  },
+  "closeTabsAlreadyStoredInOneTab_few": {
+    "message": "Zavrieť {COUNT} karty už uložené v OneTab"
+  },
+  "closeTabsAlreadyStoredInOneTab_many": {
+    "message": "Zavrieť {COUNT} kariet už uložených v OneTab"
+  },
+  "closeTabsAlreadyStoredInOneTab_one": {
+    "message": "Zavrieť {COUNT} kartu už uloženú v OneTab"
+  },
+  "closeTabsAlreadyStoredInOneTab_other": {
+    "message": "Zavrieť {COUNT} kariet už uložených v OneTab"
+  },
+  "closeTabsAlreadyStoredInOneTab_two": {
+    "message": "Zavrieť {COUNT} karty už uložené v OneTab"
+  },
+  "closeTabsAlreadyStoredInOneTab_zero": {
+    "message": "Zavrieť {COUNT} kariet už uložených v OneTab"
+  },
+  "closeTabsAndStore_few": {
+    "message": "Zavrieť karty a uložiť ich do ONETAB"
+  },
+  "closeTabsAndStore_many": {
+    "message": "Zavrieť karty a uložiť ich do ONETAB"
+  },
+  "closeTabsAndStore_one": {
+    "message": "Zavrieť kartu a uložiť ju do ONETAB"
+  },
+  "closeTabsAndStore_other": {
+    "message": "Zavrieť karty a uložiť ich do ONETAB"
+  },
+  "closeTabsAndStore_two": {
+    "message": "Zavrieť karty a uložiť ich do ONETAB"
+  },
+  "closeTabsAndStore_zero": {
+    "message": "Zavrieť karty a uložiť ich do ONETAB"
+  },
+  "closeTheseDuplicates_few": {
+    "message": "Zavrieť tieto duplicitné karty"
+  },
+  "closeTheseDuplicates_many": {
+    "message": "Zavrieť tieto duplicitné karty"
+  },
+  "closeTheseDuplicates_one": {
+    "message": "Zavrieť túto duplicitnú kartu"
+  },
+  "closeTheseDuplicates_other": {
+    "message": "Zavrieť tieto duplicitné karty"
+  },
+  "closeTheseDuplicates_two": {
+    "message": "Zavrieť tieto duplicitné karty"
+  },
+  "closeTheseDuplicates_zero": {
+    "message": "Zavrieť tieto duplicitné karty"
+  },
+  "completedTaskFlagHelp": {
+    "message": "Táto položka je úloha. Kliknutím na túto ikonu ju označíte ako čakajúcu (nedokončenú)."
+  },
+  "completeEditingShortcutInfo": {
+    "message": "Pri úprave poľa poznámok dokončiť úpravy"
+  },
+  "configureShortcuts": {
+    "message": "Nastaviť skratky"
+  },
+  "conflictingShortcutsHint": {
+    "message": "Ak niektoré z vyššie uvedených klávesových skratiek nefungujú alebo sú v konflikte s inými aplikáciami, môžete nastaviť inú klávesovú skratku."
+  },
+  "continue": {
+    "message": "Pokračovať"
+  },
+  "convertTabsIntoAList": {
+    "message": "Previesť karty na zoznam"
+  },
+  "copiedToClipboard": {
+    "message": "Skopírované do schránky"
+  },
+  "copy": {
+    "message": "Kopírovať"
+  },
+  "copyLinksToClipboard": {
+    "message": "Kopírovať odkazy do schránky"
+  },
+  "copySharedPageUrl": {
+    "message": "Kopírovať adresu URL zdieľanej stránky"
+  },
+  "copyToClipboard": {
+    "message": "Kopírovať do schránky"
+  },
+  "copyToClipboardMenuItemHelp": {
+    "message": "Skopírujte tieto webové odkazy do schránky, aby ste ich mohli vložiť do iných aplikácií. Formát textu v schránke môžete zmeniť na stránke možností OneTab."
+  },
+  "createANewGroupHere": {
+    "message": "Vytvoriť tu novú skupinu"
+  },
+  "createdOnDate": {
+    "message": "Vytvorené {DATE}"
+  },
+  "createdOnOrAfterColon": {
+    "message": "Vytvorené od:"
+  },
+  "createdOnOrBeforeColon": {
+    "message": "Vytvorené do:"
+  },
+  "createFolderAbove": {
+    "message": "Vytvoriť priečinok nad"
+  },
+  "createFolderAboveBelow": {
+    "message": "Vytvoriť priečinok nad / pod"
+  },
+  "createFolderAboveWithinBelow": {
+    "message": "Vytvoriť priečinok nad / vnútri / pod"
+  },
+  "createFolderBelow": {
+    "message": "Vytvoriť priečinok pod"
+  },
+  "createFolderWithin": {
+    "message": "Vytvoriť priečinok vo vnútri"
+  },
+  "createFolderWithinMenuItemHelp": {
+    "message": "Priečinky slúžia na usporiadanie skupín. Priečinky obsahujú skupiny a skupiny obsahujú karty."
+  },
+  "createGroupAbove": {
+    "message": "Vytvoriť skupinu nad"
+  },
+  "createGroupAboveBelow": {
+    "message": "Vytvoriť skupinu nad / pod"
+  },
+  "createGroupAboveWithinBelow": {
+    "message": "Vytvoriť skupinu nad / vnútri / pod"
+  },
+  "createGroupBelow": {
+    "message": "Vytvoriť skupinu pod"
+  },
+  "createGroupInsideDestination": {
+    "message": "Vytvoriť novú skupinu v cieli"
+  },
+  "createGroupInsideDestinationHelp": {
+    "message": "Ak políčko nie je začiarknuté, vaše karty sa pridajú priamo do cieľovej skupiny. Ak je začiarknuté, v cieľovej skupine sa pre vaše karty vytvorí nová skupina kariet. Toto políčko začiarknite iba vtedy, ak chcete používať funkciu „skupiny kariet“ vo svojom prehliadači."
+  },
+  "createGroupMenuItemHelp": {
+    "message": "Vytvorte novú prázdnu skupinu. Skupina obsahuje zoznam kariet, ktoré možno spoločne obnoviť do okna."
+  },
+  "createGroupWithin": {
+    "message": "Vytvoriť skupinu vo vnútri"
+  },
+  "createNewGroupTip": {
+    "message": "Ak chcete vytvoriť novú skupinu, najprv zrušte začiarknutie možnosti „Zobraziť iba priečinky“. Vďaka tomu budete novovytvorenú skupinu vidieť v zozname."
+  },
+  "darkTheme": {
+    "message": "Tmavý motív"
+  },
+  "dayCount_few": {
+    "message": "{COUNT} dni"
+  },
+  "dayCount_many": {
+    "message": "{COUNT} dní"
+  },
+  "dayCount_one": {
+    "message": "{COUNT} deň"
+  },
+  "dayCount_other": {
+    "message": "{COUNT} dní"
+  },
+  "dayCount_two": {
+    "message": "{COUNT} dni"
+  },
+  "dayCount_zero": {
+    "message": "{COUNT} dní"
+  },
+  "delete": {
+    "message": "Odstrániť"
+  },
+  "deleteAllTrash": {
+    "message": "Vyprázdniť kôš"
+  },
+  "deleteThisCopy": {
+    "message": "Odstrániť túto kópiu"
+  },
+  "deselectAll": {
+    "message": "Zrušiť výber všetkých"
+  },
+  "destinationColon": {
+    "message": "Cieľ:"
+  },
+  "disabled": {
+    "message": "Zakázané"
+  },
+  "doneTaskCount_few": {
+    "message": "{COUNT} dokončené"
+  },
+  "doneTaskCount_many": {
+    "message": "{COUNT} dokončených"
+  },
+  "doneTaskCount_one": {
+    "message": "{COUNT} dokončená"
+  },
+  "doneTaskCount_other": {
+    "message": "{COUNT} dokončených"
+  },
+  "doneTaskCount_two": {
+    "message": "{COUNT} dokončené"
+  },
+  "doneTaskCount_zero": {
+    "message": "{COUNT} dokončených"
+  },
+  "dontCloseGroupedTabs": {
+    "message": "Nezatvárať žiadne karty v skupinách kariet"
+  },
+  "dontClosePinnedTabs": {
+    "message": "Nezatvárať žiadne pripnuté karty"
+  },
+  "dontCloseTabsFromDomains": {
+    "message": "Nezatvárať žiadne karty z EXAMPLE.COM"
+  },
+  "dragCopyKeysHtml": {
+    "message": "<x-key>{CTRL}</x-key> alebo <x-key>{ALT}</x-key>"
+  },
+  "dragCopyModifierInfo": {
+    "message": "Pri presúvaní karty podržte kláves Ctrl alebo Alt, aby sa namiesto presunutia vytvorila jej kópia."
+  },
+  "dragTabsHereForQuickList": {
+    "message": "Presuňte sem uložené karty alebo skupiny. Pridajú sa do vášho rýchleho zoznamu."
+  },
+  "editTabGroupTitleAndNotes": {
+    "message": "Upraviť názov a poznámky skupiny kariet"
+  },
+  "emojiShortcutInfo": {
+    "message": "Pri úprave poľa poznámok otvoriť výber emodži"
+  },
+  "emptyInBrackets": {
+    "message": "(prázdne)"
+  },
+  "emptyOneTabInfoMsg": {
+    "message": "Keď máte otvorených viacero kariet, kliknite na ikonu OneTab na paneli s nástrojmi prehliadača a vaše otvorené karty sa zobrazia tu."
+  },
+  "enabled": {
+    "message": "Povolené"
+  },
+  "everything": {
+    "message": "Všetko"
+  },
+  "exampleLink": {
+    "message": "Príklad odkazu"
+  },
+  "exampleLinkTitle": {
+    "message": "Príklad názvu odkazu"
+  },
+  "exampleLinkTitleOptional": {
+    "message": "Príklad názvu odkazu (voliteľné)"
+  },
+  "exampleRichTextParagraph": {
+    "message": "Príklad odseku textu s PLACEHOLDER a PLACEHOLDER"
+  },
+  "exampleWebsitePageTitle": {
+    "message": "Príklad názvu stránky webu"
+  },
+  "excludeDomainFromOneTab": {
+    "message": "Vylúčiť EXAMPLE.COM z OneTab"
+  },
+  "excludeWebSiteFromOneTab": {
+    "message": "Vylúčiť tento web z OneTab"
+  },
+  "expiresColon": {
+    "message": "Platnosť vyprší:"
+  },
+  "export": {
+    "message": "Exportovať"
+  },
+  "exportImportUrls": {
+    "message": "Export / import adries URL"
+  },
+  "exportThenImportNote": {
+    "message": "Nasledujúci zoznam adries URL možno tiež importovať späť do OneTab v tomto alebo inom počítači"
+  },
+  "exportUrls": {
+    "message": "Export adries URL"
+  },
+  "feedback": {
+    "message": "Spätná väzba"
+  },
+  "filter": {
+    "message": "Filter"
+  },
+  "firefoxIncognitoInstructions": {
+    "message": "V nastaveniach prehliadača prejdite na „Nastavenia“ → „Doplnky a témy“ → „Rozšírenia“ → „OneTab“ → „…“ → „Spravovať“ a potom povoľte „Spúšťať v súkromných oknách“."
+  },
+  "firefoxIndexedDbUnavailable": {
+    "message": "OneTab nedokáže ukladať ani načítať údaje. Ak máte Firefox nastavený tak, aby nikdy neuchovával históriu, zabránilo by to správnemu fungovaniu OneTab. V opačnom prípade nás kontaktujte prostredníctvom našej webovej stránky a možno vám budeme vedieť pomôcť."
+  },
+  "firefoxShortcutConfigInstructions": {
+    "message": "Zadajte adresu URL „about:addons?type=extension“ do panela s adresou prehliadača. Keď sa stránka zobrazí, kliknite na ikonu ozubeného kolieska a potom vyberte „Spravovať skratky rozšírení“"
+  },
+  "Folder": {
+    "message": "Priečinok"
+  },
+  "folderCount_few": {
+    "message": "{COUNT} priečinky"
+  },
+  "folderCount_many": {
+    "message": "{COUNT} priečinkov"
+  },
+  "folderCount_one": {
+    "message": "{COUNT} priečinok"
+  },
+  "folderCount_other": {
+    "message": "{COUNT} priečinkov"
+  },
+  "folderCount_two": {
+    "message": "{COUNT} priečinky"
+  },
+  "folderCount_zero": {
+    "message": "{COUNT} priečinkov"
+  },
+  "folders": {
+    "message": "Priečinky"
+  },
+  "foldersOnly": {
+    "message": "Iba priečinky"
+  },
+  "foldGroup": {
+    "message": "Zbaliť skupinu"
+  },
+  "gettingStarted": {
+    "message": "Začíname"
+  },
+  "gotIt": {
+    "message": "Rozumiem"
+  },
+  "goToParentFolder": {
+    "message": "Prejsť do nadradeného priečinka"
+  },
+  "groupCount_few": {
+    "message": "{COUNT} skupiny"
+  },
+  "groupCount_many": {
+    "message": "{COUNT} skupín"
+  },
+  "groupCount_one": {
+    "message": "{COUNT} skupina"
+  },
+  "groupCount_other": {
+    "message": "{COUNT} skupín"
+  },
+  "groupCount_two": {
+    "message": "{COUNT} skupiny"
+  },
+  "groupCount_zero": {
+    "message": "{COUNT} skupín"
+  },
+  "groups": {
+    "message": "Skupiny"
+  },
+  "hasNotes": {
+    "message": "S poznámkami"
+  },
+  "help": {
+    "message": "Pomoc"
+  },
+  "hideArchivedItems": {
+    "message": "Skryť archivované položky"
+  },
+  "import": {
+    "message": "Importovať"
+  },
+  "importAndExport": {
+    "message": "Import a export"
+  },
+  "importBookmarks": {
+    "message": "Importovať záložky"
+  },
+  "importedBookmarks": {
+    "message": "Importované záložky"
+  },
+  "importExportShareMenuNoteHtml": {
+    "message": "Karty môžete exportovať aj ako zdieľateľnú webovú stránku alebo súbor HTML pomocou možností <b>Zdieľať ako webovú stránku</b> a <b>Uložiť ako súbor HTML</b> v ponuke <b>Viac…</b> pri skupine alebo priečinku."
+  },
+  "importFolderAndSubfolders": {
+    "message": "Importovať priečinok a podpriečinky"
+  },
+  "importLinksHere": {
+    "message": "Importovať odkazy sem"
+  },
+  "importLinksHereMenuItemHelp": {
+    "message": "Môžete vložiť zoznam webových odkazov alebo importovať záložky prehliadača."
+  },
+  "importNotesTruncatedNotice": {
+    "message": "Niektoré importované poznámky prekročili limit {MAX} znakov, preto sa ich konce skrátili."
+  },
+  "importReadingList": {
+    "message": "Importovať zoznam na čítanie"
+  },
+  "importText": {
+    "message": "Import textu"
+  },
+  "importUrls": {
+    "message": "Import adries URL"
+  },
+  "includeGroupedTabs": {
+    "message": "Zahrnúť karty v skupinách kariet"
+  },
+  "includeNotes": {
+    "message": "Zahrnúť poznámky"
+  },
+  "includePinnedTabs": {
+    "message": "Zahrnúť pripnuté karty"
+  },
+  "includeStarRatings": {
+    "message": "Zahrnúť hviezdičky"
+  },
+  "includeTabsAlreadyStored": {
+    "message": "Zahrnúť karty, ktoré ste už uložili"
+  },
+  "includeTabsFromDomains": {
+    "message": "Zahrnúť karty z EXAMPLE.COM"
+  },
+  "incogitoPermissionRequired": {
+    "message": "OneTab potrebuje povolenie na vytváranie okien inkognito."
+  },
+  "incognitoWindows": {
+    "message": "Okná inkognito"
+  },
+  "invertSelection": {
+    "message": "Obrátiť výber"
+  },
+  "itemTextTruncatedNotice": {
+    "message": "Text bol dlhší než povolený limit (poznámky môžu obsahovať {NOTESMAX} znakov, názvy {TITLEMAX}), preto sa jeho koniec skrátil."
+  },
+  "justNow": {
+    "message": "práve teraz"
+  },
+  "kbdNavBackspaceInfo": {
+    "message": "Prejsť do nadradeného priečinka"
+  },
+  "kbdNavEnterInfo": {
+    "message": "Obnoviť karty alebo otvoriť priečinok"
+  },
+  "kbdNavEscInfo": {
+    "message": "Ukončiť navigáciu klávesnicou"
+  },
+  "kbdNavFocusInfo": {
+    "message": "Zmeniť zameranie zo skupín na karty"
+  },
+  "kbdNavFoldInfo": {
+    "message": "Zbaliť / rozbaliť skupinu"
+  },
+  "kbdNavMoveInfo": {
+    "message": "Presun medzi položkami"
+  },
+  "kbdNavTabInfo": {
+    "message": "Spustiť navigáciu klávesnicou"
+  },
+  "keyboardShortcutsColon": {
+    "message": "Klávesové skratky:"
+  },
+  "languageTitle": {
+    "message": "Jazyk:"
+  },
+  "licenseAlreadyHaveKey": {
+    "message": "Licenčný kľúč už mám"
+  },
+  "licenseAlreadySetUpRestarting": {
+    "message": "Táto licencia už bola nastavená, preto toto zariadenie pripojíme k existujúcemu nastaveniu. Na evidovanú adresu sme e-mailom odoslali nový kód."
+  },
+  "licenseBackLink": {
+    "message": "Späť"
+  },
+  "licenseBrowserOnOs": {
+    "message": "{BROWSER} v systéme {OS}"
+  },
+  "licenseBrowsersActiveOn": {
+    "message": "Aktívny {DATE}"
+  },
+  "licenseBrowsersActiveToday": {
+    "message": "Aktívny dnes"
+  },
+  "licenseBrowsersAdded": {
+    "message": "Pridané {DATE}"
+  },
+  "licenseBrowsersThisBrowser": {
+    "message": "Tento prehliadač"
+  },
+  "licenseBrowserUnknown": {
+    "message": "Prehliadač"
+  },
+  "licenseChangeEmail": {
+    "message": "Zmeniť e-mailovú adresu"
+  },
+  "licenseChangeEmailWebLink": {
+    "message": "Zmeniť e-mailovú adresu"
+  },
+  "licenseChooseRecoveryTitle": {
+    "message": "Vyberte spôsob ochrany šifrovacieho kľúča"
+  },
+  "licenseCloseModal": {
+    "message": "Zavrieť"
+  },
+  "licenseCodeExpired": {
+    "message": "Platnosť tohto kódu uplynula. Vyžiadajte si nový e-mail."
+  },
+  "licenseCodeIncorrectTriesRemaining": {
+    "message": "Nesprávny kód. Zostávajúce pokusy: {COUNT}."
+  },
+  "licenseCodeInvalidFormat": {
+    "message": "Zadajte 6-miestny kód z e-mailu."
+  },
+  "licenseCodePlaceholder": {
+    "message": "6-miestny kód"
+  },
+  "licenseCodeSentTo": {
+    "message": "Zadajte 6-miestny kód, ktorý sme poslali e-mailom na adresu {EMAIL}."
+  },
+  "licenseCodeSourceDeviceOption": {
+    "message": "Získať kód z už pripojeného prehliadača"
+  },
+  "licenseCodeSourceDeviceOptionDescription": {
+    "message": "Otvorte tam Zálohovanie a synchronizáciu a kliknite na „Pripojiť ďalší prehliadač alebo profil“."
+  },
+  "licenseCodeSourceEmailOption": {
+    "message": "Odoslať kód e-mailom na adresu {EMAIL}"
+  },
+  "licenseCodeSourceTitle": {
+    "message": "Získanie overovacieho kódu"
+  },
+  "licenseCodeTriesExhausted": {
+    "message": "Pre tento kód už nezostávajú žiadne pokusy. Vyžiadajte si nový e-mail."
+  },
+  "licenseConnectAnotherBrowser": {
+    "message": "Pripojiť ďalší prehliadač alebo profil"
+  },
+  "licenseConnectedBrowsers": {
+    "message": "Pripojené prehliadače"
+  },
+  "licenseDeviceAddConnected": {
+    "message": "{BROWSER} sa práve pripojil k vašej licencii."
+  },
+  "licenseDeviceAddExpired": {
+    "message": "Platnosť tohto kódu uplynula."
+  },
+  "licenseDeviceAddExpiresIn": {
+    "message": "Platnosť vyprší o {TIME}"
+  },
+  "licenseDeviceAddGetNewCode": {
+    "message": "Získať nový kód"
+  },
+  "licenseDeviceAddIntro": {
+    "message": "Ak chcete pripojiť ďalší prehliadač alebo profil, zadajte v ňom svoj licenčný kľúč a po vyzvaní zadajte tento kód."
+  },
+  "licenseDeviceAddKeyReminder": {
+    "message": "Stále budete potrebovať svoj licenčný kľúč – tu sa nezobrazuje. Nájdete ho v pôvodnom e-maile alebo na stránke fakturácie."
+  },
+  "licenseDeviceAddNeverShare": {
+    "message": "Tento kód použite iba vo svojom novom prehliadači. Nikdy ho s nikým nezdieľajte – OneTab vás oň nikdy nepožiada. Funguje iba s licenciou tohto prehliadača."
+  },
+  "licenseDeviceCodeInsteadLink": {
+    "message": "Namiesto toho získať kód z pripojeného prehliadača"
+  },
+  "licenseDeviceCodePrompt": {
+    "message": "V prehliadači, ktorý je už pripojený k vašej licencii, otvorte Zálohovanie a synchronizáciu a kliknite na „Pripojiť ďalší prehliadač alebo profil“. Zadajte 6-miestny kód, ktorý sa tam zobrazí."
+  },
+  "licenseDeviceLimitReached": {
+    "message": "Táto licencia dosiahla limit zariadení."
+  },
+  "licenseDoneButton": {
+    "message": "Hotovo"
+  },
+  "licenseEasyOptionDescription": {
+    "message": "Váš šifrovací kľúč bude bezpečne uložený na serveri, takže ho môžete obnoviť pomocou e-mailu."
+  },
+  "licenseEasyOptionLabel": {
+    "message": "Jednoduché"
+  },
+  "licenseEmailCodeInsteadLink": {
+    "message": "Namiesto toho mi odoslať kód e-mailom"
+  },
+  "licenseEmailPlaceholder": {
+    "message": "E-mailová adresa"
+  },
+  "licenseEmailPrompt": {
+    "message": "Vaša e-mailová adresa"
+  },
+  "licenseForgotKeyBack": {
+    "message": "Späť na zadanie licenčného kľúča"
+  },
+  "licenseForgotKeyEnterKeyButton": {
+    "message": "Zadať licenčný kľúč"
+  },
+  "licenseForgotKeyLink": {
+    "message": "Zabudli ste licenčný kľúč?"
+  },
+  "licenseForgotKeyNoEmailOnRecord": {
+    "message": "S touto e-mailovou adresou nie je spojený žiadny licenčný kľúč. Skontrolujte, či neobsahuje preklep, alebo skúste inú adresu, ktorú ste mohli použiť."
+  },
+  "licenseForgotKeyPrompt": {
+    "message": "Zadajte svoju e-mailovú adresu. Ak je evidovaná pri licenčnom kľúči, pošleme vám ho e-mailom."
+  },
+  "licenseForgotKeySendButton": {
+    "message": "Odoslať"
+  },
+  "licenseForgotKeySentTo": {
+    "message": "Váš licenčný kľúč sme odoslali e-mailom na adresu {EMAIL}. Keď vám príde, môžete ho zadať tu."
+  },
+  "licenseForgotKeyTooManyRequests": {
+    "message": "Váš licenčný kľúč bol v poslednom čase na túto adresu odoslaný e-mailom už niekoľkokrát. Skontrolujte priečinok so spamom alebo to skúste znova zajtra."
+  },
+  "licenseGenericError": {
+    "message": "Vyskytla sa chyba. Skúste to znova."
+  },
+  "licenseGoButton": {
+    "message": "Pokračovať"
+  },
+  "licenseInvalidEmail": {
+    "message": "Zadajte platnú e-mailovú adresu."
+  },
+  "licenseKeyInvalidFormat": {
+    "message": "Tento údaj nevyzerá ako platný licenčný kľúč. Mal by obsahovať 20 písmen (A – F) a číslic, napríklad XXXX-XXXX-XXXX-XXXX-XXXX."
+  },
+  "licenseKeyNotFound": {
+    "message": "Licenčný kľúč sa nenašiel. Skontrolujte ho a skúste to znova."
+  },
+  "licenseNoLongerActiveError": {
+    "message": "Táto licencia už nie je aktívna. Ak si myslíte, že ide o chybu, kontaktujte podporu."
+  },
+  "licenseRateLimitedError": {
+    "message": "Z vašej siete prišlo príliš veľa neúspešných pokusov. Chvíľu počkajte a skúste to znova."
+  },
+  "licenseResendEmail": {
+    "message": "Odoslať nový e-mail"
+  },
+  "licenseServiceProblemTryLater": {
+    "message": "Momentálne to nemožno dokončiť pre problém na našej strane. Skúste to znova neskôr. Ak problém pretrváva, kontaktujte podporu."
+  },
+  "licenseSuccess": {
+    "message": "Hotovo! Vaše uložené karty budú odteraz šifrované a bezpečne zálohované v cloude."
+  },
+  "licenseSuccessJoin": {
+    "message": "Hotovo! Tento prehliadač sa pripojil k vašej šifrovanej zálohe. Vaše uložené karty z tohto aj ostatných prehliadačov budú odteraz synchronizované."
+  },
+  "licenseSuggestedEmailIntro": {
+    "message": "Licenčný kľúč bol odoslaný e-mailom na adresu:"
+  },
+  "licenseSuggestedEmailNote": {
+    "message": "Táto adresa sa bude používať na odosielanie overovacích kódov aj na obnovenie účtu, preto sa uistite, že patrí vám."
+  },
+  "licenseSuspendedBillingError": {
+    "message": "Túto licenciu momentálne nemožno pripojiť pre problém s fakturáciou. Ak spravujete fakturáciu, prihláste sa na one-tab.com a problém vyriešte. V opačnom prípade kontaktujte osobu zodpovednú za nákup vašej licencie."
+  },
+  "licenseUltraKeyConfirmCheckbox": {
+    "message": "Mám uloženú kópiu svojho kľúča a rozumiem, že sa už nikdy nezobrazí."
+  },
+  "licenseUltraKeyConfirmRequired": {
+    "message": "Potvrďte, že ste si uložili kópiu svojho kľúča."
+  },
+  "licenseUltraKeyEnterPrompt": {
+    "message": "Pripojenie tohto zariadenia dokončíte zadaním svojho šifrovacieho kľúča."
+  },
+  "licenseUltraKeyIntro": {
+    "message": "Toto je váš šifrovací kľúč. Bezpečne si uložte jeho kópiu, napríklad do správcu hesiel, aby ste mohli obnoviť svoje údaje po poruche alebo krádeži počítača."
+  },
+  "licenseUltraKeyMismatch": {
+    "message": "Tento kľúč nie je správny pre danú licenciu. Skontrolujte ho a skúste to znova."
+  },
+  "licenseUltraKeyNeverShownAgain": {
+    "message": "Tento kľúč sa už NIKDY nezobrazí."
+  },
+  "licenseUltraKeyPlaceholder": {
+    "message": "Šifrovací kľúč"
+  },
+  "licenseUltraOptionDescription": {
+    "message": "Šifrovací kľúč máte iba vy a v prípade straty ho nemožno obnoviť. Túto možnosť vyberte iba vtedy, ak si dokážete bezpečne uchovať jeho kópiu."
+  },
+  "licenseUltraOptionLabel": {
+    "message": "Maximálne súkromie"
+  },
+  "licenseUseDifferentEmail": {
+    "message": "Použiť inú e-mailovú adresu"
+  },
+  "lightTheme": {
+    "message": "Svetlý motív"
+  },
+  "localBackupRestoredModal": {
+    "message": "Časť profilu vášho prehliadača, v ktorej sú uložené údaje OneTab, bola poškodená alebo odstránená. Môže sa to stať po zlyhaní prehliadača alebo vtedy, keď nesprávne fungujúci softvér na čistenie systému či ochranu súkromia odstráni údaje prehliadača."
+  },
+  "localBackupRestoredModalRecovery": {
+    "message": "Tentoraz ste mali šťastie: poškodenie nezasiahlo samostatnú časť profilu, v ktorej OneTab uchováva týždennú zálohu, takže vaše karty boli obnovené zo zálohy vytvorenej {DATE}. Nič, čo ste uložili alebo zmenili po tomto dátume, nebolo možné obnoviť. Ak by sa stratil celý profil alebo by bola poškodená aj záloha, nebolo by z čoho údaje obnoviť."
+  },
+  "localBackupRestoredModalTitle": {
+    "message": "OneTab obnovil vaše karty po strate údajov"
+  },
+  "localeId": {
+    "message": "sk"
+  },
+  "locationColon": {
+    "message": "Umiestnenie:"
+  },
+  "lock": {
+    "message": "Zamknúť"
+  },
+  "lockedGroupUnlockHelp": {
+    "message": "Na odomknutie použite ponuku „Viac…“. Keď je skupina zamknutá, nemôžete odstrániť skupinu ani jej karty a poradie kariet nemožno meniť."
+  },
+  "lockMenuItemHelp": {
+    "message": "Keď je skupina zamknutá, nemôžete v nej odstrániť ani zmeniť poradie položiek (kým skupinu neodomknete)."
+  },
+  "makeThisATask": {
+    "message": "Označiť ako úlohu"
+  },
+  "manifestDescription": {
+    "message": "Ušetrite až 95 % pamäte a znížte neporiadok v kartách"
+  },
+  "markAsArchived": {
+    "message": "Označiť ako archivované"
+  },
+  "markAsArchivedMenuItemHelp": {
+    "message": "Keď položku označíte ako archivovanú, bude mať sivé pozadie. Je to vizuálny indikátor, že ste s touto položkou skončili (napríklad ide o článok, ktorý ste dočítali). Ak archivujete položku označenú ako úloha, úloha sa už nebude zobrazovať v stĺpci úloh na stránke OneTab."
+  },
+  "markAsDoneTask": {
+    "message": "Označiť ako dokončenú úlohu"
+  },
+  "markAsDoneTaskMenuItemHelp": {
+    "message": "Vizuálne označte, že úloha bola dokončená"
+  },
+  "markAsPendingTask": {
+    "message": "Označiť ako čakajúcu úlohu"
+  },
+  "markAsPendingTaskMenuItemHelp": {
+    "message": "Vizuálne označte túto položku ako úlohu. Zobrazí sa ikona úlohy, na ktorú potom môžete kliknúť a vizuálne označiť, že úloha bola dokončená. Všetky úlohy (ak nie sú označené ako archivované) sa zobrazia aj v stĺpci úloh na stránke OneTab."
+  },
+  "matchCount_few": {
+    "message": "{COUNT} zhody"
+  },
+  "matchCount_many": {
+    "message": "{COUNT} zhôd"
+  },
+  "matchCount_one": {
+    "message": "{COUNT} zhoda"
+  },
+  "matchCount_other": {
+    "message": "{COUNT} zhôd"
+  },
+  "matchCount_two": {
+    "message": "{COUNT} zhody"
+  },
+  "matchCount_zero": {
+    "message": "{COUNT} zhôd"
+  },
+  "matchWholeWordsOnly": {
+    "message": "Hľadať iba celé slová"
+  },
+  "mayNeedToRestartBrowser": {
+    "message": "Ak sa táto správa zobrazuje zakaždým, aktualizujte a reštartujte prehliadač."
+  },
+  "mergeIntoParent": {
+    "message": "Zlúčiť do nadradenej položky"
+  },
+  "mergeOpenTabsHere_few": {
+    "message": "Zlúčiť sem {COUNT} otvorené karty"
+  },
+  "mergeOpenTabsHere_many": {
+    "message": "Zlúčiť sem {COUNT} otvorených kariet"
+  },
+  "mergeOpenTabsHere_one": {
+    "message": "Zlúčiť sem {COUNT} otvorenú kartu"
+  },
+  "mergeOpenTabsHere_other": {
+    "message": "Zlúčiť sem {COUNT} otvorených kariet"
+  },
+  "mergeOpenTabsHere_two": {
+    "message": "Zlúčiť sem {COUNT} otvorené karty"
+  },
+  "mergeOpenTabsHere_zero": {
+    "message": "Zlúčiť sem {COUNT} otvorených kariet"
+  },
+  "mergeSelectedTabsHere_few": {
+    "message": "Zlúčiť sem {COUNT} vybraté karty"
+  },
+  "mergeSelectedTabsHere_many": {
+    "message": "Zlúčiť sem {COUNT} vybratých kariet"
+  },
+  "mergeSelectedTabsHere_one": {
+    "message": "Zlúčiť sem {COUNT} vybratú kartu"
+  },
+  "mergeSelectedTabsHere_other": {
+    "message": "Zlúčiť sem {COUNT} vybratých kariet"
+  },
+  "mergeSelectedTabsHere_two": {
+    "message": "Zlúčiť sem {COUNT} vybraté karty"
+  },
+  "mergeSelectedTabsHere_zero": {
+    "message": "Zlúčiť sem {COUNT} vybratých kariet"
+  },
+  "mergeWithInnerGroups": {
+    "message": "Zlúčiť s vnútornými skupinami"
+  },
+  "modalMoveToTrashHintExampleGroupTitle": {
+    "message": "Príklad názvu skupiny"
+  },
+  "modalMoveToTrashHintHeading": {
+    "message": "Tip: Umiestnite kurzor na názov skupiny a kliknutím na X ju presuňte do koša."
+  },
+  "modalOptionAutoActionOnOpenHeading": {
+    "message": "Po obnovení kariet:"
+  },
+  "modalOptionAutoActionOnOpenOpenDesc": {
+    "message": "Manuálne odstránenie po dokončení"
+  },
+  "modalOptionAutoActionOnOpenTrashDesc": {
+    "message": "Uľahčuje rýchle uloženie a obnovenie"
+  },
+  "modalRemigrationDontAskAgain": {
+    "message": "Už sa nepýtať"
+  },
+  "modalRemigrationFooterHtml": {
+    "message": "Kliknite na <b>Áno</b>, okrem prípadu, že migrácia už prebehla a migrované karty ste zámerne odstránili."
+  },
+  "modalRemigrationNotNow": {
+    "message": "Teraz nie"
+  },
+  "modalRemigrationTabsFoundPrompt_few": {
+    "message": "Našli sa {COUNT} karty z OneTab v1. Migrovať ich?"
+  },
+  "modalRemigrationTabsFoundPrompt_many": {
+    "message": "Našlo sa {COUNT} kariet z OneTab v1. Migrovať ich?"
+  },
+  "modalRemigrationTabsFoundPrompt_one": {
+    "message": "Našla sa {COUNT} karta z OneTab v1. Migrovať ju?"
+  },
+  "modalRemigrationTabsFoundPrompt_other": {
+    "message": "Našlo sa {COUNT} kariet z OneTab v1. Migrovať ich?"
+  },
+  "modalRemigrationTabsFoundPrompt_two": {
+    "message": "Našli sa {COUNT} karty z OneTab v1. Migrovať ich?"
+  },
+  "modalRemigrationTabsFoundPrompt_zero": {
+    "message": "Našlo sa {COUNT} kariet z OneTab v1. Migrovať ich?"
+  },
+  "modalRemigrationYes": {
+    "message": "Áno"
+  },
+  "modalUpdateToV2Heading": {
+    "message": "OneTab bol aktualizovaný"
+  },
+  "modalUpdateToV2QuickTourHtml": {
+    "message": "Chcete rýchlu prehliadku? Kliknite hore na <b>Pomoc</b>."
+  },
+  "modalUpdateToV2UseOneTabLikeBefore": {
+    "message": "OneTab môžete stále používať tak ako predtým — karty uložíte jediným kliknutím."
+  },
+  "modifySharing": {
+    "message": "Upraviť zdieľanie"
+  },
+  "moreEllipsis": {
+    "message": "Viac…"
+  },
+  "moreSearchFilters": {
+    "message": "Ďalšie filtre vyhľadávania"
+  },
+  "move": {
+    "message": "Presunúť"
+  },
+  "moveBack": {
+    "message": "Presunúť späť"
+  },
+  "moveToTrash": {
+    "message": "Presunúť do koša"
+  },
+  "namedOnly": {
+    "message": "Iba pomenované"
+  },
+  "navigationFilter": {
+    "message": "Filter navigácie"
+  },
+  "navigationFilterColumnOnlyNote": {
+    "message": "Tento filter sa vzťahuje iba na navigačný stĺpec."
+  },
+  "newExclamation": {
+    "message": "Nové!"
+  },
+  "noDupsExistExceptForColon": {
+    "message": "Neexistujú žiadne duplicity okrem týchto:"
+  },
+  "noDupsFoundHere": {
+    "message": "Tu sa nenašli žiadne duplicity"
+  },
+  "noMatches": {
+    "message": "Žiadne zhody"
+  },
+  "noMatchesFound": {
+    "message": "Nenašli sa žiadne zhody"
+  },
+  "nonArchived": {
+    "message": "Nearchivované"
+  },
+  "nonTabPinFlagHelp": {
+    "message": "Táto položka je pripnutá na začiatku priečinka. Kliknutím na túto ikonu ju odopnete."
+  },
+  "noOpenTabsToStore": {
+    "message": "V tomto okne nie sú žiadne otvorené karty na uloženie."
+  },
+  "noReadingListEntries": {
+    "message": "Nenašli sa žiadne položky zoznamu na čítanie"
+  },
+  "noTabsInOneTabYet": {
+    "message": "V OneTab zatiaľ nemáte žiadne karty"
+  },
+  "noTabsMeetCriteriaUseCheckboxes": {
+    "message": "Vašim kritériám nevyhovujú žiadne otvorené karty. Použite začiarkavacie políčka vyššie."
+  },
+  "notAssigned": {
+    "message": "Nepriradené"
+  },
+  "notes": {
+    "message": "Poznámky"
+  },
+  "notesAboutTheLinkOptional": {
+    "message": "Poznámky k odkazu (voliteľné)"
+  },
+  "notesAboutTheSecondLinkOptional": {
+    "message": "Poznámky k druhému odkazu (voliteľné)"
+  },
+  "noTextHasBeenEntered": {
+    "message": "Nebol zadaný žiadny text"
+  },
+  "ok": {
+    "message": "OK"
+  },
+  "omniboxShortcutInfo": {
+    "message": "Ak chcete vyhľadávať vo svojom zozname OneTab z ľubovoľnej karty: prejdite do panela s adresou prehliadača, zadajte 11, potom medzerník a potom hľadané kľúčové slovo. Ak chcete vykonať bežné vyhľadávanie (mimo OneTab) začínajúce na 11, stlačte 11, potom medzerník a potom Backspace"
+  },
+  "OneTabAlsoAvailableForFirefox": {
+    "message": "OneTab je dostupný aj pre Firefox"
+  },
+  "oneTabDesignedToProtectPrivacy": {
+    "message": "OneTab bol navrhnutý tak, aby chránil vaše súkromie. Vaše karty nám nie sú sprístupnené."
+  },
+  "oneTabExportPageTitle": {
+    "message": "Export OneTab"
+  },
+  "oneTabFolderSlashShortcutInfo": {
+    "message": "Aktivovať vyhľadávacie pole a hľadať iba v aktuálnom priečinku"
+  },
+  "oneTabImportExportPageTitle": {
+    "message": "Import/export OneTab"
+  },
+  "oneTabNeedsPermissionToAccessYourTabs": {
+    "message": "OneTab potrebuje povolenie na prístup k vašim kartám."
+  },
+  "oneTabOptionsPageTitle": {
+    "message": "Možnosti OneTab"
+  },
+  "oneTabPermissionRequired": {
+    "message": "OneTab – vyžaduje sa povolenie"
+  },
+  "oneTabRestartRequired": {
+    "message": "OneTab sa musí reštartovať. Žiadne iné karty sa nezatvoria."
+  },
+  "oneTabSlashShortcutInfo": {
+    "message": "Aktivovať vyhľadávacie pole"
+  },
+  "open": {
+    "message": "Otvoriť"
+  },
+  "openActionPopup": {
+    "message": "Akcia OneTab (zodpovedá kliknutiu na ikonu OneTab na paneli s nástrojmi)"
+  },
+  "openAsCollapsedTabGroup": {
+    "message": "Otvoriť ako „zbalenú“ skupinu kariet"
+  },
+  "openAsCollapsedTabGroupMenuItemHelp": {
+    "message": "Ak tieto karty otvoríte ako zbalenú „skupinu kariet“, zobrazí sa iba označenie skupiny, kým naň nekliknete a nezobrazíte karty vnútri."
+  },
+  "openAsPinnedTab": {
+    "message": "Pripnúť kartu pri otvorení"
+  },
+  "openAsPinnedTabMenuItemHelp": {
+    "message": "Pri obnovení sa táto karta otvorí ako pripnutá karta prehliadača. Pripnuté karty sa v okne prehliadača vždy zobrazia ako prvé."
+  },
+  "openAsTabGroup": {
+    "message": "Otvoriť ako skupinu kariet"
+  },
+  "openAsTabGroupMenuItemHelp": {
+    "message": "Váš prehliadač umožňuje zoskupovať karty do farebných „skupín kariet“ v rámci okna."
+  },
+  "openFolder": {
+    "message": "Otvoriť priečinok"
+  },
+  "openGroupsLimitNotice_few": {
+    "message": "Aby nedošlo k preťaženiu vášho prehliadača, otvoria sa iba prvé {COUNT} skupiny."
+  },
+  "openGroupsLimitNotice_many": {
+    "message": "Aby nedošlo k preťaženiu vášho prehliadača, otvorí sa iba prvých {COUNT} skupín."
+  },
+  "openGroupsLimitNotice_one": {
+    "message": "Aby nedošlo k preťaženiu vášho prehliadača, otvorí sa iba {COUNT} skupina zo začiatku zoznamu."
+  },
+  "openGroupsLimitNotice_other": {
+    "message": "Aby nedošlo k preťaženiu vášho prehliadača, otvorí sa iba prvých {COUNT} skupín."
+  },
+  "openGroupsLimitNotice_two": {
+    "message": "Aby nedošlo k preťaženiu vášho prehliadača, otvoria sa iba prvé {COUNT} skupiny."
+  },
+  "openGroupsLimitNotice_zero": {
+    "message": "Aby nedošlo k preťaženiu vášho prehliadača, otvorí sa iba prvých {COUNT} skupín."
+  },
+  "openInIncognitoWindow": {
+    "message": "Obnoviť v novom okne inkognito"
+  },
+  "openInNewWindow": {
+    "message": "Obnoviť v novom okne"
+  },
+  "openInThisWindow": {
+    "message": "Obnoviť v tomto okne"
+  },
+  "openOneTab": {
+    "message": "Otvoriť OneTab"
+  },
+  "openOneTabAfter": {
+    "message": "Otvoriť OneTab po uložení kariet"
+  },
+  "openONETABLogo": {
+    "message": "Otvoriť ONETAB"
+  },
+  "openParentFolder": {
+    "message": "Otvoriť nadradený priečinok"
+  },
+  "openTabFromWebsite": {
+    "message": "Otvorte kartu a prejdite na web"
+  },
+  "openTabLimit_few": {
+    "message": "Aby nedošlo k preťaženiu vášho prehliadača, naraz je možné otvoriť najviac {COUNT} karty."
+  },
+  "openTabLimit_many": {
+    "message": "Aby nedošlo k preťaženiu vášho prehliadača, naraz je možné otvoriť najviac {COUNT} kariet."
+  },
+  "openTabLimit_one": {
+    "message": "Aby nedošlo k preťaženiu vášho prehliadača, naraz je možné otvoriť najviac {COUNT} kartu."
+  },
+  "openTabLimit_other": {
+    "message": "Aby nedošlo k preťaženiu vášho prehliadača, naraz je možné otvoriť najviac {COUNT} kariet."
+  },
+  "openTabLimit_two": {
+    "message": "Aby nedošlo k preťaženiu vášho prehliadača, naraz je možné otvoriť najviac {COUNT} karty."
+  },
+  "openTabLimit_zero": {
+    "message": "Aby nedošlo k preťaženiu vášho prehliadača, naraz je možné otvoriť najviac {COUNT} kariet."
+  },
+  "openTabsAlreadyStoredHere_few": {
+    "message": "{COUNT} otvorené karty sú tu už uložené:"
+  },
+  "openTabsAlreadyStoredHere_many": {
+    "message": "{COUNT} otvorených kariet je tu už uložených:"
+  },
+  "openTabsAlreadyStoredHere_one": {
+    "message": "{COUNT} otvorená karta je tu už uložená:"
+  },
+  "openTabsAlreadyStoredHere_other": {
+    "message": "{COUNT} otvorených kariet je tu už uložených:"
+  },
+  "openTabsAlreadyStoredHere_two": {
+    "message": "{COUNT} otvorené karty sú tu už uložené:"
+  },
+  "openTabsAlreadyStoredHere_zero": {
+    "message": "{COUNT} otvorených kariet je tu už uložených:"
+  },
+  "openTabsConfirm_few": {
+    "message": "Chystáte sa otvoriť {COUNT} karty. Naozaj?"
+  },
+  "openTabsConfirm_many": {
+    "message": "Chystáte sa otvoriť {COUNT} kariet. Naozaj?"
+  },
+  "openTabsConfirm_one": {
+    "message": "Chystáte sa otvoriť {COUNT} kartu. Naozaj?"
+  },
+  "openTabsConfirm_other": {
+    "message": "Chystáte sa otvoriť {COUNT} kariet. Naozaj?"
+  },
+  "openTabsConfirm_two": {
+    "message": "Chystáte sa otvoriť {COUNT} karty. Naozaj?"
+  },
+  "openTabsConfirm_zero": {
+    "message": "Chystáte sa otvoriť {COUNT} kariet. Naozaj?"
+  },
+  "openTabsNotStoredInOneTab_few": {
+    "message": "{COUNT} otvorené karty neuložené v OneTab"
+  },
+  "openTabsNotStoredInOneTab_many": {
+    "message": "{COUNT} otvorených kariet neuložených v OneTab"
+  },
+  "openTabsNotStoredInOneTab_one": {
+    "message": "{COUNT} otvorená karta neuložená v OneTab"
+  },
+  "openTabsNotStoredInOneTab_other": {
+    "message": "{COUNT} otvorených kariet neuložených v OneTab"
+  },
+  "openTabsNotStoredInOneTab_two": {
+    "message": "{COUNT} otvorené karty neuložené v OneTab"
+  },
+  "openTabsNotStoredInOneTab_zero": {
+    "message": "{COUNT} otvorených kariet neuložených v OneTab"
+  },
+  "optionAutoActionOnOpenArchiveDesc": {
+    "message": "Keď karty označíte ako archivované, dostanú sivé pruhované pozadie. Tak budete mať vizuálny prehľad, že ste si karty prečítali alebo ste s nimi skončili."
+  },
+  "optionAutoActionOnOpenArchiveTitle": {
+    "message": "Označiť ich ako archivované"
+  },
+  "optionAutoActionOnOpenHeading": {
+    "message": "Pri obnovovaní kariet:"
+  },
+  "optionAutoActionOnOpenNote": {
+    "message": "Zamknuté skupiny si vždy ponechajú svoje karty"
+  },
+  "optionAutoActionOnOpenOpenDesc": {
+    "message": "Ak chcete pri obnovovaní označiť karty ako archivované, podržte kláves Alt alebo Option"
+  },
+  "optionAutoActionOnOpenOpenTitle": {
+    "message": "Ponechať ich v zozname"
+  },
+  "optionAutoActionOnOpenTrashDesc": {
+    "message": "Ak chcete pri obnovovaní ponechať karty v zozname, podržte kláves Ctrl alebo Cmd"
+  },
+  "optionAutoActionOnOpenTrashTitle": {
+    "message": "Odstrániť ich zo zoznamu"
+  },
+  "optionBrowserActionHeading": {
+    "message": "Keď kliknete na ikonu OneTab na paneli s nástrojmi:"
+  },
+  "optionBrowserActionOpenPopupDesc": {
+    "message": "Vyskakovacie okno zobrazí zoznam otvorených kariet a umožní vám presne vybrať, ktoré karty chcete odoslať do OneTab. Umožní vám nastaviť názov skupiny, ktorú ukladáte, takže to nebudete musieť robiť neskôr na stránke OneTab. Vyskakovacie okno vám tiež poskytne jednoduchý prístup k rýchlemu zoznamu z ľubovoľného okna prehliadača."
+  },
+  "optionBrowserActionOpenPopupDesc2": {
+    "message": "Vyberte presne, ktoré karty uložiť"
+  },
+  "optionBrowserActionOpenPopupTitle": {
+    "message": "Zobraziť vyskakovacie okno OneTab"
+  },
+  "optionBrowserActionSendCurrentTabDesc": {
+    "message": "Karta sa umiestni do prvej skupiny v hornej časti vašej stránky OneTab (ignorujú sa všetky pripnuté alebo zamknuté skupiny)"
+  },
+  "optionBrowserActionSendCurrentTabTitle": {
+    "message": "Odoslať do OneTab iba aktuálnu kartu"
+  },
+  "optionBrowserActionSendTabsInWindowDesc": {
+    "message": "Vaše karty sa zavrú a uložia do vášho zoznamu OneTab. Ak ste na paneli kariet prehliadača vybrali viacero kariet (pomocou klávesu Cmd, Ctrl alebo Shift), do OneTab sa odošlú iba vybraté karty. Ak používate funkciu skupín kariet vo svojom prehliadači, do OneTab sa odošle iba aktuálna skupina kariet."
+  },
+  "optionBrowserActionSendTabsInWindowDesc2": {
+    "message": "Najrýchlejší spôsob uloženia kariet"
+  },
+  "optionBrowserActionSendTabsInWindowTitle": {
+    "message": "Odoslať karty z aktuálneho okna do OneTab"
+  },
+  "optionBrowserActionSendWholeWindowDesc": {
+    "message": "Rovnako ako vyššie, ale uloží sa celé okno, nie iba aktuálna skupina kariet"
+  },
+  "optionBrowserActionSendWholeWindowTitle": {
+    "message": "Odoslať aktuálne okno do OneTab vrátane všetkých kariet a skupín kariet"
+  },
+  "optionCopyToClipboardFormatHeading": {
+    "message": "Kopírovanie odkazov do schránky:"
+  },
+  "optionCopyToClipboardFormatMarkdownTitle": {
+    "message": "Markdown"
+  },
+  "optionCopyToClipboardFormatNote": {
+    "message": "Toto nastavenie sa použije pri akcii „Kopírovať do schránky“. Karty a skupiny môžete tiež presúvať priamo z OneTab do dokumentu."
+  },
+  "optionCopyToClipboardFormatRichTextDesc": {
+    "message": "Aplikácie, ako sú textové procesory, vám umožnia vložiť formátovaný text. Ak nie je podporovaný, vloží sa namiesto neho obyčajný text."
+  },
+  "optionCopyToClipboardFormatRichTextTitle": {
+    "message": "Formátovaný text, ak je k dispozícii"
+  },
+  "optionCopyToClipboardFormatTitleUrlTitle": {
+    "message": "Názov a adresa URL"
+  },
+  "optionCopyToClipboardFormatUrlOnlyTitle": {
+    "message": "Iba adresa URL"
+  },
+  "optionCopyToClipboardFormatUrlTitleTitle": {
+    "message": "Adresa URL a názov"
+  },
+  "optionDefaultTabGroupOpenTypeCurrentWindow": {
+    "message": "Otvoriť skupinu kariet v aktuálnom okne"
+  },
+  "optionDefaultTabGroupOpenTypeHeading": {
+    "message": "Pri kliknutí na otvorenie skupiny nastavenej tak, aby sa otvorila ako „skupina kariet“ v prehliadači:"
+  },
+  "optionDefaultTabGroupOpenTypeNewWindow": {
+    "message": "Otvoriť skupinu kariet v novom okne"
+  },
+  "optionDefaultTabGroupOpenTypeNote": {
+    "message": "Ak pomocou rozbaľovacej ponuky vyberiete konkrétnu možnosť (napríklad otváranie kariet v okne inkognito), táto možnosť sa pre danú skupinu zapamätá."
+  },
+  "optionDefaultWindowGroupOpenTypeCurrentWindow": {
+    "message": "Otvoriť karty v aktuálnom okne"
+  },
+  "optionDefaultWindowGroupOpenTypeHeading": {
+    "message": "Pri obnovovaní skupiny:"
+  },
+  "optionDefaultWindowGroupOpenTypeNewWindow": {
+    "message": "Otvoriť karty v novom okne, pokiaľ OneTab nie je jedinou kartou v aktuálnom okne"
+  },
+  "optionDefaultWindowGroupOpenTypeNewWindowAlways": {
+    "message": "Otvoriť karty v novom okne"
+  },
+  "optionDefaultWindowGroupOpenTypeNote": {
+    "message": "Voľby obnovenia vybraté v ponuke „Viac…“ skupiny sa pre danú skupinu zapamätajú."
+  },
+  "optionDiscardNonActiveTabOnOpenHeading": {
+    "message": "Okamžitá úspora pamäte (RAM) pri prvom otvorení kariet:"
+  },
+  "optionDiscardNonActiveTabOnOpenNote": {
+    "message": "Ak je toto nastavenie povolené, pri prvom otvorení kariet zo zoznamu OneTab sa karty okamžite uvoľnia z pamäte. Je to užitočné, ak často otvárate desiatky kariet naraz, pretože sa tým zabráni ich načítaniu do pamäte, kým ich nepoužijete. Ak je toto nastavenie zakázané, mnohé webové prehliadače aj tak automaticky uvoľnia karty z pamäte, ak ich práve nepoužívate."
+  },
+  "optionDisplayContextMenuHeading": {
+    "message": "Kontextová ponuka OneTab po kliknutí pravým tlačidlom myši na webovej stránke:"
+  },
+  "optionDisplayContextMenuNote": {
+    "message": "Ak ponuku zakážete, nebudete mať prístup k funkcii „Vylúčiť web z OneTab“"
+  },
+  "optionDuplicatesAllow": {
+    "message": "Povoliť duplicity"
+  },
+  "optionDuplicatesReject": {
+    "message": "Odmietať duplicity bez upozornenia"
+  },
+  "optionDuplicatesRejectDesc": {
+    "message": "Ak OneTab už obsahuje túto kartu, nepridá sa znova."
+  },
+  "optionDuplicatesTitle": {
+    "message": "Duplicity:"
+  },
+  "optionGroupTitleClickActionEditTitle": {
+    "message": "Upraviť názov"
+  },
+  "optionGroupTitleClickActionHeading": {
+    "message": "Keď kliknete na názov skupiny alebo priečinka:"
+  },
+  "optionGroupTitleClickActionOpenDesc": {
+    "message": "Skupinu môžete stále premenovať cez jej ponuku „Viac…“."
+  },
+  "optionGroupTitleClickActionOpenTitle": {
+    "message": "Obnoviť skupinu alebo otvoriť priečinok"
+  },
+  "optionMoveOneTabToCurrentWindowOnOpenFalseTitle": {
+    "message": "Prepnúť do okna, v ktorom je karta OneTab už otvorená"
+  },
+  "optionMoveOneTabToCurrentWindowOnOpenHeading": {
+    "message": "Akcia „Otvoriť OneTab“:"
+  },
+  "optionMoveOneTabToCurrentWindowOnOpenNote": {
+    "message": "Akcia „Otvoriť OneTab“:"
+  },
+  "optionMoveOneTabToCurrentWindowOnOpenTrueTitle": {
+    "message": "Presunúť existujúcu kartu OneTab do aktuálneho okna"
+  },
+  "optionPinnedTabsAllow": {
+    "message": "Povoliť odosielanie pripnutých kariet do OneTab"
+  },
+  "optionPinnedTabsDontSend": {
+    "message": "Neodosielať pripnuté karty do OneTab"
+  },
+  "optionPinnedTabsDontSendDesc": {
+    "message": "Pripnutú kartu môžete do OneTab stále odoslať manuálne tak, že kliknete pravým tlačidlom myši na webovej stránke, otvoríte ponuku OneTab a potom kliknete na „Odoslať iba túto kartu do OneTab“"
+  },
+  "optionPinnedTabsNote": {
+    "message": "Poznámka: Karta sa stane „pripnutou“, keď na ňu kliknete pravým tlačidlom myši a kliknete na „Pripnúť kartu“. Niektorí ľudia si radi pripínajú weby ako Facebook alebo Gmail, aby ich ľahko našli. OneTab si pri obnovení zapamätá, či bola karta pripnutá."
+  },
+  "optionPinnedTabsTitle": {
+    "message": "Pripnuté karty:"
+  },
+  "options": {
+    "message": "Možnosti"
+  },
+  "optionStartupLaunchDisplay": {
+    "message": "Automaticky otvoriť OneTab"
+  },
+  "optionStartupLaunchNone": {
+    "message": "Neotvárať OneTab automaticky"
+  },
+  "optionStartupLaunchNoneDesc3": {
+    "message": "Ak chcete OneTab otvoriť manuálne, môžete kliknúť pravým tlačidlom myši na ľubovoľnej webovej stránke a v ponuke OneTab kliknúť na „Otvoriť OneTab“."
+  },
+  "optionStartupLaunchTitle": {
+    "message": "Pri spustení prehliadača:"
+  },
+  "optionSwitchToOpenedTabFalseTitle": {
+    "message": "Otvoriť kartu a zostať v OneTab"
+  },
+  "optionSwitchToOpenedTabHeading": {
+    "message": "Pri obnovovaní kariet zo stránky OneTab:"
+  },
+  "optionSwitchToOpenedTabNote": {
+    "message": "Ak pri kliknutí podržíte kláves Shift, karta sa otvorí v novom okne"
+  },
+  "optionSwitchToOpenedTabTrueTitle": {
+    "message": "Otvoriť kartu a prepnúť na ňu (pokiaľ pri kliknutí nepodržíte Command ⌘/Ctrl)"
+  },
+  "optionUpdateTitleOnDuplicateKeep": {
+    "message": "Ponechať existujúci názov"
+  },
+  "optionUpdateTitleOnDuplicateKeepDesc": {
+    "message": "Kartu môžete v OneTab premenovať a váš vlastný názov sa zachová."
+  },
+  "optionUpdateTitleOnDuplicateNote": {
+    "message": "Názvy a poznámky sa zdieľajú vo všetkých kópiách tej istej karty."
+  },
+  "optionUpdateTitleOnDuplicateTitle": {
+    "message": "Pri ukladaní karty, ktorá už je v OneTab:"
+  },
+  "optionUpdateTitleOnDuplicateUpdate": {
+    "message": "Použiť najnovší názov"
+  },
+  "optionUpdateTitleOnDuplicateUpdateDesc": {
+    "message": "Uložený názov sa aktualizuje podľa karty, ktorú ste práve odoslali."
+  },
+  "optionUrlAbbr": {
+    "message": "Skrátená"
+  },
+  "optionUrlDisplayTitle": {
+    "message": "Zobrazenie adresy URL:"
+  },
+  "optionUrlDomain": {
+    "message": "Iba doména"
+  },
+  "optionUrlFull": {
+    "message": "Úplná"
+  },
+  "optionUrlNone": {
+    "message": "Žiadne"
+  },
+  "otherCopiesColon": {
+    "message": "Ďalšie kópie:"
+  },
+  "pasteRichOrPlainTextBelow": {
+    "message": "Nižšie môžete vložiť formátovaný alebo obyčajný text."
+  },
+  "pendingTaskCount_few": {
+    "message": "{COUNT} čakajúce"
+  },
+  "pendingTaskCount_many": {
+    "message": "{COUNT} čakajúcich"
+  },
+  "pendingTaskCount_one": {
+    "message": "{COUNT} čakajúca"
+  },
+  "pendingTaskCount_other": {
+    "message": "{COUNT} čakajúcich"
+  },
+  "pendingTaskCount_two": {
+    "message": "{COUNT} čakajúce"
+  },
+  "pendingTaskCount_zero": {
+    "message": "{COUNT} čakajúcich"
+  },
+  "pendingTaskFlagHelp": {
+    "message": "Táto položka je úloha. Kliknutím na túto ikonu ju označíte ako dokončenú."
+  },
+  "permissionRequiredPleaseTryAgain": {
+    "message": "Na vytvorenie zdieľanej stránky dostupnej z ľubovoľného počítača je potrebné povolenie na komunikáciu s webovým serverom OneTab. Skúste to znova."
+  },
+  "pinnedTabs": {
+    "message": "pripnuté karty"
+  },
+  "pinToTopOfFolder": {
+    "message": "Pripnúť na začiatok priečinka"
+  },
+  "pinToTopOfFolderMenuItemHelp": {
+    "message": "Pripnúť túto skupinu, aby bola vždy zobrazená na začiatku priečinka"
+  },
+  "pinToTopOfList": {
+    "message": "Pripnúť na začiatok zoznamu"
+  },
+  "placeholderAndOtherLocations_few": {
+    "message": "PLACEHOLDER a {COUNT} ďalšie umiestnenia"
+  },
+  "placeholderAndOtherLocations_many": {
+    "message": "PLACEHOLDER a {COUNT} ďalších umiestnení"
+  },
+  "placeholderAndOtherLocations_one": {
+    "message": "PLACEHOLDER a {COUNT} ďalšie umiestnenie"
+  },
+  "placeholderAndOtherLocations_other": {
+    "message": "PLACEHOLDER a {COUNT} ďalších umiestnení"
+  },
+  "placeholderAndOtherLocations_two": {
+    "message": "PLACEHOLDER a {COUNT} ďalšie umiestnenia"
+  },
+  "placeholderAndOtherLocations_zero": {
+    "message": "PLACEHOLDER a {COUNT} ďalších umiestnení"
+  },
+  "placeholderExplanation": {
+    "message": "Z dôvodu bezpečnostných pravidiel webového prehliadača OneTab nemá povolené priamo obnoviť túto stránku. Skopírujte adresu URL a vložte ju do panela s adresou v prehliadači."
+  },
+  "plainTextLineFormat": {
+    "message": "Ak vložíte obyčajný text, uistite sa, že každá adresa URL má uvedený protokol (https://wikipedia.org namiesto iba wikipedia.org). Každý riadok by mal mať nasledujúci formát:"
+  },
+  "pleaseWaitTripleDot": {
+    "message": "Čakajte…"
+  },
+  "popupSlashShortcutInfo": {
+    "message": "Ak máte povolené vyskakovacie okno OneTab, otvoriť výber cieľa a aktivovať vyhľadávacie pole"
+  },
+  "printUseSaveTabsAsHtmlFileAlertHtml": {
+    "message": "Najlepšie výsledky tlače dosiahnete použitím akcie <b>Uložiť ako súbor HTML</b> v ponuke priečinka <b>Viac…</b> a následnou tlačou stiahnutého súboru HTML."
+  },
+  "privacyAssurance": {
+    "message": "Záruka ochrany súkromia"
+  },
+  "privacyAssuranceDetail": {
+    "message": "Zoznam vašich kariet sa nikdy neprenáša ani nesprístupňuje vývojárom OneTab ani žiadnej inej strane. Jedinou výnimkou je, ak zámerne použijete funkciu „Zdieľať ako webovú stránku“ na nahratie zoznamu kariet na webovú stránku, aby ste ho mohli zdieľať s ostatnými."
+  },
+  "privacyFirst": {
+    "message": "Súkromie na prvom mieste"
+  },
+  "privacyFirstMessage": {
+    "message": "OneTab bol navrhnutý tak, aby chránil vaše súkromné údaje. Vaše karty sa ukladajú iba vo vašom počítači a nikdy sa nezdieľajú s vývojármi OneTab ani žiadnou inou stranou.\nAk použijete našu funkciu zálohovania/synchronizácie, vaše údaje budú chránené silným koncovým šifrovaním AES-256. Vývojári OneTab tak nemôžu vidieť karty, ktoré ste zálohovali alebo synchronizovali medzi zariadeniami, pretože šifrovací kľúč máte iba vy. \nJedinou výnimkou je, ak sa zámerne rozhodnete zdieľať niektoré svoje karty s inými ľuďmi pomocou našej funkcie „Zdieľať ako webovú stránku“.\nSúkromie je pre nás prvoradé."
+  },
+  "privateBrowsingPermissionRequired": {
+    "message": "OneTab potrebuje povolenie na vytváranie súkromných okien."
+  },
+  "privateBrowsingWindows": {
+    "message": "Súkromné okná"
+  },
+  "quickList": {
+    "message": "Rýchly zoznam"
+  },
+  "readingList": {
+    "message": "Zoznam na čítanie"
+  },
+  "readingListPermissionNecesssary": {
+    "message": "Povolenie pre zoznam na čítanie je potrebné, aby OneTab mohol importovať položky z vášho zoznamu na čítanie. Ak táto funkcia nefunguje, váš prehliadač nemusí podporovať zoznamy na čítanie."
+  },
+  "recent": {
+    "message": "Nedávne"
+  },
+  "recentDestinationsColon": {
+    "message": "Nedávne ciele:"
+  },
+  "recentDuplicateRetainedHelp": {
+    "message": "Ak sa karta vyskytuje viackrát, ponechá sa iba najnovší duplicitný výskyt"
+  },
+  "recentFolders": {
+    "message": "Nedávne priečinky"
+  },
+  "recentGroups": {
+    "message": "Nedávne skupiny"
+  },
+  "recentlyAccessed": {
+    "message": "Nedávno použité"
+  },
+  "recentlyCreated": {
+    "message": "Nedávno vytvorené"
+  },
+  "recentlyModified": {
+    "message": "Nedávno upravené"
+  },
+  "reduceMemoryUsageBy95Pct": {
+    "message": "Znížte využitie pamäte o 95 %"
+  },
+  "removeDuplicates": {
+    "message": "Odstrániť duplicity"
+  },
+  "removeDuplicatesMenuItemHelp": {
+    "message": "Budete môcť odstrániť duplicity, ktoré existujú tu aj inde – buď odtiaľto, alebo z iných umiestnení."
+  },
+  "removeDuplicateTabsHere_few": {
+    "message": "Odstrániť tu {COUNT} duplicitné karty"
+  },
+  "removeDuplicateTabsHere_many": {
+    "message": "Odstrániť tu {COUNT} duplicitných kariet"
+  },
+  "removeDuplicateTabsHere_one": {
+    "message": "Odstrániť tu {COUNT} duplicitnú kartu"
+  },
+  "removeDuplicateTabsHere_other": {
+    "message": "Odstrániť tu {COUNT} duplicitných kariet"
+  },
+  "removeDuplicateTabsHere_two": {
+    "message": "Odstrániť tu {COUNT} duplicitné karty"
+  },
+  "removeDuplicateTabsHere_zero": {
+    "message": "Odstrániť tu {COUNT} duplicitných kariet"
+  },
+  "removeFromQuickList": {
+    "message": "Odstrániť z rýchleho zoznamu"
+  },
+  "removeFromQuickListMenuItemHelp": {
+    "message": "Položka sa nepresunie do koša – odstráni sa iba z rýchleho zoznamu."
+  },
+  "removeStar": {
+    "message": "Odstrániť hviezdičku"
+  },
+  "removeTabsElsewhereAlsoHere_few": {
+    "message": "Odstrániť z iných umiestnení {COUNT} karty, ktoré existujú aj tu"
+  },
+  "removeTabsElsewhereAlsoHere_many": {
+    "message": "Odstrániť z iných umiestnení {COUNT} kariet, ktoré existujú aj tu"
+  },
+  "removeTabsElsewhereAlsoHere_one": {
+    "message": "Odstrániť z iných umiestnení {COUNT} kartu, ktorá existuje aj tu"
+  },
+  "removeTabsElsewhereAlsoHere_other": {
+    "message": "Odstrániť z iných umiestnení {COUNT} kariet, ktoré existujú aj tu"
+  },
+  "removeTabsElsewhereAlsoHere_two": {
+    "message": "Odstrániť z iných umiestnení {COUNT} karty, ktoré existujú aj tu"
+  },
+  "removeTabsElsewhereAlsoHere_zero": {
+    "message": "Odstrániť z iných umiestnení {COUNT} kariet, ktoré existujú aj tu"
+  },
+  "removeTabsHereAlsoElsewhere_few": {
+    "message": "Odstrániť odtiaľto {COUNT} karty, ktoré existujú aj inde"
+  },
+  "removeTabsHereAlsoElsewhere_many": {
+    "message": "Odstrániť odtiaľto {COUNT} kariet, ktoré existujú aj inde"
+  },
+  "removeTabsHereAlsoElsewhere_one": {
+    "message": "Odstrániť odtiaľto {COUNT} kartu, ktorá existuje aj inde"
+  },
+  "removeTabsHereAlsoElsewhere_other": {
+    "message": "Odstrániť odtiaľto {COUNT} kariet, ktoré existujú aj inde"
+  },
+  "removeTabsHereAlsoElsewhere_two": {
+    "message": "Odstrániť odtiaľto {COUNT} karty, ktoré existujú aj inde"
+  },
+  "removeTabsHereAlsoElsewhere_zero": {
+    "message": "Odstrániť odtiaľto {COUNT} kariet, ktoré existujú aj inde"
+  },
+  "rename": {
+    "message": "Premenovať"
+  },
+  "renameOrAddNote": {
+    "message": "Premenovať / pridať poznámku"
+  },
+  "restore": {
+    "message": "Obnoviť"
+  },
+  "restoreAll": {
+    "message": "Obnoviť všetko"
+  },
+  "restrictSearchToFolderColon": {
+    "message": "Obmedziť vyhľadávanie na nasledujúci priečinok:"
+  },
+  "results": {
+    "message": "Výsledky"
+  },
+  "returnToOneTab": {
+    "message": "Vrátiť sa do OneTab"
+  },
+  "reverse": {
+    "message": "Obrátené poradie"
+  },
+  "rightClickAndOpenOneTabMenu": {
+    "message": "Kliknite pravým tlačidlom myši na webovej stránke a prejdite do ponuky OneTab"
+  },
+  "rightClickMenuDisabledNote": {
+    "message": "Poznámka: Zakázali ste kontextovú ponuku OneTab. Povoľte ju na stránke možností OneTab."
+  },
+  "rightClickSelectionOptionsTip": {
+    "message": "Tip: Po začiarknutí položky kliknite pravým tlačidlom myši na ikonu začiarknutia a zobrazia sa ďalšie možnosti výberu"
+  },
+  "rightClickTickTip": {
+    "message": "Tip: Kliknite pravým tlačidlom myši na ikonu začiarknutia vedľa každej karty, ak chcete zobraziť nástroje výberu"
+  },
+  "safariApproveOneTabInSettings": {
+    "message": "Prejdite do Nastavení a povoľte prístup pre OneTab ku všetkým webovým stránkam."
+  },
+  "save95PctReduceTabClutterGoogleChrome": {
+    "message": "Ušetrite až 95 % pamäte a znížte neporiadok v kartách v Google Chrome"
+  },
+  "saveChoice": {
+    "message": "Uložiť voľbu"
+  },
+  "saveTabsAsHtmlFile": {
+    "message": "Uložiť ako súbor HTML"
+  },
+  "saveTabsAsHtmlFileMenuItemHelp": {
+    "message": "Vytvoriť a stiahnuť súbor HTML obsahujúci všetky skupiny v tomto priečinku."
+  },
+  "searchHere": {
+    "message": "Hľadať tu"
+  },
+  "searchOneTab": {
+    "message": "Hľadať v OneTab"
+  },
+  "secondExampleLink": {
+    "message": "Druhý príklad odkazu"
+  },
+  "secondExampleLinkTitle": {
+    "message": "Názov druhého príkladu odkazu"
+  },
+  "secondExampleLinkTitleOptional": {
+    "message": "Názov druhého príkladu odkazu (voliteľné)"
+  },
+  "seeOtherTabsInThisGroup_few": {
+    "message": "Zobraziť ďalšie {COUNT} karty v tejto skupine"
+  },
+  "seeOtherTabsInThisGroup_many": {
+    "message": "Zobraziť ďalších {COUNT} kariet v tejto skupine"
+  },
+  "seeOtherTabsInThisGroup_one": {
+    "message": "Zobraziť {COUNT} ďalšiu kartu v tejto skupine"
+  },
+  "seeOtherTabsInThisGroup_other": {
+    "message": "Zobraziť ďalších {COUNT} kariet v tejto skupine"
+  },
+  "seeOtherTabsInThisGroup_two": {
+    "message": "Zobraziť ďalšie {COUNT} karty v tejto skupine"
+  },
+  "seeOtherTabsInThisGroup_zero": {
+    "message": "Zobraziť ďalších {COUNT} kariet v tejto skupine"
+  },
+  "seePasteInstructions": {
+    "message": "Zobraziť pokyny na vkladanie…"
+  },
+  "seeTabsInThisGroup_few": {
+    "message": "Zobraziť {COUNT} karty v tejto skupine"
+  },
+  "seeTabsInThisGroup_many": {
+    "message": "Zobraziť {COUNT} kariet v tejto skupine"
+  },
+  "seeTabsInThisGroup_one": {
+    "message": "Zobraziť {COUNT} kartu v tejto skupine"
+  },
+  "seeTabsInThisGroup_other": {
+    "message": "Zobraziť {COUNT} kariet v tejto skupine"
+  },
+  "seeTabsInThisGroup_two": {
+    "message": "Zobraziť {COUNT} karty v tejto skupine"
+  },
+  "seeTabsInThisGroup_zero": {
+    "message": "Zobraziť {COUNT} kariet v tejto skupine"
+  },
+  "selectAll": {
+    "message": "Vybrať všetko"
+  },
+  "selectAllExceptThis": {
+    "message": "Vybrať všetko okrem tejto položky"
+  },
+  "selectedItemCount_few": {
+    "message": "{COUNT} položky"
+  },
+  "selectedItemCount_many": {
+    "message": "{COUNT} položiek"
+  },
+  "selectedItemCount_one": {
+    "message": "{COUNT} položka"
+  },
+  "selectedItemCount_other": {
+    "message": "{COUNT} položiek"
+  },
+  "selectedItemCount_two": {
+    "message": "{COUNT} položky"
+  },
+  "selectedItemCount_zero": {
+    "message": "{COUNT} položiek"
+  },
+  "selection": {
+    "message": "Výber"
+  },
+  "selectThisAndAbove": {
+    "message": "Vybrať túto položku a všetky nad ňou"
+  },
+  "selectThisAndBelow": {
+    "message": "Vybrať túto položku a všetky pod ňou"
+  },
+  "sendAllTabsAllWindows": {
+    "message": "Odoslať všetky karty zo všetkých okien"
+  },
+  "sendAllTabsAllWindowsToOneTab": {
+    "message": "Odoslať všetky karty zo všetkých okien do OneTab"
+  },
+  "sendAllTabsExceptThis": {
+    "message": "Odoslať všetky karty okrem tejto"
+  },
+  "sendAllTabsExceptThisToOneTab": {
+    "message": "Odoslať všetky karty okrem tejto do OneTab"
+  },
+  "sendAllTabsInGroup": {
+    "message": "Odoslať všetky karty z tejto skupiny kariet"
+  },
+  "sendAllTabsInGroupToOneTab": {
+    "message": "Odoslať všetky karty z tejto skupiny kariet do OneTab"
+  },
+  "sendAllTabsInWindow": {
+    "message": "Odoslať všetky karty z tohto okna"
+  },
+  "sendAllTabsInWindowToOneTab": {
+    "message": "Odoslať všetky karty z tohto okna do OneTab"
+  },
+  "sendCurrentTabToOneTab": {
+    "message": "Odoslať aktuálnu kartu do OneTab"
+  },
+  "sendLeftTabs": {
+    "message": "Odoslať karty naľavo"
+  },
+  "sendLeftTabsToOneTab": {
+    "message": "Odoslať karty naľavo do OneTab"
+  },
+  "sendOnlyThisTab": {
+    "message": "Odoslať iba túto kartu"
+  },
+  "sendOnlyThisTabToOneTab": {
+    "message": "Odoslať iba túto kartu do OneTab"
+  },
+  "sendRightTabs": {
+    "message": "Odoslať karty napravo"
+  },
+  "sendRightTabsToOneTab": {
+    "message": "Odoslať karty napravo do OneTab"
+  },
+  "sendSelectedTabs": {
+    "message": "Odoslať vybraté karty"
+  },
+  "sendSelectedTabsToOneTab": {
+    "message": "Odoslať vybraté karty do OneTab"
+  },
+  "sendThisWebLink": {
+    "message": "Odoslať tento webový odkaz"
+  },
+  "sendThisWebLinkToOneTab": {
+    "message": "Odoslať tento webový odkaz do OneTab"
+  },
+  "serverUnreachable": {
+    "message": "Server je nedostupný. Skontrolujte svoje internetové pripojenie."
+  },
+  "share": {
+    "message": "Zdieľať"
+  },
+  "shareAsAWebPage": {
+    "message": "Zdieľať ako webovú stránku"
+  },
+  "shareAsAWebPageMenuItemHelp": {
+    "message": "Vytvorí sa webová stránka obsahujúca vaše karty, ktorú môžete súkromne alebo verejne zdieľať s ostatnými."
+  },
+  "shared": {
+    "message": "Zdieľané"
+  },
+  "sharedExpiresColon": {
+    "message": "Zdieľané ako webová stránka. Platnosť vyprší:"
+  },
+  "sharedPageOptions": {
+    "message": "Možnosti zdieľanej stránky"
+  },
+  "sharedPageTabLimit_few": {
+    "message": "Zdieľané stránky sú obmedzené na {COUNT} karty"
+  },
+  "sharedPageTabLimit_many": {
+    "message": "Zdieľané stránky sú obmedzené na {COUNT} kariet"
+  },
+  "sharedPageTabLimit_one": {
+    "message": "Zdieľané stránky sú obmedzené na {COUNT} kartu"
+  },
+  "sharedPageTabLimit_other": {
+    "message": "Zdieľané stránky sú obmedzené na {COUNT} kariet"
+  },
+  "sharedPageTabLimit_two": {
+    "message": "Zdieľané stránky sú obmedzené na {COUNT} karty"
+  },
+  "sharedPageTabLimit_zero": {
+    "message": "Zdieľané stránky sú obmedzené na {COUNT} kariet"
+  },
+  "sharedPageWillAutomaticallyExpire": {
+    "message": "Platnosť zdieľanej stránky automaticky uplynie, dátum skončenia platnosti však môžete kedykoľvek predĺžiť."
+  },
+  "showEverything": {
+    "message": "Zobraziť všetko"
+  },
+  "showFoldersOnly": {
+    "message": "Zobraziť iba priečinky"
+  },
+  "showNamedItemsOnly": {
+    "message": "Zobraziť iba pomenované položky"
+  },
+  "showNamedOnly": {
+    "message": "Zobraziť iba pomenované položky"
+  },
+  "showNextCount_few": {
+    "message": "Ďalšie ({COUNT})"
+  },
+  "showNextCount_many": {
+    "message": "Ďalšie ({COUNT})"
+  },
+  "showNextCount_one": {
+    "message": "Ďalšie ({COUNT})"
+  },
+  "showNextCount_other": {
+    "message": "Ďalšie ({COUNT})"
+  },
+  "showNextCount_two": {
+    "message": "Ďalšie ({COUNT})"
+  },
+  "showNextCount_zero": {
+    "message": "Ďalšie ({COUNT})"
+  },
+  "showPreviousCount_few": {
+    "message": "Predchádzajúce ({COUNT})"
+  },
+  "showPreviousCount_many": {
+    "message": "Predchádzajúce ({COUNT})"
+  },
+  "showPreviousCount_one": {
+    "message": "Predchádzajúce ({COUNT})"
+  },
+  "showPreviousCount_other": {
+    "message": "Predchádzajúce ({COUNT})"
+  },
+  "showPreviousCount_two": {
+    "message": "Predchádzajúce ({COUNT})"
+  },
+  "showPreviousCount_zero": {
+    "message": "Predchádzajúce ({COUNT})"
+  },
+  "soon": {
+    "message": "čoskoro"
+  },
+  "sort": {
+    "message": "Zoradenie"
+  },
+  "sortByColon": {
+    "message": "Zoradiť podľa:"
+  },
+  "sortGroups": {
+    "message": "Zoradiť skupiny"
+  },
+  "sortGroupsMenuFooterNote": {
+    "message": "Týmto sa zoradia skupiny v tomto priečinku. Karty v týchto skupinách sa nezoradia."
+  },
+  "sourceColon": {
+    "message": "Zdroj:"
+  },
+  "star": {
+    "message": "Označiť hviezdičkou"
+  },
+  "starFlagHelp": {
+    "message": "Táto položka je označená hviezdičkou, ktorá vizuálne označuje jej dôležitosť. Kliknutím na túto ikonu hviezdičku odstránite."
+  },
+  "starMenuItemHelp": {
+    "message": "Použite hviezdičku ako vizuálny indikátor, že je niečo dôležité"
+  },
+  "starred": {
+    "message": "S hviezdičkou"
+  },
+  "storeAllOpenWindowsHere": {
+    "message": "Uložiť sem všetky otvorené okná"
+  },
+  "storeAllOpenWindowsHereMenuItemHelp": {
+    "message": "Zavrieť všetky otvorené okná prehliadača a uložiť ich do tohto priečinka"
+  },
+  "storeSelectedTabsInONETAB_few": {
+    "message": "Uložiť {COUNT} vybraté karty do ONETAB"
+  },
+  "storeSelectedTabsInONETAB_many": {
+    "message": "Uložiť {COUNT} vybratých kariet do ONETAB"
+  },
+  "storeSelectedTabsInONETAB_one": {
+    "message": "Uložiť {COUNT} vybratú kartu do ONETAB"
+  },
+  "storeSelectedTabsInONETAB_other": {
+    "message": "Uložiť {COUNT} vybratých kariet do ONETAB"
+  },
+  "storeSelectedTabsInONETAB_two": {
+    "message": "Uložiť {COUNT} vybraté karty do ONETAB"
+  },
+  "storeSelectedTabsInONETAB_zero": {
+    "message": "Uložiť {COUNT} vybratých kariet do ONETAB"
+  },
+  "storeTabsInAdditionalLocation_few": {
+    "message": "Aj tak znova uložiť karty"
+  },
+  "storeTabsInAdditionalLocation_many": {
+    "message": "Aj tak znova uložiť karty"
+  },
+  "storeTabsInAdditionalLocation_one": {
+    "message": "Aj tak znova uložiť kartu"
+  },
+  "storeTabsInAdditionalLocation_other": {
+    "message": "Aj tak znova uložiť karty"
+  },
+  "storeTabsInAdditionalLocation_two": {
+    "message": "Aj tak znova uložiť karty"
+  },
+  "storeTabsInAdditionalLocation_zero": {
+    "message": "Aj tak znova uložiť karty"
+  },
+  "storeTabsInONETAB_few": {
+    "message": "Uložiť karty do ONETAB"
+  },
+  "storeTabsInONETAB_many": {
+    "message": "Uložiť karty do ONETAB"
+  },
+  "storeTabsInONETAB_one": {
+    "message": "Uložiť kartu do ONETAB"
+  },
+  "storeTabsInONETAB_other": {
+    "message": "Uložiť karty do ONETAB"
+  },
+  "storeTabsInONETAB_two": {
+    "message": "Uložiť karty do ONETAB"
+  },
+  "storeTabsInONETAB_zero": {
+    "message": "Uložiť karty do ONETAB"
+  },
+  "subFoldersNotShared": {
+    "message": "Upozorňujeme, že podpriečinky sa nezdieľajú. Zdieľajú sa iba skupiny priamo v priečinku."
+  },
+  "tab": {
+    "message": "karta"
+  },
+  "tabAlreadyStoredHere": {
+    "message": "Vaša otvorená karta je tu už uložená:"
+  },
+  "tabCaretTooltipTitleNotes": {
+    "message": "Upraviť názov a poznámky karty"
+  },
+  "tabCaretTooltipTitleNotesUrl": {
+    "message": "Upraviť názov, adresu URL a poznámky karty"
+  },
+  "tabCount_few": {
+    "message": "{COUNT} karty"
+  },
+  "tabCount_many": {
+    "message": "{COUNT} kariet"
+  },
+  "tabCount_one": {
+    "message": "{COUNT} karta"
+  },
+  "tabCount_other": {
+    "message": "{COUNT} kariet"
+  },
+  "tabCount_two": {
+    "message": "{COUNT} karty"
+  },
+  "tabCount_zero": {
+    "message": "{COUNT} kariet"
+  },
+  "tabGroupColorColon": {
+    "message": "Farba skupiny kariet:"
+  },
+  "tabGroupIndicatorTooltipHelp": {
+    "message": "Táto skupina je nastavená na otvorenie ako skupina kariet. Toto nastavenie môžete zmeniť v ponuke „Viac…“"
+  },
+  "tabPinFlagHelp": {
+    "message": "Táto karta sa obnoví ako pripnutá karta prehliadača. Kliknutím na túto ikonu ju odopnete."
+  },
+  "tabs": {
+    "message": "Karty"
+  },
+  "tabsFromExcludedDomains": {
+    "message": "karty z vylúčených domén"
+  },
+  "tabsInTabGroups": {
+    "message": "karty v skupinách kariet"
+  },
+  "tabTotalCount_few": {
+    "message": "Celkom: {COUNT} karty"
+  },
+  "tabTotalCount_many": {
+    "message": "Celkom: {COUNT} kariet"
+  },
+  "tabTotalCount_one": {
+    "message": "Celkom: {COUNT} karta"
+  },
+  "tabTotalCount_other": {
+    "message": "Celkom: {COUNT} kariet"
+  },
+  "tabTotalCount_two": {
+    "message": "Celkom: {COUNT} karty"
+  },
+  "tabTotalCount_zero": {
+    "message": "Celkom: {COUNT} kariet"
+  },
+  "tasks": {
+    "message": "Úlohy"
+  },
+  "tasksDone": {
+    "message": "Úlohy (dokončené)"
+  },
+  "tasksPending": {
+    "message": "Úlohy (čakajúce)"
+  },
+  "tasksWillAppearHere": {
+    "message": "Ak niektoré karty alebo skupiny označíte ako úlohy, zobrazia sa tu."
+  },
+  "taskTotalCount_few": {
+    "message": "{COUNT} celkom"
+  },
+  "taskTotalCount_many": {
+    "message": "{COUNT} celkom"
+  },
+  "taskTotalCount_one": {
+    "message": "{COUNT} celkom"
+  },
+  "taskTotalCount_other": {
+    "message": "{COUNT} celkom"
+  },
+  "taskTotalCount_two": {
+    "message": "{COUNT} celkom"
+  },
+  "taskTotalCount_zero": {
+    "message": "{COUNT} celkom"
+  },
+  "themeQuickSwitchHint": {
+    "message": "Ak chcete rýchlo prepínať motívy, pri kliknutí na ikonu motívu podržte kláves Ctrl alebo Cmd"
+  },
+  "thenClickToolbarIcon": {
+    "message": "Potom znova kliknite na ikonu OneTab na paneli s nástrojmi, aby ste mohli používať OneTab."
+  },
+  "thisFolderIsEmpty": {
+    "message": "Tento priečinok je prázdny"
+  },
+  "thisTab": {
+    "message": "Táto karta"
+  },
+  "thisTabGroup": {
+    "message": "Táto skupina kariet"
+  },
+  "thisTabNotStored": {
+    "message": "Táto karta nie je uložená v OneTab"
+  },
+  "thisWindow": {
+    "message": "Toto okno"
+  },
+  "tickOrUntickToExclude": {
+    "message": "Začiarknutím alebo zrušením začiarknutia vylúčte web"
+  },
+  "title": {
+    "message": "Názov"
+  },
+  "toAddOrRemoveExclusions": {
+    "message": "Ak chcete pridať alebo odstrániť web zo zoznamu vylúčení:"
+  },
+  "toAllowOneTabInIncognito": {
+    "message": "Ak chcete povoliť zobrazovanie ikony OneTab v oknách inkognito: "
+  },
+  "toImportBrowserBookmarksUseMenuOption": {
+    "message": "Ak chcete importovať zo záložiek prehliadača, použite na stránke OneTab možnosť ponuky „Importovať odkazy sem“"
+  },
+  "toMakeOpenButtonWorkApprovePermission": {
+    "message": "Ak chcete, aby tlačidlo „Otvoriť“ na zdieľaných stránkach fungovalo, schváľte žiadosť o povolenie."
+  },
+  "tooManyTabsSpeedUpFirefox": {
+    "message": "Príliš veľa kariet? Preveďte svoje karty na zoznam a zrýchlite Firefox"
+  },
+  "tooManyTabsSpeedUpSafari": {
+    "message": "Príliš veľa kariet? Preveďte svoje karty na zoznam a zrýchlite Safari"
+  },
+  "toSaveChangesClickButton": {
+    "message": "Ak chcete uložiť zmeny, kliknite na tlačidlo"
+  },
+  "total0Tabs": {
+    "message": "Celkom: 0 kariet"
+  },
+  "trash": {
+    "message": "Kôš"
+  },
+  "unfoldGroup": {
+    "message": "Rozbaliť skupinu"
+  },
+  "unlock": {
+    "message": "Odomknúť"
+  },
+  "unmarkAsArchived": {
+    "message": "Zrušiť označenie ako archivované"
+  },
+  "unMarkAsTask": {
+    "message": "Zrušiť označenie ako úloha"
+  },
+  "unpin": {
+    "message": "Odopnúť"
+  },
+  "unshare": {
+    "message": "Zrušiť zdieľanie"
+  },
+  "untitled": {
+    "message": "Bez názvu"
+  },
+  "update": {
+    "message": "Aktualizovať"
+  },
+  "userLanguage": {
+    "message": "Slovenčina"
+  },
+  "website": {
+    "message": "Web"
+  },
+  "yearCount_few": {
+    "message": "{COUNT} roky"
+  },
+  "yearCount_many": {
+    "message": "{COUNT} rokov"
+  },
+  "yearCount_one": {
+    "message": "{COUNT} rok"
+  },
+  "yearCount_other": {
+    "message": "{COUNT} rokov"
+  },
+  "yearCount_two": {
+    "message": "{COUNT} roky"
+  },
+  "yearCount_zero": {
+    "message": "{COUNT} rokov"
+  },
+  "yourTabAlreadyStoredHere": {
+    "message": "Vaša karta je tu už uložená:"
+  }
+}

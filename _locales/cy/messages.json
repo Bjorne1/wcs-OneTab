@@ -1,0 +1,2330 @@
+{
+  "95PctMemoryReduction": {
+    "message": "Gostyngiad o 95% yn y defnydd o gof"
+  },
+  "about": {
+    "message": "Ynghylch"
+  },
+  "actionPopupOverrideNote": {
+    "message": "Gellir diystyru'r gosodiad hwn y tu mewn i ffenestr y naidlen weithredu (os ydych wedi galluogi'r naidlen weithredu)."
+  },
+  "aDashZ": {
+    "message": "A-Z"
+  },
+  "addOneTabNow": {
+    "message": "Ychwanegu OneTab nawr"
+  },
+  "all": {
+    "message": "Popeth"
+  },
+  "allBookmarks": {
+    "message": "Pob nod tudalen"
+  },
+  "allOpenTabsAlreadyStoredHere_few": {
+    "message": "Mae'r holl dabiau agored eisoes wedi'u storio yma:"
+  },
+  "allOpenTabsAlreadyStoredHere_many": {
+    "message": "Mae'r holl dabiau agored eisoes wedi'u storio yma:"
+  },
+  "allOpenTabsAlreadyStoredHere_one": {
+    "message": "Mae'r holl dabiau agored eisoes wedi'u storio yma:"
+  },
+  "allOpenTabsAlreadyStoredHere_other": {
+    "message": "Mae'r holl dabiau agored eisoes wedi'u storio yma:"
+  },
+  "allOpenTabsAlreadyStoredHere_two": {
+    "message": "Mae'r holl dabiau agored eisoes wedi'u storio yma:"
+  },
+  "allOpenTabsAlreadyStoredHere_zero": {
+    "message": "Mae'r holl dabiau agored eisoes wedi'u storio yma:"
+  },
+  "allowFileAccessInstructions": {
+    "message": "I ganiatáu i ffeiliau gael eu hagor yn uniongyrchol, ewch i Gosodiadau ➝ Estyniadau ➝ OneTab ➝ Manylion ➝ Caniatáu mynediad i URLau ffeiliau"
+  },
+  "alreadyExistingOpenTabsWillBeClosedAfterMerge": {
+    "message": "Bydd yr holl dabiau agored sydd eisoes yn bodoli yn y grŵp hwn yn cael eu cau ar ôl cyfuno."
+  },
+  "alternatePlainTextFormat": {
+    "message": "Fel arall, gall testun plaen fod yn y fformat:"
+  },
+  "approve": {
+    "message": "Cymeradwyo"
+  },
+  "archived": {
+    "message": "Wedi'u harchifo"
+  },
+  "autoTheme": {
+    "message": "Awtomatig (defnyddio gosodiad y system weithredu)"
+  },
+  "backupAndSync": {
+    "message": "Copïo wrth gefn a chysoni"
+  },
+  "betaReleaseReportBugsHere": {
+    "message": "Beta - Rhoi gwybod am wallau yma"
+  },
+  "bookmarkCount_few": {
+    "message": "{COUNT} nod tudalen"
+  },
+  "bookmarkCount_many": {
+    "message": "{COUNT} nod tudalen"
+  },
+  "bookmarkCount_one": {
+    "message": "{COUNT} nod tudalen"
+  },
+  "bookmarkCount_other": {
+    "message": "{COUNT} nod tudalen"
+  },
+  "bookmarkCount_two": {
+    "message": "{COUNT} nod tudalen"
+  },
+  "bookmarkCount_zero": {
+    "message": "{COUNT} nod tudalen"
+  },
+  "bookmarksPermissionNecesssary": {
+    "message": "Mae angen caniatâd nodau tudalen er mwyn i OneTab allu mewnforio nodau tudalen eich porwr"
+  },
+  "bulkActions": {
+    "message": "Gweithredoedd swmp"
+  },
+  "cancel": {
+    "message": "Canslo"
+  },
+  "canDragTextNote": {
+    "message": "Nodyn: Mae hefyd yn bosibl llusgo a gollwng testun sy'n cynnwys dolenni gwe yn uniongyrchol o dudalen we arall neu o ddogfen. Gallwch lusgo'r testun yn uniongyrchol i'ch tudalen OneTab, heb fod angen defnyddio'r blwch mewnforio hwn."
+  },
+  "cannotConnectToServerDeletionRequestQueued": {
+    "message": "Methu cysylltu â gweinydd OneTab. Gwiriwch eich cysylltiad rhyngrwyd. Mae eich cais i ddileu'r dudalen a rennir wedi'i giwio'n lleol a chaiff ei drosglwyddo'n awtomatig i weinydd OneTab cyn gynted ag y bydd modd ei gyrraedd eto."
+  },
+  "cannotCreateTabGroupInTabGroup": {
+    "message": "Mae'r gyrchfan a ddewiswyd gennych yn grŵp tab. Ni allwch greu grŵp tab y tu mewn i grŵp tab presennol. Dewiswch gyrchfan wahanol."
+  },
+  "cannotMixTabsGroupsFoldersDuringDrag": {
+    "message": "Nid yw'n bosibl cymysgu tabiau, grwpiau a ffolderi wrth lusgo. Y rheswm yw, er enghraifft, na allwch lusgo ffolder i'r un lleoedd ag y gallwch lusgo tab."
+  },
+  "cannotMoveItemAncestorHere": {
+    "message": "Ni ellir symud eitem riant i mewn i'w heitem blentyn ei hun, oherwydd byddai hynny'n creu dolen."
+  },
+  "cannotMoveItemIntoItself": {
+    "message": "Ni ellir symud eitem i mewn iddi ei hun."
+  },
+  "canPasteWebContentForExample": {
+    "message": "Gallwch ludo testun wedi'i gopïo o dudalen we neu ddogfen, a bydd dolenni'n cael eu hechdynnu'n awtomatig. Er enghraifft:"
+  },
+  "caseSensitive": {
+    "message": "Sensitif i lythrennau mawr/bach"
+  },
+  "changesMadeSinceSharedPageCreation": {
+    "message": "Mae eich tabiau wedi'u storio wedi newid ers i chi rannu'r dudalen hon. Cliciwch y botwm 'Diweddaru' i ddiweddaru'r dudalen a rennir bresennol."
+  },
+  "changeThisSettingAtAnyTimeInfo": {
+    "message": "Gallwch newid y gosodiad hwn ar unrhyw adeg drwy glicio'r botwm 'Opsiynau' ar frig eich tudalen OneTab."
+  },
+  "changeThisSettingAtAnyTimeInfoHtml": {
+    "message": "Gallwch newid hyn yn nes ymlaen yn <b>Opsiynau</b>."
+  },
+  "checkboxesDeterminePinnedAndGroupedTabMergeInclusion": {
+    "message": "Mae'r blychau ticio ar frig y dudalen hon yn pennu a yw tabiau wedi'u pinio neu dabiau mewn Grwpiau Tab yn cael eu cynnwys wrth gyfuno."
+  },
+  "chooseALocation": {
+    "message": "Dewiswch leoliad"
+  },
+  "chooseALocationToImportTo": {
+    "message": "Dewiswch leoliad i fewnforio iddo"
+  },
+  "chooseExportLocation": {
+    "message": "Dewiswch leoliad i allforio ohono"
+  },
+  "chooseLightDarkTheme": {
+    "message": "Dewis thema olau/dywyll"
+  },
+  "chooseLocationToCopyTo": {
+    "message": "Dewiswch leoliad i gopïo iddo"
+  },
+  "chooseLocationToMoveTo": {
+    "message": "Dewiswch leoliad i symud iddo"
+  },
+  "chooseLocationToRestoreTo": {
+    "message": "Dewiswch leoliad i adfer iddo"
+  },
+  "chooseToIncludeNotes": {
+    "message": "Os ydych wedi ychwanegu unrhyw nodiadau at dabiau neu grwpiau, dewiswch a ddylid eu cynnwys yn y dudalen we a rennir"
+  },
+  "chooseToIncludeRatings": {
+    "message": "Os ydych wedi ychwanegu unrhyw sêr at dabiau neu grwpiau, dewiswch a ddylid eu cynnwys yn y dudalen we a rennir"
+  },
+  "chromeIncognitoInstructions": {
+    "message": "Yng ngosodiadau eich porwr, ewch i 'Gosodiadau' → 'Estyniadau' → 'OneTab' → 'Manylion', ac yna galluogwch 'Caniatáu yn Anhysbys'."
+  },
+  "clickButtonToAllowTabAccess": {
+    "message": "Cliciwch y botwm isod i ganiatáu i OneTab gael mynediad at eich tabiau agored."
+  },
+  "clickHereToContinue": {
+    "message": "Cliciwch yma i barhau."
+  },
+  "clickOneTabIconToStoreTabsHere": {
+    "message": "Cliciwch eicon OneTab ar far offer eich porwr i storio eich tabiau agored yma."
+  },
+  "closeSelectedTabs_few": {
+    "message": "Cau {COUNT} tab dethol"
+  },
+  "closeSelectedTabs_many": {
+    "message": "Cau {COUNT} tab dethol"
+  },
+  "closeSelectedTabs_one": {
+    "message": "Cau {COUNT} tab dethol"
+  },
+  "closeSelectedTabs_other": {
+    "message": "Cau {COUNT} tab dethol"
+  },
+  "closeSelectedTabs_two": {
+    "message": "Cau {COUNT} tab dethol"
+  },
+  "closeSelectedTabs_zero": {
+    "message": "Cau {COUNT} tab dethol"
+  },
+  "closeSelectedTabsAndStoreInONETAB_few": {
+    "message": "Cau {COUNT} tab dethol a'u storio yn ONETAB"
+  },
+  "closeSelectedTabsAndStoreInONETAB_many": {
+    "message": "Cau {COUNT} tab dethol a'u storio yn ONETAB"
+  },
+  "closeSelectedTabsAndStoreInONETAB_one": {
+    "message": "Cau {COUNT} tab dethol a'i storio yn ONETAB"
+  },
+  "closeSelectedTabsAndStoreInONETAB_other": {
+    "message": "Cau {COUNT} tab dethol a'u storio yn ONETAB"
+  },
+  "closeSelectedTabsAndStoreInONETAB_two": {
+    "message": "Cau {COUNT} tab dethol a'u storio yn ONETAB"
+  },
+  "closeSelectedTabsAndStoreInONETAB_zero": {
+    "message": "Cau {COUNT} tab dethol a'u storio yn ONETAB"
+  },
+  "closeTabs_few": {
+    "message": "Cau tabiau"
+  },
+  "closeTabs_many": {
+    "message": "Cau tabiau"
+  },
+  "closeTabs_one": {
+    "message": "Cau tab"
+  },
+  "closeTabs_other": {
+    "message": "Cau tabiau"
+  },
+  "closeTabs_two": {
+    "message": "Cau tabiau"
+  },
+  "closeTabs_zero": {
+    "message": "Cau tabiau"
+  },
+  "closeTabsAfterMerge": {
+    "message": "Cau tabiau ar ôl cyfuno"
+  },
+  "closeTabsAlreadyStoredInOneTab_few": {
+    "message": "Cau {COUNT} tab sydd eisoes wedi'u storio yn OneTab"
+  },
+  "closeTabsAlreadyStoredInOneTab_many": {
+    "message": "Cau {COUNT} tab sydd eisoes wedi'u storio yn OneTab"
+  },
+  "closeTabsAlreadyStoredInOneTab_one": {
+    "message": "Cau {COUNT} tab sydd eisoes wedi'i storio yn OneTab"
+  },
+  "closeTabsAlreadyStoredInOneTab_other": {
+    "message": "Cau {COUNT} tab sydd eisoes wedi'u storio yn OneTab"
+  },
+  "closeTabsAlreadyStoredInOneTab_two": {
+    "message": "Cau {COUNT} tab sydd eisoes wedi'u storio yn OneTab"
+  },
+  "closeTabsAlreadyStoredInOneTab_zero": {
+    "message": "Cau {COUNT} tab sydd eisoes wedi'u storio yn OneTab"
+  },
+  "closeTabsAndStore_few": {
+    "message": "Cau tabiau a'u storio yn ONETAB"
+  },
+  "closeTabsAndStore_many": {
+    "message": "Cau tabiau a'u storio yn ONETAB"
+  },
+  "closeTabsAndStore_one": {
+    "message": "Cau tab a'i storio yn ONETAB"
+  },
+  "closeTabsAndStore_other": {
+    "message": "Cau tabiau a'u storio yn ONETAB"
+  },
+  "closeTabsAndStore_two": {
+    "message": "Cau tabiau a'u storio yn ONETAB"
+  },
+  "closeTabsAndStore_zero": {
+    "message": "Cau tabiau a'u storio yn ONETAB"
+  },
+  "closeTheseDuplicates_few": {
+    "message": "Cau'r dyblygiadau hyn"
+  },
+  "closeTheseDuplicates_many": {
+    "message": "Cau'r dyblygiadau hyn"
+  },
+  "closeTheseDuplicates_one": {
+    "message": "Cau'r dyblygiad hwn"
+  },
+  "closeTheseDuplicates_other": {
+    "message": "Cau'r dyblygiadau hyn"
+  },
+  "closeTheseDuplicates_two": {
+    "message": "Cau'r dyblygiadau hyn"
+  },
+  "closeTheseDuplicates_zero": {
+    "message": "Cau'r dyblygiadau hyn"
+  },
+  "completedTaskFlagHelp": {
+    "message": "Mae'r eitem hon yn dasg. Cliciwch yr eicon hwn i'w marcio fel ar y gweill (heb ei chwblhau)."
+  },
+  "completeEditingShortcutInfo": {
+    "message": "Wrth olygu maes nodiadau, cwblhau golygu"
+  },
+  "configureShortcuts": {
+    "message": "Ffurfweddu llwybrau byr"
+  },
+  "conflictingShortcutsHint": {
+    "message": "Os nad yw unrhyw un o'r llwybrau byr bysellfwrdd uchod yn gweithio neu os yw'n gwrthdaro ag unrhyw raglenni eraill, gallwch ffurfweddu bysell llwybr byr wahanol."
+  },
+  "continue": {
+    "message": "Parhau"
+  },
+  "convertTabsIntoAList": {
+    "message": "Trosi tabiau yn rhestr"
+  },
+  "copiedToClipboard": {
+    "message": "Wedi'i gopïo i'r clipfwrdd"
+  },
+  "copy": {
+    "message": "Copïo"
+  },
+  "copyLinksToClipboard": {
+    "message": "Copïo dolenni i'r clipfwrdd"
+  },
+  "copySharedPageUrl": {
+    "message": "Copïo URL y dudalen a rennir"
+  },
+  "copyToClipboard": {
+    "message": "Copïo i'r clipfwrdd"
+  },
+  "copyToClipboardMenuItemHelp": {
+    "message": "Copïwch y dolenni gwe hyn i'r clipfwrdd, fel y gallwch eu gludo i raglenni eraill. Gallwch newid fformat testun y clipfwrdd ar dudalen Opsiynau OneTab."
+  },
+  "createANewGroupHere": {
+    "message": "Creu grŵp newydd yma"
+  },
+  "createdOnDate": {
+    "message": "Crëwyd {DATE}"
+  },
+  "createdOnOrAfterColon": {
+    "message": "Crëwyd ar neu ar ôl:"
+  },
+  "createdOnOrBeforeColon": {
+    "message": "Crëwyd ar neu cyn:"
+  },
+  "createFolderAbove": {
+    "message": "Creu ffolder uwchben"
+  },
+  "createFolderAboveBelow": {
+    "message": "Creu ffolder uwchben / isod"
+  },
+  "createFolderAboveWithinBelow": {
+    "message": "Creu ffolder uwchben / o fewn / isod"
+  },
+  "createFolderBelow": {
+    "message": "Creu ffolder isod"
+  },
+  "createFolderWithin": {
+    "message": "Creu ffolder o fewn"
+  },
+  "createFolderWithinMenuItemHelp": {
+    "message": "Mae ffolderi ar gyfer trefnu grwpiau o dabiau. Mae ffolderi'n cynnwys grwpiau, ac mae grwpiau'n cynnwys tabiau."
+  },
+  "createGroupAbove": {
+    "message": "Creu grŵp uwchben"
+  },
+  "createGroupAboveBelow": {
+    "message": "Creu grŵp uwchben / isod"
+  },
+  "createGroupAboveWithinBelow": {
+    "message": "Creu grŵp uwchben / o fewn / isod"
+  },
+  "createGroupBelow": {
+    "message": "Creu grŵp isod"
+  },
+  "createGroupInsideDestination": {
+    "message": "Creu grŵp newydd y tu mewn i'r gyrchfan"
+  },
+  "createGroupInsideDestinationHelp": {
+    "message": "Os nad yw wedi'i dicio, bydd eich tabiau'n cael eu hychwanegu'n uniongyrchol at y grŵp cyrchfan. Os yw wedi'i dicio, caiff Grŵp Tab newydd ei greu yn y porwr ar gyfer eich tabiau o fewn y grŵp cyrchfan. Ticiwch y blwch hwn dim ond os ydych am ddefnyddio nodwedd “Grwpiau Tab” eich porwr."
+  },
+  "createGroupMenuItemHelp": {
+    "message": "Creu grŵp newydd, gwag. Mae grŵp yn cynnwys rhestr o dabiau, y gellir eu hadfer gyda'i gilydd i ffenestr."
+  },
+  "createGroupWithin": {
+    "message": "Creu grŵp o fewn"
+  },
+  "createNewGroupTip": {
+    "message": "I greu grŵp newydd, dad-diciwch \"Dangos ffolderi yn unig\" yn gyntaf. Mae hyn er mwyn i chi allu gweld y grŵp newydd ei greu yn y rhestr."
+  },
+  "darkTheme": {
+    "message": "Thema dywyll"
+  },
+  "dayCount_few": {
+    "message": "{COUNT} diwrnod"
+  },
+  "dayCount_many": {
+    "message": "{COUNT} diwrnod"
+  },
+  "dayCount_one": {
+    "message": "{COUNT} diwrnod"
+  },
+  "dayCount_other": {
+    "message": "{COUNT} diwrnod"
+  },
+  "dayCount_two": {
+    "message": "{COUNT} ddiwrnod"
+  },
+  "dayCount_zero": {
+    "message": "{COUNT} diwrnod"
+  },
+  "delete": {
+    "message": "Dileu"
+  },
+  "deleteAllTrash": {
+    "message": "Gwagio'r sbwriel"
+  },
+  "deleteThisCopy": {
+    "message": "Dileu'r copi hwn"
+  },
+  "deselectAll": {
+    "message": "Dad-ddewis y cyfan"
+  },
+  "destinationColon": {
+    "message": "Cyrchfan:"
+  },
+  "disabled": {
+    "message": "Wedi'i analluogi"
+  },
+  "doneTaskCount_few": {
+    "message": "{COUNT} wedi'u cwblhau"
+  },
+  "doneTaskCount_many": {
+    "message": "{COUNT} wedi'u cwblhau"
+  },
+  "doneTaskCount_one": {
+    "message": "{COUNT} wedi'i chwblhau"
+  },
+  "doneTaskCount_other": {
+    "message": "{COUNT} wedi'u cwblhau"
+  },
+  "doneTaskCount_two": {
+    "message": "{COUNT} wedi'u cwblhau"
+  },
+  "doneTaskCount_zero": {
+    "message": "{COUNT} wedi'u cwblhau"
+  },
+  "dontCloseGroupedTabs": {
+    "message": "Peidio â chau unrhyw dabiau mewn Grwpiau Tab"
+  },
+  "dontClosePinnedTabs": {
+    "message": "Peidio â chau unrhyw dabiau wedi'u pinio"
+  },
+  "dontCloseTabsFromDomains": {
+    "message": "Peidio â chau unrhyw dabiau o EXAMPLE.COM"
+  },
+  "dragCopyKeysHtml": {
+    "message": "<x-key>{CTRL}</x-key> neu <x-key>{ALT}</x-key>"
+  },
+  "dragCopyModifierInfo": {
+    "message": "Daliwch y fysell ctrl neu alt wrth lusgo tab i greu copi ohono yn lle ei symud."
+  },
+  "dragTabsHereForQuickList": {
+    "message": "Llusgwch eich tabiau neu grwpiau wedi'u storio yma. Cânt eu hychwanegu at eich rhestr gyflym."
+  },
+  "editTabGroupTitleAndNotes": {
+    "message": "Golygu teitl a nodiadau'r Grŵp Tab"
+  },
+  "emojiShortcutInfo": {
+    "message": "Wrth olygu maes nodiadau, agor y dewiswr emoji"
+  },
+  "emptyInBrackets": {
+    "message": "(gwag)"
+  },
+  "emptyOneTabInfoMsg": {
+    "message": "Pan fydd gennych sawl tab ar agor, cliciwch ar eicon OneTab ar far offer eich porwr a bydd eich tabiau agored yn ymddangos yma."
+  },
+  "enabled": {
+    "message": "Wedi'i alluogi"
+  },
+  "everything": {
+    "message": "Popeth"
+  },
+  "exampleLink": {
+    "message": "Dolen enghreifftiol"
+  },
+  "exampleLinkTitle": {
+    "message": "Teitl dolen enghreifftiol"
+  },
+  "exampleLinkTitleOptional": {
+    "message": "Teitl dolen enghreifftiol (dewisol)"
+  },
+  "exampleRichTextParagraph": {
+    "message": "Paragraff enghreifftiol o destun gyda PLACEHOLDER a PLACEHOLDER"
+  },
+  "exampleWebsitePageTitle": {
+    "message": "Teitl tudalen gwefan enghreifftiol"
+  },
+  "excludeDomainFromOneTab": {
+    "message": "Eithrio EXAMPLE.COM o OneTab"
+  },
+  "excludeWebSiteFromOneTab": {
+    "message": "Eithrio'r wefan hon o OneTab"
+  },
+  "expiresColon": {
+    "message": "Daw i ben:"
+  },
+  "export": {
+    "message": "Allforio"
+  },
+  "exportImportUrls": {
+    "message": "Allforio / Mewnforio URLau"
+  },
+  "exportThenImportNote": {
+    "message": "Gellir mewnforio'r rhestr ganlynol o URLau yn ôl i OneTab ar y cyfrifiadur hwn neu gyfrifiadur gwahanol"
+  },
+  "exportUrls": {
+    "message": "Allforio URLau"
+  },
+  "feedback": {
+    "message": "Adborth"
+  },
+  "filter": {
+    "message": "Hidlo"
+  },
+  "firefoxIncognitoInstructions": {
+    "message": "Yng ngosodiadau eich porwr, ewch i 'Gosodiadau' → 'Estyniadau a Themâu' → 'Estyniadau' → 'OneTab' → '...' → 'Rheoli', ac yna galluogwch 'Rhedeg mewn Ffenestri Preifat'."
+  },
+  "firefoxIndexedDbUnavailable": {
+    "message": "Ni all OneTab storio nac adalw data. Os ydych wedi ffurfweddu Firefox i beidio byth â chofio unrhyw hanes, byddai hynny'n atal OneTab rhag gweithio'n iawn. Fel arall, cysylltwch â ni drwy ein gwefan ac efallai y gallwn helpu."
+  },
+  "firefoxShortcutConfigInstructions": {
+    "message": "Rhowch yr URL \"about:addons?type=extension\" ym mar cyfeiriad eich porwr. Pan fydd y dudalen yn ymddangos, cliciwch eicon y cog, yna dewiswch \"Rheoli Llwybrau Byr Estyniadau\""
+  },
+  "Folder": {
+    "message": "Ffolder"
+  },
+  "folderCount_few": {
+    "message": "{COUNT} ffolder"
+  },
+  "folderCount_many": {
+    "message": "{COUNT} ffolder"
+  },
+  "folderCount_one": {
+    "message": "{COUNT} ffolder"
+  },
+  "folderCount_other": {
+    "message": "{COUNT} ffolder"
+  },
+  "folderCount_two": {
+    "message": "{COUNT} ffolder"
+  },
+  "folderCount_zero": {
+    "message": "{COUNT} ffolder"
+  },
+  "folders": {
+    "message": "Ffolderi"
+  },
+  "foldersOnly": {
+    "message": "Ffolderi yn unig"
+  },
+  "foldGroup": {
+    "message": "Crebachu grŵp"
+  },
+  "gettingStarted": {
+    "message": "Dechrau arni"
+  },
+  "gotIt": {
+    "message": "Deall"
+  },
+  "goToParentFolder": {
+    "message": "Mynd i'r ffolder riant"
+  },
+  "groupCount_few": {
+    "message": "{COUNT} grŵp"
+  },
+  "groupCount_many": {
+    "message": "{COUNT} grŵp"
+  },
+  "groupCount_one": {
+    "message": "{COUNT} grŵp"
+  },
+  "groupCount_other": {
+    "message": "{COUNT} grŵp"
+  },
+  "groupCount_two": {
+    "message": "{COUNT} grŵp"
+  },
+  "groupCount_zero": {
+    "message": "{COUNT} grŵp"
+  },
+  "groups": {
+    "message": "Grwpiau"
+  },
+  "hasNotes": {
+    "message": "Â nodiadau"
+  },
+  "help": {
+    "message": "Cymorth"
+  },
+  "hideArchivedItems": {
+    "message": "Cuddio eitemau wedi'u harchifo"
+  },
+  "import": {
+    "message": "Mewnforio"
+  },
+  "importAndExport": {
+    "message": "Mewnforio ac allforio"
+  },
+  "importBookmarks": {
+    "message": "Mewnforio nodau tudalen"
+  },
+  "importedBookmarks": {
+    "message": "Nodau tudalen wedi'u mewnforio"
+  },
+  "importExportShareMenuNoteHtml": {
+    "message": "Gallwch hefyd allforio eich tabiau fel tudalen we y gellir ei rhannu neu fel ffeil HTML gan ddefnyddio’r opsiynau <b>Rhannu fel tudalen we</b> a <b>Cadw fel ffeil HTML</b> yn newislen <b>Mwy…</b> grŵp neu ffolder."
+  },
+  "importFolderAndSubfolders": {
+    "message": "Mewnforio ffolder ac is-ffolderi"
+  },
+  "importLinksHere": {
+    "message": "Mewnforio dolenni yma"
+  },
+  "importLinksHereMenuItemHelp": {
+    "message": "Gallwch ludo rhestr o ddolenni gwe, neu fewnforio nodau tudalen y porwr."
+  },
+  "importNotesTruncatedNotice": {
+    "message": "Roedd rhai nodiadau a fewnforiwyd yn hirach na’r terfyn o {MAX} nod, felly torrwyd eu diwedd."
+  },
+  "importReadingList": {
+    "message": "Mewnforio rhestr ddarllen"
+  },
+  "importText": {
+    "message": "Mewnforio testun"
+  },
+  "importUrls": {
+    "message": "Mewnforio URLau"
+  },
+  "includeGroupedTabs": {
+    "message": "Cynnwys tabiau mewn grwpiau tab"
+  },
+  "includeNotes": {
+    "message": "Cynnwys nodiadau"
+  },
+  "includePinnedTabs": {
+    "message": "Cynnwys tabiau wedi'u pinio"
+  },
+  "includeStarRatings": {
+    "message": "Cynnwys sêr"
+  },
+  "includeTabsAlreadyStored": {
+    "message": "Cynnwys tabiau rydych eisoes wedi'u storio"
+  },
+  "includeTabsFromDomains": {
+    "message": "Cynnwys tabiau o EXAMPLE.COM"
+  },
+  "incogitoPermissionRequired": {
+    "message": "Mae angen caniatâd ar OneTab i greu ffenestri Anhysbys."
+  },
+  "incognitoWindows": {
+    "message": "Ffenestri Anhysbys"
+  },
+  "invertSelection": {
+    "message": "Gwrthdroi'r detholiad"
+  },
+  "itemTextTruncatedNotice": {
+    "message": "Roedd y testun yn hirach na’r terfyn (gall nodiadau gynnwys {NOTESMAX} nod, a theitlau {TITLEMAX}), felly torrwyd y diwedd."
+  },
+  "justNow": {
+    "message": "newydd ddigwydd"
+  },
+  "kbdNavBackspaceInfo": {
+    "message": "Mynd i fyny i'r ffolder riant"
+  },
+  "kbdNavEnterInfo": {
+    "message": "Adfer tabiau neu agor ffolder"
+  },
+  "kbdNavEscInfo": {
+    "message": "Gorffen llywio â'r bysellfwrdd"
+  },
+  "kbdNavFocusInfo": {
+    "message": "Newid ffocws o grwpiau i dabiau"
+  },
+  "kbdNavFoldInfo": {
+    "message": "Crebachu / ehangu grŵp"
+  },
+  "kbdNavMoveInfo": {
+    "message": "Symud rhwng eitemau"
+  },
+  "kbdNavTabInfo": {
+    "message": "Dechrau llywio â'r bysellfwrdd"
+  },
+  "keyboardShortcutsColon": {
+    "message": "Llwybrau byr bysellfwrdd:"
+  },
+  "languageTitle": {
+    "message": "Iaith:"
+  },
+  "licenseAlreadyHaveKey": {
+    "message": "Mae gennyf allwedd drwydded eisoes"
+  },
+  "licenseAlreadySetUpRestarting": {
+    "message": "Mae'r drwydded hon eisoes wedi'i sefydlu, felly byddwn yn cysylltu'r ddyfais hon â'r gosodiad presennol. Mae cod newydd wedi'i anfon drwy e-bost i'r cyfeiriad sydd wedi'i gofnodi."
+  },
+  "licenseBackLink": {
+    "message": "Yn ôl"
+  },
+  "licenseBrowserOnOs": {
+    "message": "{BROWSER} ar {OS}"
+  },
+  "licenseBrowsersActiveOn": {
+    "message": "Yn weithredol ar {DATE}"
+  },
+  "licenseBrowsersActiveToday": {
+    "message": "Yn weithredol heddiw"
+  },
+  "licenseBrowsersAdded": {
+    "message": "Ychwanegwyd {DATE}"
+  },
+  "licenseBrowsersThisBrowser": {
+    "message": "Y porwr hwn"
+  },
+  "licenseBrowserUnknown": {
+    "message": "Porwr"
+  },
+  "licenseChangeEmail": {
+    "message": "Newid cyfeiriad e-bost"
+  },
+  "licenseChangeEmailWebLink": {
+    "message": "Newid cyfeiriad e-bost"
+  },
+  "licenseChooseRecoveryTitle": {
+    "message": "Dewiswch sut y caiff eich allwedd amgryptio ei diogelu"
+  },
+  "licenseCloseModal": {
+    "message": "Cau"
+  },
+  "licenseCodeExpired": {
+    "message": "Mae'r cod hwnnw wedi dod i ben. Gofynnwch am e-bost newydd."
+  },
+  "licenseCodeIncorrectTriesRemaining": {
+    "message": "Cod anghywir. Ymgeisiau ar ôl: {COUNT}."
+  },
+  "licenseCodeInvalidFormat": {
+    "message": "Rhowch y cod 6 digid o'r e-bost."
+  },
+  "licenseCodePlaceholder": {
+    "message": "Cod 6 digid"
+  },
+  "licenseCodeSentTo": {
+    "message": "Rhowch y cod 6 digid rydym wedi'i anfon drwy e-bost i {EMAIL}."
+  },
+  "licenseCodeSourceDeviceOption": {
+    "message": "Cael cod o borwr sydd eisoes wedi'i gysylltu"
+  },
+  "licenseCodeSourceDeviceOptionDescription": {
+    "message": "Agorwch Copïo wrth gefn a chysoni yno a chliciwch \"Cysylltu porwr neu broffil arall\"."
+  },
+  "licenseCodeSourceEmailOption": {
+    "message": "Anfon cod drwy e-bost i {EMAIL}"
+  },
+  "licenseCodeSourceTitle": {
+    "message": "Cael cod dilysu"
+  },
+  "licenseCodeTriesExhausted": {
+    "message": "Nid oes unrhyw ymgeisiau ar ôl ar gyfer y cod hwnnw. Gofynnwch am e-bost newydd."
+  },
+  "licenseConnectAnotherBrowser": {
+    "message": "Cysylltu porwr neu broffil arall"
+  },
+  "licenseConnectedBrowsers": {
+    "message": "Porwyr cysylltiedig"
+  },
+  "licenseDeviceAddConnected": {
+    "message": "Mae {BROWSER} newydd gysylltu â'ch trwydded."
+  },
+  "licenseDeviceAddExpired": {
+    "message": "Mae'r cod hwn wedi dod i ben."
+  },
+  "licenseDeviceAddExpiresIn": {
+    "message": "Daw i ben ymhen {TIME}"
+  },
+  "licenseDeviceAddGetNewCode": {
+    "message": "Cael cod newydd"
+  },
+  "licenseDeviceAddIntro": {
+    "message": "I gysylltu porwr neu broffil arall: rhowch eich allwedd drwydded yno, yna rhowch y cod hwn pan ofynnir amdano."
+  },
+  "licenseDeviceAddKeyReminder": {
+    "message": "Bydd angen eich allwedd drwydded arnoch o hyd — nid yw'n cael ei dangos yma. Gallwch ddod o hyd iddi yn yr e-bost gwreiddiol a oedd yn ei chynnwys, neu ar eich tudalen filio."
+  },
+  "licenseDeviceAddNeverShare": {
+    "message": "Defnyddiwch y cod hwn ar eich porwr newydd eich hun yn unig. Peidiwch byth â'i rannu ag unrhyw un — ni fydd OneTab byth yn gofyn amdano. Dim ond ar gyfer trwydded y porwr hwn y mae'n gweithio."
+  },
+  "licenseDeviceCodeInsteadLink": {
+    "message": "Cael cod o borwr cysylltiedig yn lle hynny"
+  },
+  "licenseDeviceCodePrompt": {
+    "message": "Mewn porwr sydd eisoes wedi'i gysylltu â'ch trwydded, agorwch Copïo wrth gefn a chysoni a chliciwch \"Cysylltu porwr neu broffil arall\". Rhowch y cod 6 digid a ddangosir yno."
+  },
+  "licenseDeviceLimitReached": {
+    "message": "Mae'r drwydded hon wedi cyrraedd ei therfyn dyfeisiau."
+  },
+  "licenseDoneButton": {
+    "message": "Wedi gorffen"
+  },
+  "licenseEasyOptionDescription": {
+    "message": "Cedwir eich allwedd amgryptio dan warchodaeth ddiogel ar y gweinydd, felly gallwch ei hadfer drwy e-bost."
+  },
+  "licenseEasyOptionLabel": {
+    "message": "Hawdd"
+  },
+  "licenseEmailCodeInsteadLink": {
+    "message": "Anfon cod ataf drwy e-bost yn lle hynny"
+  },
+  "licenseEmailPlaceholder": {
+    "message": "Cyfeiriad e-bost"
+  },
+  "licenseEmailPrompt": {
+    "message": "Eich cyfeiriad e-bost"
+  },
+  "licenseForgotKeyBack": {
+    "message": "Yn ôl i roi allwedd drwydded"
+  },
+  "licenseForgotKeyEnterKeyButton": {
+    "message": "Rhoi allwedd drwydded"
+  },
+  "licenseForgotKeyLink": {
+    "message": "Wedi anghofio eich allwedd drwydded?"
+  },
+  "licenseForgotKeyNoEmailOnRecord": {
+    "message": "Nid oes allwedd drwydded yn gysylltiedig â'r cyfeiriad e-bost hwnnw. Gwiriwch am gamdeipiadau, neu rhowch gynnig ar gyfeiriad arall y gallech fod wedi'i ddefnyddio."
+  },
+  "licenseForgotKeyPrompt": {
+    "message": "Rhowch eich cyfeiriad e-bost. Os yw wedi'i gofnodi ar gyfer allwedd drwydded, byddwn yn anfon yr allwedd iddo drwy e-bost."
+  },
+  "licenseForgotKeySendButton": {
+    "message": "Anfon"
+  },
+  "licenseForgotKeySentTo": {
+    "message": "Rydym wedi anfon eich allwedd drwydded drwy e-bost i {EMAIL}. Ar ôl iddi gyrraedd, gallwch ei rhoi yma."
+  },
+  "licenseForgotKeyTooManyRequests": {
+    "message": "Mae eich allwedd drwydded eisoes wedi'i hanfon drwy e-bost i'r cyfeiriad hwnnw sawl gwaith yn ddiweddar. Gwiriwch eich ffolder sbam, neu rhowch gynnig arall arni yfory."
+  },
+  "licenseGenericError": {
+    "message": "Aeth rhywbeth o'i le. Rhowch gynnig arall arni."
+  },
+  "licenseGoButton": {
+    "message": "Mynd"
+  },
+  "licenseInvalidEmail": {
+    "message": "Rhowch gyfeiriad e-bost dilys."
+  },
+  "licenseKeyInvalidFormat": {
+    "message": "Nid yw hon yn edrych fel allwedd drwydded ddilys. Dylai gynnwys 20 nod sy'n llythrennau (A-F) neu'n rhifau, fel XXXX-XXXX-XXXX-XXXX-XXXX."
+  },
+  "licenseKeyNotFound": {
+    "message": "Heb ganfod yr allwedd drwydded. Gwiriwch hi a rhowch gynnig arall arni."
+  },
+  "licenseNoLongerActiveError": {
+    "message": "Nid yw'r drwydded hon yn weithredol mwyach. Os credwch mai camgymeriad yw hyn, cysylltwch â'r tîm cymorth."
+  },
+  "licenseRateLimitedError": {
+    "message": "Bu gormod o ymgeisiau aflwyddiannus o'ch rhwydwaith. Arhoswch am ychydig a rhowch gynnig arall arni."
+  },
+  "licenseResendEmail": {
+    "message": "Anfon e-bost newydd"
+  },
+  "licenseServiceProblemTryLater": {
+    "message": "Ni ellir cwblhau hyn ar hyn o bryd oherwydd problem ar ein hochr ni. Rhowch gynnig arall arni yn nes ymlaen — os bydd hyn yn parhau, cysylltwch â'r tîm cymorth."
+  },
+  "licenseSuccess": {
+    "message": "Llwyddiant! Bydd eich tabiau wedi'u cadw bellach yn cael eu hamgryptio a'u copïo'n ddiogel i'r cwmwl."
+  },
+  "licenseSuccessJoin": {
+    "message": "Llwyddiant! Mae'r porwr hwn wedi ymuno â'ch copi wrth gefn wedi'i amgryptio. Bydd eich tabiau wedi'u cadw yma ac yn eich porwyr eraill bellach yn aros wedi'u cysoni."
+  },
+  "licenseSuggestedEmailIntro": {
+    "message": "Anfonwyd eich allwedd drwydded drwy e-bost i:"
+  },
+  "licenseSuggestedEmailNote": {
+    "message": "Bydd y cyfeiriad hwn yn cael ei ddefnyddio ar gyfer codau dilysu ac adfer cyfrif, felly gwnewch yn siŵr mai eich cyfeiriad chi ydyw."
+  },
+  "licenseSuspendedBillingError": {
+    "message": "Ni ellir cysylltu'r drwydded hon ar hyn o bryd oherwydd problem filio. Os ydych yn rheoli'r bilio, mewngofnodwch yn one-tab.com i'w datrys — fel arall, cysylltwch â'r sawl sy'n gyfrifol am brynu eich trwydded."
+  },
+  "licenseUltraKeyConfirmCheckbox": {
+    "message": "Rwyf wedi cadw copi o'm hallwedd, ac rwy'n deall na fydd byth yn cael ei dangos eto."
+  },
+  "licenseUltraKeyConfirmRequired": {
+    "message": "Cadarnhewch eich bod wedi cadw copi o'ch allwedd."
+  },
+  "licenseUltraKeyEnterPrompt": {
+    "message": "Rhowch eich allwedd amgryptio i orffen cysylltu'r ddyfais hon."
+  },
+  "licenseUltraKeyIntro": {
+    "message": "Dyma eich allwedd amgryptio. Cadwch gopi diogel ohoni (er enghraifft mewn rheolwr cyfrineiriau) er mwyn gallu adfer eich data ar ôl i'ch cyfrifiadur fethu neu gael ei ddwyn."
+  },
+  "licenseUltraKeyMismatch": {
+    "message": "Nid yw'r allwedd honno'n gywir ar gyfer y drwydded hon. Gwiriwch hi a rhowch gynnig arall arni."
+  },
+  "licenseUltraKeyNeverShownAgain": {
+    "message": "NI fydd yr allwedd hon BYTH yn cael ei dangos eto."
+  },
+  "licenseUltraKeyPlaceholder": {
+    "message": "Allwedd amgryptio"
+  },
+  "licenseUltraOptionDescription": {
+    "message": "Dim ond chi sy'n cadw'r allwedd amgryptio, ac ni ellir ei hadfer os byddwch yn ei cholli. Dewiswch yr opsiwn hwn dim ond os ydych yn sicr y gallwch gadw copi diogel ohoni."
+  },
+  "licenseUltraOptionLabel": {
+    "message": "Preifatrwydd eithafol"
+  },
+  "licenseUseDifferentEmail": {
+    "message": "Defnyddio cyfeiriad e-bost arall"
+  },
+  "lightTheme": {
+    "message": "Thema olau"
+  },
+  "localBackupRestoredModal": {
+    "message": "Cafodd y rhan o broffil eich porwr sy’n storio data OneTab ei llygru neu ei dileu. Gall hyn ddigwydd ar ôl i’r porwr chwalu, neu pan fydd meddalwedd glanhau system neu breifatrwydd sy’n camweithio yn tynnu data porwr."
+  },
+  "localBackupRestoredModalRecovery": {
+    "message": "Roeddech yn ffodus y tro hwn: ni chyrhaeddodd y difrod y rhan ar wahân o’r proffil lle mae OneTab yn cadw copi wrth gefn wythnosol, felly mae eich tabiau wedi’u hadfer o’r copi wrth gefn a wnaed ar {DATE}. Ni fu modd adfer unrhyw beth a gadwyd neu a newidiwyd gennych ar ôl y dyddiad hwnnw. Pe bai’r proffil cyfan wedi’i golli, neu’r copi wrth gefn wedi’i ddifrodi hefyd, ni fyddai dim wedi bod ar gael i’w adfer."
+  },
+  "localBackupRestoredModalTitle": {
+    "message": "Adferodd OneTab eich tabiau ar ôl colli data"
+  },
+  "localeId": {
+    "message": "cy"
+  },
+  "locationColon": {
+    "message": "Lleoliad:"
+  },
+  "lock": {
+    "message": "Cloi"
+  },
+  "lockedGroupUnlockHelp": {
+    "message": "I ddatgloi, defnyddiwch ddewislen Mwy…. Pan fydd grŵp wedi'i gloi, ni allwch ddileu'r grŵp na'i dabiau, ac ni ellir aildrefnu tabiau."
+  },
+  "lockMenuItemHelp": {
+    "message": "Pan fydd grŵp wedi'i gloi, ni allwch dynnu nac aildrefnu eitemau o fewn y grŵp (nes i chi ddatgloi'r grŵp)."
+  },
+  "makeThisATask": {
+    "message": "Gwneud hwn yn dasg"
+  },
+  "manifestDescription": {
+    "message": "Arbed hyd at 95% o gof a lleihau annibendod tabiau"
+  },
+  "markAsArchived": {
+    "message": "Marcio fel wedi'i archifo"
+  },
+  "markAsArchivedMenuItemHelp": {
+    "message": "Pan fyddwch yn marcio eitem fel wedi'i harchifo, bydd ganddi gefndir llwyd. Mae hyn yn ddangosydd gweledol eich bod wedi gorffen â'r eitem hon (er enghraifft, mae'n erthygl rydych wedi gorffen ei darllen). Os byddwch yn archifo rhywbeth sydd wedi'i farcio fel tasg, ni fydd y dasg yn ymddangos mwyach yn y golofn tasgau ar eich tudalen OneTab."
+  },
+  "markAsDoneTask": {
+    "message": "Marcio fel tasg wedi'i chwblhau"
+  },
+  "markAsDoneTaskMenuItemHelp": {
+    "message": "Dangos yn weledol bod tasg wedi'i chwblhau"
+  },
+  "markAsPendingTask": {
+    "message": "Marcio fel tasg ar y gweill"
+  },
+  "markAsPendingTaskMenuItemHelp": {
+    "message": "Dangos yn weledol bod yr eitem hon yn dasg. Bydd eicon tasg yn ymddangos, a gallwch ei glicio wedyn i ddangos yn weledol bod y dasg wedi'i chwblhau. Bydd pob tasg (oni bai ei bod wedi'i marcio fel wedi'i harchifo) hefyd yn ymddangos yn y golofn tasgau ar eich tudalen OneTab."
+  },
+  "matchCount_few": {
+    "message": "{COUNT} cyfatebiaeth"
+  },
+  "matchCount_many": {
+    "message": "{COUNT} cyfatebiaeth"
+  },
+  "matchCount_one": {
+    "message": "{COUNT} cyfatebiaeth"
+  },
+  "matchCount_other": {
+    "message": "{COUNT} cyfatebiaeth"
+  },
+  "matchCount_two": {
+    "message": "{COUNT} cyfatebiaeth"
+  },
+  "matchCount_zero": {
+    "message": "{COUNT} cyfatebiaeth"
+  },
+  "matchWholeWordsOnly": {
+    "message": "Cyfateb geiriau cyfan yn unig"
+  },
+  "mayNeedToRestartBrowser": {
+    "message": "Os gwelwch y neges hon bob tro, diweddarwch ac ailgychwynwch eich porwr."
+  },
+  "mergeIntoParent": {
+    "message": "Cyfuno i'r rhiant"
+  },
+  "mergeOpenTabsHere_few": {
+    "message": "Cyfuno {COUNT} tab agored yma"
+  },
+  "mergeOpenTabsHere_many": {
+    "message": "Cyfuno {COUNT} tab agored yma"
+  },
+  "mergeOpenTabsHere_one": {
+    "message": "Cyfuno {COUNT} tab agored yma"
+  },
+  "mergeOpenTabsHere_other": {
+    "message": "Cyfuno {COUNT} tab agored yma"
+  },
+  "mergeOpenTabsHere_two": {
+    "message": "Cyfuno {COUNT} tab agored yma"
+  },
+  "mergeOpenTabsHere_zero": {
+    "message": "Cyfuno {COUNT} tab agored yma"
+  },
+  "mergeSelectedTabsHere_few": {
+    "message": "Cyfuno {COUNT} tab dethol yma"
+  },
+  "mergeSelectedTabsHere_many": {
+    "message": "Cyfuno {COUNT} tab dethol yma"
+  },
+  "mergeSelectedTabsHere_one": {
+    "message": "Cyfuno {COUNT} tab dethol yma"
+  },
+  "mergeSelectedTabsHere_other": {
+    "message": "Cyfuno {COUNT} tab dethol yma"
+  },
+  "mergeSelectedTabsHere_two": {
+    "message": "Cyfuno {COUNT} tab dethol yma"
+  },
+  "mergeSelectedTabsHere_zero": {
+    "message": "Cyfuno {COUNT} tab dethol yma"
+  },
+  "mergeWithInnerGroups": {
+    "message": "Cyfuno â grwpiau mewnol"
+  },
+  "modalMoveToTrashHintExampleGroupTitle": {
+    "message": "Teitl grŵp enghreifftiol"
+  },
+  "modalMoveToTrashHintHeading": {
+    "message": "Awgrym: Hofrwch dros deitl grŵp, yna cliciwch yr X i'w symud i'r sbwriel."
+  },
+  "modalOptionAutoActionOnOpenHeading": {
+    "message": "Ar ôl adfer tabiau:"
+  },
+  "modalOptionAutoActionOnOpenOpenDesc": {
+    "message": "Dileu â llaw ar ôl gorffen"
+  },
+  "modalOptionAutoActionOnOpenTrashDesc": {
+    "message": "Haws ar gyfer storio ac adfer yn gyflym"
+  },
+  "modalRemigrationDontAskAgain": {
+    "message": "Peidio â gofyn eto"
+  },
+  "modalRemigrationFooterHtml": {
+    "message": "Cliciwch <b>Ie</b>, oni bai bod y mudo eisoes wedi digwydd a'ch bod wedi dileu'r tabiau a fudwyd yn fwriadol."
+  },
+  "modalRemigrationNotNow": {
+    "message": "Nid nawr"
+  },
+  "modalRemigrationTabsFoundPrompt_few": {
+    "message": "Canfuwyd {COUNT} tab o OneTab v1. Eu mudo?"
+  },
+  "modalRemigrationTabsFoundPrompt_many": {
+    "message": "Canfuwyd {COUNT} tab o OneTab v1. Eu mudo?"
+  },
+  "modalRemigrationTabsFoundPrompt_one": {
+    "message": "Canfuwyd {COUNT} tab o OneTab v1. Ei fudo?"
+  },
+  "modalRemigrationTabsFoundPrompt_other": {
+    "message": "Canfuwyd {COUNT} tab o OneTab v1. Eu mudo?"
+  },
+  "modalRemigrationTabsFoundPrompt_two": {
+    "message": "Canfuwyd {COUNT} tab o OneTab v1. Eu mudo?"
+  },
+  "modalRemigrationTabsFoundPrompt_zero": {
+    "message": "Canfuwyd {COUNT} tab o OneTab v1. Eu mudo?"
+  },
+  "modalRemigrationYes": {
+    "message": "Ie"
+  },
+  "modalUpdateToV2Heading": {
+    "message": "Mae OneTab wedi'i ddiweddaru"
+  },
+  "modalUpdateToV2QuickTourHtml": {
+    "message": "Eisiau taith gyflym? Cliciwch <b>Cymorth</b> ar y brig."
+  },
+  "modalUpdateToV2UseOneTabLikeBefore": {
+    "message": "Gallwch barhau i ddefnyddio OneTab yn union fel o'r blaen — storio eich tabiau gydag un clic."
+  },
+  "modifySharing": {
+    "message": "Addasu gosodiadau rhannu"
+  },
+  "moreEllipsis": {
+    "message": "Mwy…"
+  },
+  "moreSearchFilters": {
+    "message": "Mwy o hidlyddion chwilio"
+  },
+  "move": {
+    "message": "Symud"
+  },
+  "moveBack": {
+    "message": "Symud yn ôl"
+  },
+  "moveToTrash": {
+    "message": "Symud i'r sbwriel"
+  },
+  "namedOnly": {
+    "message": "Wedi'u henwi yn unig"
+  },
+  "navigationFilter": {
+    "message": "Hidlydd llywio"
+  },
+  "navigationFilterColumnOnlyNote": {
+    "message": "Mae'r hidlydd hwn yn berthnasol i'r golofn llywio yn unig."
+  },
+  "newExclamation": {
+    "message": "Newydd!"
+  },
+  "noDupsExistExceptForColon": {
+    "message": "Dim dyblygiadau, ac eithrio:"
+  },
+  "noDupsFoundHere": {
+    "message": "Ni chanfuwyd dyblygiadau yma"
+  },
+  "noMatches": {
+    "message": "Dim cyfatebiaethau"
+  },
+  "noMatchesFound": {
+    "message": "Ni chanfuwyd cyfatebiaethau"
+  },
+  "nonArchived": {
+    "message": "Heb eu harchifo"
+  },
+  "nonTabPinFlagHelp": {
+    "message": "Mae'r eitem hon wedi'i phinio i frig y ffolder. Cliciwch yr eicon hwn i'w dadbinio."
+  },
+  "noOpenTabsToStore": {
+    "message": "Nid oes tabiau agored yn y ffenestr hon i'w storio."
+  },
+  "noReadingListEntries": {
+    "message": "Ni chanfuwyd unrhyw gofnodion rhestr ddarllen"
+  },
+  "noTabsInOneTabYet": {
+    "message": "Nid oes gennych unrhyw dabiau yn OneTab eto"
+  },
+  "noTabsMeetCriteriaUseCheckboxes": {
+    "message": "Nid oes unrhyw dabiau agored yn bodloni eich meini prawf. Defnyddiwch y blychau ticio uchod."
+  },
+  "notAssigned": {
+    "message": "Heb ei aseinio"
+  },
+  "notes": {
+    "message": "Nodiadau"
+  },
+  "notesAboutTheLinkOptional": {
+    "message": "Nodiadau am y ddolen (dewisol)"
+  },
+  "notesAboutTheSecondLinkOptional": {
+    "message": "Nodiadau am yr ail ddolen (dewisol)"
+  },
+  "noTextHasBeenEntered": {
+    "message": "Nid oes unrhyw destun wedi'i nodi"
+  },
+  "ok": {
+    "message": "Iawn"
+  },
+  "omniboxShortcutInfo": {
+    "message": "I chwilio eich rhestr OneTab o unrhyw dab: ewch i far cyfeiriad eich porwr, teipiwch 11, yna bwlch, yna allweddair chwilio. I wneud chwiliad arferol (nad yw'n chwiliad OneTab) sy'n dechrau â 11, pwyswch 11 yna bwlch yna Backspace"
+  },
+  "OneTabAlsoAvailableForFirefox": {
+    "message": "Mae OneTab hefyd ar gael ar gyfer Firefox"
+  },
+  "oneTabDesignedToProtectPrivacy": {
+    "message": "Mae OneTab wedi'i gynllunio i ddiogelu eich preifatrwydd. Nid yw eich tabiau'n cael eu datgelu i ni."
+  },
+  "oneTabExportPageTitle": {
+    "message": "Allforio OneTab"
+  },
+  "oneTabFolderSlashShortcutInfo": {
+    "message": "Rhoi ffocws ar y blwch chwilio a chwilio o fewn y ffolder gyfredol yn unig"
+  },
+  "oneTabImportExportPageTitle": {
+    "message": "Mewnforio/allforio OneTab"
+  },
+  "oneTabNeedsPermissionToAccessYourTabs": {
+    "message": "Mae angen caniatâd ar OneTab i gael mynediad at eich tabiau."
+  },
+  "oneTabOptionsPageTitle": {
+    "message": "Opsiynau OneTab"
+  },
+  "oneTabPermissionRequired": {
+    "message": "OneTab - Mae angen caniatâd"
+  },
+  "oneTabRestartRequired": {
+    "message": "Mae angen i OneTab ailgychwyn. Ni fydd unrhyw dabiau eraill yn cael eu cau."
+  },
+  "oneTabSlashShortcutInfo": {
+    "message": "Rhoi ffocws ar y blwch chwilio"
+  },
+  "open": {
+    "message": "Agor"
+  },
+  "openActionPopup": {
+    "message": "Gweithred OneTab (cyfwerth â chlicio eicon OneTab ar y bar offer)"
+  },
+  "openAsCollapsedTabGroup": {
+    "message": "Agor fel Grŵp Tab wedi'i grebachu"
+  },
+  "openAsCollapsedTabGroupMenuItemHelp": {
+    "message": "Os byddwch yn agor y tabiau hyn fel “Grŵp Tab” wedi'i grebachu, dim ond label y grŵp fydd yn cael ei ddangos nes i chi glicio arno i ddatgelu'r tabiau y tu mewn."
+  },
+  "openAsPinnedTab": {
+    "message": "Pinio'r tab wrth ei agor"
+  },
+  "openAsPinnedTabMenuItemHelp": {
+    "message": "Pan fydd y tab hwn yn cael ei adfer, adferwch ef fel tab porwr wedi'i binio. Bydd tabiau wedi'u pinio bob amser yn ymddangos gyntaf yn ffenestr y porwr."
+  },
+  "openAsTabGroup": {
+    "message": "Agor fel Grŵp Tab yn y porwr"
+  },
+  "openAsTabGroupMenuItemHelp": {
+    "message": "Mae eich porwr yn caniatáu grwpio tabiau mewn “Grwpiau Tab” lliw o fewn ffenestr."
+  },
+  "openFolder": {
+    "message": "Agor ffolder"
+  },
+  "openGroupsLimitNotice_few": {
+    "message": "Er mwyn atal eich porwr rhag cael ei orlwytho, dim ond y {COUNT} grŵp cyntaf fydd yn agor."
+  },
+  "openGroupsLimitNotice_many": {
+    "message": "Er mwyn atal eich porwr rhag cael ei orlwytho, dim ond y {COUNT} grŵp cyntaf fydd yn agor."
+  },
+  "openGroupsLimitNotice_one": {
+    "message": "Er mwyn atal eich porwr rhag cael ei orlwytho, dim ond y {COUNT} grŵp cyntaf fydd yn agor."
+  },
+  "openGroupsLimitNotice_other": {
+    "message": "Er mwyn atal eich porwr rhag cael ei orlwytho, dim ond y {COUNT} grŵp cyntaf fydd yn agor."
+  },
+  "openGroupsLimitNotice_two": {
+    "message": "Er mwyn atal eich porwr rhag cael ei orlwytho, dim ond y {COUNT} grŵp cyntaf fydd yn agor."
+  },
+  "openGroupsLimitNotice_zero": {
+    "message": "Er mwyn atal eich porwr rhag cael ei orlwytho, dim ond y {COUNT} grŵp cyntaf fydd yn agor."
+  },
+  "openInIncognitoWindow": {
+    "message": "Adfer mewn ffenestr Anhysbys newydd"
+  },
+  "openInNewWindow": {
+    "message": "Adfer mewn ffenestr newydd"
+  },
+  "openInThisWindow": {
+    "message": "Adfer yn y ffenestr hon"
+  },
+  "openOneTab": {
+    "message": "Agor OneTab"
+  },
+  "openOneTabAfter": {
+    "message": "Agor OneTab ar ôl storio tabiau"
+  },
+  "openONETABLogo": {
+    "message": "Agor ONETAB"
+  },
+  "openParentFolder": {
+    "message": "Agor y ffolder riant"
+  },
+  "openTabFromWebsite": {
+    "message": "Agorwch dab ac ewch i'r wefan"
+  },
+  "openTabLimit_few": {
+    "message": "Er mwyn atal eich porwr rhag cael ei orlwytho, gellir agor uchafswm o {COUNT} thab ar yr un pryd."
+  },
+  "openTabLimit_many": {
+    "message": "Er mwyn atal eich porwr rhag cael ei orlwytho, gellir agor uchafswm o {COUNT} thab ar yr un pryd."
+  },
+  "openTabLimit_one": {
+    "message": "Er mwyn atal eich porwr rhag cael ei orlwytho, gellir agor uchafswm o {COUNT} tab ar yr un pryd."
+  },
+  "openTabLimit_other": {
+    "message": "Er mwyn atal eich porwr rhag cael ei orlwytho, gellir agor uchafswm o {COUNT} tab ar yr un pryd."
+  },
+  "openTabLimit_two": {
+    "message": "Er mwyn atal eich porwr rhag cael ei orlwytho, gellir agor uchafswm o {COUNT} dab ar yr un pryd."
+  },
+  "openTabLimit_zero": {
+    "message": "Er mwyn atal eich porwr rhag cael ei orlwytho, gellir agor uchafswm o {COUNT} tab ar yr un pryd."
+  },
+  "openTabsAlreadyStoredHere_few": {
+    "message": "{COUNT} tab agored eisoes wedi'u storio yma:"
+  },
+  "openTabsAlreadyStoredHere_many": {
+    "message": "{COUNT} tab agored eisoes wedi'u storio yma:"
+  },
+  "openTabsAlreadyStoredHere_one": {
+    "message": "{COUNT} tab agored eisoes wedi'i storio yma:"
+  },
+  "openTabsAlreadyStoredHere_other": {
+    "message": "{COUNT} tab agored eisoes wedi'u storio yma:"
+  },
+  "openTabsAlreadyStoredHere_two": {
+    "message": "{COUNT} tab agored eisoes wedi'u storio yma:"
+  },
+  "openTabsAlreadyStoredHere_zero": {
+    "message": "{COUNT} tab agored eisoes wedi'u storio yma:"
+  },
+  "openTabsConfirm_few": {
+    "message": "Rydych chi ar fin agor {COUNT} thab. Ydych chi'n siŵr?"
+  },
+  "openTabsConfirm_many": {
+    "message": "Rydych chi ar fin agor {COUNT} thab. Ydych chi'n siŵr?"
+  },
+  "openTabsConfirm_one": {
+    "message": "Rydych chi ar fin agor {COUNT} tab. Ydych chi'n siŵr?"
+  },
+  "openTabsConfirm_other": {
+    "message": "Rydych chi ar fin agor {COUNT} tab. Ydych chi'n siŵr?"
+  },
+  "openTabsConfirm_two": {
+    "message": "Rydych chi ar fin agor {COUNT} dab. Ydych chi'n siŵr?"
+  },
+  "openTabsConfirm_zero": {
+    "message": "Rydych chi ar fin agor {COUNT} tab. Ydych chi'n siŵr?"
+  },
+  "openTabsNotStoredInOneTab_few": {
+    "message": "{COUNT} tab agored heb eu storio yn OneTab"
+  },
+  "openTabsNotStoredInOneTab_many": {
+    "message": "{COUNT} tab agored heb eu storio yn OneTab"
+  },
+  "openTabsNotStoredInOneTab_one": {
+    "message": "{COUNT} tab agored heb ei storio yn OneTab"
+  },
+  "openTabsNotStoredInOneTab_other": {
+    "message": "{COUNT} tab agored heb eu storio yn OneTab"
+  },
+  "openTabsNotStoredInOneTab_two": {
+    "message": "{COUNT} tab agored heb eu storio yn OneTab"
+  },
+  "openTabsNotStoredInOneTab_zero": {
+    "message": "{COUNT} tab agored heb eu storio yn OneTab"
+  },
+  "optionAutoActionOnOpenArchiveDesc": {
+    "message": "Mae marcio tabiau fel wedi'u harchifo yn rhoi cefndir llwyd streipiog iddynt. Mae hyn yn rhoi arwydd gweledol eich bod wedi darllen y tabiau neu wedi gorffen â nhw."
+  },
+  "optionAutoActionOnOpenArchiveTitle": {
+    "message": "Eu marcio fel wedi'u harchifo"
+  },
+  "optionAutoActionOnOpenHeading": {
+    "message": "Wrth adfer tabiau:"
+  },
+  "optionAutoActionOnOpenNote": {
+    "message": "Mae grwpiau wedi'u cloi bob amser yn cadw eu tabiau"
+  },
+  "optionAutoActionOnOpenOpenDesc": {
+    "message": "I farcio'r tabiau fel wedi'u harchifo wrth eu hadfer, daliwch y fysell Alt neu Option"
+  },
+  "optionAutoActionOnOpenOpenTitle": {
+    "message": "Eu cadw yn eich rhestr"
+  },
+  "optionAutoActionOnOpenTrashDesc": {
+    "message": "I gadw’r tabiau yn eich rhestr wrth eu hadfer, daliwch y fysell Ctrl neu Cmd"
+  },
+  "optionAutoActionOnOpenTrashTitle": {
+    "message": "Eu tynnu o'ch rhestr"
+  },
+  "optionBrowserActionHeading": {
+    "message": "Pan fyddwch chi'n clicio ar eicon OneTab ar y bar offer:"
+  },
+  "optionBrowserActionOpenPopupDesc": {
+    "message": "Bydd y naidlen weithredu yn dangos rhestr o dabiau agored i chi, ac yn gadael i chi ddewis yn union pa dabiau rydych am eu hanfon i OneTab. Bydd yn gadael i chi osod teitl ar gyfer y grŵp o dabiau rydych yn ei storio, felly ni fydd angen i chi wneud hyn yn nes ymlaen o fewn tudalen OneTab. Bydd y naidlen hefyd yn rhoi mynediad hawdd i chi at eich rhestr gyflym o unrhyw ffenestr porwr."
+  },
+  "optionBrowserActionOpenPopupDesc2": {
+    "message": "Dewiswch yn union pa dabiau i'w storio"
+  },
+  "optionBrowserActionOpenPopupTitle": {
+    "message": "Dangos naidlen weithredu OneTab"
+  },
+  "optionBrowserActionSendCurrentTabDesc": {
+    "message": "Bydd y tab yn cael ei osod yn y grŵp cyntaf ar eich tudalen OneTab (gan anwybyddu unrhyw grwpiau sydd wedi'u pinio neu wedi'u cloi)"
+  },
+  "optionBrowserActionSendCurrentTabTitle": {
+    "message": "Anfon y tab cyfredol yn unig i OneTab"
+  },
+  "optionBrowserActionSendTabsInWindowDesc": {
+    "message": "Bydd eich tabiau'n cael eu cau a'u storio yn eich rhestr OneTab. Os ydych wedi dewis sawl tab ym mar tabiau eich porwr (gan ddefnyddio'r fysell Cmd, Ctrl neu Shift), dim ond y tabiau dethol fydd yn cael eu hanfon i OneTab. Os ydych yn defnyddio nodwedd grwpiau tab eich porwr, dim ond y grŵp tab cyfredol fydd yn cael ei anfon i OneTab."
+  },
+  "optionBrowserActionSendTabsInWindowDesc2": {
+    "message": "Y ffordd gyflymaf i storio tabiau"
+  },
+  "optionBrowserActionSendTabsInWindowTitle": {
+    "message": "Anfon tabiau yn y ffenestr gyfredol i OneTab"
+  },
+  "optionBrowserActionSendWholeWindowDesc": {
+    "message": "Fel uchod, ond caiff y ffenestr gyfan ei storio yn lle’r Grŵp Tab cyfredol yn unig"
+  },
+  "optionBrowserActionSendWholeWindowTitle": {
+    "message": "Anfon y ffenestr gyfredol i OneTab, gan gynnwys yr holl dabiau a’r holl Grwpiau Tab"
+  },
+  "optionCopyToClipboardFormatHeading": {
+    "message": "Copïo dolenni i'r clipfwrdd:"
+  },
+  "optionCopyToClipboardFormatMarkdownTitle": {
+    "message": "Markdown"
+  },
+  "optionCopyToClipboardFormatNote": {
+    "message": "Mae'r gosodiad hwn yn berthnasol pan ddefnyddiwch y weithred 'Copïo i'r clipfwrdd'. Gallwch hefyd lusgo tabiau a grwpiau yn uniongyrchol o OneTab i ddogfen."
+  },
+  "optionCopyToClipboardFormatRichTextDesc": {
+    "message": "Bydd rhaglenni megis proseswyr geiriau yn caniatáu i chi ludo testun cyfoethog. Os nad yw'n cael ei gefnogi, bydd testun plaen yn cael ei ludo yn lle hynny."
+  },
+  "optionCopyToClipboardFormatRichTextTitle": {
+    "message": "Testun cyfoethog, lle mae ar gael"
+  },
+  "optionCopyToClipboardFormatTitleUrlTitle": {
+    "message": "Teitl ac URL"
+  },
+  "optionCopyToClipboardFormatUrlOnlyTitle": {
+    "message": "URL yn unig"
+  },
+  "optionCopyToClipboardFormatUrlTitleTitle": {
+    "message": "URL a theitl"
+  },
+  "optionDefaultTabGroupOpenTypeCurrentWindow": {
+    "message": "Agor Grŵp Tab y porwr yn y ffenestr gyfredol"
+  },
+  "optionDefaultTabGroupOpenTypeHeading": {
+    "message": "Wrth glicio i agor grŵp o dabiau sydd wedi'u ffurfweddu i agor fel “Grŵp Tab” y porwr:"
+  },
+  "optionDefaultTabGroupOpenTypeNewWindow": {
+    "message": "Agor Grŵp Tab y porwr mewn ffenestr newydd"
+  },
+  "optionDefaultTabGroupOpenTypeNote": {
+    "message": "Os defnyddiwch y gwymplen i ddewis opsiwn penodol (fel agor tabiau mewn ffenestr Anhysbys), bydd yr opsiwn hwnnw'n cael ei gofio ar gyfer y grŵp penodol hwnnw."
+  },
+  "optionDefaultWindowGroupOpenTypeCurrentWindow": {
+    "message": "Agor y tabiau yn y ffenestr gyfredol"
+  },
+  "optionDefaultWindowGroupOpenTypeHeading": {
+    "message": "Wrth adfer grŵp o dabiau:"
+  },
+  "optionDefaultWindowGroupOpenTypeNewWindow": {
+    "message": "Agor y tabiau mewn ffenestr newydd, oni bai mai OneTab yw’r unig dab yn y ffenestr gyfredol"
+  },
+  "optionDefaultWindowGroupOpenTypeNewWindowAlways": {
+    "message": "Agor y tabiau mewn ffenestr newydd"
+  },
+  "optionDefaultWindowGroupOpenTypeNote": {
+    "message": "Caiff dewisiadau adfer a wneir o ddewislen “Mwy…” grŵp eu cofio ar gyfer y grŵp hwnnw."
+  },
+  "optionDiscardNonActiveTabOnOpenHeading": {
+    "message": "Arbed cof (RAM) ar unwaith pan agorir tabiau am y tro cyntaf:"
+  },
+  "optionDiscardNonActiveTabOnOpenNote": {
+    "message": "Os yw'r gosodiad hwn wedi'i alluogi, bydd yn dadlwytho tabiau o'r cof ar unwaith pan fyddwch yn eu hagor am y tro cyntaf o'ch rhestr OneTab. Mae hyn yn ddefnyddiol os ydych yn aml yn agor dwsinau o dabiau ar yr un pryd, gan y bydd yn eu hatal i gyd rhag cael eu llwytho i'r cof nes i chi gael mynediad atynt. Os yw'r gosodiad hwn wedi'i analluogi, bydd llawer o borwyr gwe yn dal i ddewis dadlwytho tabiau o'r cof yn awtomatig os nad ydych yn eu defnyddio ar hyn o bryd."
+  },
+  "optionDisplayContextMenuHeading": {
+    "message": "De-gliciwch y tu mewn i dudalen we i gael mynediad at ddewislen cyd-destun OneTab:"
+  },
+  "optionDisplayContextMenuNote": {
+    "message": "Os analluogwch y ddewislen, ni fyddwch yn gallu cael mynediad at y nodwedd \"Eithrio'r wefan hon o OneTab\""
+  },
+  "optionDuplicatesAllow": {
+    "message": "Caniatáu dyblygiadau"
+  },
+  "optionDuplicatesReject": {
+    "message": "Gwrthod dyblygiadau'n dawel"
+  },
+  "optionDuplicatesRejectDesc": {
+    "message": "Os yw OneTab eisoes yn cynnwys y tab, ni fydd yn cael ei ychwanegu eto."
+  },
+  "optionDuplicatesTitle": {
+    "message": "Dyblygiadau:"
+  },
+  "optionGroupTitleClickActionEditTitle": {
+    "message": "Golygu’r teitl"
+  },
+  "optionGroupTitleClickActionHeading": {
+    "message": "Pan fyddwch yn clicio ar deitl grŵp neu ffolder:"
+  },
+  "optionGroupTitleClickActionOpenDesc": {
+    "message": "Gallwch ailenwi grŵp o hyd drwy ei ddewislen “Mwy…”."
+  },
+  "optionGroupTitleClickActionOpenTitle": {
+    "message": "Adfer y grŵp, neu agor y ffolder"
+  },
+  "optionMoveOneTabToCurrentWindowOnOpenFalseTitle": {
+    "message": "Newid i'r ffenestr lle mae'r tab OneTab eisoes ar agor"
+  },
+  "optionMoveOneTabToCurrentWindowOnOpenHeading": {
+    "message": "Gweithred \"Agor OneTab\":"
+  },
+  "optionMoveOneTabToCurrentWindowOnOpenNote": {
+    "message": "Gweithred \"Agor OneTab\":"
+  },
+  "optionMoveOneTabToCurrentWindowOnOpenTrueTitle": {
+    "message": "Symud unrhyw dab OneTab sy'n bodoli i'r ffenestr gyfredol"
+  },
+  "optionPinnedTabsAllow": {
+    "message": "Caniatáu anfon tabiau wedi'u pinio i OneTab"
+  },
+  "optionPinnedTabsDontSend": {
+    "message": "Peidio ag anfon tabiau wedi'u pinio i OneTab"
+  },
+  "optionPinnedTabsDontSendDesc": {
+    "message": "Gallwch anfon tab wedi'i binio i OneTab â llaw o hyd drwy dde-glicio o fewn y dudalen we i gael mynediad at ddewislen OneTab, ac yna clicio 'Anfon y tab hwn yn unig i OneTab'"
+  },
+  "optionPinnedTabsNote": {
+    "message": "Nodyn:  Mae tab yn dod yn 'wedi'i binio' pan fyddwch yn de-glicio ar y tab ac yn clicio 'Pinio tab'. Mae rhai pobl yn hoffi pinio gwefannau fel Facebook neu Gmail fel y gallant ddod o hyd iddynt yn hawdd. Bydd OneTab yn cofio a oedd tab wedi'i binio pan fyddwch yn ei adfer."
+  },
+  "optionPinnedTabsTitle": {
+    "message": "Tabiau wedi'u pinio:"
+  },
+  "options": {
+    "message": "Opsiynau"
+  },
+  "optionStartupLaunchDisplay": {
+    "message": "Agor OneTab yn awtomatig"
+  },
+  "optionStartupLaunchNone": {
+    "message": "Peidio ag agor OneTab yn awtomatig"
+  },
+  "optionStartupLaunchNoneDesc3": {
+    "message": "I agor OneTab â llaw, gallwch dde-glicio y tu mewn i unrhyw dudalen we, a chlicio 'Agor OneTab' yn newislen OneTab."
+  },
+  "optionStartupLaunchTitle": {
+    "message": "Wrth gychwyn y porwr:"
+  },
+  "optionSwitchToOpenedTabFalseTitle": {
+    "message": "Agor y tab ac aros yn OneTab"
+  },
+  "optionSwitchToOpenedTabHeading": {
+    "message": "Wrth adfer tabiau o dudalen OneTab:"
+  },
+  "optionSwitchToOpenedTabNote": {
+    "message": "Os daliwch Shift wrth glicio, bydd y tab yn agor mewn ffenestr newydd"
+  },
+  "optionSwitchToOpenedTabTrueTitle": {
+    "message": "Agor y tab, a newid iddo (oni bai eich bod yn dal Command ⌘/Ctrl wrth glicio)"
+  },
+  "optionUpdateTitleOnDuplicateKeep": {
+    "message": "Cadw’r teitl presennol"
+  },
+  "optionUpdateTitleOnDuplicateKeepDesc": {
+    "message": "Gallwch ailenwi’r tab yn OneTab, a chaiff eich teitl personol ei gadw."
+  },
+  "optionUpdateTitleOnDuplicateNote": {
+    "message": "Rhennir teitlau a nodiadau ar draws pob copi o’r un tab."
+  },
+  "optionUpdateTitleOnDuplicateTitle": {
+    "message": "Wrth storio tab sydd eisoes yn OneTab:"
+  },
+  "optionUpdateTitleOnDuplicateUpdate": {
+    "message": "Defnyddio’r teitl diweddaraf"
+  },
+  "optionUpdateTitleOnDuplicateUpdateDesc": {
+    "message": "Diweddaru’r teitl sydd wedi’i gadw i gyd-fynd â’r tab rydych newydd ei anfon."
+  },
+  "optionUrlAbbr": {
+    "message": "Talfyredig"
+  },
+  "optionUrlDisplayTitle": {
+    "message": "Arddangosiad URL:"
+  },
+  "optionUrlDomain": {
+    "message": "Parth yn unig"
+  },
+  "optionUrlFull": {
+    "message": "Llawn"
+  },
+  "optionUrlNone": {
+    "message": "Dim"
+  },
+  "otherCopiesColon": {
+    "message": "Copïau eraill:"
+  },
+  "pasteRichOrPlainTextBelow": {
+    "message": "Gallwch ludo testun cyfoethog neu destun plaen isod."
+  },
+  "pendingTaskCount_few": {
+    "message": "{COUNT} yn aros"
+  },
+  "pendingTaskCount_many": {
+    "message": "{COUNT} yn aros"
+  },
+  "pendingTaskCount_one": {
+    "message": "{COUNT} yn aros"
+  },
+  "pendingTaskCount_other": {
+    "message": "{COUNT} yn aros"
+  },
+  "pendingTaskCount_two": {
+    "message": "{COUNT} yn aros"
+  },
+  "pendingTaskCount_zero": {
+    "message": "{COUNT} yn aros"
+  },
+  "pendingTaskFlagHelp": {
+    "message": "Mae'r eitem hon yn dasg. Cliciwch yr eicon hwn i'w marcio fel wedi'i chwblhau."
+  },
+  "permissionRequiredPleaseTryAgain": {
+    "message": "I greu tudalen a rennir y gellir cael mynediad ati o unrhyw gyfrifiadur, mae angen caniatâd i gydgysylltu â gweinydd gwe OneTab. Rhowch gynnig arall arni."
+  },
+  "pinnedTabs": {
+    "message": "tabiau wedi'u pinio"
+  },
+  "pinToTopOfFolder": {
+    "message": "Pinio i frig y ffolder"
+  },
+  "pinToTopOfFolderMenuItemHelp": {
+    "message": "Piniwch y grŵp hwn fel ei fod bob amser yn cael ei restru ar frig y ffolder"
+  },
+  "pinToTopOfList": {
+    "message": "Pinio i frig y rhestr"
+  },
+  "placeholderAndOtherLocations_few": {
+    "message": "PLACEHOLDER, a {COUNT} arall"
+  },
+  "placeholderAndOtherLocations_many": {
+    "message": "PLACEHOLDER, a {COUNT} arall"
+  },
+  "placeholderAndOtherLocations_one": {
+    "message": "PLACEHOLDER, a {COUNT} arall"
+  },
+  "placeholderAndOtherLocations_other": {
+    "message": "PLACEHOLDER, a {COUNT} arall"
+  },
+  "placeholderAndOtherLocations_two": {
+    "message": "PLACEHOLDER, a {COUNT} arall"
+  },
+  "placeholderAndOtherLocations_zero": {
+    "message": "PLACEHOLDER, a {COUNT} arall"
+  },
+  "placeholderExplanation": {
+    "message": "Oherwydd rheolau diogelwch porwyr gwe, ni chaniateir i OneTab adfer y dudalen hon yn uniongyrchol. Copïwch eich URL a'i ludo i far cyfeiriad eich porwr."
+  },
+  "plainTextLineFormat": {
+    "message": "Os byddwch yn ludo testun plaen, gwnewch yn siŵr bod protocol wedi'i nodi ar gyfer pob URL (https://wikipedia.org, yn hytrach na dim ond wikipedia.org). Dylai pob llinell fod yn y fformat canlynol:"
+  },
+  "pleaseWaitTripleDot": {
+    "message": "Arhoswch…"
+  },
+  "popupSlashShortcutInfo": {
+    "message": "Os yw naidlen weithredu OneTab wedi'i galluogi gennych, agor y dewiswr cyrchfan a rhoi ffocws ar y blwch chwilio"
+  },
+  "printUseSaveTabsAsHtmlFileAlertHtml": {
+    "message": "I gael y canlyniadau argraffu gorau, defnyddiwch y weithred <b>Cadw fel ffeil HTML</b> yn newislen <b>Mwy…</b> y ffolder, yna argraffwch y ffeil HTML a lawrlwythwyd."
+  },
+  "privacyAssurance": {
+    "message": "Sicrwydd preifatrwydd"
+  },
+  "privacyAssuranceDetail": {
+    "message": "Nid yw eich rhestr o dabiau byth yn cael ei throsglwyddo na'i datgelu i ddatblygwyr OneTab nac i unrhyw barti arall. Yr unig eithriad yw os byddwch yn defnyddio'r nodwedd 'rhannu fel tudalen we' yn fwriadol i uwchlwytho eich rhestr o dabiau i dudalen we er mwyn ei rhannu ag eraill."
+  },
+  "privacyFirst": {
+    "message": "Preifatrwydd yn gyntaf"
+  },
+  "privacyFirstMessage": {
+    "message": "Mae OneTab wedi'i gynllunio i ddiogelu eich data preifat. Dim ond ar eich cyfrifiadur y caiff eich tabiau eu storio, ac ni chânt byth eu rhannu â datblygwyr OneTab nac unrhyw barti arall.\nOs defnyddiwch ein nodwedd copïo wrth gefn/cysoni, bydd eich data wedi'i amgryptio o'r dechrau i'r diwedd ag amgryptio cryf AES-256. Mae hyn yn ei gwneud yn amhosibl i ddatblygwyr OneTab weld y tabiau rydych wedi'u copïo wrth gefn neu'u cysoni rhwng dyfeisiau, oherwydd dim ond chi sydd â'r allwedd amgryptio. \nYr unig eithriad yw os penderfynwch yn fwriadol rannu rhai o'ch tabiau â phobl eraill gan ddefnyddio ein nodwedd “Rhannu fel tudalen we”.\nRydym yn credu mewn preifatrwydd yn gyntaf."
+  },
+  "privateBrowsingPermissionRequired": {
+    "message": "Mae angen caniatâd ar OneTab i greu ffenestri pori preifat."
+  },
+  "privateBrowsingWindows": {
+    "message": "Ffenestri pori preifat"
+  },
+  "quickList": {
+    "message": "Rhestr gyflym"
+  },
+  "readingList": {
+    "message": "Rhestr ddarllen"
+  },
+  "readingListPermissionNecesssary": {
+    "message": "Mae angen caniatâd rhestr ddarllen er mwyn i OneTab allu mewnforio eitemau o'ch rhestr ddarllen. Os nad yw'r nodwedd hon yn gweithio, efallai nad yw eich porwr yn cefnogi rhestrau darllen."
+  },
+  "recent": {
+    "message": "Diweddar"
+  },
+  "recentDestinationsColon": {
+    "message": "Cyrchfannau diweddar:"
+  },
+  "recentDuplicateRetainedHelp": {
+    "message": "Os bydd tab yn ymddangos fwy nag unwaith, dim ond y dyblygiad mwyaf diweddar fydd yn cael ei gadw"
+  },
+  "recentFolders": {
+    "message": "Ffolderi diweddar"
+  },
+  "recentGroups": {
+    "message": "Grwpiau diweddar"
+  },
+  "recentlyAccessed": {
+    "message": "Cyrchwyd yn ddiweddar"
+  },
+  "recentlyCreated": {
+    "message": "Crëwyd yn ddiweddar"
+  },
+  "recentlyModified": {
+    "message": "Addaswyd yn ddiweddar"
+  },
+  "reduceMemoryUsageBy95Pct": {
+    "message": "Lleihau'r defnydd o gof gan 95%"
+  },
+  "removeDuplicates": {
+    "message": "Tynnu dyblygiadau"
+  },
+  "removeDuplicatesMenuItemHelp": {
+    "message": "Byddwch yn gallu tynnu dyblygiadau yma ond nid mewn mannau eraill, neu mewn mannau eraill ond nid yma."
+  },
+  "removeDuplicateTabsHere_few": {
+    "message": "Tynnu {COUNT} tab dyblyg yma"
+  },
+  "removeDuplicateTabsHere_many": {
+    "message": "Tynnu {COUNT} tab dyblyg yma"
+  },
+  "removeDuplicateTabsHere_one": {
+    "message": "Tynnu {COUNT} tab dyblyg yma"
+  },
+  "removeDuplicateTabsHere_other": {
+    "message": "Tynnu {COUNT} tab dyblyg yma"
+  },
+  "removeDuplicateTabsHere_two": {
+    "message": "Tynnu {COUNT} tab dyblyg yma"
+  },
+  "removeDuplicateTabsHere_zero": {
+    "message": "Tynnu {COUNT} tab dyblyg yma"
+  },
+  "removeFromQuickList": {
+    "message": "Tynnu o'r rhestr gyflym"
+  },
+  "removeFromQuickListMenuItemHelp": {
+    "message": "Ni fydd yr eitem yn cael ei hanfon i'r sbwriel - bydd ond yn cael ei thynnu o'ch rhestr gyflym."
+  },
+  "removeStar": {
+    "message": "Tynnu seren"
+  },
+  "removeTabsElsewhereAlsoHere_few": {
+    "message": "Tynnu {COUNT} tab mewn mannau eraill sydd hefyd yn bodoli yma"
+  },
+  "removeTabsElsewhereAlsoHere_many": {
+    "message": "Tynnu {COUNT} tab mewn mannau eraill sydd hefyd yn bodoli yma"
+  },
+  "removeTabsElsewhereAlsoHere_one": {
+    "message": "Tynnu {COUNT} tab mewn man arall sydd hefyd yn bodoli yma"
+  },
+  "removeTabsElsewhereAlsoHere_other": {
+    "message": "Tynnu {COUNT} tab mewn mannau eraill sydd hefyd yn bodoli yma"
+  },
+  "removeTabsElsewhereAlsoHere_two": {
+    "message": "Tynnu {COUNT} tab mewn mannau eraill sydd hefyd yn bodoli yma"
+  },
+  "removeTabsElsewhereAlsoHere_zero": {
+    "message": "Tynnu {COUNT} tab mewn mannau eraill sydd hefyd yn bodoli yma"
+  },
+  "removeTabsHereAlsoElsewhere_few": {
+    "message": "Tynnu {COUNT} tab yma sydd hefyd yn bodoli mewn mannau eraill"
+  },
+  "removeTabsHereAlsoElsewhere_many": {
+    "message": "Tynnu {COUNT} tab yma sydd hefyd yn bodoli mewn mannau eraill"
+  },
+  "removeTabsHereAlsoElsewhere_one": {
+    "message": "Tynnu {COUNT} tab yma sydd hefyd yn bodoli mewn man arall"
+  },
+  "removeTabsHereAlsoElsewhere_other": {
+    "message": "Tynnu {COUNT} tab yma sydd hefyd yn bodoli mewn mannau eraill"
+  },
+  "removeTabsHereAlsoElsewhere_two": {
+    "message": "Tynnu {COUNT} tab yma sydd hefyd yn bodoli mewn mannau eraill"
+  },
+  "removeTabsHereAlsoElsewhere_zero": {
+    "message": "Tynnu {COUNT} tab yma sydd hefyd yn bodoli mewn mannau eraill"
+  },
+  "rename": {
+    "message": "Ailenwi"
+  },
+  "renameOrAddNote": {
+    "message": "Ailenwi / ychwanegu nodyn"
+  },
+  "restore": {
+    "message": "Adfer"
+  },
+  "restoreAll": {
+    "message": "Adfer y cyfan"
+  },
+  "restrictSearchToFolderColon": {
+    "message": "Cyfyngu'r chwiliad i'r ffolder ganlynol:"
+  },
+  "results": {
+    "message": "Canlyniadau"
+  },
+  "returnToOneTab": {
+    "message": "Dychwelyd i OneTab"
+  },
+  "reverse": {
+    "message": "Gwrthdro"
+  },
+  "rightClickAndOpenOneTabMenu": {
+    "message": "De-gliciwch yn y dudalen we, ac ewch i ddewislen OneTab"
+  },
+  "rightClickMenuDisabledNote": {
+    "message": "Nodyn: Rydych wedi analluogi dewislen de-glicio OneTab. Galluogwch hi ar dudalen opsiynau OneTab."
+  },
+  "rightClickSelectionOptionsTip": {
+    "message": "Awgrym: Ar ôl i chi dicio eitem, de-gliciwch ar yr eicon tic i ddangos mwy o opsiynau dewis"
+  },
+  "rightClickTickTip": {
+    "message": "Awgrym: De-gliciwch yr eicon tic wrth ymyl pob tab i weld offer dewis"
+  },
+  "safariApproveOneTabInSettings": {
+    "message": "Ewch i Gosodiadau, a chaniatáu i OneTab gael mynediad at bob gwefan."
+  },
+  "save95PctReduceTabClutterGoogleChrome": {
+    "message": "Arbed hyd at 95% o gof a lleihau annibendod tabiau yn Google Chrome"
+  },
+  "saveChoice": {
+    "message": "Cadw'r dewis"
+  },
+  "saveTabsAsHtmlFile": {
+    "message": "Cadw fel ffeil HTML"
+  },
+  "saveTabsAsHtmlFileMenuItemHelp": {
+    "message": "Creu a lawrlwytho ffeil HTML sy'n cynnwys pob grŵp o dabiau yn y ffolder hon."
+  },
+  "searchHere": {
+    "message": "Chwilio yma"
+  },
+  "searchOneTab": {
+    "message": "Chwilio OneTab"
+  },
+  "secondExampleLink": {
+    "message": "Ail ddolen enghreifftiol"
+  },
+  "secondExampleLinkTitle": {
+    "message": "Teitl ail ddolen enghreifftiol"
+  },
+  "secondExampleLinkTitleOptional": {
+    "message": "Teitl ail ddolen enghreifftiol (dewisol)"
+  },
+  "seeOtherTabsInThisGroup_few": {
+    "message": "Gweld {COUNT} tab arall yn y grŵp hwn"
+  },
+  "seeOtherTabsInThisGroup_many": {
+    "message": "Gweld {COUNT} tab arall yn y grŵp hwn"
+  },
+  "seeOtherTabsInThisGroup_one": {
+    "message": "Gweld {COUNT} tab arall yn y grŵp hwn"
+  },
+  "seeOtherTabsInThisGroup_other": {
+    "message": "Gweld {COUNT} tab arall yn y grŵp hwn"
+  },
+  "seeOtherTabsInThisGroup_two": {
+    "message": "Gweld {COUNT} tab arall yn y grŵp hwn"
+  },
+  "seeOtherTabsInThisGroup_zero": {
+    "message": "Gweld {COUNT} tab arall yn y grŵp hwn"
+  },
+  "seePasteInstructions": {
+    "message": "Gweld cyfarwyddiadau gludo…"
+  },
+  "seeTabsInThisGroup_few": {
+    "message": "Gweld {COUNT} tab yn y grŵp hwn"
+  },
+  "seeTabsInThisGroup_many": {
+    "message": "Gweld {COUNT} tab yn y grŵp hwn"
+  },
+  "seeTabsInThisGroup_one": {
+    "message": "Gweld {COUNT} tab yn y grŵp hwn"
+  },
+  "seeTabsInThisGroup_other": {
+    "message": "Gweld {COUNT} tab yn y grŵp hwn"
+  },
+  "seeTabsInThisGroup_two": {
+    "message": "Gweld {COUNT} tab yn y grŵp hwn"
+  },
+  "seeTabsInThisGroup_zero": {
+    "message": "Gweld {COUNT} tab yn y grŵp hwn"
+  },
+  "selectAll": {
+    "message": "Dewis y cyfan"
+  },
+  "selectAllExceptThis": {
+    "message": "Dewis popeth heblaw hwn"
+  },
+  "selectedItemCount_few": {
+    "message": "{COUNT} eitem"
+  },
+  "selectedItemCount_many": {
+    "message": "{COUNT} eitem"
+  },
+  "selectedItemCount_one": {
+    "message": "{COUNT} eitem"
+  },
+  "selectedItemCount_other": {
+    "message": "{COUNT} eitem"
+  },
+  "selectedItemCount_two": {
+    "message": "{COUNT} eitem"
+  },
+  "selectedItemCount_zero": {
+    "message": "{COUNT} eitem"
+  },
+  "selection": {
+    "message": "Detholiad"
+  },
+  "selectThisAndAbove": {
+    "message": "Dewis hwn a phopeth uwchben"
+  },
+  "selectThisAndBelow": {
+    "message": "Dewis hwn a phopeth isod"
+  },
+  "sendAllTabsAllWindows": {
+    "message": "Anfon pob tab o bob ffenestr"
+  },
+  "sendAllTabsAllWindowsToOneTab": {
+    "message": "Anfon pob tab o bob ffenestr i OneTab"
+  },
+  "sendAllTabsExceptThis": {
+    "message": "Anfon pob tab heblaw'r tab hwn"
+  },
+  "sendAllTabsExceptThisToOneTab": {
+    "message": "Anfon pob tab heblaw'r tab hwn i OneTab"
+  },
+  "sendAllTabsInGroup": {
+    "message": "Anfon pob tab yn y grŵp tab hwn"
+  },
+  "sendAllTabsInGroupToOneTab": {
+    "message": "Anfon pob tab yn y grŵp tab hwn i OneTab"
+  },
+  "sendAllTabsInWindow": {
+    "message": "Anfon pob tab yn y ffenestr hon"
+  },
+  "sendAllTabsInWindowToOneTab": {
+    "message": "Anfon pob tab yn y ffenestr hon i OneTab"
+  },
+  "sendCurrentTabToOneTab": {
+    "message": "Anfon y tab cyfredol i OneTab"
+  },
+  "sendLeftTabs": {
+    "message": "Anfon tabiau ar y chwith"
+  },
+  "sendLeftTabsToOneTab": {
+    "message": "Anfon tabiau ar y chwith i OneTab"
+  },
+  "sendOnlyThisTab": {
+    "message": "Anfon y tab hwn yn unig"
+  },
+  "sendOnlyThisTabToOneTab": {
+    "message": "Anfon y tab hwn yn unig i OneTab"
+  },
+  "sendRightTabs": {
+    "message": "Anfon tabiau ar y dde"
+  },
+  "sendRightTabsToOneTab": {
+    "message": "Anfon tabiau ar y dde i OneTab"
+  },
+  "sendSelectedTabs": {
+    "message": "Anfon tabiau dethol"
+  },
+  "sendSelectedTabsToOneTab": {
+    "message": "Anfon tabiau dethol i OneTab"
+  },
+  "sendThisWebLink": {
+    "message": "Anfon y ddolen we hon"
+  },
+  "sendThisWebLinkToOneTab": {
+    "message": "Anfon y ddolen we hon i OneTab"
+  },
+  "serverUnreachable": {
+    "message": "Does dim modd cyrraedd y gweinydd. Gwiriwch eich cysylltiad rhyngrwyd."
+  },
+  "share": {
+    "message": "Rhannu"
+  },
+  "shareAsAWebPage": {
+    "message": "Rhannu fel tudalen we"
+  },
+  "shareAsAWebPageMenuItemHelp": {
+    "message": "Mae hyn yn creu tudalen we sy'n cynnwys eich tabiau, fel y gallwch rannu'r dudalen yn breifat neu'n gyhoeddus ag eraill."
+  },
+  "shared": {
+    "message": "Wedi'u rhannu"
+  },
+  "sharedExpiresColon": {
+    "message": "Wedi'i rannu fel tudalen we. Daw i ben:"
+  },
+  "sharedPageOptions": {
+    "message": "Opsiynau tudalen a rennir"
+  },
+  "sharedPageTabLimit_few": {
+    "message": "Mae tudalennau a rennir wedi'u cyfyngu i {COUNT} thab"
+  },
+  "sharedPageTabLimit_many": {
+    "message": "Mae tudalennau a rennir wedi'u cyfyngu i {COUNT} thab"
+  },
+  "sharedPageTabLimit_one": {
+    "message": "Mae tudalennau a rennir wedi'u cyfyngu i {COUNT} tab"
+  },
+  "sharedPageTabLimit_other": {
+    "message": "Mae tudalennau a rennir wedi'u cyfyngu i {COUNT} tab"
+  },
+  "sharedPageTabLimit_two": {
+    "message": "Mae tudalennau a rennir wedi'u cyfyngu i {COUNT} dab"
+  },
+  "sharedPageTabLimit_zero": {
+    "message": "Mae tudalennau a rennir wedi'u cyfyngu i {COUNT} tab"
+  },
+  "sharedPageWillAutomaticallyExpire": {
+    "message": "Bydd y dudalen a rennir yn dod i ben yn awtomatig, ond gallwch ymestyn y dyddiad dod i ben ar unrhyw adeg."
+  },
+  "showEverything": {
+    "message": "Dangos popeth"
+  },
+  "showFoldersOnly": {
+    "message": "Dangos ffolderi yn unig"
+  },
+  "showNamedItemsOnly": {
+    "message": "Dangos eitemau wedi'u henwi yn unig"
+  },
+  "showNamedOnly": {
+    "message": "Dangos eitemau wedi'u henwi yn unig"
+  },
+  "showNextCount_few": {
+    "message": "Y {COUNT} nesaf"
+  },
+  "showNextCount_many": {
+    "message": "Y {COUNT} nesaf"
+  },
+  "showNextCount_one": {
+    "message": "Y {COUNT} nesaf"
+  },
+  "showNextCount_other": {
+    "message": "Y {COUNT} nesaf"
+  },
+  "showNextCount_two": {
+    "message": "Y {COUNT} nesaf"
+  },
+  "showNextCount_zero": {
+    "message": "Y {COUNT} nesaf"
+  },
+  "showPreviousCount_few": {
+    "message": "Y {COUNT} blaenorol"
+  },
+  "showPreviousCount_many": {
+    "message": "Y {COUNT} blaenorol"
+  },
+  "showPreviousCount_one": {
+    "message": "Y {COUNT} blaenorol"
+  },
+  "showPreviousCount_other": {
+    "message": "Y {COUNT} blaenorol"
+  },
+  "showPreviousCount_two": {
+    "message": "Y {COUNT} blaenorol"
+  },
+  "showPreviousCount_zero": {
+    "message": "Y {COUNT} blaenorol"
+  },
+  "soon": {
+    "message": "cyn bo hir"
+  },
+  "sort": {
+    "message": "Trefnu"
+  },
+  "sortByColon": {
+    "message": "Trefnu yn ôl:"
+  },
+  "sortGroups": {
+    "message": "Trefnu grwpiau"
+  },
+  "sortGroupsMenuFooterNote": {
+    "message": "Mae hyn yn trefnu'r grwpiau yn y ffolder hon. Nid yw'n trefnu'r tabiau y tu mewn iddynt."
+  },
+  "sourceColon": {
+    "message": "Ffynhonnell:"
+  },
+  "star": {
+    "message": "Rhoi seren"
+  },
+  "starFlagHelp": {
+    "message": "Mae'r eitem hon wedi'i marcio â seren i ddangos ei phwysigrwydd yn weledol. Cliciwch yr eicon hwn i dynnu'r seren."
+  },
+  "starMenuItemHelp": {
+    "message": "Defnyddiwch y seren fel dangosydd gweledol bod rhywbeth yn bwysig"
+  },
+  "starred": {
+    "message": "Â seren"
+  },
+  "storeAllOpenWindowsHere": {
+    "message": "Storio pob ffenestr agored yma"
+  },
+  "storeAllOpenWindowsHereMenuItemHelp": {
+    "message": "Cau'r holl ffenestri porwr agored a'u storio yn y ffolder hon"
+  },
+  "storeSelectedTabsInONETAB_few": {
+    "message": "Storio {COUNT} tab dethol yn ONETAB"
+  },
+  "storeSelectedTabsInONETAB_many": {
+    "message": "Storio {COUNT} tab dethol yn ONETAB"
+  },
+  "storeSelectedTabsInONETAB_one": {
+    "message": "Storio {COUNT} tab dethol yn ONETAB"
+  },
+  "storeSelectedTabsInONETAB_other": {
+    "message": "Storio {COUNT} tab dethol yn ONETAB"
+  },
+  "storeSelectedTabsInONETAB_two": {
+    "message": "Storio {COUNT} tab dethol yn ONETAB"
+  },
+  "storeSelectedTabsInONETAB_zero": {
+    "message": "Storio {COUNT} tab dethol yn ONETAB"
+  },
+  "storeTabsInAdditionalLocation_few": {
+    "message": "Storio eich tabiau eto beth bynnag"
+  },
+  "storeTabsInAdditionalLocation_many": {
+    "message": "Storio eich tabiau eto beth bynnag"
+  },
+  "storeTabsInAdditionalLocation_one": {
+    "message": "Storio eich tab eto beth bynnag"
+  },
+  "storeTabsInAdditionalLocation_other": {
+    "message": "Storio eich tabiau eto beth bynnag"
+  },
+  "storeTabsInAdditionalLocation_two": {
+    "message": "Storio eich tabiau eto beth bynnag"
+  },
+  "storeTabsInAdditionalLocation_zero": {
+    "message": "Storio eich tabiau eto beth bynnag"
+  },
+  "storeTabsInONETAB_few": {
+    "message": "Storio tabiau yn ONETAB"
+  },
+  "storeTabsInONETAB_many": {
+    "message": "Storio tabiau yn ONETAB"
+  },
+  "storeTabsInONETAB_one": {
+    "message": "Storio tab yn ONETAB"
+  },
+  "storeTabsInONETAB_other": {
+    "message": "Storio tabiau yn ONETAB"
+  },
+  "storeTabsInONETAB_two": {
+    "message": "Storio tabiau yn ONETAB"
+  },
+  "storeTabsInONETAB_zero": {
+    "message": "Storio tabiau yn ONETAB"
+  },
+  "subFoldersNotShared": {
+    "message": "Sylwch nad yw is-ffolderi'n cael eu rhannu. Dim ond grwpiau o dabiau sydd yn uniongyrchol yn y ffolder sy'n cael eu rhannu."
+  },
+  "tab": {
+    "message": "tab"
+  },
+  "tabAlreadyStoredHere": {
+    "message": "Mae eich tab agored eisoes wedi'i storio yma:"
+  },
+  "tabCaretTooltipTitleNotes": {
+    "message": "Golygu teitl a nodiadau'r tab"
+  },
+  "tabCaretTooltipTitleNotesUrl": {
+    "message": "Golygu teitl, URL a nodiadau'r tab"
+  },
+  "tabCount_few": {
+    "message": "{COUNT} thab"
+  },
+  "tabCount_many": {
+    "message": "{COUNT} thab"
+  },
+  "tabCount_one": {
+    "message": "{COUNT} tab"
+  },
+  "tabCount_other": {
+    "message": "{COUNT} tab"
+  },
+  "tabCount_two": {
+    "message": "{COUNT} dab"
+  },
+  "tabCount_zero": {
+    "message": "{COUNT} tab"
+  },
+  "tabGroupColorColon": {
+    "message": "Lliw Grŵp Tab:"
+  },
+  "tabGroupIndicatorTooltipHelp": {
+    "message": "Mae'r grŵp hwn wedi'i ffurfweddu i agor fel Grŵp Tab yn y porwr. Gallwch newid y gosodiad hwn yn newislen “Mwy…”"
+  },
+  "tabPinFlagHelp": {
+    "message": "Bydd y tab hwn yn cael ei adfer fel tab porwr wedi'i binio. Cliciwch yr eicon hwn i'w ddadbinio."
+  },
+  "tabs": {
+    "message": "Tabiau"
+  },
+  "tabsFromExcludedDomains": {
+    "message": "tabiau o barthau wedi'u heithrio"
+  },
+  "tabsInTabGroups": {
+    "message": "tabiau mewn grwpiau tab"
+  },
+  "tabTotalCount_few": {
+    "message": "Cyfanswm: {COUNT} thab"
+  },
+  "tabTotalCount_many": {
+    "message": "Cyfanswm: {COUNT} thab"
+  },
+  "tabTotalCount_one": {
+    "message": "Cyfanswm: {COUNT} tab"
+  },
+  "tabTotalCount_other": {
+    "message": "Cyfanswm: {COUNT} tab"
+  },
+  "tabTotalCount_two": {
+    "message": "Cyfanswm: {COUNT} dab"
+  },
+  "tabTotalCount_zero": {
+    "message": "Cyfanswm: {COUNT} tab"
+  },
+  "tasks": {
+    "message": "Tasgau"
+  },
+  "tasksDone": {
+    "message": "Tasgau (wedi'u cwblhau)"
+  },
+  "tasksPending": {
+    "message": "Tasgau (ar y gweill)"
+  },
+  "tasksWillAppearHere": {
+    "message": "Os byddwch yn marcio unrhyw un o'ch tabiau neu grwpiau fel tasgau, byddant yn ymddangos yma."
+  },
+  "taskTotalCount_few": {
+    "message": "{COUNT} i gyd"
+  },
+  "taskTotalCount_many": {
+    "message": "{COUNT} i gyd"
+  },
+  "taskTotalCount_one": {
+    "message": "{COUNT} i gyd"
+  },
+  "taskTotalCount_other": {
+    "message": "{COUNT} i gyd"
+  },
+  "taskTotalCount_two": {
+    "message": "{COUNT} i gyd"
+  },
+  "taskTotalCount_zero": {
+    "message": "{COUNT} i gyd"
+  },
+  "themeQuickSwitchHint": {
+    "message": "I newid themâu'n gyflym, daliwch ctrl neu cmd wrth glicio eicon y thema"
+  },
+  "thenClickToolbarIcon": {
+    "message": "Yna, cliciwch eicon OneTab ar y bar offer eto i ddefnyddio OneTab."
+  },
+  "thisFolderIsEmpty": {
+    "message": "Mae'r ffolder hon yn wag"
+  },
+  "thisTab": {
+    "message": "Y tab hwn"
+  },
+  "thisTabGroup": {
+    "message": "Y grŵp tab hwn"
+  },
+  "thisTabNotStored": {
+    "message": "Nid yw'r tab hwn wedi'i storio yn OneTab"
+  },
+  "thisWindow": {
+    "message": "Y ffenestr hon"
+  },
+  "tickOrUntickToExclude": {
+    "message": "Ticiwch neu ddad-diciwch i eithrio'r wefan"
+  },
+  "title": {
+    "message": "Teitl"
+  },
+  "toAddOrRemoveExclusions": {
+    "message": "I ychwanegu gwefan at y rhestr eithrio neu ei thynnu ohoni:"
+  },
+  "toAllowOneTabInIncognito": {
+    "message": "I ganiatáu i eicon OneTab ymddangos mewn ffenestri Anhysbys: "
+  },
+  "toImportBrowserBookmarksUseMenuOption": {
+    "message": "I fewnforio o nodau tudalen y porwr, defnyddiwch yr opsiwn dewislen 'Mewnforio dolenni yma' ar eich tudalen OneTab"
+  },
+  "toMakeOpenButtonWorkApprovePermission": {
+    "message": "I wneud i'r botwm \"Agor\" ar dudalennau a rennir weithio, cymeradwywch y cais am ganiatâd."
+  },
+  "tooManyTabsSpeedUpFirefox": {
+    "message": "Gormod o dabiau? Troswch eich tabiau yn rhestr a chyflymwch Firefox"
+  },
+  "tooManyTabsSpeedUpSafari": {
+    "message": "Gormod o dabiau? Troswch eich tabiau yn rhestr a chyflymwch Safari"
+  },
+  "toSaveChangesClickButton": {
+    "message": "I gadw eich newidiadau, cliciwch y botwm"
+  },
+  "total0Tabs": {
+    "message": "Cyfanswm: 0 tab"
+  },
+  "trash": {
+    "message": "Sbwriel"
+  },
+  "unfoldGroup": {
+    "message": "Ehangu grŵp"
+  },
+  "unlock": {
+    "message": "Datgloi"
+  },
+  "unmarkAsArchived": {
+    "message": "Dadfarcio fel wedi'i archifo"
+  },
+  "unMarkAsTask": {
+    "message": "Dadfarcio fel tasg"
+  },
+  "unpin": {
+    "message": "Dadbinio"
+  },
+  "unshare": {
+    "message": "Dad-rannu"
+  },
+  "untitled": {
+    "message": "Heb deitl"
+  },
+  "update": {
+    "message": "Diweddaru"
+  },
+  "userLanguage": {
+    "message": "Cymraeg"
+  },
+  "website": {
+    "message": "Gwefan"
+  },
+  "yearCount_few": {
+    "message": "{COUNT} blynedd"
+  },
+  "yearCount_many": {
+    "message": "{COUNT} blynedd"
+  },
+  "yearCount_one": {
+    "message": "{COUNT} flwyddyn"
+  },
+  "yearCount_other": {
+    "message": "{COUNT} o flynyddoedd"
+  },
+  "yearCount_two": {
+    "message": "{COUNT} flynedd"
+  },
+  "yearCount_zero": {
+    "message": "{COUNT} o flynyddoedd"
+  },
+  "yourTabAlreadyStoredHere": {
+    "message": "Mae eich tab eisoes wedi'i storio yma:"
+  }
+}

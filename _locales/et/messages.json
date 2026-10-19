@@ -1,0 +1,2330 @@
+{
+  "95PctMemoryReduction": {
+    "message": "95% väiksem mälukasutus"
+  },
+  "about": {
+    "message": "Teave"
+  },
+  "actionPopupOverrideNote": {
+    "message": "Selle sätte saab toimingu hüpikaknas alistada (kui olete toimingu hüpikakna lubanud)."
+  },
+  "aDashZ": {
+    "message": "A-Z"
+  },
+  "addOneTabNow": {
+    "message": "Lisa OneTab kohe"
+  },
+  "all": {
+    "message": "Kõik"
+  },
+  "allBookmarks": {
+    "message": "Kõik järjehoidjad"
+  },
+  "allOpenTabsAlreadyStoredHere_few": {
+    "message": "Kõik avatud vahelehed on juba siia salvestatud:"
+  },
+  "allOpenTabsAlreadyStoredHere_many": {
+    "message": "Kõik avatud vahelehed on juba siia salvestatud:"
+  },
+  "allOpenTabsAlreadyStoredHere_one": {
+    "message": "Kõik avatud vahelehed on juba siia salvestatud:"
+  },
+  "allOpenTabsAlreadyStoredHere_other": {
+    "message": "Kõik avatud vahelehed on juba siia salvestatud:"
+  },
+  "allOpenTabsAlreadyStoredHere_two": {
+    "message": "Kõik avatud vahelehed on juba siia salvestatud:"
+  },
+  "allOpenTabsAlreadyStoredHere_zero": {
+    "message": "Kõik avatud vahelehed on juba siia salvestatud:"
+  },
+  "allowFileAccessInstructions": {
+    "message": "Failide otse avamise lubamiseks avage Seaded ➝ Laiendused ➝ OneTab ➝ Üksikasjad ➝ Luba juurdepääs faili URL-idele"
+  },
+  "alreadyExistingOpenTabsWillBeClosedAfterMerge": {
+    "message": "Kõik avatud vahelehed, mis selles grupis juba olemas on, suletakse pärast liitmist."
+  },
+  "alternatePlainTextFormat": {
+    "message": "Teise võimalusena võib lihttekst olla järgmises vormingus:"
+  },
+  "approve": {
+    "message": "Luba"
+  },
+  "archived": {
+    "message": "Arhiivitud"
+  },
+  "autoTheme": {
+    "message": "Automaatne (kasuta operatsioonisüsteemi sätet)"
+  },
+  "backupAndSync": {
+    "message": "Varundamine ja sünkroonimine"
+  },
+  "betaReleaseReportBugsHere": {
+    "message": "Beeta – teata vigadest siin"
+  },
+  "bookmarkCount_few": {
+    "message": "{COUNT} järjehoidjat"
+  },
+  "bookmarkCount_many": {
+    "message": "{COUNT} järjehoidjat"
+  },
+  "bookmarkCount_one": {
+    "message": "{COUNT} järjehoidja"
+  },
+  "bookmarkCount_other": {
+    "message": "{COUNT} järjehoidjat"
+  },
+  "bookmarkCount_two": {
+    "message": "{COUNT} järjehoidjat"
+  },
+  "bookmarkCount_zero": {
+    "message": "{COUNT} järjehoidjat"
+  },
+  "bookmarksPermissionNecesssary": {
+    "message": "Järjehoidjate luba on vajalik, et OneTab saaks teie brauseri järjehoidjad importida"
+  },
+  "bulkActions": {
+    "message": "Hulgitoimingud"
+  },
+  "cancel": {
+    "message": "Tühista"
+  },
+  "canDragTextNote": {
+    "message": "Märkus. Samuti saab veebilinge sisaldavat teksti lohistada otse teiselt veebilehelt või dokumendist. Saate teksti lohistada otse oma OneTab lehele, ilma et peaksite seda impordikasti kasutama."
+  },
+  "cannotConnectToServerDeletionRequestQueued": {
+    "message": "OneTab serveriga ei saa ühendust luua. Kontrollige oma internetiühendust. Teie jagatud lehe kustutamise taotlus on kohapeal järjekorda pandud ja edastatakse automaatselt OneTab serverile kohe, kui see on taas kättesaadav."
+  },
+  "cannotCreateTabGroupInTabGroup": {
+    "message": "Valitud sihtkoht on vahelehegrupp. Te ei saa luua vahelehegruppi olemasoleva vahelehegrupi sisse. Valige teine sihtkoht."
+  },
+  "cannotMixTabsGroupsFoldersDuringDrag": {
+    "message": "Lohistamisel ei saa vahelehti, gruppe ja kaustu segamini kasutada. Põhjus on selles, et näiteks kausta ei saa lohistada samadesse kohtadesse, kuhu saab lohistada vahelehe."
+  },
+  "cannotMoveItemAncestorHere": {
+    "message": "Ülemüksust ei saa teisaldada selle enda alamüksuse sisse, sest see tekitaks tsükli."
+  },
+  "cannotMoveItemIntoItself": {
+    "message": "Üksust ei saa iseenda sisse teisaldada."
+  },
+  "canPasteWebContentForExample": {
+    "message": "Saate kleepida veebilehelt või dokumendist kopeeritud teksti ning lingid eraldatakse automaatselt. Näiteks:"
+  },
+  "caseSensitive": {
+    "message": "Tõstutundlik"
+  },
+  "changesMadeSinceSharedPageCreation": {
+    "message": "Teie salvestatud vahelehed on pärast selle lehe jagamist muutunud. Olemasoleva jagatud lehe uuendamiseks klõpsake nuppu „Uuenda”."
+  },
+  "changeThisSettingAtAnyTimeInfo": {
+    "message": "Saate seda sätet igal ajal muuta, klõpsates OneTab lehe ülaosas nuppu „Valikud”."
+  },
+  "changeThisSettingAtAnyTimeInfoHtml": {
+    "message": "Saate seda hiljem muuta jaotises <b>Valikud</b>."
+  },
+  "checkboxesDeterminePinnedAndGroupedTabMergeInclusion": {
+    "message": "Selle lehe ülaosas olevad märkeruudud määravad, kas kinnitatud vahelehed või vahelehegruppides olevad vahelehed kaasatakse liitmisse."
+  },
+  "chooseALocation": {
+    "message": "Valige asukoht"
+  },
+  "chooseALocationToImportTo": {
+    "message": "Valige importimise asukoht"
+  },
+  "chooseExportLocation": {
+    "message": "Valige eksportimise lähtekoht"
+  },
+  "chooseLightDarkTheme": {
+    "message": "Valige hele/tume teema"
+  },
+  "chooseLocationToCopyTo": {
+    "message": "Valige kopeerimise asukoht"
+  },
+  "chooseLocationToMoveTo": {
+    "message": "Valige teisaldamise asukoht"
+  },
+  "chooseLocationToRestoreTo": {
+    "message": "Valige taastamise asukoht"
+  },
+  "chooseToIncludeNotes": {
+    "message": "Kui olete vahelehtedele või gruppidele märkmeid lisanud, valige, kas kaasata need jagatud veebilehele"
+  },
+  "chooseToIncludeRatings": {
+    "message": "Kui olete vahelehtedele või gruppidele tärne lisanud, valige, kas kaasata need jagatud veebilehele"
+  },
+  "chromeIncognitoInstructions": {
+    "message": "Avage brauseri seadetes „Seaded” → „Laiendused” → „OneTab” → „Üksikasjad” ja lubage seejärel „Luba inkognito režiimis”."
+  },
+  "clickButtonToAllowTabAccess": {
+    "message": "Klõpsake allolevat nuppu, et lubada rakendusel OneTab teie avatud vahelehtedele juurde pääseda."
+  },
+  "clickHereToContinue": {
+    "message": "Jätkamiseks klõpsake siin."
+  },
+  "clickOneTabIconToStoreTabsHere": {
+    "message": "Avatud vahelehtede siia salvestamiseks klõpsake brauseri tööriistaribal OneTab ikooni."
+  },
+  "closeSelectedTabs_few": {
+    "message": "Sulge {COUNT} valitud vahelehte"
+  },
+  "closeSelectedTabs_many": {
+    "message": "Sulge {COUNT} valitud vahelehte"
+  },
+  "closeSelectedTabs_one": {
+    "message": "Sulge {COUNT} valitud vaheleht"
+  },
+  "closeSelectedTabs_other": {
+    "message": "Sulge {COUNT} valitud vahelehte"
+  },
+  "closeSelectedTabs_two": {
+    "message": "Sulge {COUNT} valitud vahelehte"
+  },
+  "closeSelectedTabs_zero": {
+    "message": "Sulge {COUNT} valitud vahelehte"
+  },
+  "closeSelectedTabsAndStoreInONETAB_few": {
+    "message": "Sulge {COUNT} valitud vahelehte ja salvesta rakendusse ONETAB"
+  },
+  "closeSelectedTabsAndStoreInONETAB_many": {
+    "message": "Sulge {COUNT} valitud vahelehte ja salvesta rakendusse ONETAB"
+  },
+  "closeSelectedTabsAndStoreInONETAB_one": {
+    "message": "Sulge {COUNT} valitud vaheleht ja salvesta rakendusse ONETAB"
+  },
+  "closeSelectedTabsAndStoreInONETAB_other": {
+    "message": "Sulge {COUNT} valitud vahelehte ja salvesta rakendusse ONETAB"
+  },
+  "closeSelectedTabsAndStoreInONETAB_two": {
+    "message": "Sulge {COUNT} valitud vahelehte ja salvesta rakendusse ONETAB"
+  },
+  "closeSelectedTabsAndStoreInONETAB_zero": {
+    "message": "Sulge {COUNT} valitud vahelehte ja salvesta rakendusse ONETAB"
+  },
+  "closeTabs_few": {
+    "message": "Sulge vahelehed"
+  },
+  "closeTabs_many": {
+    "message": "Sulge vahelehed"
+  },
+  "closeTabs_one": {
+    "message": "Sulge vaheleht"
+  },
+  "closeTabs_other": {
+    "message": "Sulge vahelehed"
+  },
+  "closeTabs_two": {
+    "message": "Sulge vahelehed"
+  },
+  "closeTabs_zero": {
+    "message": "Sulge vahelehed"
+  },
+  "closeTabsAfterMerge": {
+    "message": "Sulge vahelehed pärast liitmist"
+  },
+  "closeTabsAlreadyStoredInOneTab_few": {
+    "message": "Sulge {COUNT} rakenduses OneTab juba salvestatud vahelehte"
+  },
+  "closeTabsAlreadyStoredInOneTab_many": {
+    "message": "Sulge {COUNT} rakenduses OneTab juba salvestatud vahelehte"
+  },
+  "closeTabsAlreadyStoredInOneTab_one": {
+    "message": "Sulge {COUNT} rakenduses OneTab juba salvestatud vaheleht"
+  },
+  "closeTabsAlreadyStoredInOneTab_other": {
+    "message": "Sulge {COUNT} rakenduses OneTab juba salvestatud vahelehte"
+  },
+  "closeTabsAlreadyStoredInOneTab_two": {
+    "message": "Sulge {COUNT} rakenduses OneTab juba salvestatud vahelehte"
+  },
+  "closeTabsAlreadyStoredInOneTab_zero": {
+    "message": "Sulge {COUNT} rakenduses OneTab juba salvestatud vahelehte"
+  },
+  "closeTabsAndStore_few": {
+    "message": "Sulge vahelehed ja salvesta rakendusse ONETAB"
+  },
+  "closeTabsAndStore_many": {
+    "message": "Sulge vahelehed ja salvesta rakendusse ONETAB"
+  },
+  "closeTabsAndStore_one": {
+    "message": "Sulge vaheleht ja salvesta rakendusse ONETAB"
+  },
+  "closeTabsAndStore_other": {
+    "message": "Sulge vahelehed ja salvesta rakendusse ONETAB"
+  },
+  "closeTabsAndStore_two": {
+    "message": "Sulge vahelehed ja salvesta rakendusse ONETAB"
+  },
+  "closeTabsAndStore_zero": {
+    "message": "Sulge vahelehed ja salvesta rakendusse ONETAB"
+  },
+  "closeTheseDuplicates_few": {
+    "message": "Sulge need duplikaadid"
+  },
+  "closeTheseDuplicates_many": {
+    "message": "Sulge need duplikaadid"
+  },
+  "closeTheseDuplicates_one": {
+    "message": "Sulge see duplikaat"
+  },
+  "closeTheseDuplicates_other": {
+    "message": "Sulge need duplikaadid"
+  },
+  "closeTheseDuplicates_two": {
+    "message": "Sulge need duplikaadid"
+  },
+  "closeTheseDuplicates_zero": {
+    "message": "Sulge need duplikaadid"
+  },
+  "completedTaskFlagHelp": {
+    "message": "See üksus on ülesanne. Pooleliolevaks (lõpetamata) märkimiseks klõpsake seda ikooni."
+  },
+  "completeEditingShortcutInfo": {
+    "message": "Märkmete välja muutmisel muutmise lõpetamine"
+  },
+  "configureShortcuts": {
+    "message": "Seadista kiirklahvid"
+  },
+  "conflictingShortcutsHint": {
+    "message": "Kui mõni ülaltoodud kiirklahvidest ei tööta või on vastuolus mõne muu rakendusega, saate seadistada teise kiirklahvi."
+  },
+  "continue": {
+    "message": "Jätka"
+  },
+  "convertTabsIntoAList": {
+    "message": "Teisenda vahelehed loendiks"
+  },
+  "copiedToClipboard": {
+    "message": "Kopeeritud lõikelauale"
+  },
+  "copy": {
+    "message": "Kopeeri"
+  },
+  "copyLinksToClipboard": {
+    "message": "Kopeeri lingid lõikelauale"
+  },
+  "copySharedPageUrl": {
+    "message": "Kopeeri jagatud lehe URL"
+  },
+  "copyToClipboard": {
+    "message": "Kopeeri lõikelauale"
+  },
+  "copyToClipboardMenuItemHelp": {
+    "message": "Kopeerige need veebilingid lõikelauale, et saaksite need teistesse rakendustesse kleepida. Lõikelaua tekstivormingut saate muuta rakenduse OneTab valikute lehel."
+  },
+  "createANewGroupHere": {
+    "message": "Loo siia uus grupp"
+  },
+  "createdOnDate": {
+    "message": "Loodud {DATE}"
+  },
+  "createdOnOrAfterColon": {
+    "message": "Loodud kuupäeval või pärast seda:"
+  },
+  "createdOnOrBeforeColon": {
+    "message": "Loodud kuupäeval või enne seda:"
+  },
+  "createFolderAbove": {
+    "message": "Loo kaust ülespoole"
+  },
+  "createFolderAboveBelow": {
+    "message": "Loo kaust ülespoole / allapoole"
+  },
+  "createFolderAboveWithinBelow": {
+    "message": "Loo kaust ülespoole / sisse / allapoole"
+  },
+  "createFolderBelow": {
+    "message": "Loo kaust alla"
+  },
+  "createFolderWithin": {
+    "message": "Loo alamkaust"
+  },
+  "createFolderWithinMenuItemHelp": {
+    "message": "Kaustad on mõeldud vahelehtede gruppide korraldamiseks. Kaustad sisaldavad gruppe ja grupid sisaldavad vahelehti."
+  },
+  "createGroupAbove": {
+    "message": "Loo grupp ülespoole"
+  },
+  "createGroupAboveBelow": {
+    "message": "Loo grupp ülespoole / allapoole"
+  },
+  "createGroupAboveWithinBelow": {
+    "message": "Loo grupp ülespoole / sisse / allapoole"
+  },
+  "createGroupBelow": {
+    "message": "Loo grupp alla"
+  },
+  "createGroupInsideDestination": {
+    "message": "Loo sihtkohta uus grupp"
+  },
+  "createGroupInsideDestinationHelp": {
+    "message": "Kui märge on eemaldatud, lisatakse teie vahelehed otse sihtgruppi. Kui märge on tehtud, luuakse teie vahelehtede jaoks sihtgrupi sees uus brauseri vahelehegrupp. Märkige see ruut ainult siis, kui soovite kasutada brauseri funktsiooni „vahelehegrupid”."
+  },
+  "createGroupMenuItemHelp": {
+    "message": "Looge uus tühi grupp. Grupp sisaldab vahelehtede loendit, mille saab koos aknasse taastada."
+  },
+  "createGroupWithin": {
+    "message": "Loo alamgrupp"
+  },
+  "createNewGroupTip": {
+    "message": "Uue grupi loomiseks eemaldage esmalt märge valikult „Kuva ainult kaustad”. See on vajalik, et näeksite loendis vastloodud gruppi."
+  },
+  "darkTheme": {
+    "message": "Tume teema"
+  },
+  "dayCount_few": {
+    "message": "{COUNT} päeva"
+  },
+  "dayCount_many": {
+    "message": "{COUNT} päeva"
+  },
+  "dayCount_one": {
+    "message": "{COUNT} päev"
+  },
+  "dayCount_other": {
+    "message": "{COUNT} päeva"
+  },
+  "dayCount_two": {
+    "message": "{COUNT} päeva"
+  },
+  "dayCount_zero": {
+    "message": "{COUNT} päeva"
+  },
+  "delete": {
+    "message": "Kustuta"
+  },
+  "deleteAllTrash": {
+    "message": "Tühjenda prügikast"
+  },
+  "deleteThisCopy": {
+    "message": "Kustuta see koopia"
+  },
+  "deselectAll": {
+    "message": "Tühista kogu valik"
+  },
+  "destinationColon": {
+    "message": "Sihtkoht:"
+  },
+  "disabled": {
+    "message": "Keelatud"
+  },
+  "doneTaskCount_few": {
+    "message": "{COUNT} tehtud"
+  },
+  "doneTaskCount_many": {
+    "message": "{COUNT} tehtud"
+  },
+  "doneTaskCount_one": {
+    "message": "{COUNT} tehtud"
+  },
+  "doneTaskCount_other": {
+    "message": "{COUNT} tehtud"
+  },
+  "doneTaskCount_two": {
+    "message": "{COUNT} tehtud"
+  },
+  "doneTaskCount_zero": {
+    "message": "{COUNT} lõpetatud"
+  },
+  "dontCloseGroupedTabs": {
+    "message": "Ärge sulgege ühtegi vahelehegruppides olevat vahelehte"
+  },
+  "dontClosePinnedTabs": {
+    "message": "Ärge sulgege ühtegi kinnitatud vahelehte"
+  },
+  "dontCloseTabsFromDomains": {
+    "message": "Ärge sulgege ühtegi domeenilt EXAMPLE.COM pärinevat vahelehte"
+  },
+  "dragCopyKeysHtml": {
+    "message": "<x-key>{CTRL}</x-key> või <x-key>{ALT}</x-key>"
+  },
+  "dragCopyModifierInfo": {
+    "message": "Hoidke vahelehe lohistamisel all klahvi Ctrl või Alt, et luua sellest teisaldamise asemel koopia."
+  },
+  "dragTabsHereForQuickList": {
+    "message": "Lohistage oma salvestatud vahelehed või grupid siia. Need lisatakse teie kiirloendisse."
+  },
+  "editTabGroupTitleAndNotes": {
+    "message": "Muuda vahelehegrupi pealkirja ja märkmeid"
+  },
+  "emojiShortcutInfo": {
+    "message": "Märkmete välja muutmisel emodživalija avamine"
+  },
+  "emptyInBrackets": {
+    "message": "(tühi)"
+  },
+  "emptyOneTabInfoMsg": {
+    "message": "Kui teil on avatud mitu vahelehte, klõpsake brauseri tööriistaribal rakenduse OneTab ikooni ja teie avatud vahelehed kuvatakse siin."
+  },
+  "enabled": {
+    "message": "Lubatud"
+  },
+  "everything": {
+    "message": "Kõik"
+  },
+  "exampleLink": {
+    "message": "Näidislink"
+  },
+  "exampleLinkTitle": {
+    "message": "Näidislingi pealkiri"
+  },
+  "exampleLinkTitleOptional": {
+    "message": "Näidislingi pealkiri (valikuline)"
+  },
+  "exampleRichTextParagraph": {
+    "message": "Näidislõik tekstist, mis sisaldab PLACEHOLDER ja PLACEHOLDER"
+  },
+  "exampleWebsitePageTitle": {
+    "message": "Näidisveebisaidi lehe pealkiri"
+  },
+  "excludeDomainFromOneTab": {
+    "message": "Välista EXAMPLE.COM rakendusest OneTab"
+  },
+  "excludeWebSiteFromOneTab": {
+    "message": "Välista see veebisait rakendusest OneTab"
+  },
+  "expiresColon": {
+    "message": "Aegub:"
+  },
+  "export": {
+    "message": "Ekspordi"
+  },
+  "exportImportUrls": {
+    "message": "URL-ide eksport/import"
+  },
+  "exportThenImportNote": {
+    "message": "Alloleva URL-ide loendi saab importida tagasi rakendusse OneTab selles või mõnes teises arvutis"
+  },
+  "exportUrls": {
+    "message": "Ekspordi URL-id"
+  },
+  "feedback": {
+    "message": "Tagasiside"
+  },
+  "filter": {
+    "message": "Filter"
+  },
+  "firefoxIncognitoInstructions": {
+    "message": "Avage brauseri sätetes „Sätted” → „Laiendused ja teemad” → „Laiendused” → „OneTab” → „...” → „Halda” ja lubage seejärel „Käivita privaatsetes akendes”."
+  },
+  "firefoxIndexedDbUnavailable": {
+    "message": "OneTab ei saa andmeid salvestada ega laadida. Kui olete seadistanud Firefoxi ajalugu mitte salvestama, takistab see OneTab nõuetekohast toimimist. Muul juhul võtke meiega meie veebisaidi kaudu ühendust ja võib-olla saame aidata."
+  },
+  "firefoxShortcutConfigInstructions": {
+    "message": "Sisestage URL „about:addons?type=extension” brauseri aadressiribale. Kui leht kuvatakse, klõpsake hammasrattaikoonil ja valige seejärel „Halda laienduste kiirklahve”"
+  },
+  "Folder": {
+    "message": "Kaust"
+  },
+  "folderCount_few": {
+    "message": "{COUNT} kausta"
+  },
+  "folderCount_many": {
+    "message": "{COUNT} kausta"
+  },
+  "folderCount_one": {
+    "message": "{COUNT} kaust"
+  },
+  "folderCount_other": {
+    "message": "{COUNT} kausta"
+  },
+  "folderCount_two": {
+    "message": "{COUNT} kausta"
+  },
+  "folderCount_zero": {
+    "message": "{COUNT} kausta"
+  },
+  "folders": {
+    "message": "Kaustad"
+  },
+  "foldersOnly": {
+    "message": "Ainult kaustad"
+  },
+  "foldGroup": {
+    "message": "Ahenda grupp"
+  },
+  "gettingStarted": {
+    "message": "Alustamine"
+  },
+  "gotIt": {
+    "message": "Sain aru"
+  },
+  "goToParentFolder": {
+    "message": "Mine ülemkausta"
+  },
+  "groupCount_few": {
+    "message": "{COUNT} gruppi"
+  },
+  "groupCount_many": {
+    "message": "{COUNT} gruppi"
+  },
+  "groupCount_one": {
+    "message": "{COUNT} grupp"
+  },
+  "groupCount_other": {
+    "message": "{COUNT} gruppi"
+  },
+  "groupCount_two": {
+    "message": "{COUNT} gruppi"
+  },
+  "groupCount_zero": {
+    "message": "{COUNT} gruppi"
+  },
+  "groups": {
+    "message": "Grupid"
+  },
+  "hasNotes": {
+    "message": "Märkmetega"
+  },
+  "help": {
+    "message": "Abi"
+  },
+  "hideArchivedItems": {
+    "message": "Peida arhiivitud üksused"
+  },
+  "import": {
+    "message": "Impordi"
+  },
+  "importAndExport": {
+    "message": "Import ja eksport"
+  },
+  "importBookmarks": {
+    "message": "Impordi järjehoidjad"
+  },
+  "importedBookmarks": {
+    "message": "Imporditud järjehoidjad"
+  },
+  "importExportShareMenuNoteHtml": {
+    "message": "Vahelehti saate eksportida ka jagatava veebilehe või HTML-failina, kasutades grupi või kausta menüü <b>Rohkem…</b> valikuid <b>Jaga veebilehena</b> ja <b>Salvesta HTML-failina</b>."
+  },
+  "importFolderAndSubfolders": {
+    "message": "Impordi kaust ja alamkaustad"
+  },
+  "importLinksHere": {
+    "message": "Impordi lingid siia"
+  },
+  "importLinksHereMenuItemHelp": {
+    "message": "Saate kleepida veebilingide loendi või importida brauseri järjehoidjad."
+  },
+  "importNotesTruncatedNotice": {
+    "message": "Mõned imporditud märkmed ületasid {MAX} märgi piirangu, mistõttu nende lõpud kärbiti."
+  },
+  "importReadingList": {
+    "message": "Impordi lugemisloend"
+  },
+  "importText": {
+    "message": "Impordi tekst"
+  },
+  "importUrls": {
+    "message": "Impordi URL-id"
+  },
+  "includeGroupedTabs": {
+    "message": "Kaasa vahelehegruppides olevad vahelehed"
+  },
+  "includeNotes": {
+    "message": "Kaasa märkmed"
+  },
+  "includePinnedTabs": {
+    "message": "Kaasa kinnitatud vahelehed"
+  },
+  "includeStarRatings": {
+    "message": "Kaasa tärnid"
+  },
+  "includeTabsAlreadyStored": {
+    "message": "Kaasa juba salvestatud vahelehed"
+  },
+  "includeTabsFromDomains": {
+    "message": "Kaasa vahelehed domeenilt EXAMPLE.COM"
+  },
+  "incogitoPermissionRequired": {
+    "message": "OneTab vajab inkognito akende loomiseks luba."
+  },
+  "incognitoWindows": {
+    "message": "Inkognito aknad"
+  },
+  "invertSelection": {
+    "message": "Pööra valik ümber"
+  },
+  "itemTextTruncatedNotice": {
+    "message": "Tekst ületas piirangu (märkmed võivad sisaldada kuni {NOTESMAX} märki ja pealkirjad kuni {TITLEMAX} märki), mistõttu selle lõpp kärbiti."
+  },
+  "justNow": {
+    "message": "äsja"
+  },
+  "kbdNavBackspaceInfo": {
+    "message": "Ülemkausta liikumine"
+  },
+  "kbdNavEnterInfo": {
+    "message": "Vahelehtede taastamine või kausta avamine"
+  },
+  "kbdNavEscInfo": {
+    "message": "Klaviatuuriga navigeerimise lõpetamine"
+  },
+  "kbdNavFocusInfo": {
+    "message": "Fookuse vahetamine gruppide ja vahelehtede vahel"
+  },
+  "kbdNavFoldInfo": {
+    "message": "Grupi ahendamine/laiendamine"
+  },
+  "kbdNavMoveInfo": {
+    "message": "Üksuste vahel liikumine"
+  },
+  "kbdNavTabInfo": {
+    "message": "Klaviatuuriga navigeerimise alustamine"
+  },
+  "keyboardShortcutsColon": {
+    "message": "Kiirklahvid:"
+  },
+  "languageTitle": {
+    "message": "Keel:"
+  },
+  "licenseAlreadyHaveKey": {
+    "message": "Mul on juba litsentsivõti"
+  },
+  "licenseAlreadySetUpRestarting": {
+    "message": "See litsents on juba seadistatud, seega ühendame selle seadme olemasoleva seadistusega. Uus kood saadeti registreeritud e-posti aadressile."
+  },
+  "licenseBackLink": {
+    "message": "Tagasi"
+  },
+  "licenseBrowserOnOs": {
+    "message": "{BROWSER} operatsioonisüsteemis {OS}"
+  },
+  "licenseBrowsersActiveOn": {
+    "message": "Aktiivne {DATE}"
+  },
+  "licenseBrowsersActiveToday": {
+    "message": "Täna aktiivne"
+  },
+  "licenseBrowsersAdded": {
+    "message": "Lisatud {DATE}"
+  },
+  "licenseBrowsersThisBrowser": {
+    "message": "See brauser"
+  },
+  "licenseBrowserUnknown": {
+    "message": "Brauser"
+  },
+  "licenseChangeEmail": {
+    "message": "Muutke e-posti aadressi"
+  },
+  "licenseChangeEmailWebLink": {
+    "message": "Muutke e-posti aadressi"
+  },
+  "licenseChooseRecoveryTitle": {
+    "message": "Valige krüptimisvõtme kaitsmise viis"
+  },
+  "licenseCloseModal": {
+    "message": "Sulgege"
+  },
+  "licenseCodeExpired": {
+    "message": "See kood on aegunud. Paluge saata uus e-kiri."
+  },
+  "licenseCodeIncorrectTriesRemaining": {
+    "message": "Vale kood. Katseid jäänud: {COUNT}."
+  },
+  "licenseCodeInvalidFormat": {
+    "message": "Sisestage e-kirjas olev 6-kohaline kood."
+  },
+  "licenseCodePlaceholder": {
+    "message": "6-kohaline kood"
+  },
+  "licenseCodeSentTo": {
+    "message": "Sisestage 6-kohaline kood, mille saatsime aadressile {EMAIL}."
+  },
+  "licenseCodeSourceDeviceOption": {
+    "message": "Hankige kood juba ühendatud brauserist"
+  },
+  "licenseCodeSourceDeviceOptionDescription": {
+    "message": "Avage seal Varundamine ja sünkroonimine ning klõpsake „Ühendage teine brauser või profiil”."
+  },
+  "licenseCodeSourceEmailOption": {
+    "message": "Saatke kood aadressile {EMAIL}"
+  },
+  "licenseCodeSourceTitle": {
+    "message": "Kinnituskoodi hankimine"
+  },
+  "licenseCodeTriesExhausted": {
+    "message": "Selle koodiga ei saa enam proovida. Paluge saata uus e-kiri."
+  },
+  "licenseConnectAnotherBrowser": {
+    "message": "Ühendage teine brauser või profiil"
+  },
+  "licenseConnectedBrowsers": {
+    "message": "Ühendatud brauserid"
+  },
+  "licenseDeviceAddConnected": {
+    "message": "{BROWSER} ühendati äsja teie litsentsiga."
+  },
+  "licenseDeviceAddExpired": {
+    "message": "See kood on aegunud."
+  },
+  "licenseDeviceAddExpiresIn": {
+    "message": "Aegub {TIME} pärast"
+  },
+  "licenseDeviceAddGetNewCode": {
+    "message": "Hankige uus kood"
+  },
+  "licenseDeviceAddIntro": {
+    "message": "Teise brauseri või profiili ühendamiseks sisestage seal oma litsentsivõti ja küsimise korral see kood."
+  },
+  "licenseDeviceAddKeyReminder": {
+    "message": "Teil on siiski vaja litsentsivõtit, mida siin ei kuvata. Leiate selle algsest e-kirjast või oma arvelduslehelt."
+  },
+  "licenseDeviceAddNeverShare": {
+    "message": "Kasutage seda koodi ainult oma uues brauseris. Ärge jagage seda kunagi kellegagi – OneTab ei küsi seda teilt kunagi. See töötab ainult selle brauseri litsentsiga."
+  },
+  "licenseDeviceCodeInsteadLink": {
+    "message": "Hankige kood selle asemel ühendatud brauserist"
+  },
+  "licenseDeviceCodePrompt": {
+    "message": "Avage juba teie litsentsiga ühendatud brauseris Varundamine ja sünkroonimine ning klõpsake „Ühendage teine brauser või profiil”. Sisestage seal kuvatav 6-kohaline kood."
+  },
+  "licenseDeviceLimitReached": {
+    "message": "Selle litsentsiga on ühendatud maksimaalne arv seadmeid."
+  },
+  "licenseDoneButton": {
+    "message": "Valmis"
+  },
+  "licenseEasyOptionDescription": {
+    "message": "Teie krüptimisvõtit hoitakse turvaliselt serveris, et saaksite selle e-posti kaudu taastada."
+  },
+  "licenseEasyOptionLabel": {
+    "message": "Lihtne"
+  },
+  "licenseEmailCodeInsteadLink": {
+    "message": "Saatke kood selle asemel e-postiga"
+  },
+  "licenseEmailPlaceholder": {
+    "message": "E-posti aadress"
+  },
+  "licenseEmailPrompt": {
+    "message": "Teie e-posti aadress"
+  },
+  "licenseForgotKeyBack": {
+    "message": "Tagasi litsentsivõtme sisestamise juurde"
+  },
+  "licenseForgotKeyEnterKeyButton": {
+    "message": "Sisestage litsentsivõti"
+  },
+  "licenseForgotKeyLink": {
+    "message": "Kas unustasite litsentsivõtme?"
+  },
+  "licenseForgotKeyNoEmailOnRecord": {
+    "message": "Selle e-posti aadressiga pole seotud ühtegi litsentsivõtit. Kontrollige kirjavigu või proovige mõnda muud aadressi, mida võisite kasutada."
+  },
+  "licenseForgotKeyPrompt": {
+    "message": "Sisestage oma e-posti aadress. Kui see on litsentsivõtmega seotud, saadame võtme sellele aadressile."
+  },
+  "licenseForgotKeySendButton": {
+    "message": "Saatke"
+  },
+  "licenseForgotKeySentTo": {
+    "message": "Saatsime teie litsentsivõtme aadressile {EMAIL}. Kui see saabub, saate võtme siin sisestada."
+  },
+  "licenseForgotKeyTooManyRequests": {
+    "message": "Teie litsentsivõti on hiljuti sellele aadressile juba mitu korda saadetud. Kontrollige rämpsposti kausta või proovige homme uuesti."
+  },
+  "licenseGenericError": {
+    "message": "Midagi läks valesti. Proovige uuesti."
+  },
+  "licenseGoButton": {
+    "message": "Jätkake"
+  },
+  "licenseInvalidEmail": {
+    "message": "Sisestage kehtiv e-posti aadress."
+  },
+  "licenseKeyInvalidFormat": {
+    "message": "See ei näi olevat kehtiv litsentsivõti. See peab olema 20 märgi pikkune ning koosnema tähtedest (A–F) ja numbritest, näiteks XXXX-XXXX-XXXX-XXXX-XXXX."
+  },
+  "licenseKeyNotFound": {
+    "message": "Litsentsivõtit ei leitud. Kontrollige seda ja proovige uuesti."
+  },
+  "licenseNoLongerActiveError": {
+    "message": "See litsents pole enam aktiivne. Kui arvate, et tegu on veaga, võtke ühendust toega."
+  },
+  "licenseRateLimitedError": {
+    "message": "Teie võrgust on tehtud liiga palju ebaõnnestunud katseid. Oodake veidi ja proovige uuesti."
+  },
+  "licenseResendEmail": {
+    "message": "Saatke uus e-kiri"
+  },
+  "licenseServiceProblemTryLater": {
+    "message": "Meie poolel tekkinud probleemi tõttu ei saa seda praegu lõpule viia. Proovige hiljem uuesti. Kui probleem püsib, võtke ühendust toega."
+  },
+  "licenseSuccess": {
+    "message": "Õnnestus! Teie salvestatud vahelehed krüpteeritakse ja varundatakse nüüd turvaliselt pilve."
+  },
+  "licenseSuccessJoin": {
+    "message": "Õnnestus! See brauser liitus teie krüpteeritud varukoopiaga. Siin ja teie teistes brauserites salvestatud vahelehed püsivad nüüd sünkroonis."
+  },
+  "licenseSuggestedEmailIntro": {
+    "message": "Teie litsentsivõti saadeti e-posti aadressile:"
+  },
+  "licenseSuggestedEmailNote": {
+    "message": "Sellele aadressile saadetakse kinnituskoodid ja seda kasutatakse konto taastamiseks, seega veenduge, et aadress kuulub teile."
+  },
+  "licenseSuspendedBillingError": {
+    "message": "Seda litsentsi ei saa praegu arveldusprobleemi tõttu ühendada. Kui haldate arveldamist, logige probleemi lahendamiseks sisse aadressil one-tab.com. Muul juhul võtke ühendust teie litsentsi ostmise eest vastutava isikuga."
+  },
+  "licenseUltraKeyConfirmCheckbox": {
+    "message": "Olen oma võtme koopia salvestanud ja mõistan, et seda ei kuvata enam kunagi."
+  },
+  "licenseUltraKeyConfirmRequired": {
+    "message": "Kinnitage, et olete oma võtme koopia salvestanud."
+  },
+  "licenseUltraKeyEnterPrompt": {
+    "message": "Selle seadme ühendamise lõpuleviimiseks sisestage oma krüptimisvõti."
+  },
+  "licenseUltraKeyIntro": {
+    "message": "See on teie krüptimisvõti. Hoidke selle koopiat turvalises kohas, näiteks paroolihalduris, et saaksite oma andmed pärast arvuti riket või vargust taastada."
+  },
+  "licenseUltraKeyMismatch": {
+    "message": "See võti ei sobi selle litsentsiga. Kontrollige seda ja proovige uuesti."
+  },
+  "licenseUltraKeyNeverShownAgain": {
+    "message": "Seda võtit EI KUVATA enam KUNAGI."
+  },
+  "licenseUltraKeyPlaceholder": {
+    "message": "Krüptimisvõti"
+  },
+  "licenseUltraOptionDescription": {
+    "message": "Krüptimisvõti on ainult teie käes ja selle kaotamise korral ei saa seda taastada. Valige see ainult siis, kui olete kindel, et suudate selle koopiat turvaliselt säilitada."
+  },
+  "licenseUltraOptionLabel": {
+    "message": "Ülim privaatsus"
+  },
+  "licenseUseDifferentEmail": {
+    "message": "Kasutage teist e-posti aadressi"
+  },
+  "lightTheme": {
+    "message": "Hele teema"
+  },
+  "localBackupRestoredModal": {
+    "message": "Teie brauseriprofiili osa, kuhu salvestatakse OneTab andmed, sai kahjustada või kustutati. See võib juhtuda pärast brauseri kokkujooksmist või siis, kui tõrkuv süsteemi- või privaatsuspuhastustarkvara eemaldab brauseriandmed."
+  },
+  "localBackupRestoredModalRecovery": {
+    "message": "Seekord teil vedas: kahjustus ei jõudnud profiili eraldi ossa, kus OneTab hoiab iganädalast varukoopiat, seega taastati teie vahelehed kuupäeval {DATE} tehtud varukoopiast. Pärast seda kuupäeva salvestatud või muudetud andmeid ei olnud võimalik taastada. Kui kadunud oleks kogu profiil või kahjustada oleks saanud ka varukoopia, poleks olnud midagi, millest andmeid taastada."
+  },
+  "localBackupRestoredModalTitle": {
+    "message": "OneTab taastas teie vahelehed pärast andmekadu"
+  },
+  "localeId": {
+    "message": "et"
+  },
+  "locationColon": {
+    "message": "Asukoht:"
+  },
+  "lock": {
+    "message": "Lukusta"
+  },
+  "lockedGroupUnlockHelp": {
+    "message": "Lukust avamiseks kasutage menüüd „Rohkem…”. Kui grupp on lukustatud, ei saa te gruppi ega selle vahelehti kustutada ning vahelehti ei saa ümber järjestada."
+  },
+  "lockMenuItemHelp": {
+    "message": "Kui grupp on lukustatud, ei saa te grupis olevaid üksusi eemaldada ega ümber järjestada (kuni grupi lukust avate)."
+  },
+  "makeThisATask": {
+    "message": "Märgi ülesandeks"
+  },
+  "manifestDescription": {
+    "message": "Säästa kuni 95% mälu ja vähenda vahelehtede segadust"
+  },
+  "markAsArchived": {
+    "message": "Märkige arhiveerituks"
+  },
+  "markAsArchivedMenuItemHelp": {
+    "message": "Kui märgite üksuse arhiivitud olekusse, on sellel hall taust. See on visuaalne märge, et olete selle üksusega lõpetanud (näiteks artikkel, mille lugemise olete lõpetanud). Kui arhiivite midagi, mis on märgitud ülesandeks, ei kuvata ülesannet enam teie OneTab lehe ülesannete veerus."
+  },
+  "markAsDoneTask": {
+    "message": "Märgi lõpetatud ülesandeks"
+  },
+  "markAsDoneTaskMenuItemHelp": {
+    "message": "Näita visuaalselt, et ülesanne on lõpetatud"
+  },
+  "markAsPendingTask": {
+    "message": "Märgi pooleliolevaks ülesandeks"
+  },
+  "markAsPendingTaskMenuItemHelp": {
+    "message": "Näita visuaalselt, et see üksus on ülesanne. Kuvatakse ülesandeikoon, millel klõpsates saate visuaalselt märkida, et ülesanne on lõpetatud. Kõik ülesanded (välja arvatud arhiivituks märgitud) kuvatakse ka teie OneTab lehe ülesannete veerus."
+  },
+  "matchCount_few": {
+    "message": "{COUNT} vastet"
+  },
+  "matchCount_many": {
+    "message": "{COUNT} vastet"
+  },
+  "matchCount_one": {
+    "message": "{COUNT} vaste"
+  },
+  "matchCount_other": {
+    "message": "{COUNT} vastet"
+  },
+  "matchCount_two": {
+    "message": "{COUNT} vastet"
+  },
+  "matchCount_zero": {
+    "message": "{COUNT} vastet"
+  },
+  "matchWholeWordsOnly": {
+    "message": "Ainult terved sõnad"
+  },
+  "mayNeedToRestartBrowser": {
+    "message": "Kui näete seda teadet iga kord, uuendage ja taaskäivitage brauser."
+  },
+  "mergeIntoParent": {
+    "message": "Liida ülemüksusega"
+  },
+  "mergeOpenTabsHere_few": {
+    "message": "Liida {COUNT} avatud vahelehte siia"
+  },
+  "mergeOpenTabsHere_many": {
+    "message": "Liida {COUNT} avatud vahelehte siia"
+  },
+  "mergeOpenTabsHere_one": {
+    "message": "Liida {COUNT} avatud vaheleht siia"
+  },
+  "mergeOpenTabsHere_other": {
+    "message": "Liida {COUNT} avatud vahelehte siia"
+  },
+  "mergeOpenTabsHere_two": {
+    "message": "Liida {COUNT} avatud vahelehte siia"
+  },
+  "mergeOpenTabsHere_zero": {
+    "message": "Liida {COUNT} avatud vahelehte siia"
+  },
+  "mergeSelectedTabsHere_few": {
+    "message": "Liida {COUNT} valitud vahelehte siia"
+  },
+  "mergeSelectedTabsHere_many": {
+    "message": "Liida {COUNT} valitud vahelehte siia"
+  },
+  "mergeSelectedTabsHere_one": {
+    "message": "Liida {COUNT} valitud vaheleht siia"
+  },
+  "mergeSelectedTabsHere_other": {
+    "message": "Liida {COUNT} valitud vahelehte siia"
+  },
+  "mergeSelectedTabsHere_two": {
+    "message": "Liida {COUNT} valitud vahelehte siia"
+  },
+  "mergeSelectedTabsHere_zero": {
+    "message": "Liida {COUNT} valitud vahelehte siia"
+  },
+  "mergeWithInnerGroups": {
+    "message": "Liida sisemiste gruppidega"
+  },
+  "modalMoveToTrashHintExampleGroupTitle": {
+    "message": "Grupi näidispealkiri"
+  },
+  "modalMoveToTrashHintHeading": {
+    "message": "Nõuanne: viige kursor grupi pealkirjale ja klõpsake X-i, et see prügikasti teisaldada."
+  },
+  "modalOptionAutoActionOnOpenHeading": {
+    "message": "Pärast vahelehtede taastamist:"
+  },
+  "modalOptionAutoActionOnOpenOpenDesc": {
+    "message": "Kui olete lõpetanud, kustutage käsitsi"
+  },
+  "modalOptionAutoActionOnOpenTrashDesc": {
+    "message": "Lihtsam kiireks salvestamiseks ja taastamiseks"
+  },
+  "modalRemigrationDontAskAgain": {
+    "message": "Ärge küsige uuesti"
+  },
+  "modalRemigrationFooterHtml": {
+    "message": "Klõpsake <b>Jah</b>, välja arvatud juhul, kui migreerimine on juba toimunud ja kustutasite migreeritud vahelehed tahtlikult."
+  },
+  "modalRemigrationNotNow": {
+    "message": "Mitte praegu"
+  },
+  "modalRemigrationTabsFoundPrompt_few": {
+    "message": "Leiti {COUNT} vahelehte versioonist OneTab v1. Kas migreerida need?"
+  },
+  "modalRemigrationTabsFoundPrompt_many": {
+    "message": "Leiti {COUNT} vahelehte versioonist OneTab v1. Kas migreerida need?"
+  },
+  "modalRemigrationTabsFoundPrompt_one": {
+    "message": "Leiti {COUNT} vaheleht versioonist OneTab v1. Kas migreerida see?"
+  },
+  "modalRemigrationTabsFoundPrompt_other": {
+    "message": "Leiti {COUNT} vahelehte versioonist OneTab v1. Kas migreerida need?"
+  },
+  "modalRemigrationTabsFoundPrompt_two": {
+    "message": "Leiti {COUNT} vahelehte versioonist OneTab v1. Kas migreerida need?"
+  },
+  "modalRemigrationTabsFoundPrompt_zero": {
+    "message": "Leiti {COUNT} vahelehte versioonist OneTab v1. Kas migreerida need?"
+  },
+  "modalRemigrationYes": {
+    "message": "Jah"
+  },
+  "modalUpdateToV2Heading": {
+    "message": "OneTab on uuendatud"
+  },
+  "modalUpdateToV2QuickTourHtml": {
+    "message": "Kas soovite kiiret tutvustust? Klõpsake ülaosas <b>Abi</b>."
+  },
+  "modalUpdateToV2UseOneTabLikeBefore": {
+    "message": "Saate rakendust OneTab endiselt kasutada nagu varem — salvestage vahelehed ühe klõpsuga."
+  },
+  "modifySharing": {
+    "message": "Muuda jagamist"
+  },
+  "moreEllipsis": {
+    "message": "Rohkem…"
+  },
+  "moreSearchFilters": {
+    "message": "Veel otsingufiltreid"
+  },
+  "move": {
+    "message": "Teisalda"
+  },
+  "moveBack": {
+    "message": "Teisalda tagasi"
+  },
+  "moveToTrash": {
+    "message": "Teisalda prügikasti"
+  },
+  "namedOnly": {
+    "message": "Ainult nimega"
+  },
+  "navigationFilter": {
+    "message": "Navigeerimisfilter"
+  },
+  "navigationFilterColumnOnlyNote": {
+    "message": "See filter kehtib ainult navigeerimisveerule."
+  },
+  "newExclamation": {
+    "message": "Uus!"
+  },
+  "noDupsExistExceptForColon": {
+    "message": "Duplikaate pole, välja arvatud:"
+  },
+  "noDupsFoundHere": {
+    "message": "Siin duplikaate ei leitud"
+  },
+  "noMatches": {
+    "message": "Vasteid pole"
+  },
+  "noMatchesFound": {
+    "message": "Vasteid ei leitud"
+  },
+  "nonArchived": {
+    "message": "Arhiivimata"
+  },
+  "nonTabPinFlagHelp": {
+    "message": "See üksus on kinnitatud kausta ülaossa. Kinnituse eemaldamiseks klõpsake seda ikooni."
+  },
+  "noOpenTabsToStore": {
+    "message": "Selles aknas pole salvestamiseks avatud vahelehti."
+  },
+  "noReadingListEntries": {
+    "message": "Lugemisloendi kirjeid ei leitud"
+  },
+  "noTabsInOneTabYet": {
+    "message": "Rakenduses OneTab pole veel ühtegi vahelehte"
+  },
+  "noTabsMeetCriteriaUseCheckboxes": {
+    "message": "Ükski avatud vaheleht ei vasta teie kriteeriumidele. Kasutage ülal olevaid märkeruute."
+  },
+  "notAssigned": {
+    "message": "Määramata"
+  },
+  "notes": {
+    "message": "Märkmed"
+  },
+  "notesAboutTheLinkOptional": {
+    "message": "Märkmed lingi kohta (valikuline)"
+  },
+  "notesAboutTheSecondLinkOptional": {
+    "message": "Märkmed teise lingi kohta (valikuline)"
+  },
+  "noTextHasBeenEntered": {
+    "message": "Teksti pole sisestatud"
+  },
+  "ok": {
+    "message": "OK"
+  },
+  "omniboxShortcutInfo": {
+    "message": "OneTab loendist otsimiseks mis tahes vahelehelt tehke järgmist: minge brauseri aadressiribale, tippige 11, seejärel tühik ja seejärel otsingusõna. Tavalise otsingu tegemiseks, mis algab 11-ga (mitte OneTab otsing), sisestage 11, seejärel tühik ja seejärel vajutage tagasilükkeklahvi"
+  },
+  "OneTabAlsoAvailableForFirefox": {
+    "message": "OneTab on saadaval ka Firefoxi jaoks"
+  },
+  "oneTabDesignedToProtectPrivacy": {
+    "message": "OneTab on loodud teie privaatsust kaitsma. Teie vahelehti meile ei avaldata."
+  },
+  "oneTabExportPageTitle": {
+    "message": "OneTab eksport"
+  },
+  "oneTabFolderSlashShortcutInfo": {
+    "message": "Otsinguvälja fookustamine ja otsimine ainult praegusest kaustast"
+  },
+  "oneTabImportExportPageTitle": {
+    "message": "OneTab import/eksport"
+  },
+  "oneTabNeedsPermissionToAccessYourTabs": {
+    "message": "OneTab vajab teie vahelehtedele juurdepääsuks luba."
+  },
+  "oneTabOptionsPageTitle": {
+    "message": "OneTab valikud"
+  },
+  "oneTabPermissionRequired": {
+    "message": "OneTab – luba on vajalik"
+  },
+  "oneTabRestartRequired": {
+    "message": "OneTab tuleb taaskäivitada. Ühtegi muud vahelehte ei suleta."
+  },
+  "oneTabSlashShortcutInfo": {
+    "message": "Otsinguvälja fookustamine"
+  },
+  "open": {
+    "message": "Ava"
+  },
+  "openActionPopup": {
+    "message": "OneTab toiming (sama mis OneTab tööriistariba ikoonil klõpsamine)"
+  },
+  "openAsCollapsedTabGroup": {
+    "message": "Ava ahendatud vahelehegrupina"
+  },
+  "openAsCollapsedTabGroupMenuItemHelp": {
+    "message": "Kui avate need vahelehed ahendatud vahelehegrupina, kuvatakse ainult grupi silt, kuni klõpsate sellel sees olevate vahelehtede kuvamiseks."
+  },
+  "openAsPinnedTab": {
+    "message": "Kinnita vaheleht avamisel"
+  },
+  "openAsPinnedTabMenuItemHelp": {
+    "message": "Kui see vaheleht taastatakse, taastatakse see kinnitatud brauseri vahelehena. Kinnitatud vahelehed kuvatakse brauseriaknas alati esimesena."
+  },
+  "openAsTabGroup": {
+    "message": "Ava brauseri vahelehegrupina"
+  },
+  "openAsTabGroupMenuItemHelp": {
+    "message": "Teie brauser võimaldab vahelehti aknas värvilistesse „vahelehegruppidesse” rühmitada."
+  },
+  "openFolder": {
+    "message": "Ava kaust"
+  },
+  "openGroupsLimitNotice_few": {
+    "message": "Brauseri ülekoormuse vältimiseks avatakse ainult {COUNT} esimest gruppi."
+  },
+  "openGroupsLimitNotice_many": {
+    "message": "Brauseri ülekoormuse vältimiseks avatakse ainult {COUNT} esimest gruppi."
+  },
+  "openGroupsLimitNotice_one": {
+    "message": "Brauseri ülekoormuse vältimiseks avatakse ainult {COUNT}. grupp."
+  },
+  "openGroupsLimitNotice_other": {
+    "message": "Brauseri ülekoormuse vältimiseks avatakse ainult {COUNT} esimest gruppi."
+  },
+  "openGroupsLimitNotice_two": {
+    "message": "Brauseri ülekoormuse vältimiseks avatakse ainult {COUNT} esimest gruppi."
+  },
+  "openGroupsLimitNotice_zero": {
+    "message": "Brauseri ülekoormuse vältimiseks avatakse ainult {COUNT} esimest gruppi."
+  },
+  "openInIncognitoWindow": {
+    "message": "Taasta uues inkognito aknas"
+  },
+  "openInNewWindow": {
+    "message": "Taasta uues aknas"
+  },
+  "openInThisWindow": {
+    "message": "Taasta selles aknas"
+  },
+  "openOneTab": {
+    "message": "Ava OneTab"
+  },
+  "openOneTabAfter": {
+    "message": "Ava OneTab pärast vahelehtede salvestamist"
+  },
+  "openONETABLogo": {
+    "message": "Ava ONETAB"
+  },
+  "openParentFolder": {
+    "message": "Ava ülemkaust"
+  },
+  "openTabFromWebsite": {
+    "message": "Avage vaheleht ja minge veebisaidile"
+  },
+  "openTabLimit_few": {
+    "message": "Brauseri ülekoormuse vältimiseks saab korraga avada kuni {COUNT} vahelehte."
+  },
+  "openTabLimit_many": {
+    "message": "Brauseri ülekoormuse vältimiseks saab korraga avada kuni {COUNT} vahelehte."
+  },
+  "openTabLimit_one": {
+    "message": "Brauseri ülekoormuse vältimiseks saab korraga avada kuni {COUNT} vahelehe."
+  },
+  "openTabLimit_other": {
+    "message": "Brauseri ülekoormuse vältimiseks saab korraga avada kuni {COUNT} vahelehte."
+  },
+  "openTabLimit_two": {
+    "message": "Brauseri ülekoormuse vältimiseks saab korraga avada kuni {COUNT} vahelehte."
+  },
+  "openTabLimit_zero": {
+    "message": "Brauseri ülekoormuse vältimiseks saab korraga avada kuni {COUNT} vahelehte."
+  },
+  "openTabsAlreadyStoredHere_few": {
+    "message": "{COUNT} avatud vahelehte on juba siia salvestatud:"
+  },
+  "openTabsAlreadyStoredHere_many": {
+    "message": "{COUNT} avatud vahelehte on juba siia salvestatud:"
+  },
+  "openTabsAlreadyStoredHere_one": {
+    "message": "{COUNT} avatud vaheleht on juba siia salvestatud:"
+  },
+  "openTabsAlreadyStoredHere_other": {
+    "message": "{COUNT} avatud vahelehte on juba siia salvestatud:"
+  },
+  "openTabsAlreadyStoredHere_two": {
+    "message": "{COUNT} avatud vahelehte on juba siia salvestatud:"
+  },
+  "openTabsAlreadyStoredHere_zero": {
+    "message": "{COUNT} avatud vahelehte on juba siia salvestatud:"
+  },
+  "openTabsConfirm_few": {
+    "message": "Avate kohe {COUNT} vahelehte. Kas olete kindel?"
+  },
+  "openTabsConfirm_many": {
+    "message": "Avate kohe {COUNT} vahelehte. Kas olete kindel?"
+  },
+  "openTabsConfirm_one": {
+    "message": "Avate kohe {COUNT} vahelehe. Kas olete kindel?"
+  },
+  "openTabsConfirm_other": {
+    "message": "Avate kohe {COUNT} vahelehte. Kas olete kindel?"
+  },
+  "openTabsConfirm_two": {
+    "message": "Avate kohe {COUNT} vahelehte. Kas olete kindel?"
+  },
+  "openTabsConfirm_zero": {
+    "message": "Avate kohe {COUNT} vahelehte. Kas olete kindel?"
+  },
+  "openTabsNotStoredInOneTab_few": {
+    "message": "{COUNT} avatud vahelehte pole rakenduses OneTab salvestatud"
+  },
+  "openTabsNotStoredInOneTab_many": {
+    "message": "{COUNT} avatud vahelehte pole rakenduses OneTab salvestatud"
+  },
+  "openTabsNotStoredInOneTab_one": {
+    "message": "{COUNT} avatud vaheleht pole rakenduses OneTab salvestatud"
+  },
+  "openTabsNotStoredInOneTab_other": {
+    "message": "{COUNT} avatud vahelehte pole rakenduses OneTab salvestatud"
+  },
+  "openTabsNotStoredInOneTab_two": {
+    "message": "{COUNT} avatud vahelehte pole rakenduses OneTab salvestatud"
+  },
+  "openTabsNotStoredInOneTab_zero": {
+    "message": "{COUNT} avatud vahelehte pole rakenduses OneTab salvestatud"
+  },
+  "optionAutoActionOnOpenArchiveDesc": {
+    "message": "Vahelehtede arhiivituks märkimisel saavad need halli triibulise tausta. See annab visuaalse märku, et olete vahelehed läbi vaadanud või nendega lõpetanud."
+  },
+  "optionAutoActionOnOpenArchiveTitle": {
+    "message": "Märgi need arhiivituks"
+  },
+  "optionAutoActionOnOpenHeading": {
+    "message": "Vahelehtede taastamisel:"
+  },
+  "optionAutoActionOnOpenNote": {
+    "message": "Lukustatud gruppides jäävad vahelehed alati alles"
+  },
+  "optionAutoActionOnOpenOpenDesc": {
+    "message": "Vahelehtede taastamisel arhiivituks märkimiseks hoidke all klahvi Alt või Option"
+  },
+  "optionAutoActionOnOpenOpenTitle": {
+    "message": "Jäta need oma loendisse"
+  },
+  "optionAutoActionOnOpenTrashDesc": {
+    "message": "Vahelehtede taastamisel loendisse jätmiseks hoidke all klahvi Ctrl või Cmd"
+  },
+  "optionAutoActionOnOpenTrashTitle": {
+    "message": "Eemalda need oma loendist"
+  },
+  "optionBrowserActionHeading": {
+    "message": "Kui klõpsate tööriistaribal oleval rakenduse OneTab ikoonil:"
+  },
+  "optionBrowserActionOpenPopupDesc": {
+    "message": "Toimingu hüpikaken kuvab avatud vahelehtede loendi ja laseb valida täpselt need vahelehed, mida soovite rakendusse OneTab saata. See võimaldab määrata salvestatavale vahelehtede grupile pealkirja, nii et te ei pea seda hiljem OneTab lehel tegema. Hüpikaken annab ka lihtsa juurdepääsu teie kiirloendile mis tahes brauseriaknast."
+  },
+  "optionBrowserActionOpenPopupDesc2": {
+    "message": "Valige täpselt, millised vahelehed salvestada"
+  },
+  "optionBrowserActionOpenPopupTitle": {
+    "message": "Kuva OneTab hüpikaken"
+  },
+  "optionBrowserActionSendCurrentTabDesc": {
+    "message": "Vaheleht paigutatakse rakenduse OneTab lehe esimesse gruppi (eirates kinnitatud või lukustatud gruppe)"
+  },
+  "optionBrowserActionSendCurrentTabTitle": {
+    "message": "Saada ainult praegune vaheleht rakendusse OneTab"
+  },
+  "optionBrowserActionSendTabsInWindowDesc": {
+    "message": "Teie vahelehed suletakse ja salvestatakse teie OneTab loendisse. Kui olete brauseri vaheleheribal valinud mitu vahelehte (kasutades klahvi Cmd, Ctrl või Shift), saadetakse rakendusse OneTab ainult valitud vahelehed. Kui kasutate brauseri vahelehegruppide funktsiooni, saadetakse rakendusse OneTab ainult praegune vahelehegrupp."
+  },
+  "optionBrowserActionSendTabsInWindowDesc2": {
+    "message": "Kiireim viis vahelehtede salvestamiseks"
+  },
+  "optionBrowserActionSendTabsInWindowTitle": {
+    "message": "Saada praeguse akna vahelehed rakendusse OneTab"
+  },
+  "optionBrowserActionSendWholeWindowDesc": {
+    "message": "Sama mis ülal, kuid ainult praeguse vahelehegrupi asemel salvestatakse kogu aken"
+  },
+  "optionBrowserActionSendWholeWindowTitle": {
+    "message": "Saada praegune aken rakendusse OneTab koos kõigi vahelehtede ja vahelehegruppidega"
+  },
+  "optionCopyToClipboardFormatHeading": {
+    "message": "Linkide lõikelauale kopeerimine:"
+  },
+  "optionCopyToClipboardFormatMarkdownTitle": {
+    "message": "Markdown"
+  },
+  "optionCopyToClipboardFormatNote": {
+    "message": "See säte rakendub toimingu „Kopeeri lõikelauale” kasutamisel. Samuti saate vahelehti ja gruppe otse rakendusest OneTab dokumenti lohistada."
+  },
+  "optionCopyToClipboardFormatRichTextDesc": {
+    "message": "Rakendused, näiteks tekstitöötlusprogrammid, võimaldavad vormindatud teksti kleepida. Kui seda ei toetata, kleebitakse selle asemel lihttekst."
+  },
+  "optionCopyToClipboardFormatRichTextTitle": {
+    "message": "Vormindatud tekst, kui võimalik"
+  },
+  "optionCopyToClipboardFormatTitleUrlTitle": {
+    "message": "Pealkiri ja URL"
+  },
+  "optionCopyToClipboardFormatUrlOnlyTitle": {
+    "message": "Ainult URL"
+  },
+  "optionCopyToClipboardFormatUrlTitleTitle": {
+    "message": "URL ja pealkiri"
+  },
+  "optionDefaultTabGroupOpenTypeCurrentWindow": {
+    "message": "Ava brauseri vahelehegrupp praeguses aknas"
+  },
+  "optionDefaultTabGroupOpenTypeHeading": {
+    "message": "Kui avate klõpsuga vahelehtede grupi, mis on seadistatud avanema „brauseri vahelehegrupina”:"
+  },
+  "optionDefaultTabGroupOpenTypeNewWindow": {
+    "message": "Ava brauseri vahelehegrupp uues aknas"
+  },
+  "optionDefaultTabGroupOpenTypeNote": {
+    "message": "Kui kasutate rippmenüüd kindla valiku valimiseks (näiteks vahelehtede avamiseks inkognito aknas), jäetakse see valik selle konkreetse grupi jaoks meelde."
+  },
+  "optionDefaultWindowGroupOpenTypeCurrentWindow": {
+    "message": "Ava vahelehed praeguses aknas"
+  },
+  "optionDefaultWindowGroupOpenTypeHeading": {
+    "message": "Vahelehtede grupi taastamisel:"
+  },
+  "optionDefaultWindowGroupOpenTypeNewWindow": {
+    "message": "Ava vahelehed uues aknas, välja arvatud juhul, kui OneTab on praeguses aknas ainus vaheleht"
+  },
+  "optionDefaultWindowGroupOpenTypeNewWindowAlways": {
+    "message": "Ava vahelehed uues aknas"
+  },
+  "optionDefaultWindowGroupOpenTypeNote": {
+    "message": "Grupi menüüs „Rohkem…” tehtud taastamisvalikud jäetakse selle grupi jaoks meelde."
+  },
+  "optionDiscardNonActiveTabOnOpenHeading": {
+    "message": "Säästa mälu (RAM-i) kohe vahelehtede esmakordsel avamisel:"
+  },
+  "optionDiscardNonActiveTabOnOpenNote": {
+    "message": "Kui see säte on lubatud, laaditakse vahelehed kohe mälust maha, kui avate need esimest korda oma OneTab loendist. See on kasulik, kui avate sageli korraga kümneid vahelehti, sest nii ei laadita neid kõiki mällu enne, kui neid kasutate. Kui see säte on keelatud, otsustavad paljud veebibrauserid siiski automaatselt vahelehed mälust maha laadida, kui te neid parajasti ei kasuta."
+  },
+  "optionDisplayContextMenuHeading": {
+    "message": "OneTab kontekstimenüü avamiseks paremklõpsake veebilehel:"
+  },
+  "optionDisplayContextMenuNote": {
+    "message": "Kui keelate menüü, ei saa te kasutada funktsiooni „Välista veebisait rakendusest OneTab”"
+  },
+  "optionDuplicatesAllow": {
+    "message": "Luba duplikaadid"
+  },
+  "optionDuplicatesReject": {
+    "message": "Lükka duplikaadid teateta tagasi"
+  },
+  "optionDuplicatesRejectDesc": {
+    "message": "Kui OneTab sisaldab seda vahelehte juba, ei lisata seda uuesti."
+  },
+  "optionDuplicatesTitle": {
+    "message": "Duplikaadid:"
+  },
+  "optionGroupTitleClickActionEditTitle": {
+    "message": "Muuda pealkirja"
+  },
+  "optionGroupTitleClickActionHeading": {
+    "message": "Kui klõpsate grupi või kausta pealkirjal:"
+  },
+  "optionGroupTitleClickActionOpenDesc": {
+    "message": "Saate grupi siiski ümber nimetada selle menüü „Rohkem…” kaudu."
+  },
+  "optionGroupTitleClickActionOpenTitle": {
+    "message": "Taasta grupp või ava kaust"
+  },
+  "optionMoveOneTabToCurrentWindowOnOpenFalseTitle": {
+    "message": "Lülitu aknasse, kus OneTab vaheleht on juba avatud"
+  },
+  "optionMoveOneTabToCurrentWindowOnOpenHeading": {
+    "message": "Toiming „Ava OneTab”:"
+  },
+  "optionMoveOneTabToCurrentWindowOnOpenNote": {
+    "message": "Toiming „Ava OneTab”:"
+  },
+  "optionMoveOneTabToCurrentWindowOnOpenTrueTitle": {
+    "message": "Teisalda olemasolev OneTab vaheleht praegusesse aknasse"
+  },
+  "optionPinnedTabsAllow": {
+    "message": "Luba kinnitatud vahelehti rakendusse OneTab saata"
+  },
+  "optionPinnedTabsDontSend": {
+    "message": "Ärge saatke kinnitatud vahelehti rakendusse OneTab"
+  },
+  "optionPinnedTabsDontSendDesc": {
+    "message": "Saate kinnitatud vahelehe siiski käsitsi rakendusse OneTab saata, tehes veebilehel paremklõpsu OneTab menüü avamiseks ja klõpsates seejärel valikut „Saada ainult see vaheleht rakendusse OneTab”"
+  },
+  "optionPinnedTabsNote": {
+    "message": "Märkus. Vaheleht muutub „kinnitatuks”, kui teete vahelehel paremklõpsu ja klõpsate valikut „Kinnita vaheleht”. Mõnele meeldib kinnitada näiteks Facebooki või Gmaili vahelehti, et neid oleks lihtne üles leida. OneTab peab meeles, kas vaheleht oli kinnitatud, ja taastab selle samas olekus."
+  },
+  "optionPinnedTabsTitle": {
+    "message": "Kinnitatud vahelehed:"
+  },
+  "options": {
+    "message": "Valikud"
+  },
+  "optionStartupLaunchDisplay": {
+    "message": "Ava OneTab automaatselt"
+  },
+  "optionStartupLaunchNone": {
+    "message": "Ära ava OneTab automaatselt"
+  },
+  "optionStartupLaunchNoneDesc3": {
+    "message": "OneTab käsitsi avamiseks võite paremklõpsata mis tahes veebilehel ja klõpsata OneTab menüüs valikut „Ava OneTab”."
+  },
+  "optionStartupLaunchTitle": {
+    "message": "Brauseri käivitamisel:"
+  },
+  "optionSwitchToOpenedTabFalseTitle": {
+    "message": "Ava vaheleht ja jää OneTab lehele"
+  },
+  "optionSwitchToOpenedTabHeading": {
+    "message": "Vahelehtede taastamisel OneTab lehelt:"
+  },
+  "optionSwitchToOpenedTabNote": {
+    "message": "Kui hoiate klõpsamisel all Shift-klahvi, avaneb vaheleht uues aknas"
+  },
+  "optionSwitchToOpenedTabTrueTitle": {
+    "message": "Avage vaheleht ja lülituge sellele (välja arvatud juhul, kui hoiate klõpsamisel all Command ⌘/Ctrl)"
+  },
+  "optionUpdateTitleOnDuplicateKeep": {
+    "message": "Säilita olemasolev pealkiri"
+  },
+  "optionUpdateTitleOnDuplicateKeepDesc": {
+    "message": "Saate vahelehe rakenduses OneTab ümber nimetada ja teie kohandatud pealkiri säilitatakse."
+  },
+  "optionUpdateTitleOnDuplicateNote": {
+    "message": "Pealkirjad ja märkmed on jagatud sama vahelehe kõigi koopiate vahel."
+  },
+  "optionUpdateTitleOnDuplicateTitle": {
+    "message": "Kui salvestatav vaheleht on juba rakenduses OneTab:"
+  },
+  "optionUpdateTitleOnDuplicateUpdate": {
+    "message": "Kasuta uusimat pealkirja"
+  },
+  "optionUpdateTitleOnDuplicateUpdateDesc": {
+    "message": "Värskendage salvestatud pealkirja, et see vastaks äsja saadetud vahelehe pealkirjale."
+  },
+  "optionUrlAbbr": {
+    "message": "Lühendatud"
+  },
+  "optionUrlDisplayTitle": {
+    "message": "URL-i kuvamine:"
+  },
+  "optionUrlDomain": {
+    "message": "Ainult domeen"
+  },
+  "optionUrlFull": {
+    "message": "Täielik"
+  },
+  "optionUrlNone": {
+    "message": "Puudub"
+  },
+  "otherCopiesColon": {
+    "message": "Muud koopiad:"
+  },
+  "pasteRichOrPlainTextBelow": {
+    "message": "Saate allpool kleepida vormindatud teksti või lihtteksti."
+  },
+  "pendingTaskCount_few": {
+    "message": "{COUNT} ootel"
+  },
+  "pendingTaskCount_many": {
+    "message": "{COUNT} ootel"
+  },
+  "pendingTaskCount_one": {
+    "message": "{COUNT} ootel"
+  },
+  "pendingTaskCount_other": {
+    "message": "{COUNT} ootel"
+  },
+  "pendingTaskCount_two": {
+    "message": "{COUNT} ootel"
+  },
+  "pendingTaskCount_zero": {
+    "message": "{COUNT} ootel"
+  },
+  "pendingTaskFlagHelp": {
+    "message": "See üksus on ülesanne. Lõpetatuks märkimiseks klõpsake seda ikooni."
+  },
+  "permissionRequiredPleaseTryAgain": {
+    "message": "Mis tahes arvutist juurdepääsetava jagatud lehe loomiseks on vaja luba rakenduse OneTab veebiserveriga suhtlemiseks. Proovige uuesti."
+  },
+  "pinnedTabs": {
+    "message": "kinnitatud vahelehed"
+  },
+  "pinToTopOfFolder": {
+    "message": "Kinnita kausta ülaossa"
+  },
+  "pinToTopOfFolderMenuItemHelp": {
+    "message": "Kinnitage see grupp, et see kuvataks alati kausta ülaosas"
+  },
+  "pinToTopOfList": {
+    "message": "Kinnita loendi ülaossa"
+  },
+  "placeholderAndOtherLocations_few": {
+    "message": "PLACEHOLDER ja {COUNT} muud"
+  },
+  "placeholderAndOtherLocations_many": {
+    "message": "PLACEHOLDER ja {COUNT} muud"
+  },
+  "placeholderAndOtherLocations_one": {
+    "message": "PLACEHOLDER ja {COUNT} muu"
+  },
+  "placeholderAndOtherLocations_other": {
+    "message": "PLACEHOLDER ja {COUNT} muud"
+  },
+  "placeholderAndOtherLocations_two": {
+    "message": "PLACEHOLDER ja {COUNT} muud"
+  },
+  "placeholderAndOtherLocations_zero": {
+    "message": "PLACEHOLDER ja {COUNT} muud"
+  },
+  "placeholderExplanation": {
+    "message": "Veebibrauseri turvareeglite tõttu ei ole rakendusel OneTab lubatud seda lehte otse taastada. Kopeerige URL ja kleepige see brauseri aadressiribale."
+  },
+  "plainTextLineFormat": {
+    "message": "Kui kleebite lihtteksti, veenduge, et igal URL-il oleks protokoll määratud (https://wikipedia.org, mitte ainult wikipedia.org). Iga rida peaks olema järgmises vormingus:"
+  },
+  "pleaseWaitTripleDot": {
+    "message": "Palun oodake…"
+  },
+  "popupSlashShortcutInfo": {
+    "message": "Kui OneTab toimingu hüpikaken on lubatud, avage sihtkoha valija ja fookustage otsinguväli"
+  },
+  "printUseSaveTabsAsHtmlFileAlertHtml": {
+    "message": "Parimate printimistulemuste saamiseks kasutage kausta menüüs <b>Rohkem…</b> toimingut <b>Salvesta HTML-failina</b> ja seejärel printige allalaaditud HTML-fail."
+  },
+  "privacyAssurance": {
+    "message": "Privaatsuse tagamine"
+  },
+  "privacyAssuranceDetail": {
+    "message": "Teie vahelehtede loendit ei edastata ega avaldata kunagi OneTab arendajatele ega ühelegi muule osapoolele. Ainus erand on see, kui kasutate teadlikult funktsiooni „jaga veebilehena”, et laadida vahelehtede loend jagamiseks veebilehele."
+  },
+  "privacyFirst": {
+    "message": "Privaatsus ennekõike"
+  },
+  "privacyFirstMessage": {
+    "message": "OneTab on loodud teie privaatseid andmeid kaitsma. Teie vahelehti talletatakse ainult teie arvutis ning neid ei jagata kunagi OneTab arendajate ega ühegi muu osapoolega.\nKui kasutate meie varundus-/sünkroonimisfunktsiooni, krüpteeritakse teie andmed otsast lõpuni tugeva AES-256 krüptimisega. See muudab OneTab arendajatel võimatuks näha vahelehti, mille olete varundanud või seadmete vahel sünkrooninud, sest krüptimisvõti on ainult teil. \nAinus erand on see, kui otsustate tahtlikult jagada osa oma vahelehti teiste inimestega meie funktsiooni „Jaga veebilehena” abil.\nUsume põhimõttesse „Privaatsus ennekõike”."
+  },
+  "privateBrowsingPermissionRequired": {
+    "message": "OneTab vajab privaatse sirvimise akende loomiseks luba."
+  },
+  "privateBrowsingWindows": {
+    "message": "Privaatse sirvimise aknad"
+  },
+  "quickList": {
+    "message": "Kiirloend"
+  },
+  "readingList": {
+    "message": "Lugemisloend"
+  },
+  "readingListPermissionNecesssary": {
+    "message": "Lugemisloendi luba on vajalik, et OneTab saaks teie lugemisloendist üksusi importida. Kui see funktsioon ei tööta, ei pruugi teie brauser lugemisloendeid toetada."
+  },
+  "recent": {
+    "message": "Hiljutised"
+  },
+  "recentDestinationsColon": {
+    "message": "Hiljutised sihtkohad:"
+  },
+  "recentDuplicateRetainedHelp": {
+    "message": "Kui vaheleht esineb rohkem kui üks kord, säilitatakse ainult kõige hiljutisem duplikaat"
+  },
+  "recentFolders": {
+    "message": "Hiljutised kaustad"
+  },
+  "recentGroups": {
+    "message": "Hiljutised grupid"
+  },
+  "recentlyAccessed": {
+    "message": "Hiljuti kasutatud"
+  },
+  "recentlyCreated": {
+    "message": "Hiljuti loodud"
+  },
+  "recentlyModified": {
+    "message": "Hiljuti muudetud"
+  },
+  "reduceMemoryUsageBy95Pct": {
+    "message": "Vähendage mälukasutust 95% võrra"
+  },
+  "removeDuplicates": {
+    "message": "Eemalda duplikaadid"
+  },
+  "removeDuplicatesMenuItemHelp": {
+    "message": "Saate eemaldada duplikaadid, mis esinevad siin, kuid mitte mujal, või mujal, kuid mitte siin."
+  },
+  "removeDuplicateTabsHere_few": {
+    "message": "Eemalda siit {COUNT} duplikaatvahelehte"
+  },
+  "removeDuplicateTabsHere_many": {
+    "message": "Eemalda siit {COUNT} duplikaatvahelehte"
+  },
+  "removeDuplicateTabsHere_one": {
+    "message": "Eemalda siit {COUNT} duplikaatvaheleht"
+  },
+  "removeDuplicateTabsHere_other": {
+    "message": "Eemalda siit {COUNT} duplikaatvahelehte"
+  },
+  "removeDuplicateTabsHere_two": {
+    "message": "Eemalda siit {COUNT} duplikaatvahelehte"
+  },
+  "removeDuplicateTabsHere_zero": {
+    "message": "Eemalda siit {COUNT} duplikaatvahelehte"
+  },
+  "removeFromQuickList": {
+    "message": "Eemalda kiirloendist"
+  },
+  "removeFromQuickListMenuItemHelp": {
+    "message": "Üksust ei saadeta prügikasti – see eemaldatakse ainult teie kiirloendist."
+  },
+  "removeStar": {
+    "message": "Eemalda tärn"
+  },
+  "removeTabsElsewhereAlsoHere_few": {
+    "message": "Eemalda mujalt {COUNT} vahelehte, mis on olemas ka siin"
+  },
+  "removeTabsElsewhereAlsoHere_many": {
+    "message": "Eemalda mujalt {COUNT} vahelehte, mis on olemas ka siin"
+  },
+  "removeTabsElsewhereAlsoHere_one": {
+    "message": "Eemalda mujalt {COUNT} vaheleht, mis on olemas ka siin"
+  },
+  "removeTabsElsewhereAlsoHere_other": {
+    "message": "Eemalda mujalt {COUNT} vahelehte, mis on olemas ka siin"
+  },
+  "removeTabsElsewhereAlsoHere_two": {
+    "message": "Eemalda mujalt {COUNT} vahelehte, mis on olemas ka siin"
+  },
+  "removeTabsElsewhereAlsoHere_zero": {
+    "message": "Eemalda mujalt {COUNT} vahelehte, mis on olemas ka siin"
+  },
+  "removeTabsHereAlsoElsewhere_few": {
+    "message": "Eemalda siit {COUNT} vahelehte, mis on olemas ka mujal"
+  },
+  "removeTabsHereAlsoElsewhere_many": {
+    "message": "Eemalda siit {COUNT} vahelehte, mis on olemas ka mujal"
+  },
+  "removeTabsHereAlsoElsewhere_one": {
+    "message": "Eemalda siit {COUNT} vaheleht, mis on olemas ka mujal"
+  },
+  "removeTabsHereAlsoElsewhere_other": {
+    "message": "Eemalda siit {COUNT} vahelehte, mis on olemas ka mujal"
+  },
+  "removeTabsHereAlsoElsewhere_two": {
+    "message": "Eemalda siit {COUNT} vahelehte, mis on olemas ka mujal"
+  },
+  "removeTabsHereAlsoElsewhere_zero": {
+    "message": "Eemalda siit {COUNT} vahelehte, mis on olemas ka mujal"
+  },
+  "rename": {
+    "message": "Nimeta ümber"
+  },
+  "renameOrAddNote": {
+    "message": "Nimeta ümber / lisa märge"
+  },
+  "restore": {
+    "message": "Taasta"
+  },
+  "restoreAll": {
+    "message": "Taasta kõik"
+  },
+  "restrictSearchToFolderColon": {
+    "message": "Piira otsing järgmise kaustaga:"
+  },
+  "results": {
+    "message": "Tulemused"
+  },
+  "returnToOneTab": {
+    "message": "Naaske rakendusse OneTab"
+  },
+  "reverse": {
+    "message": "Vastupidine järjestus"
+  },
+  "rightClickAndOpenOneTabMenu": {
+    "message": "Paremklõpsake veebilehel ja avage rakenduse OneTab menüü"
+  },
+  "rightClickMenuDisabledNote": {
+    "message": "Märkus. Olete rakenduse OneTab paremklõpsumenüü keelanud. Lubage see rakenduse OneTab valikute lehel."
+  },
+  "rightClickSelectionOptionsTip": {
+    "message": "Nõuanne: pärast üksuse märkimist paremklõpsake linnukese ikooni, et kuvada rohkem valikuvariante"
+  },
+  "rightClickTickTip": {
+    "message": "Nõuanne: valikutööriistade kuvamiseks paremklõpsake iga vahelehe kõrval olevat linnukese ikooni"
+  },
+  "safariApproveOneTabInSettings": {
+    "message": "Avage Seaded ja andke rakendusele OneTab luba kõigile veebisaitidele juurde pääseda."
+  },
+  "save95PctReduceTabClutterGoogleChrome": {
+    "message": "Säästke kuni 95% mälukasutusest ja vähendage vahelehtede kuhjumist Google Chrome'is"
+  },
+  "saveChoice": {
+    "message": "Salvesta valik"
+  },
+  "saveTabsAsHtmlFile": {
+    "message": "Salvesta HTML-failina"
+  },
+  "saveTabsAsHtmlFileMenuItemHelp": {
+    "message": "Looge ja laadige alla HTML-fail, mis sisaldab kõiki selles kaustas olevaid gruppe ja nende vahelehti."
+  },
+  "searchHere": {
+    "message": "Otsi siit"
+  },
+  "searchOneTab": {
+    "message": "Otsi rakendusest OneTab"
+  },
+  "secondExampleLink": {
+    "message": "Teine näidislink"
+  },
+  "secondExampleLinkTitle": {
+    "message": "Teise näidislingi pealkiri"
+  },
+  "secondExampleLinkTitleOptional": {
+    "message": "Teise näidislingi pealkiri (valikuline)"
+  },
+  "seeOtherTabsInThisGroup_few": {
+    "message": "Kuva selles grupis veel {COUNT} vahelehte"
+  },
+  "seeOtherTabsInThisGroup_many": {
+    "message": "Kuva selles grupis veel {COUNT} vahelehte"
+  },
+  "seeOtherTabsInThisGroup_one": {
+    "message": "Kuva selles grupis veel {COUNT} vaheleht"
+  },
+  "seeOtherTabsInThisGroup_other": {
+    "message": "Kuva selles grupis veel {COUNT} vahelehte"
+  },
+  "seeOtherTabsInThisGroup_two": {
+    "message": "Kuva selles grupis veel {COUNT} vahelehte"
+  },
+  "seeOtherTabsInThisGroup_zero": {
+    "message": "Kuva selles grupis veel {COUNT} vahelehte"
+  },
+  "seePasteInstructions": {
+    "message": "Kuva kleepimisjuhised…"
+  },
+  "seeTabsInThisGroup_few": {
+    "message": "Kuva selles grupis {COUNT} vahelehte"
+  },
+  "seeTabsInThisGroup_many": {
+    "message": "Kuva selles grupis {COUNT} vahelehte"
+  },
+  "seeTabsInThisGroup_one": {
+    "message": "Kuva selles grupis {COUNT} vaheleht"
+  },
+  "seeTabsInThisGroup_other": {
+    "message": "Kuva selles grupis {COUNT} vahelehte"
+  },
+  "seeTabsInThisGroup_two": {
+    "message": "Kuva selles grupis {COUNT} vahelehte"
+  },
+  "seeTabsInThisGroup_zero": {
+    "message": "Kuva selles grupis {COUNT} vahelehte"
+  },
+  "selectAll": {
+    "message": "Vali kõik"
+  },
+  "selectAllExceptThis": {
+    "message": "Vali kõik peale selle"
+  },
+  "selectedItemCount_few": {
+    "message": "{COUNT} üksust"
+  },
+  "selectedItemCount_many": {
+    "message": "{COUNT} üksust"
+  },
+  "selectedItemCount_one": {
+    "message": "{COUNT} üksus"
+  },
+  "selectedItemCount_other": {
+    "message": "{COUNT} üksust"
+  },
+  "selectedItemCount_two": {
+    "message": "{COUNT} üksust"
+  },
+  "selectedItemCount_zero": {
+    "message": "{COUNT} üksust"
+  },
+  "selection": {
+    "message": "Valik"
+  },
+  "selectThisAndAbove": {
+    "message": "Vali see ja kõik ülalpool"
+  },
+  "selectThisAndBelow": {
+    "message": "Vali see ja kõik allpool"
+  },
+  "sendAllTabsAllWindows": {
+    "message": "Saada kõigi akende kõik vahelehed"
+  },
+  "sendAllTabsAllWindowsToOneTab": {
+    "message": "Saada kõigi akende kõik vahelehed rakendusse OneTab"
+  },
+  "sendAllTabsExceptThis": {
+    "message": "Saada kõik vahelehed peale selle"
+  },
+  "sendAllTabsExceptThisToOneTab": {
+    "message": "Saatke kõik vahelehed peale selle vahelehe rakendusse OneTab"
+  },
+  "sendAllTabsInGroup": {
+    "message": "Saada selle vahelehegrupi kõik vahelehed"
+  },
+  "sendAllTabsInGroupToOneTab": {
+    "message": "Saada selle vahelehegrupi kõik vahelehed rakendusse OneTab"
+  },
+  "sendAllTabsInWindow": {
+    "message": "Saada selle akna kõik vahelehed"
+  },
+  "sendAllTabsInWindowToOneTab": {
+    "message": "Saada selle akna kõik vahelehed rakendusse OneTab"
+  },
+  "sendCurrentTabToOneTab": {
+    "message": "Saada praegune vaheleht rakendusse OneTab"
+  },
+  "sendLeftTabs": {
+    "message": "Saada vasakul olevad vahelehed"
+  },
+  "sendLeftTabsToOneTab": {
+    "message": "Saada vasakul olevad vahelehed rakendusse OneTab"
+  },
+  "sendOnlyThisTab": {
+    "message": "Saada ainult see vaheleht"
+  },
+  "sendOnlyThisTabToOneTab": {
+    "message": "Saada ainult see vaheleht rakendusse OneTab"
+  },
+  "sendRightTabs": {
+    "message": "Saada paremal olevad vahelehed"
+  },
+  "sendRightTabsToOneTab": {
+    "message": "Saada paremal olevad vahelehed rakendusse OneTab"
+  },
+  "sendSelectedTabs": {
+    "message": "Saada valitud vahelehed"
+  },
+  "sendSelectedTabsToOneTab": {
+    "message": "Saada valitud vahelehed rakendusse OneTab"
+  },
+  "sendThisWebLink": {
+    "message": "Saada see veebilink"
+  },
+  "sendThisWebLinkToOneTab": {
+    "message": "Saada see veebilink rakendusse OneTab"
+  },
+  "serverUnreachable": {
+    "message": "Server pole kättesaadav. Kontrollige oma internetiühendust."
+  },
+  "share": {
+    "message": "Jaga"
+  },
+  "shareAsAWebPage": {
+    "message": "Jaga veebilehena"
+  },
+  "shareAsAWebPageMenuItemHelp": {
+    "message": "Sellega luuakse teie vahelehti sisaldav veebileht, et saaksite seda privaatselt või avalikult teistega jagada."
+  },
+  "shared": {
+    "message": "Jagatud"
+  },
+  "sharedExpiresColon": {
+    "message": "Jagatud veebilehena. Aegub:"
+  },
+  "sharedPageOptions": {
+    "message": "Jagatud lehe valikud"
+  },
+  "sharedPageTabLimit_few": {
+    "message": "Jagatud lehed on piiratud {COUNT} vahelehega"
+  },
+  "sharedPageTabLimit_many": {
+    "message": "Jagatud lehed on piiratud {COUNT} vahelehega"
+  },
+  "sharedPageTabLimit_one": {
+    "message": "Jagatud lehed on piiratud {COUNT} vahelehega"
+  },
+  "sharedPageTabLimit_other": {
+    "message": "Jagatud lehed on piiratud {COUNT} vahelehega"
+  },
+  "sharedPageTabLimit_two": {
+    "message": "Jagatud lehed on piiratud {COUNT} vahelehega"
+  },
+  "sharedPageTabLimit_zero": {
+    "message": "Jagatud lehed on piiratud {COUNT} vahelehega"
+  },
+  "sharedPageWillAutomaticallyExpire": {
+    "message": "Jagatud leht aegub automaatselt, kuid saate aegumiskuupäeva igal ajal pikendada."
+  },
+  "showEverything": {
+    "message": "Kuva kõik"
+  },
+  "showFoldersOnly": {
+    "message": "Kuva ainult kaustad"
+  },
+  "showNamedItemsOnly": {
+    "message": "Kuva ainult nimega üksused"
+  },
+  "showNamedOnly": {
+    "message": "Kuva ainult nimega üksused"
+  },
+  "showNextCount_few": {
+    "message": "Järgmised {COUNT}"
+  },
+  "showNextCount_many": {
+    "message": "Järgmised {COUNT}"
+  },
+  "showNextCount_one": {
+    "message": "Järgmine {COUNT}"
+  },
+  "showNextCount_other": {
+    "message": "Järgmised {COUNT}"
+  },
+  "showNextCount_two": {
+    "message": "Järgmised {COUNT}"
+  },
+  "showNextCount_zero": {
+    "message": "Järgmised {COUNT}"
+  },
+  "showPreviousCount_few": {
+    "message": "Eelmised {COUNT}"
+  },
+  "showPreviousCount_many": {
+    "message": "Eelmised {COUNT}"
+  },
+  "showPreviousCount_one": {
+    "message": "Eelmine {COUNT}"
+  },
+  "showPreviousCount_other": {
+    "message": "Eelmised {COUNT}"
+  },
+  "showPreviousCount_two": {
+    "message": "Eelmised {COUNT}"
+  },
+  "showPreviousCount_zero": {
+    "message": "Eelmised {COUNT}"
+  },
+  "soon": {
+    "message": "peagi"
+  },
+  "sort": {
+    "message": "Sortimine"
+  },
+  "sortByColon": {
+    "message": "Sortimisalus:"
+  },
+  "sortGroups": {
+    "message": "Sordi grupid"
+  },
+  "sortGroupsMenuFooterNote": {
+    "message": "Sellega sorditakse selle kausta grupid. Nende sees olevaid vahelehti ei sordita."
+  },
+  "sourceColon": {
+    "message": "Allikas:"
+  },
+  "star": {
+    "message": "Lisa tärn"
+  },
+  "starFlagHelp": {
+    "message": "See üksus on tähistatud tärniga, et näidata visuaalselt selle tähtsust. Tärni eemaldamiseks klõpsake seda ikooni."
+  },
+  "starMenuItemHelp": {
+    "message": "Kasutage tärni visuaalse märgina, et miski on tähtis"
+  },
+  "starred": {
+    "message": "Tärniga"
+  },
+  "storeAllOpenWindowsHere": {
+    "message": "Salvesta kõik avatud aknad siia"
+  },
+  "storeAllOpenWindowsHereMenuItemHelp": {
+    "message": "Sulgege kõik avatud brauseriaknad ja salvestage need sellesse kausta"
+  },
+  "storeSelectedTabsInONETAB_few": {
+    "message": "Salvesta {COUNT} valitud vahelehte rakendusse ONETAB"
+  },
+  "storeSelectedTabsInONETAB_many": {
+    "message": "Salvesta {COUNT} valitud vahelehte rakendusse ONETAB"
+  },
+  "storeSelectedTabsInONETAB_one": {
+    "message": "Salvesta {COUNT} valitud vaheleht rakendusse ONETAB"
+  },
+  "storeSelectedTabsInONETAB_other": {
+    "message": "Salvesta {COUNT} valitud vahelehte rakendusse ONETAB"
+  },
+  "storeSelectedTabsInONETAB_two": {
+    "message": "Salvesta {COUNT} valitud vahelehte rakendusse ONETAB"
+  },
+  "storeSelectedTabsInONETAB_zero": {
+    "message": "Salvesta {COUNT} valitud vahelehte rakendusse ONETAB"
+  },
+  "storeTabsInAdditionalLocation_few": {
+    "message": "Salvesta vahelehed siiski uuesti"
+  },
+  "storeTabsInAdditionalLocation_many": {
+    "message": "Salvesta vahelehed siiski uuesti"
+  },
+  "storeTabsInAdditionalLocation_one": {
+    "message": "Salvesta vaheleht siiski uuesti"
+  },
+  "storeTabsInAdditionalLocation_other": {
+    "message": "Salvesta vahelehed siiski uuesti"
+  },
+  "storeTabsInAdditionalLocation_two": {
+    "message": "Salvesta vahelehed siiski uuesti"
+  },
+  "storeTabsInAdditionalLocation_zero": {
+    "message": "Salvesta vahelehed siiski uuesti"
+  },
+  "storeTabsInONETAB_few": {
+    "message": "Salvesta vahelehed rakendusse ONETAB"
+  },
+  "storeTabsInONETAB_many": {
+    "message": "Salvesta vahelehed rakendusse ONETAB"
+  },
+  "storeTabsInONETAB_one": {
+    "message": "Salvesta vaheleht rakendusse ONETAB"
+  },
+  "storeTabsInONETAB_other": {
+    "message": "Salvesta vahelehed rakendusse ONETAB"
+  },
+  "storeTabsInONETAB_two": {
+    "message": "Salvesta vahelehed rakendusse ONETAB"
+  },
+  "storeTabsInONETAB_zero": {
+    "message": "Salvesta vahelehed rakendusse ONETAB"
+  },
+  "subFoldersNotShared": {
+    "message": "Pange tähele, et alamkaustu ei jagata. Jagatakse ainult otse kaustas olevaid vahelehtede gruppe."
+  },
+  "tab": {
+    "message": "vaheleht"
+  },
+  "tabAlreadyStoredHere": {
+    "message": "Teie avatud vaheleht on juba siia salvestatud:"
+  },
+  "tabCaretTooltipTitleNotes": {
+    "message": "Muuda vahelehe pealkirja ja märkmeid"
+  },
+  "tabCaretTooltipTitleNotesUrl": {
+    "message": "Muuda vahelehe pealkirja, URL-i ja märkmeid"
+  },
+  "tabCount_few": {
+    "message": "{COUNT} vahelehte"
+  },
+  "tabCount_many": {
+    "message": "{COUNT} vahelehte"
+  },
+  "tabCount_one": {
+    "message": "{COUNT} vaheleht"
+  },
+  "tabCount_other": {
+    "message": "{COUNT} vahelehte"
+  },
+  "tabCount_two": {
+    "message": "{COUNT} vahelehte"
+  },
+  "tabCount_zero": {
+    "message": "{COUNT} vahelehte"
+  },
+  "tabGroupColorColon": {
+    "message": "Vahelehegrupi värv:"
+  },
+  "tabGroupIndicatorTooltipHelp": {
+    "message": "See grupp on seadistatud avanema brauseri vahelehegrupina. Seda sätet saate muuta menüüs „Rohkem…”"
+  },
+  "tabPinFlagHelp": {
+    "message": "See vaheleht taastatakse kinnitatud brauseri vahelehena. Kinnituse eemaldamiseks klõpsake seda ikooni."
+  },
+  "tabs": {
+    "message": "Vahelehed"
+  },
+  "tabsFromExcludedDomains": {
+    "message": "välistatud domeenide vahelehed"
+  },
+  "tabsInTabGroups": {
+    "message": "vahelehegruppides olevad vahelehed"
+  },
+  "tabTotalCount_few": {
+    "message": "Kokku: {COUNT} vahelehte"
+  },
+  "tabTotalCount_many": {
+    "message": "Kokku: {COUNT} vahelehte"
+  },
+  "tabTotalCount_one": {
+    "message": "Kokku: {COUNT} vaheleht"
+  },
+  "tabTotalCount_other": {
+    "message": "Kokku: {COUNT} vahelehte"
+  },
+  "tabTotalCount_two": {
+    "message": "Kokku: {COUNT} vahelehte"
+  },
+  "tabTotalCount_zero": {
+    "message": "Kokku: {COUNT} vahelehte"
+  },
+  "tasks": {
+    "message": "Ülesanded"
+  },
+  "tasksDone": {
+    "message": "Ülesanded (lõpetatud)"
+  },
+  "tasksPending": {
+    "message": "Ülesanded (ootel)"
+  },
+  "tasksWillAppearHere": {
+    "message": "Kui märgite vahelehti või gruppe ülesanneteks, kuvatakse need siin."
+  },
+  "taskTotalCount_few": {
+    "message": "Kokku {COUNT}"
+  },
+  "taskTotalCount_many": {
+    "message": "Kokku {COUNT}"
+  },
+  "taskTotalCount_one": {
+    "message": "Kokku {COUNT}"
+  },
+  "taskTotalCount_other": {
+    "message": "Kokku {COUNT}"
+  },
+  "taskTotalCount_two": {
+    "message": "Kokku {COUNT}"
+  },
+  "taskTotalCount_zero": {
+    "message": "Kokku {COUNT}"
+  },
+  "themeQuickSwitchHint": {
+    "message": "Teemade kiireks vahetamiseks hoidke teemaikoonil klõpsates all klahvi Ctrl või Cmd"
+  },
+  "thenClickToolbarIcon": {
+    "message": "Seejärel klõpsake OneTab kasutamiseks uuesti OneTab tööriistariba ikoonil."
+  },
+  "thisFolderIsEmpty": {
+    "message": "See kaust on tühi"
+  },
+  "thisTab": {
+    "message": "See vaheleht"
+  },
+  "thisTabGroup": {
+    "message": "See vahelehegrupp"
+  },
+  "thisTabNotStored": {
+    "message": "See vaheleht pole rakenduses OneTab salvestatud"
+  },
+  "thisWindow": {
+    "message": "See aken"
+  },
+  "tickOrUntickToExclude": {
+    "message": "Veebisaidi välistamiseks märkige valik või eemaldage märge"
+  },
+  "title": {
+    "message": "Pealkiri"
+  },
+  "toAddOrRemoveExclusions": {
+    "message": "Veebisaidi välistamisloendisse lisamiseks või sealt eemaldamiseks:"
+  },
+  "toAllowOneTabInIncognito": {
+    "message": "OneTab ikooni kuvamiseks inkognito akendes: "
+  },
+  "toImportBrowserBookmarksUseMenuOption": {
+    "message": "Brauseri järjehoidjatest importimiseks kasutage OneTab lehel menüüvalikut „Impordi lingid siia”"
+  },
+  "toMakeOpenButtonWorkApprovePermission": {
+    "message": "Et jagatud lehtedel nupp „Ava” töötaks, lubage loataotlus."
+  },
+  "tooManyTabsSpeedUpFirefox": {
+    "message": "Liiga palju vahelehti? Teisendage vahelehed loendiks ja kiirendage Firefoxi"
+  },
+  "tooManyTabsSpeedUpSafari": {
+    "message": "Liiga palju vahelehti? Teisendage vahelehed loendiks ja kiirendage Safarit"
+  },
+  "toSaveChangesClickButton": {
+    "message": "Muudatuste salvestamiseks klõpsake nuppu"
+  },
+  "total0Tabs": {
+    "message": "Kokku: 0 vahelehte"
+  },
+  "trash": {
+    "message": "Prügikast"
+  },
+  "unfoldGroup": {
+    "message": "Laienda grupp"
+  },
+  "unlock": {
+    "message": "Ava lukust"
+  },
+  "unmarkAsArchived": {
+    "message": "Eemalda arhiivimärge"
+  },
+  "unMarkAsTask": {
+    "message": "Eemalda ülesandemärge"
+  },
+  "unpin": {
+    "message": "Eemalda kinnitus"
+  },
+  "unshare": {
+    "message": "Lõpeta jagamine"
+  },
+  "untitled": {
+    "message": "Pealkirjata"
+  },
+  "update": {
+    "message": "Uuenda"
+  },
+  "userLanguage": {
+    "message": "Eesti"
+  },
+  "website": {
+    "message": "Veebisait"
+  },
+  "yearCount_few": {
+    "message": "{COUNT} aastat"
+  },
+  "yearCount_many": {
+    "message": "{COUNT} aastat"
+  },
+  "yearCount_one": {
+    "message": "{COUNT} aasta"
+  },
+  "yearCount_other": {
+    "message": "{COUNT} aastat"
+  },
+  "yearCount_two": {
+    "message": "{COUNT} aastat"
+  },
+  "yearCount_zero": {
+    "message": "{COUNT} aastat"
+  },
+  "yourTabAlreadyStoredHere": {
+    "message": "Teie vaheleht on juba siia salvestatud:"
+  }
+}

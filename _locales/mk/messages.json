@@ -1,0 +1,2330 @@
+{
+  "95PctMemoryReduction": {
+    "message": "95% помала потрошувачка на меморија"
+  },
+  "about": {
+    "message": "За"
+  },
+  "actionPopupOverrideNote": {
+    "message": "Оваа поставка може да се измени во скокачкиот прозорец на екстензијата (ако сте го овозможиле)."
+  },
+  "aDashZ": {
+    "message": "А-Ш"
+  },
+  "addOneTabNow": {
+    "message": "Додај OneTab сега"
+  },
+  "all": {
+    "message": "Сè"
+  },
+  "allBookmarks": {
+    "message": "Сите обележувачи"
+  },
+  "allOpenTabsAlreadyStoredHere_few": {
+    "message": "Сите отворени картички веќе се зачувани овде:"
+  },
+  "allOpenTabsAlreadyStoredHere_many": {
+    "message": "Сите отворени картички веќе се зачувани овде:"
+  },
+  "allOpenTabsAlreadyStoredHere_one": {
+    "message": "Сите отворени картички веќе се зачувани овде:"
+  },
+  "allOpenTabsAlreadyStoredHere_other": {
+    "message": "Сите отворени картички веќе се зачувани овде:"
+  },
+  "allOpenTabsAlreadyStoredHere_two": {
+    "message": "Сите отворени картички веќе се зачувани овде:"
+  },
+  "allOpenTabsAlreadyStoredHere_zero": {
+    "message": "Сите отворени картички веќе се зачувани овде:"
+  },
+  "allowFileAccessInstructions": {
+    "message": "За да дозволите датотеките да се отвораат директно, одете во Поставки ➝ Екстензии ➝ OneTab ➝ Детали ➝ Дозволи пристап до URL-адреси на датотеки"
+  },
+  "alreadyExistingOpenTabsWillBeClosedAfterMerge": {
+    "message": "Сите отворени картички што веќе постојат во оваа група ќе се затворат по спојувањето."
+  },
+  "alternatePlainTextFormat": {
+    "message": "Алтернативно, обичниот текст може да биде во форматот:"
+  },
+  "approve": {
+    "message": "Одобри"
+  },
+  "archived": {
+    "message": "Архивирани"
+  },
+  "autoTheme": {
+    "message": "Автоматски (користи ја поставката на оперативниот систем)"
+  },
+  "backupAndSync": {
+    "message": "Резервна копија и синхронизација"
+  },
+  "betaReleaseReportBugsHere": {
+    "message": "Бета-издание – пријавете грешки овде"
+  },
+  "bookmarkCount_few": {
+    "message": "{COUNT} обележувачи"
+  },
+  "bookmarkCount_many": {
+    "message": "{COUNT} обележувачи"
+  },
+  "bookmarkCount_one": {
+    "message": "{COUNT} обележувач"
+  },
+  "bookmarkCount_other": {
+    "message": "{COUNT} обележувачи"
+  },
+  "bookmarkCount_two": {
+    "message": "{COUNT} обележувачи"
+  },
+  "bookmarkCount_zero": {
+    "message": "{COUNT} обележувачи"
+  },
+  "bookmarksPermissionNecesssary": {
+    "message": "Дозволата за обележувачи е неопходна за OneTab да може да ги увезе обележувачите од вашиот прелистувач"
+  },
+  "bulkActions": {
+    "message": "Масовни дејства"
+  },
+  "cancel": {
+    "message": "Откажи"
+  },
+  "canDragTextNote": {
+    "message": "Забелешка: Можно е и да повлечете и пуштите текст што содржи веб-врски директно од друга веб-страница или од документ. Текстот може да го повлечете директно во вашата страница OneTab, без да мора да го користите ова поле за увоз."
+  },
+  "cannotConnectToServerDeletionRequestQueued": {
+    "message": "Не може да се воспостави врска со серверот на OneTab. Проверете ја интернет-врската. Вашето барање за бришење на споделената страница е ставено во локална редица и автоматски ќе се испрати до серверот на OneTab веднаш штом повторно стане достапен."
+  },
+  "cannotCreateTabGroupInTabGroup": {
+    "message": "Избраната дестинација е група картички. Не можете да создадете група картички во постојна група картички. Изберете друга дестинација."
+  },
+  "cannotMixTabsGroupsFoldersDuringDrag": {
+    "message": "Не е можно да се мешаат картички, групи и папки при повлекување. Тоа е затоа што, на пример, папка не може да се повлече на истите места каде што може да се повлече картичка."
+  },
+  "cannotMoveItemAncestorHere": {
+    "message": "Матична ставка не може да се премести во сопствената подставка, бидејќи тоа би создало циклус."
+  },
+  "cannotMoveItemIntoItself": {
+    "message": "Ставка не може да се премести во самата себе."
+  },
+  "canPasteWebContentForExample": {
+    "message": "Можете да залепите текст копиран од веб-страница или документ, а врските автоматски ќе се извлечат. На пример:"
+  },
+  "caseSensitive": {
+    "message": "Разликување големи и мали букви"
+  },
+  "changesMadeSinceSharedPageCreation": {
+    "message": "Вашите зачувани картички се променети откако ја споделивте оваа страница. Кликнете на копчето „Ажурирај“ за да ја ажурирате постојната споделена страница."
+  },
+  "changeThisSettingAtAnyTimeInfo": {
+    "message": "Оваа поставка можете да ја промените во секое време со кликнување на копчето „Опции“ на врвот од вашата страница OneTab."
+  },
+  "changeThisSettingAtAnyTimeInfoHtml": {
+    "message": "Ова може да го промените подоцна во <b>Опции</b>."
+  },
+  "checkboxesDeterminePinnedAndGroupedTabMergeInclusion": {
+    "message": "Полињата за штиклирање на врвот од оваа страница одредуваат дали закачените или групираните картички ќе бидат вклучени во спојувањето."
+  },
+  "chooseALocation": {
+    "message": "Изберете локација"
+  },
+  "chooseALocationToImportTo": {
+    "message": "Изберете локација за увоз"
+  },
+  "chooseExportLocation": {
+    "message": "Изберете локација од која ќе извезувате"
+  },
+  "chooseLightDarkTheme": {
+    "message": "Изберете светла/темна тема"
+  },
+  "chooseLocationToCopyTo": {
+    "message": "Изберете локација за копирање"
+  },
+  "chooseLocationToMoveTo": {
+    "message": "Изберете локација за преместување"
+  },
+  "chooseLocationToRestoreTo": {
+    "message": "Изберете локација за враќање"
+  },
+  "chooseToIncludeNotes": {
+    "message": "Ако сте додале белешки на картички или групи, изберете дали да ги вклучите во споделената веб-страница"
+  },
+  "chooseToIncludeRatings": {
+    "message": "Ако сте додале ѕвездички на картички или групи, изберете дали да ги вклучите во споделената веб-страница"
+  },
+  "chromeIncognitoInstructions": {
+    "message": "Во поставките на прелистувачот, одете во „Поставки“ → „Екстензии“ → „OneTab“ → „Детали“, а потоа овозможете „Дозволи во Инкогнито“."
+  },
+  "clickButtonToAllowTabAccess": {
+    "message": "Кликнете на копчето подолу за да му дозволите на OneTab да пристапи до вашите отворени картички."
+  },
+  "clickHereToContinue": {
+    "message": "Кликнете овде за да продолжите."
+  },
+  "clickOneTabIconToStoreTabsHere": {
+    "message": "Кликнете на иконата OneTab во лентата со алатки на прелистувачот за да ги зачувате отворените картички овде."
+  },
+  "closeSelectedTabs_few": {
+    "message": "Затвори {COUNT} избрани картички"
+  },
+  "closeSelectedTabs_many": {
+    "message": "Затвори {COUNT} избрани картички"
+  },
+  "closeSelectedTabs_one": {
+    "message": "Затвори {COUNT} избрана картичка"
+  },
+  "closeSelectedTabs_other": {
+    "message": "Затвори {COUNT} избрани картички"
+  },
+  "closeSelectedTabs_two": {
+    "message": "Затвори {COUNT} избрани картички"
+  },
+  "closeSelectedTabs_zero": {
+    "message": "Затвори {COUNT} избрани картички"
+  },
+  "closeSelectedTabsAndStoreInONETAB_few": {
+    "message": "Затвори {COUNT} избрани картички и зачувај ги во ONETAB"
+  },
+  "closeSelectedTabsAndStoreInONETAB_many": {
+    "message": "Затвори {COUNT} избрани картички и зачувај ги во ONETAB"
+  },
+  "closeSelectedTabsAndStoreInONETAB_one": {
+    "message": "Затвори {COUNT} избрана картичка и зачувај ја во ONETAB"
+  },
+  "closeSelectedTabsAndStoreInONETAB_other": {
+    "message": "Затвори {COUNT} избрани картички и зачувај ги во ONETAB"
+  },
+  "closeSelectedTabsAndStoreInONETAB_two": {
+    "message": "Затвори {COUNT} избрани картички и зачувај ги во ONETAB"
+  },
+  "closeSelectedTabsAndStoreInONETAB_zero": {
+    "message": "Затвори {COUNT} избрани картички и зачувај ги во ONETAB"
+  },
+  "closeTabs_few": {
+    "message": "Затвори ги картичките"
+  },
+  "closeTabs_many": {
+    "message": "Затвори ги картичките"
+  },
+  "closeTabs_one": {
+    "message": "Затвори ја картичката"
+  },
+  "closeTabs_other": {
+    "message": "Затвори ги картичките"
+  },
+  "closeTabs_two": {
+    "message": "Затвори ги картичките"
+  },
+  "closeTabs_zero": {
+    "message": "Затвори ги картичките"
+  },
+  "closeTabsAfterMerge": {
+    "message": "Затвори ги картичките по спојувањето"
+  },
+  "closeTabsAlreadyStoredInOneTab_few": {
+    "message": "Затвори {COUNT} картички што веќе се зачувани во OneTab"
+  },
+  "closeTabsAlreadyStoredInOneTab_many": {
+    "message": "Затвори {COUNT} картички што веќе се зачувани во OneTab"
+  },
+  "closeTabsAlreadyStoredInOneTab_one": {
+    "message": "Затвори {COUNT} картичка што веќе е зачувана во OneTab"
+  },
+  "closeTabsAlreadyStoredInOneTab_other": {
+    "message": "Затвори {COUNT} картички што веќе се зачувани во OneTab"
+  },
+  "closeTabsAlreadyStoredInOneTab_two": {
+    "message": "Затвори {COUNT} картички што веќе се зачувани во OneTab"
+  },
+  "closeTabsAlreadyStoredInOneTab_zero": {
+    "message": "Затвори {COUNT} картички што веќе се зачувани во OneTab"
+  },
+  "closeTabsAndStore_few": {
+    "message": "Затвори ги картичките и зачувај ги во ONETAB"
+  },
+  "closeTabsAndStore_many": {
+    "message": "Затвори ги картичките и зачувај ги во ONETAB"
+  },
+  "closeTabsAndStore_one": {
+    "message": "Затвори ја картичката и зачувај ја во ONETAB"
+  },
+  "closeTabsAndStore_other": {
+    "message": "Затвори ги картичките и зачувај ги во ONETAB"
+  },
+  "closeTabsAndStore_two": {
+    "message": "Затвори ги картичките и зачувај ги во ONETAB"
+  },
+  "closeTabsAndStore_zero": {
+    "message": "Затвори ги картичките и зачувај ги во ONETAB"
+  },
+  "closeTheseDuplicates_few": {
+    "message": "Затвори ги овие дупликати"
+  },
+  "closeTheseDuplicates_many": {
+    "message": "Затвори ги овие дупликати"
+  },
+  "closeTheseDuplicates_one": {
+    "message": "Затвори го овој дупликат"
+  },
+  "closeTheseDuplicates_other": {
+    "message": "Затвори ги овие дупликати"
+  },
+  "closeTheseDuplicates_two": {
+    "message": "Затвори ги овие дупликати"
+  },
+  "closeTheseDuplicates_zero": {
+    "message": "Затвори ги овие дупликати"
+  },
+  "completedTaskFlagHelp": {
+    "message": "Оваа ставка е задача. Кликнете на оваа икона за да ја означите како во чекање (незавршена)."
+  },
+  "completeEditingShortcutInfo": {
+    "message": "При уредување поле за белешки, завршете го уредувањето"
+  },
+  "configureShortcuts": {
+    "message": "Конфигурирај кратенки"
+  },
+  "conflictingShortcutsHint": {
+    "message": "Ако некоја од кратенките на тастатурата погоре не работи или е во конфликт со други апликации, можете да поставите друга кратенка на тастатурата."
+  },
+  "continue": {
+    "message": "Продолжи"
+  },
+  "convertTabsIntoAList": {
+    "message": "Претвори ги картичките во список"
+  },
+  "copiedToClipboard": {
+    "message": "Копирано во таблата со исечоци"
+  },
+  "copy": {
+    "message": "Копирај"
+  },
+  "copyLinksToClipboard": {
+    "message": "Копирај врски во таблата со исечоци"
+  },
+  "copySharedPageUrl": {
+    "message": "Копирај URL-адреса на споделената страница"
+  },
+  "copyToClipboard": {
+    "message": "Копирај во таблата со исечоци"
+  },
+  "copyToClipboardMenuItemHelp": {
+    "message": "Копирајте ги овие веб-врски во таблата со исечоци за да можете да ги залепите во други апликации. Форматот на текстот во таблата со исечоци можете да го промените на страницата со опции на OneTab."
+  },
+  "createANewGroupHere": {
+    "message": "Создај нова група овде"
+  },
+  "createdOnDate": {
+    "message": "Создадено на {DATE}"
+  },
+  "createdOnOrAfterColon": {
+    "message": "Создадено на или по:"
+  },
+  "createdOnOrBeforeColon": {
+    "message": "Создадено на или пред:"
+  },
+  "createFolderAbove": {
+    "message": "Создај папка над"
+  },
+  "createFolderAboveBelow": {
+    "message": "Создај папка над / под"
+  },
+  "createFolderAboveWithinBelow": {
+    "message": "Создај папка над / внатре / под"
+  },
+  "createFolderBelow": {
+    "message": "Создај папка под"
+  },
+  "createFolderWithin": {
+    "message": "Создај папка внатре"
+  },
+  "createFolderWithinMenuItemHelp": {
+    "message": "Папките служат за организирање групи со картички. Папките содржат групи, а групите содржат картички."
+  },
+  "createGroupAbove": {
+    "message": "Создај група над"
+  },
+  "createGroupAboveBelow": {
+    "message": "Создај група над / под"
+  },
+  "createGroupAboveWithinBelow": {
+    "message": "Создај група над / внатре / под"
+  },
+  "createGroupBelow": {
+    "message": "Создај група под"
+  },
+  "createGroupInsideDestination": {
+    "message": "Создај нова група во дестинацијата"
+  },
+  "createGroupInsideDestinationHelp": {
+    "message": "Ако не е штиклирано, вашите картички ќе се додадат директно во дестинациската група. Ако е штиклирано, ќе се создаде нова група картички на прелистувачот за вашите картички во дестинациската група. Штиклирајте го ова поле само ако сакате да ја користите функцијата „групи картички“ на прелистувачот."
+  },
+  "createGroupMenuItemHelp": {
+    "message": "Создајте нова, празна група. Групата содржи список со картички, кои може заеднички да се вратат во прозорец."
+  },
+  "createGroupWithin": {
+    "message": "Создај група внатре"
+  },
+  "createNewGroupTip": {
+    "message": "За да создадете нова група, прво отштиклирајте „Прикажи само папки“. Така ќе можете да ја видите новосоздадената група во списокот."
+  },
+  "darkTheme": {
+    "message": "Темна тема"
+  },
+  "dayCount_few": {
+    "message": "{COUNT} дена"
+  },
+  "dayCount_many": {
+    "message": "{COUNT} дена"
+  },
+  "dayCount_one": {
+    "message": "{COUNT} ден"
+  },
+  "dayCount_other": {
+    "message": "{COUNT} дена"
+  },
+  "dayCount_two": {
+    "message": "{COUNT} дена"
+  },
+  "dayCount_zero": {
+    "message": "{COUNT} дена"
+  },
+  "delete": {
+    "message": "Избриши"
+  },
+  "deleteAllTrash": {
+    "message": "Испразни ја корпата"
+  },
+  "deleteThisCopy": {
+    "message": "Избриши ја оваа копија"
+  },
+  "deselectAll": {
+    "message": "Отстрани го целиот избор"
+  },
+  "destinationColon": {
+    "message": "Дестинација:"
+  },
+  "disabled": {
+    "message": "Оневозможено"
+  },
+  "doneTaskCount_few": {
+    "message": "{COUNT} завршени"
+  },
+  "doneTaskCount_many": {
+    "message": "{COUNT} завршени"
+  },
+  "doneTaskCount_one": {
+    "message": "{COUNT} завршена"
+  },
+  "doneTaskCount_other": {
+    "message": "{COUNT} завршени"
+  },
+  "doneTaskCount_two": {
+    "message": "{COUNT} завршени"
+  },
+  "doneTaskCount_zero": {
+    "message": "{COUNT} завршени"
+  },
+  "dontCloseGroupedTabs": {
+    "message": "Не затворај картички во групи картички"
+  },
+  "dontClosePinnedTabs": {
+    "message": "Не затворај закачени картички"
+  },
+  "dontCloseTabsFromDomains": {
+    "message": "Не затворај картички од EXAMPLE.COM"
+  },
+  "dragCopyKeysHtml": {
+    "message": "<x-key>{CTRL}</x-key> или <x-key>{ALT}</x-key>"
+  },
+  "dragCopyModifierInfo": {
+    "message": "Држете го копчето ctrl или alt додека повлекувате картичка за да создадете нејзина копија наместо да ја преместите."
+  },
+  "dragTabsHereForQuickList": {
+    "message": "Повлечете ги зачуваните картички или групи овде. Ќе бидат додадени во вашата брза листа."
+  },
+  "editTabGroupTitleAndNotes": {
+    "message": "Уреди ги насловот и белешките на групата картички"
+  },
+  "emojiShortcutInfo": {
+    "message": "При уредување поле за белешки, отворете го избирачот на емотикони"
+  },
+  "emptyInBrackets": {
+    "message": "(празно)"
+  },
+  "emptyOneTabInfoMsg": {
+    "message": "Кога имате отворено повеќе картички, кликнете на иконата OneTab на лентата со алатки на прелистувачот и вашите отворени картички ќе се појават овде."
+  },
+  "enabled": {
+    "message": "Овозможено"
+  },
+  "everything": {
+    "message": "Сè"
+  },
+  "exampleLink": {
+    "message": "Примерна врска"
+  },
+  "exampleLinkTitle": {
+    "message": "Пример за наслов на врска"
+  },
+  "exampleLinkTitleOptional": {
+    "message": "Пример за наслов на врска (незадолжително)"
+  },
+  "exampleRichTextParagraph": {
+    "message": "Примерен пасус со текст со PLACEHOLDER и PLACEHOLDER"
+  },
+  "exampleWebsitePageTitle": {
+    "message": "Пример за наслов на страница на веб-локација"
+  },
+  "excludeDomainFromOneTab": {
+    "message": "Исклучи EXAMPLE.COM од OneTab"
+  },
+  "excludeWebSiteFromOneTab": {
+    "message": "Исклучи ја оваа веб-локација од OneTab"
+  },
+  "expiresColon": {
+    "message": "Истекува:"
+  },
+  "export": {
+    "message": "Извези"
+  },
+  "exportImportUrls": {
+    "message": "Извоз / увоз на URL-адреси"
+  },
+  "exportThenImportNote": {
+    "message": "Следниов список со URL-адреси може и повторно да се увезе во OneTab на овој или на друг компјутер"
+  },
+  "exportUrls": {
+    "message": "Извези URL-адреси"
+  },
+  "feedback": {
+    "message": "Повратни информации"
+  },
+  "filter": {
+    "message": "Филтер"
+  },
+  "firefoxIncognitoInstructions": {
+    "message": "Во поставките на прелистувачот, одете во „Поставки“ → „Додатоци и теми“ → „Екстензии“ → „OneTab“ → „...“ → „Управувај“, а потоа овозможете „Работи во приватни прозорци“."
+  },
+  "firefoxIndexedDbUnavailable": {
+    "message": "OneTab не може да складира или да презема податоци. Ако сте го конфигурирале Firefox никогаш да не памети историја, тоа би го спречило OneTab да функционира правилно. Во спротивно, контактирајте нè преку нашата веб-локација и можеби ќе можеме да помогнеме."
+  },
+  "firefoxShortcutConfigInstructions": {
+    "message": "Внесете ја URL-адресата \"about:addons?type=extension\" во лентата за адреси на прелистувачот. Кога ќе се појави страницата, кликнете на иконата со запчаник, а потоа изберете \"Управувај со кратенки на екстензии\""
+  },
+  "Folder": {
+    "message": "Папка"
+  },
+  "folderCount_few": {
+    "message": "{COUNT} папки"
+  },
+  "folderCount_many": {
+    "message": "{COUNT} папки"
+  },
+  "folderCount_one": {
+    "message": "{COUNT} папка"
+  },
+  "folderCount_other": {
+    "message": "{COUNT} папки"
+  },
+  "folderCount_two": {
+    "message": "{COUNT} папки"
+  },
+  "folderCount_zero": {
+    "message": "{COUNT} папки"
+  },
+  "folders": {
+    "message": "Папки"
+  },
+  "foldersOnly": {
+    "message": "Само папки"
+  },
+  "foldGroup": {
+    "message": "Собери група"
+  },
+  "gettingStarted": {
+    "message": "Први чекори"
+  },
+  "gotIt": {
+    "message": "Разбрав"
+  },
+  "goToParentFolder": {
+    "message": "Оди во матичната папка"
+  },
+  "groupCount_few": {
+    "message": "{COUNT} групи"
+  },
+  "groupCount_many": {
+    "message": "{COUNT} групи"
+  },
+  "groupCount_one": {
+    "message": "{COUNT} група"
+  },
+  "groupCount_other": {
+    "message": "{COUNT} групи"
+  },
+  "groupCount_two": {
+    "message": "{COUNT} групи"
+  },
+  "groupCount_zero": {
+    "message": "{COUNT} групи"
+  },
+  "groups": {
+    "message": "Групи"
+  },
+  "hasNotes": {
+    "message": "Со белешки"
+  },
+  "help": {
+    "message": "Помош"
+  },
+  "hideArchivedItems": {
+    "message": "Сокриј архивирани ставки"
+  },
+  "import": {
+    "message": "Увези"
+  },
+  "importAndExport": {
+    "message": "Увоз и извоз"
+  },
+  "importBookmarks": {
+    "message": "Увези обележувачи"
+  },
+  "importedBookmarks": {
+    "message": "Увезени обележувачи"
+  },
+  "importExportShareMenuNoteHtml": {
+    "message": "Исто така можете да ги извезете вашите картички како веб-страница за споделување или како HTML-датотека со опциите <b>Сподели како веб-страница</b> и <b>Зачувај како HTML-датотека</b> во менито <b>Повеќе…</b> на групата или папката."
+  },
+  "importFolderAndSubfolders": {
+    "message": "Увези папка и потпапки"
+  },
+  "importLinksHere": {
+    "message": "Увези врски овде"
+  },
+  "importLinksHereMenuItemHelp": {
+    "message": "Можете да залепите список со веб-врски или да увезете обележувачи од прелистувачот."
+  },
+  "importNotesTruncatedNotice": {
+    "message": "Некои увезени белешки го надминаа ограничувањето од {MAX} знаци, па нивните краеви беа скратени."
+  },
+  "importReadingList": {
+    "message": "Увези список за читање"
+  },
+  "importText": {
+    "message": "Увоз на текст"
+  },
+  "importUrls": {
+    "message": "Увези URL-адреси"
+  },
+  "includeGroupedTabs": {
+    "message": "Вклучи групирани картички"
+  },
+  "includeNotes": {
+    "message": "Вклучи белешки"
+  },
+  "includePinnedTabs": {
+    "message": "Вклучи закачени картички"
+  },
+  "includeStarRatings": {
+    "message": "Вклучи ѕвездички"
+  },
+  "includeTabsAlreadyStored": {
+    "message": "Вклучи картички што веќе сте ги зачувале"
+  },
+  "includeTabsFromDomains": {
+    "message": "Вклучи картички од EXAMPLE.COM"
+  },
+  "incogitoPermissionRequired": {
+    "message": "На OneTab му е потребна дозвола за создавање Инкогнито прозорци."
+  },
+  "incognitoWindows": {
+    "message": "Инкогнито прозорци"
+  },
+  "invertSelection": {
+    "message": "Инвертирај го изборот"
+  },
+  "itemTextTruncatedNotice": {
+    "message": "Текстот го надмина ограничувањето (белешките може да содржат {NOTESMAX} знаци, а насловите {TITLEMAX}), па крајот беше скратен."
+  },
+  "justNow": {
+    "message": "штотуку"
+  },
+  "kbdNavBackspaceInfo": {
+    "message": "Одење нагоре до матичната папка"
+  },
+  "kbdNavEnterInfo": {
+    "message": "Враќање картички или отворање папка"
+  },
+  "kbdNavEscInfo": {
+    "message": "Крај на навигацијата со тастатура"
+  },
+  "kbdNavFocusInfo": {
+    "message": "Промена на фокусот од групи на картички"
+  },
+  "kbdNavFoldInfo": {
+    "message": "Собирање / проширување група"
+  },
+  "kbdNavMoveInfo": {
+    "message": "Движење меѓу ставки"
+  },
+  "kbdNavTabInfo": {
+    "message": "Почеток на навигација со тастатура"
+  },
+  "keyboardShortcutsColon": {
+    "message": "Кратенки на тастатурата:"
+  },
+  "languageTitle": {
+    "message": "Јазик:"
+  },
+  "licenseAlreadyHaveKey": {
+    "message": "Веќе имам клуч за лиценца"
+  },
+  "licenseAlreadySetUpRestarting": {
+    "message": "Оваа лиценца е веќе поставена, па ќе го поврземе овој уред со постојното поставување. Нов код е испратен по е-пошта на регистрираната адреса."
+  },
+  "licenseBackLink": {
+    "message": "Назад"
+  },
+  "licenseBrowserOnOs": {
+    "message": "{BROWSER} на {OS}"
+  },
+  "licenseBrowsersActiveOn": {
+    "message": "Активен на {DATE}"
+  },
+  "licenseBrowsersActiveToday": {
+    "message": "Активен денес"
+  },
+  "licenseBrowsersAdded": {
+    "message": "Додаден на {DATE}"
+  },
+  "licenseBrowsersThisBrowser": {
+    "message": "Овој прелистувач"
+  },
+  "licenseBrowserUnknown": {
+    "message": "Прелистувач"
+  },
+  "licenseChangeEmail": {
+    "message": "Промени адреса на е-пошта"
+  },
+  "licenseChangeEmailWebLink": {
+    "message": "Промени адреса на е-пошта"
+  },
+  "licenseChooseRecoveryTitle": {
+    "message": "Изберете како ќе биде заштитен вашиот клуч за шифрирање"
+  },
+  "licenseCloseModal": {
+    "message": "Затвори"
+  },
+  "licenseCodeExpired": {
+    "message": "Кодот истече. Побарајте нова е-порака."
+  },
+  "licenseCodeIncorrectTriesRemaining": {
+    "message": "Неточен код. Преостанати обиди: {COUNT}."
+  },
+  "licenseCodeInvalidFormat": {
+    "message": "Внесете го 6-цифрениот код од е-пораката."
+  },
+  "licenseCodePlaceholder": {
+    "message": "6-цифрен код"
+  },
+  "licenseCodeSentTo": {
+    "message": "Внесете го 6-цифрениот код што го испративме по е-пошта на {EMAIL}."
+  },
+  "licenseCodeSourceDeviceOption": {
+    "message": "Добијте код од веќе поврзан прелистувач"
+  },
+  "licenseCodeSourceDeviceOptionDescription": {
+    "message": "Отворете „Резервна копија и синхронизација“ таму и кликнете „Поврзи друг прелистувач или профил“."
+  },
+  "licenseCodeSourceEmailOption": {
+    "message": "Испрати код по е-пошта на {EMAIL}"
+  },
+  "licenseCodeSourceTitle": {
+    "message": "Добијте код за потврда"
+  },
+  "licenseCodeTriesExhausted": {
+    "message": "Нема преостанати обиди за тој код. Побарајте нова е-порака."
+  },
+  "licenseConnectAnotherBrowser": {
+    "message": "Поврзи друг прелистувач или профил"
+  },
+  "licenseConnectedBrowsers": {
+    "message": "Поврзани прелистувачи"
+  },
+  "licenseDeviceAddConnected": {
+    "message": "{BROWSER} штотуку се поврза со вашата лиценца."
+  },
+  "licenseDeviceAddExpired": {
+    "message": "Овој код истече."
+  },
+  "licenseDeviceAddExpiresIn": {
+    "message": "Истекува за {TIME}"
+  },
+  "licenseDeviceAddGetNewCode": {
+    "message": "Добиј нов код"
+  },
+  "licenseDeviceAddIntro": {
+    "message": "За да поврзете друг прелистувач или профил, внесете го вашиот клуч за лиценца таму, а потоа внесете го овој код кога ќе биде побаран."
+  },
+  "licenseDeviceAddKeyReminder": {
+    "message": "Сепак ќе ви треба клучот за лиценца — тој не е прикажан овде. Се наоѓа во првичната е-порака со која сте го добиле или на вашата страница за наплата."
+  },
+  "licenseDeviceAddNeverShare": {
+    "message": "Користете го овој код само во вашиот нов прелистувач. Никогаш не споделувајте го со никого — OneTab никогаш нема да ви го побара. Работи само за лиценцата на овој прелистувач."
+  },
+  "licenseDeviceCodeInsteadLink": {
+    "message": "Наместо тоа, добиј код од поврзан прелистувач"
+  },
+  "licenseDeviceCodePrompt": {
+    "message": "Во прелистувач што веќе е поврзан со вашата лиценца, отворете „Резервна копија и синхронизација“ и кликнете „Поврзи друг прелистувач или профил“. Внесете го 6-цифрениот код прикажан таму."
+  },
+  "licenseDeviceLimitReached": {
+    "message": "Оваа лиценца го достигна ограничувањето за уреди."
+  },
+  "licenseDoneButton": {
+    "message": "Готово"
+  },
+  "licenseEasyOptionDescription": {
+    "message": "Вашиот клуч за шифрирање безбедно се чува на серверот, па можете да го вратите преку е-пошта."
+  },
+  "licenseEasyOptionLabel": {
+    "message": "Лесно"
+  },
+  "licenseEmailCodeInsteadLink": {
+    "message": "Наместо тоа, испрати ми код по е-пошта"
+  },
+  "licenseEmailPlaceholder": {
+    "message": "Адреса на е-пошта"
+  },
+  "licenseEmailPrompt": {
+    "message": "Вашата адреса на е-пошта"
+  },
+  "licenseForgotKeyBack": {
+    "message": "Назад кон внесување клуч за лиценца"
+  },
+  "licenseForgotKeyEnterKeyButton": {
+    "message": "Внеси клуч за лиценца"
+  },
+  "licenseForgotKeyLink": {
+    "message": "Го заборавивте клучот за лиценца?"
+  },
+  "licenseForgotKeyNoEmailOnRecord": {
+    "message": "Нема клуч за лиценца поврзан со таа адреса на е-пошта. Проверете дали има печатни грешки или обидете се со друга адреса што можеби сте ја користеле."
+  },
+  "licenseForgotKeyPrompt": {
+    "message": "Внесете ја вашата адреса на е-пошта. Ако е поврзана со клуч за лиценца, ќе го испратиме клучот по е-пошта на таа адреса."
+  },
+  "licenseForgotKeySendButton": {
+    "message": "Испрати"
+  },
+  "licenseForgotKeySentTo": {
+    "message": "Го испративме вашиот клуч за лиценца по е-пошта на {EMAIL}. Кога ќе пристигне, можете да го внесете овде."
+  },
+  "licenseForgotKeyTooManyRequests": {
+    "message": "Вашиот клуч за лиценца неодамна веќе беше испратен неколкупати на таа адреса. Проверете ја папката со несакана пошта или обидете се повторно утре."
+  },
+  "licenseGenericError": {
+    "message": "Настана проблем. Обидете се повторно."
+  },
+  "licenseGoButton": {
+    "message": "Продолжи"
+  },
+  "licenseInvalidEmail": {
+    "message": "Внесете важечка адреса на е-пошта."
+  },
+  "licenseKeyInvalidFormat": {
+    "message": "Ова не изгледа како важечки клуч за лиценца. Треба да содржи 20 букви (A–F) и цифри, како XXXX-XXXX-XXXX-XXXX-XXXX."
+  },
+  "licenseKeyNotFound": {
+    "message": "Клучот за лиценца не е пронајден. Проверете го и обидете се повторно."
+  },
+  "licenseNoLongerActiveError": {
+    "message": "Оваа лиценца повеќе не е активна. Ако мислите дека станува збор за грешка, контактирајте со поддршката."
+  },
+  "licenseRateLimitedError": {
+    "message": "Имаше премногу неуспешни обиди од вашата мрежа. Почекајте малку и обидете се повторно."
+  },
+  "licenseResendEmail": {
+    "message": "Испрати нова е-порака"
+  },
+  "licenseServiceProblemTryLater": {
+    "message": "Ова не може да се заврши во моментов поради проблем од наша страна. Обидете се повторно подоцна — ако проблемот продолжи, контактирајте со поддршката."
+  },
+  "licenseSuccess": {
+    "message": "Успешно! Вашите зачувани картички отсега ќе бидат шифрирани и безбедно зачувани како резервна копија во облакот."
+  },
+  "licenseSuccessJoin": {
+    "message": "Успешно! Овој прелистувач се приклучи на вашата шифрирана резервна копија. Зачуваните картички одовде и од другите прелистувачи отсега ќе останат синхронизирани."
+  },
+  "licenseSuggestedEmailIntro": {
+    "message": "Вашиот клуч за лиценца е испратен по е-пошта на:"
+  },
+  "licenseSuggestedEmailNote": {
+    "message": "Кодовите за потврда и враќањето на сметката ќе ја користат оваа адреса, затоа проверете дали е ваша."
+  },
+  "licenseSuspendedBillingError": {
+    "message": "Оваа лиценца не може да се поврзе во моментов поради проблем со наплатата. Ако управувате со наплатата, најавете се на one-tab.com за да го решите — во спротивно, контактирајте со лицето одговорно за купувањето на вашата лиценца."
+  },
+  "licenseUltraKeyConfirmCheckbox": {
+    "message": "Зачував копија од мојот клуч и разбирам дека тој никогаш повеќе нема да се прикаже."
+  },
+  "licenseUltraKeyConfirmRequired": {
+    "message": "Потврдете дека сте зачувале копија од вашиот клуч."
+  },
+  "licenseUltraKeyEnterPrompt": {
+    "message": "Внесете го вашиот клуч за шифрирање за да го довршите поврзувањето на овој уред."
+  },
+  "licenseUltraKeyIntro": {
+    "message": "Ова е вашиот клуч за шифрирање. Чувајте негова копија на безбедно место (на пример, во управувач со лозинки) за да можете да ги вратите податоците по дефект или кражба на компјутерот."
+  },
+  "licenseUltraKeyMismatch": {
+    "message": "Тој клуч не е точен за оваа лиценца. Проверете го и обидете се повторно."
+  },
+  "licenseUltraKeyNeverShownAgain": {
+    "message": "Овој клуч НИКОГАШ повеќе нема да се прикаже."
+  },
+  "licenseUltraKeyPlaceholder": {
+    "message": "Клуч за шифрирање"
+  },
+  "licenseUltraOptionDescription": {
+    "message": "Само вие го чувате клучот за шифрирање и тој не може да се врати ако го изгубите. Изберете ја оваа опција само ако сте сигурни дека можете безбедно да чувате негова копија."
+  },
+  "licenseUltraOptionLabel": {
+    "message": "Ултраприватност"
+  },
+  "licenseUseDifferentEmail": {
+    "message": "Користи друга адреса на е-пошта"
+  },
+  "lightTheme": {
+    "message": "Светла тема"
+  },
+  "localBackupRestoredModal": {
+    "message": "Делот од профилот на вашиот прелистувач во кој се чуваат податоците на OneTab е оштетен или избришан. Ова може да се случи по пад на прелистувачот или кога неисправен софтвер за чистење на системот или заштита на приватноста ќе отстрани податоци од прелистувачот."
+  },
+  "localBackupRestoredModalRecovery": {
+    "message": "Овој пат имавте среќа: оштетувањето не стигна до одделниот дел од профилот каде што OneTab чува неделна резервна копија, па вашите картички се вратени од резервната копија направена на {DATE}. Сè што сте зачувале или промениле по тој датум не можеше да се врати. Ако целиот профил беше изгубен или ако беше оштетена и резервната копија, немаше да има од што да се вратат податоците."
+  },
+  "localBackupRestoredModalTitle": {
+    "message": "OneTab ги врати вашите картички по загуба на податоци"
+  },
+  "localeId": {
+    "message": "mk"
+  },
+  "locationColon": {
+    "message": "Локација:"
+  },
+  "lock": {
+    "message": "Заклучи"
+  },
+  "lockedGroupUnlockHelp": {
+    "message": "За отклучување, користете го менито „Повеќе…“. Кога групата е заклучена, не можете да ја избришете групата или нејзините картички, а картичките не може да се прередуваат."
+  },
+  "lockMenuItemHelp": {
+    "message": "Кога групата е заклучена, не можете да отстранувате или прередувате ставки во групата (додека не ја отклучите групата)."
+  },
+  "makeThisATask": {
+    "message": "Означи како задача"
+  },
+  "manifestDescription": {
+    "message": "Заштедете до 95% меморија и намалете го нередот од картички"
+  },
+  "markAsArchived": {
+    "message": "Означи како архивирано"
+  },
+  "markAsArchivedMenuItemHelp": {
+    "message": "Кога ќе означите ставка како архивирана, таа ќе има сива заднина. Ова е визуелен показател дека сте завршиле со оваа ставка (на пример, тоа е статија што сте ја прочитале). Ако архивирате нешто што е означено како задача, задачата повеќе нема да се прикажува во колоната со задачи на вашата страница OneTab."
+  },
+  "markAsDoneTask": {
+    "message": "Означи како завршена задача"
+  },
+  "markAsDoneTaskMenuItemHelp": {
+    "message": "Визуелно означете дека задачата е завршена"
+  },
+  "markAsPendingTask": {
+    "message": "Означи како незавршена задача"
+  },
+  "markAsPendingTaskMenuItemHelp": {
+    "message": "Визуелно означете дека оваа ставка е задача. Ќе се појави икона за задача, на која потоа можете да кликнете за визуелно да означите дека задачата е завршена. Сите задачи (освен ако не се означени како архивирани) ќе се прикажуваат и во колоната со задачи на вашата страница OneTab."
+  },
+  "matchCount_few": {
+    "message": "{COUNT} совпаѓања"
+  },
+  "matchCount_many": {
+    "message": "{COUNT} совпаѓања"
+  },
+  "matchCount_one": {
+    "message": "{COUNT} совпаѓање"
+  },
+  "matchCount_other": {
+    "message": "{COUNT} совпаѓања"
+  },
+  "matchCount_two": {
+    "message": "{COUNT} совпаѓања"
+  },
+  "matchCount_zero": {
+    "message": "{COUNT} совпаѓања"
+  },
+  "matchWholeWordsOnly": {
+    "message": "Совпаѓање само на цели зборови"
+  },
+  "mayNeedToRestartBrowser": {
+    "message": "Ако ја гледате оваа порака секој пат, ажурирајте го и рестартирајте го прелистувачот."
+  },
+  "mergeIntoParent": {
+    "message": "Спој со матичната ставка"
+  },
+  "mergeOpenTabsHere_few": {
+    "message": "Спој ги {COUNT} отворени картички овде"
+  },
+  "mergeOpenTabsHere_many": {
+    "message": "Спој ги {COUNT} отворени картички овде"
+  },
+  "mergeOpenTabsHere_one": {
+    "message": "Спој ја {COUNT} отворена картичка овде"
+  },
+  "mergeOpenTabsHere_other": {
+    "message": "Спој ги {COUNT} отворени картички овде"
+  },
+  "mergeOpenTabsHere_two": {
+    "message": "Спој ги {COUNT} отворени картички овде"
+  },
+  "mergeOpenTabsHere_zero": {
+    "message": "Спој ги {COUNT} отворени картички овде"
+  },
+  "mergeSelectedTabsHere_few": {
+    "message": "Спој ги {COUNT} избрани картички овде"
+  },
+  "mergeSelectedTabsHere_many": {
+    "message": "Спој ги {COUNT} избрани картички овде"
+  },
+  "mergeSelectedTabsHere_one": {
+    "message": "Спој ја {COUNT} избрана картичка овде"
+  },
+  "mergeSelectedTabsHere_other": {
+    "message": "Спој ги {COUNT} избрани картички овде"
+  },
+  "mergeSelectedTabsHere_two": {
+    "message": "Спој ги {COUNT} избрани картички овде"
+  },
+  "mergeSelectedTabsHere_zero": {
+    "message": "Спој ги {COUNT} избрани картички овде"
+  },
+  "mergeWithInnerGroups": {
+    "message": "Спој со внатрешните групи"
+  },
+  "modalMoveToTrashHintExampleGroupTitle": {
+    "message": "Пример за наслов на група"
+  },
+  "modalMoveToTrashHintHeading": {
+    "message": "Совет: Поставете го покажувачот врз насловот на групата, па кликнете на X за да ја преместите во корпата."
+  },
+  "modalOptionAutoActionOnOpenHeading": {
+    "message": "По враќање на картичките:"
+  },
+  "modalOptionAutoActionOnOpenOpenDesc": {
+    "message": "Рачно избришете ги кога ќе завршите"
+  },
+  "modalOptionAutoActionOnOpenTrashDesc": {
+    "message": "Полесно за брзо зачувување и враќање"
+  },
+  "modalRemigrationDontAskAgain": {
+    "message": "Не прашувај повторно"
+  },
+  "modalRemigrationFooterHtml": {
+    "message": "Кликнете на <b>Да</b>, освен ако миграцијата веќе се случила и намерно сте ги избришале мигрираните картички."
+  },
+  "modalRemigrationNotNow": {
+    "message": "Не сега"
+  },
+  "modalRemigrationTabsFoundPrompt_few": {
+    "message": "Пронајдени се {COUNT} картички од OneTab v1. Да се мигрираат?"
+  },
+  "modalRemigrationTabsFoundPrompt_many": {
+    "message": "Пронајдени се {COUNT} картички од OneTab v1. Да се мигрираат?"
+  },
+  "modalRemigrationTabsFoundPrompt_one": {
+    "message": "Пронајдена е {COUNT} картичка од OneTab v1. Да се мигрира?"
+  },
+  "modalRemigrationTabsFoundPrompt_other": {
+    "message": "Пронајдени се {COUNT} картички од OneTab v1. Да се мигрираат?"
+  },
+  "modalRemigrationTabsFoundPrompt_two": {
+    "message": "Пронајдени се {COUNT} картички од OneTab v1. Да се мигрираат?"
+  },
+  "modalRemigrationTabsFoundPrompt_zero": {
+    "message": "Пронајдени се {COUNT} картички од OneTab v1. Да се мигрираат?"
+  },
+  "modalRemigrationYes": {
+    "message": "Да"
+  },
+  "modalUpdateToV2Heading": {
+    "message": "OneTab е ажуриран"
+  },
+  "modalUpdateToV2QuickTourHtml": {
+    "message": "Сакате брза обиколка? Кликнете на <b>Помош</b> најгоре."
+  },
+  "modalUpdateToV2UseOneTabLikeBefore": {
+    "message": "Сè уште можете да го користите OneTab како и досега — зачувајте ги картичките со еден клик."
+  },
+  "modifySharing": {
+    "message": "Измени споделување"
+  },
+  "moreEllipsis": {
+    "message": "Повеќе…"
+  },
+  "moreSearchFilters": {
+    "message": "Повеќе филтри за пребарување"
+  },
+  "move": {
+    "message": "Премести"
+  },
+  "moveBack": {
+    "message": "Врати назад"
+  },
+  "moveToTrash": {
+    "message": "Премести во корпата"
+  },
+  "namedOnly": {
+    "message": "Само именувани ставки"
+  },
+  "navigationFilter": {
+    "message": "Филтер за навигација"
+  },
+  "navigationFilterColumnOnlyNote": {
+    "message": "Овој филтер се применува само на колоната за навигација."
+  },
+  "newExclamation": {
+    "message": "Ново!"
+  },
+  "noDupsExistExceptForColon": {
+    "message": "Нема дупликати, освен:"
+  },
+  "noDupsFoundHere": {
+    "message": "Не се пронајдени дупликати овде"
+  },
+  "noMatches": {
+    "message": "Нема совпаѓања"
+  },
+  "noMatchesFound": {
+    "message": "Не се пронајдени совпаѓања"
+  },
+  "nonArchived": {
+    "message": "Неархивирани"
+  },
+  "nonTabPinFlagHelp": {
+    "message": "Оваа ставка е закачена на врвот на папката. Кликнете на оваа икона за да ја откачите."
+  },
+  "noOpenTabsToStore": {
+    "message": "Во овој прозорец нема отворени картички за зачувување."
+  },
+  "noReadingListEntries": {
+    "message": "Не се пронајдени записи во списокот за читање"
+  },
+  "noTabsInOneTabYet": {
+    "message": "Сè уште немате картички во OneTab"
+  },
+  "noTabsMeetCriteriaUseCheckboxes": {
+    "message": "Нема отворени картички што ги исполнуваат вашите критериуми. Користете ги полињата за штиклирање погоре."
+  },
+  "notAssigned": {
+    "message": "Не е доделена"
+  },
+  "notes": {
+    "message": "Белешки"
+  },
+  "notesAboutTheLinkOptional": {
+    "message": "Белешки за врската (незадолжително)"
+  },
+  "notesAboutTheSecondLinkOptional": {
+    "message": "Белешки за втората врска (незадолжително)"
+  },
+  "noTextHasBeenEntered": {
+    "message": "Не е внесен текст"
+  },
+  "ok": {
+    "message": "Во ред"
+  },
+  "omniboxShortcutInfo": {
+    "message": "За да пребарувате во вашиот список OneTab од која било картичка: одете во лентата за адреси на прелистувачот, внесете 11, потоа празно место, па клучен збор за пребарување. За обично пребарување (не во OneTab) што почнува со 11, притиснете 11, потоа празно место, па Backspace"
+  },
+  "OneTabAlsoAvailableForFirefox": {
+    "message": "OneTab е достапен и за Firefox"
+  },
+  "oneTabDesignedToProtectPrivacy": {
+    "message": "OneTab е дизајниран да ја штити вашата приватност. Вашите картички не ни се откриваат."
+  },
+  "oneTabExportPageTitle": {
+    "message": "Извоз од OneTab"
+  },
+  "oneTabFolderSlashShortcutInfo": {
+    "message": "Фокус на полето за пребарување и пребарување само во тековната папка"
+  },
+  "oneTabImportExportPageTitle": {
+    "message": "Увоз/извоз во OneTab"
+  },
+  "oneTabNeedsPermissionToAccessYourTabs": {
+    "message": "На OneTab му е потребна дозвола за пристап до вашите картички."
+  },
+  "oneTabOptionsPageTitle": {
+    "message": "Опции на OneTab"
+  },
+  "oneTabPermissionRequired": {
+    "message": "OneTab - потребна е дозвола"
+  },
+  "oneTabRestartRequired": {
+    "message": "OneTab треба да се рестартира. Нема да се затворат други картички."
+  },
+  "oneTabSlashShortcutInfo": {
+    "message": "Фокус на полето за пребарување"
+  },
+  "open": {
+    "message": "Отвори"
+  },
+  "openActionPopup": {
+    "message": "Дејство на OneTab (исто како кликнување на иконата OneTab во лентата со алатки)"
+  },
+  "openAsCollapsedTabGroup": {
+    "message": "Отвори како „собрана“ група картички"
+  },
+  "openAsCollapsedTabGroupMenuItemHelp": {
+    "message": "Ако ги отворите овие картички како собрана „група картички“, ќе се прикажува само ознаката на групата додека не кликнете на неа за да ги прикажете картичките внатре."
+  },
+  "openAsPinnedTab": {
+    "message": "Закачи ја картичката при отворање"
+  },
+  "openAsPinnedTabMenuItemHelp": {
+    "message": "Кога оваа картичка ќе се врати, вратете ја како закачена картичка на прелистувачот. Закачените картички секогаш ќе се прикажуваат први во прозорецот на прелистувачот."
+  },
+  "openAsTabGroup": {
+    "message": "Отвори како група картички во прелистувачот"
+  },
+  "openAsTabGroupMenuItemHelp": {
+    "message": "Вашиот прелистувач дозволува картичките да се групираат во обоени „групи картички“ во прозорец."
+  },
+  "openFolder": {
+    "message": "Отвори папка"
+  },
+  "openGroupsLimitNotice_few": {
+    "message": "За да се спречи преоптоварување на вашиот прелистувач, ќе се отворат само првите {COUNT} групи."
+  },
+  "openGroupsLimitNotice_many": {
+    "message": "За да се спречи преоптоварување на вашиот прелистувач, ќе се отворат само првите {COUNT} групи."
+  },
+  "openGroupsLimitNotice_one": {
+    "message": "За да се спречи преоптоварување на вашиот прелистувач, ќе се отвори само {COUNT} група — првата."
+  },
+  "openGroupsLimitNotice_other": {
+    "message": "За да се спречи преоптоварување на вашиот прелистувач, ќе се отворат само првите {COUNT} групи."
+  },
+  "openGroupsLimitNotice_two": {
+    "message": "За да се спречи преоптоварување на вашиот прелистувач, ќе се отворат само првите {COUNT} групи."
+  },
+  "openGroupsLimitNotice_zero": {
+    "message": "За да се спречи преоптоварување на вашиот прелистувач, ќе се отворат само првите {COUNT} групи."
+  },
+  "openInIncognitoWindow": {
+    "message": "Врати во нов Инкогнито прозорец"
+  },
+  "openInNewWindow": {
+    "message": "Врати во нов прозорец"
+  },
+  "openInThisWindow": {
+    "message": "Врати во овој прозорец"
+  },
+  "openOneTab": {
+    "message": "Отвори OneTab"
+  },
+  "openOneTabAfter": {
+    "message": "Отвори OneTab по зачувување картички"
+  },
+  "openONETABLogo": {
+    "message": "Отвори ONETAB"
+  },
+  "openParentFolder": {
+    "message": "Отвори матична папка"
+  },
+  "openTabFromWebsite": {
+    "message": "Отворете картичка и одете на веб-локацијата"
+  },
+  "openTabLimit_few": {
+    "message": "За да се спречи преоптоварување на вашиот прелистувач, одеднаш може да се отворат најмногу {COUNT} картички."
+  },
+  "openTabLimit_many": {
+    "message": "За да се спречи преоптоварување на вашиот прелистувач, одеднаш може да се отворат најмногу {COUNT} картички."
+  },
+  "openTabLimit_one": {
+    "message": "За да се спречи преоптоварување на вашиот прелистувач, одеднаш може да се отвори најмногу {COUNT} картичка."
+  },
+  "openTabLimit_other": {
+    "message": "За да се спречи преоптоварување на вашиот прелистувач, одеднаш може да се отворат најмногу {COUNT} картички."
+  },
+  "openTabLimit_two": {
+    "message": "За да се спречи преоптоварување на вашиот прелистувач, одеднаш може да се отворат најмногу {COUNT} картички."
+  },
+  "openTabLimit_zero": {
+    "message": "За да се спречи преоптоварување на вашиот прелистувач, одеднаш може да се отворат најмногу {COUNT} картички."
+  },
+  "openTabsAlreadyStoredHere_few": {
+    "message": "{COUNT} отворени картички веќе се зачувани овде:"
+  },
+  "openTabsAlreadyStoredHere_many": {
+    "message": "{COUNT} отворени картички веќе се зачувани овде:"
+  },
+  "openTabsAlreadyStoredHere_one": {
+    "message": "{COUNT} отворена картичка веќе е зачувана овде:"
+  },
+  "openTabsAlreadyStoredHere_other": {
+    "message": "{COUNT} отворени картички веќе се зачувани овде:"
+  },
+  "openTabsAlreadyStoredHere_two": {
+    "message": "{COUNT} отворени картички веќе се зачувани овде:"
+  },
+  "openTabsAlreadyStoredHere_zero": {
+    "message": "{COUNT} отворени картички веќе се зачувани овде:"
+  },
+  "openTabsConfirm_few": {
+    "message": "Ќе отворите {COUNT} картички. Дали сте сигурни?"
+  },
+  "openTabsConfirm_many": {
+    "message": "Ќе отворите {COUNT} картички. Дали сте сигурни?"
+  },
+  "openTabsConfirm_one": {
+    "message": "Ќе отворите {COUNT} картичка. Дали сте сигурни?"
+  },
+  "openTabsConfirm_other": {
+    "message": "Ќе отворите {COUNT} картички. Дали сте сигурни?"
+  },
+  "openTabsConfirm_two": {
+    "message": "Ќе отворите {COUNT} картички. Дали сте сигурни?"
+  },
+  "openTabsConfirm_zero": {
+    "message": "Ќе отворите {COUNT} картички. Дали сте сигурни?"
+  },
+  "openTabsNotStoredInOneTab_few": {
+    "message": "{COUNT} отворени картички не се зачувани во OneTab"
+  },
+  "openTabsNotStoredInOneTab_many": {
+    "message": "{COUNT} отворени картички не се зачувани во OneTab"
+  },
+  "openTabsNotStoredInOneTab_one": {
+    "message": "{COUNT} отворена картичка не е зачувана во OneTab"
+  },
+  "openTabsNotStoredInOneTab_other": {
+    "message": "{COUNT} отворени картички не се зачувани во OneTab"
+  },
+  "openTabsNotStoredInOneTab_two": {
+    "message": "{COUNT} отворени картички не се зачувани во OneTab"
+  },
+  "openTabsNotStoredInOneTab_zero": {
+    "message": "{COUNT} отворени картички не се зачувани во OneTab"
+  },
+  "optionAutoActionOnOpenArchiveDesc": {
+    "message": "Означувањето картички како архивирани им дава сива пругаста позадина. Ова е визуелен показател дека сте ги прочитале картичките или сте завршиле со нив."
+  },
+  "optionAutoActionOnOpenArchiveTitle": {
+    "message": "Означи ги како архивирани"
+  },
+  "optionAutoActionOnOpenHeading": {
+    "message": "При враќање на картичките:"
+  },
+  "optionAutoActionOnOpenNote": {
+    "message": "Заклучените групи секогаш ги задржуваат своите картички"
+  },
+  "optionAutoActionOnOpenOpenDesc": {
+    "message": "За да ги означите картичките како архивирани при враќање, држете го копчето Alt или Option"
+  },
+  "optionAutoActionOnOpenOpenTitle": {
+    "message": "Задржи ги во вашиот список"
+  },
+  "optionAutoActionOnOpenTrashDesc": {
+    "message": "За да ги задржите картичките во списокот при враќање, држете го копчето Ctrl или Cmd"
+  },
+  "optionAutoActionOnOpenTrashTitle": {
+    "message": "Отстрани ги од вашиот список"
+  },
+  "optionBrowserActionHeading": {
+    "message": "Кога ќе кликнете на иконата OneTab во лентата со алатки:"
+  },
+  "optionBrowserActionOpenPopupDesc": {
+    "message": "Скокачкиот прозорец ќе ви прикаже список со отворени картички и ќе ви овозможи да изберете точно кои картички сакате да ги испратите во OneTab. Ќе ви овозможи да поставите наслов за групата со картички што ја зачувувате, за да не мора да го правите тоа подоцна на страницата на OneTab. Скокачкиот прозорец ќе ви овозможи и лесен пристап до вашата брза листа од кој било прозорец на прелистувачот."
+  },
+  "optionBrowserActionOpenPopupDesc2": {
+    "message": "Изберете точно кои картички да се зачуваат"
+  },
+  "optionBrowserActionOpenPopupTitle": {
+    "message": "Прикажи го скокачкиот прозорец на OneTab"
+  },
+  "optionBrowserActionSendCurrentTabDesc": {
+    "message": "Картичката ќе биде ставена во првата група на вашата страница на OneTab (прескокнувајќи ги групите што се закачени или заклучени)"
+  },
+  "optionBrowserActionSendCurrentTabTitle": {
+    "message": "Испрати ја само тековната картичка во OneTab"
+  },
+  "optionBrowserActionSendTabsInWindowDesc": {
+    "message": "Вашите картички ќе се затворат и ќе се зачуваат во вашиот список во OneTab. Ако сте избрале повеќе картички во лентата со картички на прелистувачот (со копчето Cmd, Ctrl или Shift), само избраните картички ќе се испратат во OneTab. Ако ја користите функцијата за групите картички на прелистувачот, само тековната група картички ќе се испрати во OneTab."
+  },
+  "optionBrowserActionSendTabsInWindowDesc2": {
+    "message": "Најбрзиот начин за зачувување картички"
+  },
+  "optionBrowserActionSendTabsInWindowTitle": {
+    "message": "Испрати ги картичките од тековниот прозорец во OneTab"
+  },
+  "optionBrowserActionSendWholeWindowDesc": {
+    "message": "Исто како погоре, освен што ќе се зачува целиот прозорец наместо само тековната група картички"
+  },
+  "optionBrowserActionSendWholeWindowTitle": {
+    "message": "Испрати го тековниот прозорец во OneTab, вклучувајќи ги сите картички и групи картички"
+  },
+  "optionCopyToClipboardFormatHeading": {
+    "message": "Копирање врски во таблата со исечоци:"
+  },
+  "optionCopyToClipboardFormatMarkdownTitle": {
+    "message": "Markdown"
+  },
+  "optionCopyToClipboardFormatNote": {
+    "message": "Оваа поставка се применува кога го користите дејството „Копирај во таблата со исечоци“. Исто така можете да повлекувате картички и групи директно од OneTab во документ."
+  },
+  "optionCopyToClipboardFormatRichTextDesc": {
+    "message": "Апликации како текстообработувачи ќе ви овозможат да залепите форматиран текст. Ако не е поддржано, наместо тоа ќе се залепи обичен текст."
+  },
+  "optionCopyToClipboardFormatRichTextTitle": {
+    "message": "Форматиран текст, каде што е достапно"
+  },
+  "optionCopyToClipboardFormatTitleUrlTitle": {
+    "message": "Наслов и URL-адреса"
+  },
+  "optionCopyToClipboardFormatUrlOnlyTitle": {
+    "message": "Само URL-адреса"
+  },
+  "optionCopyToClipboardFormatUrlTitleTitle": {
+    "message": "URL-адреса и наслов"
+  },
+  "optionDefaultTabGroupOpenTypeCurrentWindow": {
+    "message": "Отвори ја групата картички на прелистувачот во тековниот прозорец"
+  },
+  "optionDefaultTabGroupOpenTypeHeading": {
+    "message": "При кликнување за отворање група со картички што е конфигурирана да се отвора како „група картички“ во прелистувачот:"
+  },
+  "optionDefaultTabGroupOpenTypeNewWindow": {
+    "message": "Отвори ја групата картички на прелистувачот во нов прозорец"
+  },
+  "optionDefaultTabGroupOpenTypeNote": {
+    "message": "Ако го користите паѓачкото мени за да изберете одредена опција (на пример, отворање картички во Инкогнито прозорец), таа опција ќе се запомни за таа конкретна група."
+  },
+  "optionDefaultWindowGroupOpenTypeCurrentWindow": {
+    "message": "Отвори ги картичките во тековниот прозорец"
+  },
+  "optionDefaultWindowGroupOpenTypeHeading": {
+    "message": "При враќање на група со картички:"
+  },
+  "optionDefaultWindowGroupOpenTypeNewWindow": {
+    "message": "Отвори ги картичките во нов прозорец, освен ако OneTab не е единствената картичка во тековниот прозорец"
+  },
+  "optionDefaultWindowGroupOpenTypeNewWindowAlways": {
+    "message": "Отвори ги картичките во нов прозорец"
+  },
+  "optionDefaultWindowGroupOpenTypeNote": {
+    "message": "Изборите за враќање направени во менито „Повеќе…“ на групата се паметат за таа група."
+  },
+  "optionDiscardNonActiveTabOnOpenHeading": {
+    "message": "Заштеди меморија (RAM) веднаш кога картичките првпат ќе се отворат:"
+  },
+  "optionDiscardNonActiveTabOnOpenNote": {
+    "message": "Ако оваа поставка е овозможена, картичките веднаш ќе се растоварат од меморијата кога првпат ќе ги отворите од вашиот список во OneTab. Ова е корисно ако често отворате десетици картички одеднаш, бидејќи ќе спречи сите да се вчитаат во меморијата додека не им пристапите. Ако оваа поставка е оневозможена, многу веб-прелистувачи сепак автоматски ќе изберат да ги растоварат картичките од меморијата ако моментално не ги користите."
+  },
+  "optionDisplayContextMenuHeading": {
+    "message": "Кликнете со десното копче во веб-страница за пристап до контекстното мени на OneTab:"
+  },
+  "optionDisplayContextMenuNote": {
+    "message": "Ако го оневозможите менито, нема да можете да пристапите до функцијата „Исклучи веб-локација од OneTab“"
+  },
+  "optionDuplicatesAllow": {
+    "message": "Дозволи дупликати"
+  },
+  "optionDuplicatesReject": {
+    "message": "Тивко одбивај дупликати"
+  },
+  "optionDuplicatesRejectDesc": {
+    "message": "Ако OneTab веќе ја содржи картичката, таа нема повторно да се додаде."
+  },
+  "optionDuplicatesTitle": {
+    "message": "Дупликати:"
+  },
+  "optionGroupTitleClickActionEditTitle": {
+    "message": "Уреди го насловот"
+  },
+  "optionGroupTitleClickActionHeading": {
+    "message": "Кога ќе кликнете на насловот на група или папка:"
+  },
+  "optionGroupTitleClickActionOpenDesc": {
+    "message": "Сè уште можете да преименувате група преку нејзиното мени „Повеќе…“."
+  },
+  "optionGroupTitleClickActionOpenTitle": {
+    "message": "Врати ја групата или отвори ја папката"
+  },
+  "optionMoveOneTabToCurrentWindowOnOpenFalseTitle": {
+    "message": "Префрли се на прозорецот каде што картичката OneTab е веќе отворена"
+  },
+  "optionMoveOneTabToCurrentWindowOnOpenHeading": {
+    "message": "Дејство „Отвори OneTab“:"
+  },
+  "optionMoveOneTabToCurrentWindowOnOpenNote": {
+    "message": "Дејство „Отвори OneTab“:"
+  },
+  "optionMoveOneTabToCurrentWindowOnOpenTrueTitle": {
+    "message": "Премести ја секоја постојна картичка OneTab во тековниот прозорец"
+  },
+  "optionPinnedTabsAllow": {
+    "message": "Дозволи закачените картички да се испраќаат во OneTab"
+  },
+  "optionPinnedTabsDontSend": {
+    "message": "Не испраќај закачени картички во OneTab"
+  },
+  "optionPinnedTabsDontSendDesc": {
+    "message": "Сè уште можете рачно да испратите закачена картичка во OneTab со десен клик во веб-страницата за пристап до менито OneTab, а потоа со кликнување на „Испрати ја само оваа картичка во OneTab“"
+  },
+  "optionPinnedTabsNote": {
+    "message": "Забелешка: Картичката станува „закачена“ кога ќе кликнете со десното копче на картичката и ќе кликнете на „Закачи картичка“. Некои луѓе сакаат да ги закачат веб-локациите како Facebook или Gmail за лесно да ги најдат. OneTab ќе запомни дали картичката била закачена кога ќе ја вратите."
+  },
+  "optionPinnedTabsTitle": {
+    "message": "Закачени картички:"
+  },
+  "options": {
+    "message": "Опции"
+  },
+  "optionStartupLaunchDisplay": {
+    "message": "Автоматски отворај OneTab"
+  },
+  "optionStartupLaunchNone": {
+    "message": "Не отворај OneTab автоматски"
+  },
+  "optionStartupLaunchNoneDesc3": {
+    "message": "За рачно да го отворите OneTab, можете да кликнете со десното копче во која било веб-страница и да кликнете на „Отвори OneTab“ во менито OneTab."
+  },
+  "optionStartupLaunchTitle": {
+    "message": "При стартување на прелистувачот:"
+  },
+  "optionSwitchToOpenedTabFalseTitle": {
+    "message": "Отвори ја картичката и остани во OneTab"
+  },
+  "optionSwitchToOpenedTabHeading": {
+    "message": "При враќање картички од страницата OneTab:"
+  },
+  "optionSwitchToOpenedTabNote": {
+    "message": "Ако го држите Shift при кликнување, картичката ќе се отвори во нов прозорец"
+  },
+  "optionSwitchToOpenedTabTrueTitle": {
+    "message": "Отворете ја картичката и префрлете се на неа (освен ако го држите Command ⌘/Ctrl кога кликнувате)"
+  },
+  "optionUpdateTitleOnDuplicateKeep": {
+    "message": "Задржи го постојниот наслов"
+  },
+  "optionUpdateTitleOnDuplicateKeepDesc": {
+    "message": "Можете да ја преименувате картичката во OneTab и вашиот приспособен наслов ќе се задржи."
+  },
+  "optionUpdateTitleOnDuplicateNote": {
+    "message": "Насловите и белешките се споделуваат меѓу сите копии од истата картичка."
+  },
+  "optionUpdateTitleOnDuplicateTitle": {
+    "message": "При зачувување картичка што веќе е во OneTab:"
+  },
+  "optionUpdateTitleOnDuplicateUpdate": {
+    "message": "Користи го најновиот наслов"
+  },
+  "optionUpdateTitleOnDuplicateUpdateDesc": {
+    "message": "Ажурирајте го зачуваниот наслов за да одговара на картичката што штотуку ја испративте."
+  },
+  "optionUrlAbbr": {
+    "message": "Скратен"
+  },
+  "optionUrlDisplayTitle": {
+    "message": "Приказ на URL:"
+  },
+  "optionUrlDomain": {
+    "message": "Само домен"
+  },
+  "optionUrlFull": {
+    "message": "Целосен"
+  },
+  "optionUrlNone": {
+    "message": "Нема"
+  },
+  "otherCopiesColon": {
+    "message": "Други копии:"
+  },
+  "pasteRichOrPlainTextBelow": {
+    "message": "Подолу можете да залепите форматиран текст или обичен текст."
+  },
+  "pendingTaskCount_few": {
+    "message": "{COUNT} во чекање"
+  },
+  "pendingTaskCount_many": {
+    "message": "{COUNT} во чекање"
+  },
+  "pendingTaskCount_one": {
+    "message": "{COUNT} во чекање"
+  },
+  "pendingTaskCount_other": {
+    "message": "{COUNT} во чекање"
+  },
+  "pendingTaskCount_two": {
+    "message": "{COUNT} во чекање"
+  },
+  "pendingTaskCount_zero": {
+    "message": "{COUNT} во чекање"
+  },
+  "pendingTaskFlagHelp": {
+    "message": "Оваа ставка е задача. Кликнете на оваа икона за да ја означите како завршена."
+  },
+  "permissionRequiredPleaseTryAgain": {
+    "message": "За да создадете споделена страница до која може да се пристапи од кој било компјутер, потребна е дозвола за координација со веб-серверот на OneTab. Обидете се повторно."
+  },
+  "pinnedTabs": {
+    "message": "закачени картички"
+  },
+  "pinToTopOfFolder": {
+    "message": "Закачи на врвот на папката"
+  },
+  "pinToTopOfFolderMenuItemHelp": {
+    "message": "Закачете ја оваа група за секогаш да биде наведена на врвот на папката"
+  },
+  "pinToTopOfList": {
+    "message": "Закачи на врвот на списокот"
+  },
+  "placeholderAndOtherLocations_few": {
+    "message": "PLACEHOLDER и уште {COUNT} други"
+  },
+  "placeholderAndOtherLocations_many": {
+    "message": "PLACEHOLDER и уште {COUNT} други"
+  },
+  "placeholderAndOtherLocations_one": {
+    "message": "PLACEHOLDER и уште {COUNT} друга"
+  },
+  "placeholderAndOtherLocations_other": {
+    "message": "PLACEHOLDER и уште {COUNT} други"
+  },
+  "placeholderAndOtherLocations_two": {
+    "message": "PLACEHOLDER и уште {COUNT} други"
+  },
+  "placeholderAndOtherLocations_zero": {
+    "message": "PLACEHOLDER и уште {COUNT} други"
+  },
+  "placeholderExplanation": {
+    "message": "Поради безбедносните правила на веб-прелистувачот, на OneTab не му е дозволено директно да ја врати оваа страница. Копирајте ја URL-адресата и залепете ја во лентата за адреси на прелистувачот."
+  },
+  "plainTextLineFormat": {
+    "message": "Ако залепите обичен текст, уверете се дека секоја URL-адреса има наведен протокол (https://wikipedia.org, наместо само wikipedia.org). Секој ред треба да биде во следниов формат:"
+  },
+  "pleaseWaitTripleDot": {
+    "message": "Почекајте…"
+  },
+  "popupSlashShortcutInfo": {
+    "message": "Ако скокачкиот прозорец на OneTab е овозможен, отворете го избирачот на дестинација и фокусирајте го полето за пребарување"
+  },
+  "printUseSaveTabsAsHtmlFileAlertHtml": {
+    "message": "За најдобри резултати при печатење, користете го дејството <b>Зачувај како HTML-датотека</b> во менито <b>Повеќе…</b> на папката, а потоа испечатете ја преземената HTML-датотека."
+  },
+  "privacyAssurance": {
+    "message": "Гаранција за приватност"
+  },
+  "privacyAssuranceDetail": {
+    "message": "Вашиот список со картички никогаш не се пренесува ниту се открива на развивачите на OneTab или на која било друга страна. Единствениот исклучок е ако намерно ја користите функцијата „сподели како веб-страница“ за да го поставите вашиот список со картички на веб-страница за да го споделите со други."
+  },
+  "privacyFirst": {
+    "message": "Приватност на прво место"
+  },
+  "privacyFirstMessage": {
+    "message": "OneTab е дизајниран да ги штити вашите приватни податоци. Вашите картички се зачувуваат само на вашиот компјутер и никогаш не се споделуваат со развивачите на OneTab или со која било друга страна.\nАко ја користите нашата функција за резервна копија/синхронизација, вашите податоци ќе бидат шифрирани од крај до крај со силна AES-256 шифрација. Ова им оневозможува на развивачите на OneTab да ги видат картичките што сте ги зачувале како резервна копија или сте ги синхронизирале меѓу уреди, бидејќи само вие го имате клучот за шифрирање. \nЕдинствениот исклучок е ако намерно одлучите да споделите некои од вашите картички со други луѓе користејќи ја нашата функција „Сподели како веб-страница“.\nВеруваме во принципот „Приватноста на прво место“."
+  },
+  "privateBrowsingPermissionRequired": {
+    "message": "На OneTab му е потребна дозвола за создавање приватни прозорци."
+  },
+  "privateBrowsingWindows": {
+    "message": "Приватни прозорци"
+  },
+  "quickList": {
+    "message": "Брза листа"
+  },
+  "readingList": {
+    "message": "Список за читање"
+  },
+  "readingListPermissionNecesssary": {
+    "message": "Дозволата за списокот за читање е неопходна за OneTab да може да увезе ставки од вашиот список за читање. Ако оваа функција не работи, вашиот прелистувач можеби не поддржува списоци за читање."
+  },
+  "recent": {
+    "message": "Неодамнешни"
+  },
+  "recentDestinationsColon": {
+    "message": "Неодамнешни дестинации:"
+  },
+  "recentDuplicateRetainedHelp": {
+    "message": "Ако картичка се појавува повеќе од еднаш, ќе се задржи само најновата копија"
+  },
+  "recentFolders": {
+    "message": "Неодамнешни папки"
+  },
+  "recentGroups": {
+    "message": "Неодамнешни групи"
+  },
+  "recentlyAccessed": {
+    "message": "Неодамна пристапени"
+  },
+  "recentlyCreated": {
+    "message": "Неодамна создадени"
+  },
+  "recentlyModified": {
+    "message": "Неодамна изменети"
+  },
+  "reduceMemoryUsageBy95Pct": {
+    "message": "Намалете ја потрошувачката на меморија за 95%"
+  },
+  "removeDuplicates": {
+    "message": "Отстрани дупликати"
+  },
+  "removeDuplicatesMenuItemHelp": {
+    "message": "Ќе можете да отстраните дупликати од овде и да ги задржите на друго место, или обратно."
+  },
+  "removeDuplicateTabsHere_few": {
+    "message": "Отстрани {COUNT} дупликатни картички овде"
+  },
+  "removeDuplicateTabsHere_many": {
+    "message": "Отстрани {COUNT} дупликатни картички овде"
+  },
+  "removeDuplicateTabsHere_one": {
+    "message": "Отстрани {COUNT} дупликатна картичка овде"
+  },
+  "removeDuplicateTabsHere_other": {
+    "message": "Отстрани {COUNT} дупликатни картички овде"
+  },
+  "removeDuplicateTabsHere_two": {
+    "message": "Отстрани {COUNT} дупликатни картички овде"
+  },
+  "removeDuplicateTabsHere_zero": {
+    "message": "Отстрани {COUNT} дупликатни картички овде"
+  },
+  "removeFromQuickList": {
+    "message": "Отстрани од брзата листа"
+  },
+  "removeFromQuickListMenuItemHelp": {
+    "message": "Ставката нема да се премести во корпата — ќе се отстрани само од вашата брза листа."
+  },
+  "removeStar": {
+    "message": "Отстрани ѕвездичка"
+  },
+  "removeTabsElsewhereAlsoHere_few": {
+    "message": "Отстрани {COUNT} картички на друго место што ги има и овде"
+  },
+  "removeTabsElsewhereAlsoHere_many": {
+    "message": "Отстрани {COUNT} картички на друго место што ги има и овде"
+  },
+  "removeTabsElsewhereAlsoHere_one": {
+    "message": "Отстрани {COUNT} картичка на друго место што ја има и овде"
+  },
+  "removeTabsElsewhereAlsoHere_other": {
+    "message": "Отстрани {COUNT} картички на друго место што ги има и овде"
+  },
+  "removeTabsElsewhereAlsoHere_two": {
+    "message": "Отстрани {COUNT} картички на друго место што ги има и овде"
+  },
+  "removeTabsElsewhereAlsoHere_zero": {
+    "message": "Отстрани {COUNT} картички на друго место што ги има и овде"
+  },
+  "removeTabsHereAlsoElsewhere_few": {
+    "message": "Отстрани {COUNT} картички овде што ги има и на друго место"
+  },
+  "removeTabsHereAlsoElsewhere_many": {
+    "message": "Отстрани {COUNT} картички овде што ги има и на друго место"
+  },
+  "removeTabsHereAlsoElsewhere_one": {
+    "message": "Отстрани {COUNT} картичка овде што ја има и на друго место"
+  },
+  "removeTabsHereAlsoElsewhere_other": {
+    "message": "Отстрани {COUNT} картички овде што ги има и на друго место"
+  },
+  "removeTabsHereAlsoElsewhere_two": {
+    "message": "Отстрани {COUNT} картички овде што ги има и на друго место"
+  },
+  "removeTabsHereAlsoElsewhere_zero": {
+    "message": "Отстрани {COUNT} картички овде што ги има и на друго место"
+  },
+  "rename": {
+    "message": "Преименувај"
+  },
+  "renameOrAddNote": {
+    "message": "Преименувај / додај белешка"
+  },
+  "restore": {
+    "message": "Врати"
+  },
+  "restoreAll": {
+    "message": "Врати ги сите"
+  },
+  "restrictSearchToFolderColon": {
+    "message": "Пребарувај само во следнава папка:"
+  },
+  "results": {
+    "message": "Резултати"
+  },
+  "returnToOneTab": {
+    "message": "Врати се во OneTab"
+  },
+  "reverse": {
+    "message": "Обратен редослед"
+  },
+  "rightClickAndOpenOneTabMenu": {
+    "message": "Кликнете со десното копче на веб-страницата и одете во менито OneTab"
+  },
+  "rightClickMenuDisabledNote": {
+    "message": "Забелешка: Го оневозможивте менито OneTab со десен клик. Овозможете го на страницата со опции на OneTab."
+  },
+  "rightClickSelectionOptionsTip": {
+    "message": "Совет: Откако ќе штиклирате ставка, кликнете со десното копче на иконата за штиклирање за да прикажете повеќе опции за избирање"
+  },
+  "rightClickTickTip": {
+    "message": "Совет: Кликнете со десното копче на иконата за штиклирање до секоја картичка за алатки за избирање"
+  },
+  "safariApproveOneTabInSettings": {
+    "message": "Одете во Поставки и одобрете му на OneTab пристап до сите веб-локации."
+  },
+  "save95PctReduceTabClutterGoogleChrome": {
+    "message": "Заштедете до 95% меморија и намалете го нередот од картички во Google Chrome"
+  },
+  "saveChoice": {
+    "message": "Зачувај избор"
+  },
+  "saveTabsAsHtmlFile": {
+    "message": "Зачувај како HTML-датотека"
+  },
+  "saveTabsAsHtmlFileMenuItemHelp": {
+    "message": "Создајте и преземете HTML-датотека што ги содржи сите групи со картички во оваа папка."
+  },
+  "searchHere": {
+    "message": "Пребарувај овде"
+  },
+  "searchOneTab": {
+    "message": "Пребарај во OneTab"
+  },
+  "secondExampleLink": {
+    "message": "Втора примерна врска"
+  },
+  "secondExampleLinkTitle": {
+    "message": "Втор пример за наслов на врска"
+  },
+  "secondExampleLinkTitleOptional": {
+    "message": "Втор пример за наслов на врска (незадолжително)"
+  },
+  "seeOtherTabsInThisGroup_few": {
+    "message": "Прикажи {COUNT} други картички во оваа група"
+  },
+  "seeOtherTabsInThisGroup_many": {
+    "message": "Прикажи {COUNT} други картички во оваа група"
+  },
+  "seeOtherTabsInThisGroup_one": {
+    "message": "Прикажи {COUNT} друга картичка во оваа група"
+  },
+  "seeOtherTabsInThisGroup_other": {
+    "message": "Прикажи {COUNT} други картички во оваа група"
+  },
+  "seeOtherTabsInThisGroup_two": {
+    "message": "Прикажи {COUNT} други картички во оваа група"
+  },
+  "seeOtherTabsInThisGroup_zero": {
+    "message": "Прикажи {COUNT} други картички во оваа група"
+  },
+  "seePasteInstructions": {
+    "message": "Прикажи упатства за залепување…"
+  },
+  "seeTabsInThisGroup_few": {
+    "message": "Прикажи {COUNT} картички во оваа група"
+  },
+  "seeTabsInThisGroup_many": {
+    "message": "Прикажи {COUNT} картички во оваа група"
+  },
+  "seeTabsInThisGroup_one": {
+    "message": "Прикажи {COUNT} картичка во оваа група"
+  },
+  "seeTabsInThisGroup_other": {
+    "message": "Прикажи {COUNT} картички во оваа група"
+  },
+  "seeTabsInThisGroup_two": {
+    "message": "Прикажи {COUNT} картички во оваа група"
+  },
+  "seeTabsInThisGroup_zero": {
+    "message": "Прикажи {COUNT} картички во оваа група"
+  },
+  "selectAll": {
+    "message": "Избери сè"
+  },
+  "selectAllExceptThis": {
+    "message": "Избери сè освен ова"
+  },
+  "selectedItemCount_few": {
+    "message": "{COUNT} ставки"
+  },
+  "selectedItemCount_many": {
+    "message": "{COUNT} ставки"
+  },
+  "selectedItemCount_one": {
+    "message": "{COUNT} ставка"
+  },
+  "selectedItemCount_other": {
+    "message": "{COUNT} ставки"
+  },
+  "selectedItemCount_two": {
+    "message": "{COUNT} ставки"
+  },
+  "selectedItemCount_zero": {
+    "message": "{COUNT} ставки"
+  },
+  "selection": {
+    "message": "Избор"
+  },
+  "selectThisAndAbove": {
+    "message": "Избери ја оваа ставка и сите погоре"
+  },
+  "selectThisAndBelow": {
+    "message": "Избери ја оваа ставка и сите подолу"
+  },
+  "sendAllTabsAllWindows": {
+    "message": "Испрати ги сите картички од сите прозорци"
+  },
+  "sendAllTabsAllWindowsToOneTab": {
+    "message": "Испрати ги сите картички од сите прозорци во OneTab"
+  },
+  "sendAllTabsExceptThis": {
+    "message": "Испрати ги сите картички освен оваа картичка"
+  },
+  "sendAllTabsExceptThisToOneTab": {
+    "message": "Испрати ги сите картички освен оваа картичка во OneTab"
+  },
+  "sendAllTabsInGroup": {
+    "message": "Испрати ги сите картички од оваа група картички"
+  },
+  "sendAllTabsInGroupToOneTab": {
+    "message": "Испрати ги сите картички од оваа група картички во OneTab"
+  },
+  "sendAllTabsInWindow": {
+    "message": "Испрати ги сите картички од овој прозорец"
+  },
+  "sendAllTabsInWindowToOneTab": {
+    "message": "Испрати ги сите картички од овој прозорец во OneTab"
+  },
+  "sendCurrentTabToOneTab": {
+    "message": "Испрати ја тековната картичка во OneTab"
+  },
+  "sendLeftTabs": {
+    "message": "Испрати ги картичките лево"
+  },
+  "sendLeftTabsToOneTab": {
+    "message": "Испрати ги картичките лево во OneTab"
+  },
+  "sendOnlyThisTab": {
+    "message": "Испрати ја само оваа картичка"
+  },
+  "sendOnlyThisTabToOneTab": {
+    "message": "Испрати ја само оваа картичка во OneTab"
+  },
+  "sendRightTabs": {
+    "message": "Испрати ги картичките десно"
+  },
+  "sendRightTabsToOneTab": {
+    "message": "Испрати ги картичките десно во OneTab"
+  },
+  "sendSelectedTabs": {
+    "message": "Испрати ги избраните картички"
+  },
+  "sendSelectedTabsToOneTab": {
+    "message": "Испрати ги избраните картички во OneTab"
+  },
+  "sendThisWebLink": {
+    "message": "Испрати ја оваа веб-врска"
+  },
+  "sendThisWebLinkToOneTab": {
+    "message": "Испрати ја оваа веб-врска во OneTab"
+  },
+  "serverUnreachable": {
+    "message": "Серверот е недостапен. Проверете ја интернет-врската."
+  },
+  "share": {
+    "message": "Сподели"
+  },
+  "shareAsAWebPage": {
+    "message": "Сподели како веб-страница"
+  },
+  "shareAsAWebPageMenuItemHelp": {
+    "message": "Ова создава веб-страница што ги содржи вашите картички, за да можете да ја споделите страницата приватно или јавно со други."
+  },
+  "shared": {
+    "message": "Споделени"
+  },
+  "sharedExpiresColon": {
+    "message": "Споделено како веб-страница. Истекува:"
+  },
+  "sharedPageOptions": {
+    "message": "Опции за споделена страница"
+  },
+  "sharedPageTabLimit_few": {
+    "message": "Споделените страници се ограничени на {COUNT} картички"
+  },
+  "sharedPageTabLimit_many": {
+    "message": "Споделените страници се ограничени на {COUNT} картички"
+  },
+  "sharedPageTabLimit_one": {
+    "message": "Споделените страници се ограничени на {COUNT} картичка"
+  },
+  "sharedPageTabLimit_other": {
+    "message": "Споделените страници се ограничени на {COUNT} картички"
+  },
+  "sharedPageTabLimit_two": {
+    "message": "Споделените страници се ограничени на {COUNT} картички"
+  },
+  "sharedPageTabLimit_zero": {
+    "message": "Споделените страници се ограничени на {COUNT} картички"
+  },
+  "sharedPageWillAutomaticallyExpire": {
+    "message": "Споделената страница автоматски ќе истече, но можете да го продолжите датумот на истекување во секое време."
+  },
+  "showEverything": {
+    "message": "Прикажи сè"
+  },
+  "showFoldersOnly": {
+    "message": "Прикажи само папки"
+  },
+  "showNamedItemsOnly": {
+    "message": "Прикажи само именувани ставки"
+  },
+  "showNamedOnly": {
+    "message": "Прикажи само именувани ставки"
+  },
+  "showNextCount_few": {
+    "message": "Следни {COUNT}"
+  },
+  "showNextCount_many": {
+    "message": "Следни {COUNT}"
+  },
+  "showNextCount_one": {
+    "message": "{COUNT} следна ставка"
+  },
+  "showNextCount_other": {
+    "message": "Следни {COUNT}"
+  },
+  "showNextCount_two": {
+    "message": "Следни {COUNT}"
+  },
+  "showNextCount_zero": {
+    "message": "Следни {COUNT}"
+  },
+  "showPreviousCount_few": {
+    "message": "Претходни {COUNT}"
+  },
+  "showPreviousCount_many": {
+    "message": "Претходни {COUNT}"
+  },
+  "showPreviousCount_one": {
+    "message": "{COUNT} претходна ставка"
+  },
+  "showPreviousCount_other": {
+    "message": "Претходни {COUNT}"
+  },
+  "showPreviousCount_two": {
+    "message": "Претходни {COUNT}"
+  },
+  "showPreviousCount_zero": {
+    "message": "Претходни {COUNT}"
+  },
+  "soon": {
+    "message": "наскоро"
+  },
+  "sort": {
+    "message": "Сортирање"
+  },
+  "sortByColon": {
+    "message": "Сортирај по:"
+  },
+  "sortGroups": {
+    "message": "Сортирај групи"
+  },
+  "sortGroupsMenuFooterNote": {
+    "message": "Ова ги сортира групите во оваа папка. Не ги сортира картичките во нив."
+  },
+  "sourceColon": {
+    "message": "Извор:"
+  },
+  "star": {
+    "message": "Означи со ѕвездичка"
+  },
+  "starFlagHelp": {
+    "message": "Оваа ставка е означена со ѕвездичка за визуелно да се прикаже нејзината важност. Кликнете на оваа икона за да ја отстраните ѕвездичката."
+  },
+  "starMenuItemHelp": {
+    "message": "Користете ја ѕвездичката како визуелен показател дека нешто е важно"
+  },
+  "starred": {
+    "message": "Означени со ѕвездичка"
+  },
+  "storeAllOpenWindowsHere": {
+    "message": "Зачувај ги сите отворени прозорци овде"
+  },
+  "storeAllOpenWindowsHereMenuItemHelp": {
+    "message": "Затвори ги сите отворени прозорци на прелистувачот и зачувај ги во оваа папка"
+  },
+  "storeSelectedTabsInONETAB_few": {
+    "message": "Зачувај {COUNT} избрани картички во ONETAB"
+  },
+  "storeSelectedTabsInONETAB_many": {
+    "message": "Зачувај {COUNT} избрани картички во ONETAB"
+  },
+  "storeSelectedTabsInONETAB_one": {
+    "message": "Зачувај {COUNT} избрана картичка во ONETAB"
+  },
+  "storeSelectedTabsInONETAB_other": {
+    "message": "Зачувај {COUNT} избрани картички во ONETAB"
+  },
+  "storeSelectedTabsInONETAB_two": {
+    "message": "Зачувај {COUNT} избрани картички во ONETAB"
+  },
+  "storeSelectedTabsInONETAB_zero": {
+    "message": "Зачувај {COUNT} избрани картички во ONETAB"
+  },
+  "storeTabsInAdditionalLocation_few": {
+    "message": "Сепак зачувај ги картичките повторно"
+  },
+  "storeTabsInAdditionalLocation_many": {
+    "message": "Сепак зачувај ги картичките повторно"
+  },
+  "storeTabsInAdditionalLocation_one": {
+    "message": "Сепак зачувај ја картичката повторно"
+  },
+  "storeTabsInAdditionalLocation_other": {
+    "message": "Сепак зачувај ги картичките повторно"
+  },
+  "storeTabsInAdditionalLocation_two": {
+    "message": "Сепак зачувај ги картичките повторно"
+  },
+  "storeTabsInAdditionalLocation_zero": {
+    "message": "Сепак зачувај ги картичките повторно"
+  },
+  "storeTabsInONETAB_few": {
+    "message": "Зачувај ги картичките во ONETAB"
+  },
+  "storeTabsInONETAB_many": {
+    "message": "Зачувај ги картичките во ONETAB"
+  },
+  "storeTabsInONETAB_one": {
+    "message": "Зачувај ја картичката во ONETAB"
+  },
+  "storeTabsInONETAB_other": {
+    "message": "Зачувај ги картичките во ONETAB"
+  },
+  "storeTabsInONETAB_two": {
+    "message": "Зачувај ги картичките во ONETAB"
+  },
+  "storeTabsInONETAB_zero": {
+    "message": "Зачувај ги картичките во ONETAB"
+  },
+  "subFoldersNotShared": {
+    "message": "Имајте предвид дека потпапките не се споделуваат. Се споделуваат само групите со картички што се директно во папката."
+  },
+  "tab": {
+    "message": "картичка"
+  },
+  "tabAlreadyStoredHere": {
+    "message": "Вашата отворена картичка веќе е зачувана овде:"
+  },
+  "tabCaretTooltipTitleNotes": {
+    "message": "Уреди ги насловот и белешките на картичката"
+  },
+  "tabCaretTooltipTitleNotesUrl": {
+    "message": "Уреди ги насловот, URL-адресата и белешките на картичката"
+  },
+  "tabCount_few": {
+    "message": "{COUNT} картички"
+  },
+  "tabCount_many": {
+    "message": "{COUNT} картички"
+  },
+  "tabCount_one": {
+    "message": "{COUNT} картичка"
+  },
+  "tabCount_other": {
+    "message": "{COUNT} картички"
+  },
+  "tabCount_two": {
+    "message": "{COUNT} картички"
+  },
+  "tabCount_zero": {
+    "message": "{COUNT} картички"
+  },
+  "tabGroupColorColon": {
+    "message": "Боја на групата картички:"
+  },
+  "tabGroupIndicatorTooltipHelp": {
+    "message": "Оваа група е конфигурирана да се отвора како група картички во прелистувачот. Оваа поставка можете да ја промените во менито „Повеќе…“"
+  },
+  "tabPinFlagHelp": {
+    "message": "Оваа картичка ќе се врати како закачена картичка на прелистувачот. Кликнете на оваа икона за да ја откачите."
+  },
+  "tabs": {
+    "message": "Картички"
+  },
+  "tabsFromExcludedDomains": {
+    "message": "картички од исклучени домени"
+  },
+  "tabsInTabGroups": {
+    "message": "картички во групи картички"
+  },
+  "tabTotalCount_few": {
+    "message": "Вкупно: {COUNT} картички"
+  },
+  "tabTotalCount_many": {
+    "message": "Вкупно: {COUNT} картички"
+  },
+  "tabTotalCount_one": {
+    "message": "Вкупно: {COUNT} картичка"
+  },
+  "tabTotalCount_other": {
+    "message": "Вкупно: {COUNT} картички"
+  },
+  "tabTotalCount_two": {
+    "message": "Вкупно: {COUNT} картички"
+  },
+  "tabTotalCount_zero": {
+    "message": "Вкупно: {COUNT} картички"
+  },
+  "tasks": {
+    "message": "Задачи"
+  },
+  "tasksDone": {
+    "message": "Задачи (завршени)"
+  },
+  "tasksPending": {
+    "message": "Задачи (незавршени)"
+  },
+  "tasksWillAppearHere": {
+    "message": "Ако означите некоја од вашите картички или групи како задачи, ќе се појават овде."
+  },
+  "taskTotalCount_few": {
+    "message": "{COUNT} вкупно"
+  },
+  "taskTotalCount_many": {
+    "message": "{COUNT} вкупно"
+  },
+  "taskTotalCount_one": {
+    "message": "{COUNT} вкупно"
+  },
+  "taskTotalCount_other": {
+    "message": "{COUNT} вкупно"
+  },
+  "taskTotalCount_two": {
+    "message": "{COUNT} вкупно"
+  },
+  "taskTotalCount_zero": {
+    "message": "{COUNT} вкупно"
+  },
+  "themeQuickSwitchHint": {
+    "message": "За брзо менување теми, држете ctrl или cmd додека кликнувате на иконата за тема"
+  },
+  "thenClickToolbarIcon": {
+    "message": "Потоа, повторно кликнете на иконата OneTab во лентата со алатки за да го користите OneTab."
+  },
+  "thisFolderIsEmpty": {
+    "message": "Оваа папка е празна"
+  },
+  "thisTab": {
+    "message": "Оваа картичка"
+  },
+  "thisTabGroup": {
+    "message": "Оваа група картички"
+  },
+  "thisTabNotStored": {
+    "message": "Оваа картичка не е зачувана во OneTab"
+  },
+  "thisWindow": {
+    "message": "Овој прозорец"
+  },
+  "tickOrUntickToExclude": {
+    "message": "Штиклирајте или отштиклирајте за да ја исклучите веб-локацијата"
+  },
+  "title": {
+    "message": "Наслов"
+  },
+  "toAddOrRemoveExclusions": {
+    "message": "За да додадете или отстраните веб-локација од списокот со исклучоци:"
+  },
+  "toAllowOneTabInIncognito": {
+    "message": "За да дозволите иконата OneTab да се појавува во Инкогнито прозорци: "
+  },
+  "toImportBrowserBookmarksUseMenuOption": {
+    "message": "За увоз од обележувачите на прелистувачот, користете ја опцијата од менито „Увези врски овде“ на вашата страница OneTab"
+  },
+  "toMakeOpenButtonWorkApprovePermission": {
+    "message": "За да работи копчето „Отвори“ на споделените страници, одобрете го барањето за дозвола."
+  },
+  "tooManyTabsSpeedUpFirefox": {
+    "message": "Премногу картички? Претворете ги картичките во список и забрзајте го Firefox"
+  },
+  "tooManyTabsSpeedUpSafari": {
+    "message": "Премногу картички? Претворете ги картичките во список и забрзајте го Safari"
+  },
+  "toSaveChangesClickButton": {
+    "message": "За да ги зачувате промените, кликнете на копчето"
+  },
+  "total0Tabs": {
+    "message": "Вкупно: 0 картички"
+  },
+  "trash": {
+    "message": "Корпа"
+  },
+  "unfoldGroup": {
+    "message": "Прошири група"
+  },
+  "unlock": {
+    "message": "Отклучи"
+  },
+  "unmarkAsArchived": {
+    "message": "Отстрани ја ознаката „архивирано“"
+  },
+  "unMarkAsTask": {
+    "message": "Отстрани ознака за задача"
+  },
+  "unpin": {
+    "message": "Откачи"
+  },
+  "unshare": {
+    "message": "Прекини споделување"
+  },
+  "untitled": {
+    "message": "Без наслов"
+  },
+  "update": {
+    "message": "Ажурирај"
+  },
+  "userLanguage": {
+    "message": "Македонски"
+  },
+  "website": {
+    "message": "Веб-локација"
+  },
+  "yearCount_few": {
+    "message": "{COUNT} години"
+  },
+  "yearCount_many": {
+    "message": "{COUNT} години"
+  },
+  "yearCount_one": {
+    "message": "{COUNT} година"
+  },
+  "yearCount_other": {
+    "message": "{COUNT} години"
+  },
+  "yearCount_two": {
+    "message": "{COUNT} години"
+  },
+  "yearCount_zero": {
+    "message": "{COUNT} години"
+  },
+  "yourTabAlreadyStoredHere": {
+    "message": "Вашата картичка веќе е зачувана овде:"
+  }
+}

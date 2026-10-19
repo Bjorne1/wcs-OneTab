@@ -1,0 +1,2330 @@
+{
+  "95PctMemoryReduction": {
+    "message": "95% minni minnisnotkun"
+  },
+  "about": {
+    "message": "Um"
+  },
+  "actionPopupOverrideNote": {
+    "message": "Þessari stillingu er hægt að hnekkja inni í aðgerðasprettiglugganum (ef þú hefur virkjað aðgerðasprettigluggann)."
+  },
+  "aDashZ": {
+    "message": "A-Ö"
+  },
+  "addOneTabNow": {
+    "message": "Bæta OneTab við núna"
+  },
+  "all": {
+    "message": "Allt"
+  },
+  "allBookmarks": {
+    "message": "Öll bókamerki"
+  },
+  "allOpenTabsAlreadyStoredHere_few": {
+    "message": "Allir opnir flipar eru þegar vistaðir hér:"
+  },
+  "allOpenTabsAlreadyStoredHere_many": {
+    "message": "Allir opnir flipar eru þegar vistaðir hér:"
+  },
+  "allOpenTabsAlreadyStoredHere_one": {
+    "message": "Opni flipinn er þegar vistaður hér:"
+  },
+  "allOpenTabsAlreadyStoredHere_other": {
+    "message": "Allir opnir flipar eru þegar vistaðir hér:"
+  },
+  "allOpenTabsAlreadyStoredHere_two": {
+    "message": "Allir opnir flipar eru þegar vistaðir hér:"
+  },
+  "allOpenTabsAlreadyStoredHere_zero": {
+    "message": "Allir opnir flipar eru þegar vistaðir hér:"
+  },
+  "allowFileAccessInstructions": {
+    "message": "Til að leyfa að skrár séu opnaðar beint skaltu fara í Stillingar ➝ Viðbætur ➝ OneTab ➝ Upplýsingar ➝ Leyfa aðgang að vefslóðum skráa"
+  },
+  "alreadyExistingOpenTabsWillBeClosedAfterMerge": {
+    "message": "Öllum opnum flipum sem eru þegar í þessum hópi verður lokað eftir sameininguna."
+  },
+  "alternatePlainTextFormat": {
+    "message": "Einnig getur ósniðinn texti verið á sniðinu:"
+  },
+  "approve": {
+    "message": "Samþykkja"
+  },
+  "archived": {
+    "message": "Í geymslu"
+  },
+  "autoTheme": {
+    "message": "Sjálfvirkt (nota stillingu stýrikerfis)"
+  },
+  "backupAndSync": {
+    "message": "Afritun og samstilling"
+  },
+  "betaReleaseReportBugsHere": {
+    "message": "Betaútgáfa – tilkynna villur hér"
+  },
+  "bookmarkCount_few": {
+    "message": "{COUNT} bókamerki"
+  },
+  "bookmarkCount_many": {
+    "message": "{COUNT} bókamerki"
+  },
+  "bookmarkCount_one": {
+    "message": "{COUNT} bókamerki"
+  },
+  "bookmarkCount_other": {
+    "message": "{COUNT} bókamerki"
+  },
+  "bookmarkCount_two": {
+    "message": "{COUNT} bókamerki"
+  },
+  "bookmarkCount_zero": {
+    "message": "{COUNT} bókamerki"
+  },
+  "bookmarksPermissionNecesssary": {
+    "message": "Heimild til bókamerkja er nauðsynleg til að OneTab geti flutt inn bókamerki vafrans þíns"
+  },
+  "bulkActions": {
+    "message": "Fjöldaaðgerðir"
+  },
+  "cancel": {
+    "message": "Hætta við"
+  },
+  "canDragTextNote": {
+    "message": "Athugið: Einnig er hægt að draga og sleppa texta sem inniheldur veftengla beint af annarri vefsíðu eða úr skjali. Þú getur dregið textann beint inn á OneTab-síðuna þína án þess að þurfa að nota þennan innflutningsreit."
+  },
+  "cannotConnectToServerDeletionRequestQueued": {
+    "message": "Ekki er hægt að tengjast OneTab-þjóninum. Athugaðu nettenginguna. Beiðni þín um eyðingu deildu síðunnar hefur verið sett í bið á þessu tæki og verður send sjálfkrafa til OneTab-þjónsins um leið og aftur næst í hann."
+  },
+  "cannotCreateTabGroupInTabGroup": {
+    "message": "Valinn áfangastaður er flipahópur. Þú getur ekki búið til flipahóp inni í núverandi flipahópi. Veldu annan áfangastað."
+  },
+  "cannotMixTabsGroupsFoldersDuringDrag": {
+    "message": "Ekki er hægt að blanda saman flipum, hópum og möppum þegar dregið er. Þetta er vegna þess að til dæmis er ekki hægt að draga möppu á sömu staði og hægt er að draga flipa."
+  },
+  "cannotMoveItemAncestorHere": {
+    "message": "Ekki er hægt að færa yfiratriði inn í eigið undiratriði, því það myndi búa til lykkju."
+  },
+  "cannotMoveItemIntoItself": {
+    "message": "Ekki er hægt að færa atriði inn í sjálft sig."
+  },
+  "canPasteWebContentForExample": {
+    "message": "Þú getur límt texta sem afritaður er af vefsíðu eða úr skjali og tenglar verða dregnir út sjálfkrafa. Til dæmis:"
+  },
+  "caseSensitive": {
+    "message": "Há-/lágstafanæm leit"
+  },
+  "changesMadeSinceSharedPageCreation": {
+    "message": "Vistuðu fliparnir þínir hafa breyst síðan þú deildir þessari síðu. Smelltu á hnappinn „Uppfæra“ til að uppfæra núverandi deildu síðu."
+  },
+  "changeThisSettingAtAnyTimeInfo": {
+    "message": "Þú getur breytt þessari stillingu hvenær sem er með því að smella á hnappinn „Valkostir“ efst á síðunni þinni í OneTab."
+  },
+  "changeThisSettingAtAnyTimeInfoHtml": {
+    "message": "Þú getur breytt þessu síðar í <b>Valkostir</b>."
+  },
+  "checkboxesDeterminePinnedAndGroupedTabMergeInclusion": {
+    "message": "Gátreitirnir efst á þessari síðu ákvarða hvort festir flipar eða flipar í flipahópum séu hafðir með í sameiningunni."
+  },
+  "chooseALocation": {
+    "message": "Veldu staðsetningu"
+  },
+  "chooseALocationToImportTo": {
+    "message": "Veldu staðsetningu til að flytja inn í"
+  },
+  "chooseExportLocation": {
+    "message": "Veldu staðsetningu sem á að flytja út úr"
+  },
+  "chooseLightDarkTheme": {
+    "message": "Veldu ljóst/dökkt þema"
+  },
+  "chooseLocationToCopyTo": {
+    "message": "Veldu staðsetningu til að afrita í"
+  },
+  "chooseLocationToMoveTo": {
+    "message": "Veldu staðsetningu til að færa í"
+  },
+  "chooseLocationToRestoreTo": {
+    "message": "Veldu staðsetningu til að endurheimta í"
+  },
+  "chooseToIncludeNotes": {
+    "message": "Ef þú hefur bætt athugasemdum við flipa eða hópa skaltu velja hvort þær verði hafðar með á deildu vefsíðunni"
+  },
+  "chooseToIncludeRatings": {
+    "message": "Ef þú hefur bætt stjörnum við flipa eða hópa skaltu velja hvort þær verði hafðar með á deildu vefsíðunni"
+  },
+  "chromeIncognitoInstructions": {
+    "message": "Í stillingum vafrans skaltu fara í „Stillingar“ → „Viðbætur“ → „OneTab“ → „Upplýsingar“ og virkja síðan „Leyfa í huliðsstillingu“."
+  },
+  "clickButtonToAllowTabAccess": {
+    "message": "Smelltu á hnappinn hér að neðan til að leyfa OneTab aðgang að opnum flipunum þínum."
+  },
+  "clickHereToContinue": {
+    "message": "Smelltu hér til að halda áfram."
+  },
+  "clickOneTabIconToStoreTabsHere": {
+    "message": "Smelltu á OneTab-táknið á tækjastiku vafrans til að vista opnu flipana þína hér."
+  },
+  "closeSelectedTabs_few": {
+    "message": "Loka {COUNT} völdum flipum"
+  },
+  "closeSelectedTabs_many": {
+    "message": "Loka {COUNT} völdum flipum"
+  },
+  "closeSelectedTabs_one": {
+    "message": "Loka {COUNT} völdum flipa"
+  },
+  "closeSelectedTabs_other": {
+    "message": "Loka {COUNT} völdum flipum"
+  },
+  "closeSelectedTabs_two": {
+    "message": "Loka {COUNT} völdum flipum"
+  },
+  "closeSelectedTabs_zero": {
+    "message": "Loka {COUNT} völdum flipum"
+  },
+  "closeSelectedTabsAndStoreInONETAB_few": {
+    "message": "Loka {COUNT} völdum flipum og vista þá í ONETAB"
+  },
+  "closeSelectedTabsAndStoreInONETAB_many": {
+    "message": "Loka {COUNT} völdum flipum og vista þá í ONETAB"
+  },
+  "closeSelectedTabsAndStoreInONETAB_one": {
+    "message": "Loka {COUNT} völdum flipa og vista hann í ONETAB"
+  },
+  "closeSelectedTabsAndStoreInONETAB_other": {
+    "message": "Loka {COUNT} völdum flipum og vista þá í ONETAB"
+  },
+  "closeSelectedTabsAndStoreInONETAB_two": {
+    "message": "Loka {COUNT} völdum flipum og vista þá í ONETAB"
+  },
+  "closeSelectedTabsAndStoreInONETAB_zero": {
+    "message": "Loka {COUNT} völdum flipum og vista þá í ONETAB"
+  },
+  "closeTabs_few": {
+    "message": "Loka flipum"
+  },
+  "closeTabs_many": {
+    "message": "Loka flipum"
+  },
+  "closeTabs_one": {
+    "message": "Loka flipa"
+  },
+  "closeTabs_other": {
+    "message": "Loka flipum"
+  },
+  "closeTabs_two": {
+    "message": "Loka flipum"
+  },
+  "closeTabs_zero": {
+    "message": "Loka flipum"
+  },
+  "closeTabsAfterMerge": {
+    "message": "Loka flipum eftir sameiningu"
+  },
+  "closeTabsAlreadyStoredInOneTab_few": {
+    "message": "Loka {COUNT} flipum sem þegar eru vistaðir í OneTab"
+  },
+  "closeTabsAlreadyStoredInOneTab_many": {
+    "message": "Loka {COUNT} flipum sem þegar eru vistaðir í OneTab"
+  },
+  "closeTabsAlreadyStoredInOneTab_one": {
+    "message": "Loka {COUNT} flipa sem þegar er vistaður í OneTab"
+  },
+  "closeTabsAlreadyStoredInOneTab_other": {
+    "message": "Loka {COUNT} flipum sem þegar eru vistaðir í OneTab"
+  },
+  "closeTabsAlreadyStoredInOneTab_two": {
+    "message": "Loka {COUNT} flipum sem þegar eru vistaðir í OneTab"
+  },
+  "closeTabsAlreadyStoredInOneTab_zero": {
+    "message": "Loka {COUNT} flipum sem þegar eru vistaðir í OneTab"
+  },
+  "closeTabsAndStore_few": {
+    "message": "Loka flipum og vista í ONETAB"
+  },
+  "closeTabsAndStore_many": {
+    "message": "Loka flipum og vista í ONETAB"
+  },
+  "closeTabsAndStore_one": {
+    "message": "Loka flipa og vista í ONETAB"
+  },
+  "closeTabsAndStore_other": {
+    "message": "Loka flipum og vista í ONETAB"
+  },
+  "closeTabsAndStore_two": {
+    "message": "Loka flipum og vista í ONETAB"
+  },
+  "closeTabsAndStore_zero": {
+    "message": "Loka flipum og vista í ONETAB"
+  },
+  "closeTheseDuplicates_few": {
+    "message": "Loka þessum tvíteknu flipum"
+  },
+  "closeTheseDuplicates_many": {
+    "message": "Loka þessum tvíteknu flipum"
+  },
+  "closeTheseDuplicates_one": {
+    "message": "Loka þessum tvítekna flipa"
+  },
+  "closeTheseDuplicates_other": {
+    "message": "Loka þessum tvíteknu flipum"
+  },
+  "closeTheseDuplicates_two": {
+    "message": "Loka þessum tvíteknu flipum"
+  },
+  "closeTheseDuplicates_zero": {
+    "message": "Loka þessum tvíteknu flipum"
+  },
+  "completedTaskFlagHelp": {
+    "message": "Þetta atriði er verkefni. Smelltu á þetta tákn til að merkja það sem ólokið."
+  },
+  "completeEditingShortcutInfo": {
+    "message": "Ljúka breytingum í athugasemdareit"
+  },
+  "configureShortcuts": {
+    "message": "Stilla flýtilykla"
+  },
+  "conflictingShortcutsHint": {
+    "message": "Ef einhver af flýtilyklunum hér að ofan virkar ekki eða rekst á önnur forrit geturðu stillt annan flýtilykil."
+  },
+  "continue": {
+    "message": "Halda áfram"
+  },
+  "convertTabsIntoAList": {
+    "message": "Breyta flipum í lista"
+  },
+  "copiedToClipboard": {
+    "message": "Afritað á klippiborð"
+  },
+  "copy": {
+    "message": "Afrita"
+  },
+  "copyLinksToClipboard": {
+    "message": "Afrita tengla á klippiborð"
+  },
+  "copySharedPageUrl": {
+    "message": "Afrita vefslóð deildrar síðu"
+  },
+  "copyToClipboard": {
+    "message": "Afrita á klippiborð"
+  },
+  "copyToClipboardMenuItemHelp": {
+    "message": "Afrita þessa veftengla á klippiborðið svo þú getir límt þá inn í önnur forrit. Þú getur breytt textasniði klippiborðsins á valkostasíðu OneTab."
+  },
+  "createANewGroupHere": {
+    "message": "Búa til nýjan hóp hér"
+  },
+  "createdOnDate": {
+    "message": "Búið til {DATE}"
+  },
+  "createdOnOrAfterColon": {
+    "message": "Búið til frá og með:"
+  },
+  "createdOnOrBeforeColon": {
+    "message": "Búið til til og með:"
+  },
+  "createFolderAbove": {
+    "message": "Búa til möppu fyrir ofan"
+  },
+  "createFolderAboveBelow": {
+    "message": "Búa til möppu fyrir ofan / fyrir neðan"
+  },
+  "createFolderAboveWithinBelow": {
+    "message": "Búa til möppu fyrir ofan / innan / fyrir neðan"
+  },
+  "createFolderBelow": {
+    "message": "Búa til möppu fyrir neðan"
+  },
+  "createFolderWithin": {
+    "message": "Búa til möppu innan"
+  },
+  "createFolderWithinMenuItemHelp": {
+    "message": "Möppur eru til að skipuleggja hópa með flipum. Möppur innihalda hópa og hópar innihalda flipa."
+  },
+  "createGroupAbove": {
+    "message": "Búa til hóp fyrir ofan"
+  },
+  "createGroupAboveBelow": {
+    "message": "Búa til hóp fyrir ofan / fyrir neðan"
+  },
+  "createGroupAboveWithinBelow": {
+    "message": "Búa til hóp fyrir ofan / innan / fyrir neðan"
+  },
+  "createGroupBelow": {
+    "message": "Búa til hóp fyrir neðan"
+  },
+  "createGroupInsideDestination": {
+    "message": "Búa til nýjan hóp innan áfangastaðar"
+  },
+  "createGroupInsideDestinationHelp": {
+    "message": "Ef ekki er hakað við verður flipunum þínum bætt beint við áfangahópinn. Ef hakað er við verður nýr flipahópur í vafranum búinn til fyrir flipana þína innan áfangahópsins. Hakaðu aðeins við þennan reit ef þú vilt nota eiginleikann „flipahópar“ í vafranum þínum."
+  },
+  "createGroupMenuItemHelp": {
+    "message": "Búa til nýjan tóman hóp. Hópur inniheldur lista yfir flipa sem hægt er að endurheimta saman í glugga."
+  },
+  "createGroupWithin": {
+    "message": "Búa til hóp innan"
+  },
+  "createNewGroupTip": {
+    "message": "Til að búa til nýjan hóp skaltu fyrst taka hakið úr „Sýna aðeins möppur“. Þetta er til þess að þú getir séð nýstofnaða hópinn á listanum."
+  },
+  "darkTheme": {
+    "message": "Dökkt þema"
+  },
+  "dayCount_few": {
+    "message": "{COUNT} dagar"
+  },
+  "dayCount_many": {
+    "message": "{COUNT} dagar"
+  },
+  "dayCount_one": {
+    "message": "{COUNT} dagur"
+  },
+  "dayCount_other": {
+    "message": "{COUNT} dagar"
+  },
+  "dayCount_two": {
+    "message": "{COUNT} dagar"
+  },
+  "dayCount_zero": {
+    "message": "{COUNT} dagar"
+  },
+  "delete": {
+    "message": "Eyða"
+  },
+  "deleteAllTrash": {
+    "message": "Eyða öllu úr ruslinu"
+  },
+  "deleteThisCopy": {
+    "message": "Eyða þessu eintaki"
+  },
+  "deselectAll": {
+    "message": "Afvelja allt"
+  },
+  "destinationColon": {
+    "message": "Áfangastaður:"
+  },
+  "disabled": {
+    "message": "Óvirkt"
+  },
+  "doneTaskCount_few": {
+    "message": "{COUNT} lokið"
+  },
+  "doneTaskCount_many": {
+    "message": "{COUNT} lokið"
+  },
+  "doneTaskCount_one": {
+    "message": "{COUNT} lokið"
+  },
+  "doneTaskCount_other": {
+    "message": "{COUNT} lokið"
+  },
+  "doneTaskCount_two": {
+    "message": "{COUNT} lokið"
+  },
+  "doneTaskCount_zero": {
+    "message": "{COUNT} lokið"
+  },
+  "dontCloseGroupedTabs": {
+    "message": "Ekki loka neinum flipum í flipahópum"
+  },
+  "dontClosePinnedTabs": {
+    "message": "Ekki loka neinum festum flipum"
+  },
+  "dontCloseTabsFromDomains": {
+    "message": "Ekki loka neinum flipum frá EXAMPLE.COM"
+  },
+  "dragCopyKeysHtml": {
+    "message": "<x-key>{CTRL}</x-key> eða <x-key>{ALT}</x-key>"
+  },
+  "dragCopyModifierInfo": {
+    "message": "Haltu Ctrl- eða Alt-lyklinum inni þegar þú dregur flipa til að búa til afrit af honum í stað þess að færa hann."
+  },
+  "dragTabsHereForQuickList": {
+    "message": "Dragðu vistaða flipa eða hópa hingað. Þeim verður bætt við flýtlistann þinn."
+  },
+  "editTabGroupTitleAndNotes": {
+    "message": "Breyta titli og athugasemdum flipahópsins"
+  },
+  "emojiShortcutInfo": {
+    "message": "Opna emoji-valið þegar athugasemdareit er breytt"
+  },
+  "emptyInBrackets": {
+    "message": "(tómt)"
+  },
+  "emptyOneTabInfoMsg": {
+    "message": "Þegar þú ert með marga flipa opna skaltu smella á táknið fyrir OneTab á tækjastiku vafrans og opnu fliparnir þínir birtast hér."
+  },
+  "enabled": {
+    "message": "Virkt"
+  },
+  "everything": {
+    "message": "Allt"
+  },
+  "exampleLink": {
+    "message": "Dæmistengill"
+  },
+  "exampleLinkTitle": {
+    "message": "Dæmi um titil tengils"
+  },
+  "exampleLinkTitleOptional": {
+    "message": "Dæmi um titil tengils (valfrjálst)"
+  },
+  "exampleRichTextParagraph": {
+    "message": "Dæmismálsgrein með PLACEHOLDER og PLACEHOLDER"
+  },
+  "exampleWebsitePageTitle": {
+    "message": "Dæmi um titil vefsíðu"
+  },
+  "excludeDomainFromOneTab": {
+    "message": "Útiloka EXAMPLE.COM frá OneTab"
+  },
+  "excludeWebSiteFromOneTab": {
+    "message": "Útiloka þetta vefsvæði frá OneTab"
+  },
+  "expiresColon": {
+    "message": "Rennur út:"
+  },
+  "export": {
+    "message": "Flytja út"
+  },
+  "exportImportUrls": {
+    "message": "Flytja út / flytja inn vefslóðir"
+  },
+  "exportThenImportNote": {
+    "message": "Einnig er hægt að flytja eftirfarandi lista yfir vefslóðir aftur inn í OneTab á þessari eða annarri tölvu"
+  },
+  "exportUrls": {
+    "message": "Flytja út vefslóðir"
+  },
+  "feedback": {
+    "message": "Ábendingar"
+  },
+  "filter": {
+    "message": "Sía"
+  },
+  "firefoxIncognitoInstructions": {
+    "message": "Í stillingum vafrans skaltu fara í „Stillingar“ → „Viðbætur og þemu“ → „Viðbætur“ → „OneTab“ → „...“ → „Stjórna“ og virkja síðan „Keyra í huliðsgluggum“."
+  },
+  "firefoxIndexedDbUnavailable": {
+    "message": "OneTab getur ekki vistað eða sótt gögn. Ef þú hefur stillt Firefox á að muna aldrei feril kemur það í veg fyrir að OneTab virki rétt. Annars skaltu hafa samband við okkur í gegnum vefsvæðið okkar og við gætum hugsanlega hjálpað."
+  },
+  "firefoxShortcutConfigInstructions": {
+    "message": "Sláðu vefslóðina „about:addons?type=extension“ inn í veffangastiku vafrans. Þegar síðan birtist skaltu smella á tannhjólstáknið og velja „Stjórna flýtilyklum viðbóta“"
+  },
+  "Folder": {
+    "message": "Mappa"
+  },
+  "folderCount_few": {
+    "message": "{COUNT} möppur"
+  },
+  "folderCount_many": {
+    "message": "{COUNT} möppur"
+  },
+  "folderCount_one": {
+    "message": "{COUNT} mappa"
+  },
+  "folderCount_other": {
+    "message": "{COUNT} möppur"
+  },
+  "folderCount_two": {
+    "message": "{COUNT} möppur"
+  },
+  "folderCount_zero": {
+    "message": "{COUNT} möppur"
+  },
+  "folders": {
+    "message": "Möppur"
+  },
+  "foldersOnly": {
+    "message": "Aðeins möppur"
+  },
+  "foldGroup": {
+    "message": "Fella hóp saman"
+  },
+  "gettingStarted": {
+    "message": "Hafist handa"
+  },
+  "gotIt": {
+    "message": "Skilið"
+  },
+  "goToParentFolder": {
+    "message": "Fara í yfirmöppu"
+  },
+  "groupCount_few": {
+    "message": "{COUNT} hópar"
+  },
+  "groupCount_many": {
+    "message": "{COUNT} hópar"
+  },
+  "groupCount_one": {
+    "message": "{COUNT} hópur"
+  },
+  "groupCount_other": {
+    "message": "{COUNT} hópar"
+  },
+  "groupCount_two": {
+    "message": "{COUNT} hópar"
+  },
+  "groupCount_zero": {
+    "message": "{COUNT} hópar"
+  },
+  "groups": {
+    "message": "Hópar"
+  },
+  "hasNotes": {
+    "message": "Með athugasemdum"
+  },
+  "help": {
+    "message": "Hjálp"
+  },
+  "hideArchivedItems": {
+    "message": "Fela atriði í geymslu"
+  },
+  "import": {
+    "message": "Flytja inn"
+  },
+  "importAndExport": {
+    "message": "Inn- og útflutningur"
+  },
+  "importBookmarks": {
+    "message": "Flytja inn bókamerki"
+  },
+  "importedBookmarks": {
+    "message": "Innflutt bókamerki"
+  },
+  "importExportShareMenuNoteHtml": {
+    "message": "Þú getur einnig flutt flipana þína út sem deilanlega vefsíðu eða HTML-skrá með valkostunum <b>Deila sem vefsíðu</b> og <b>Vista sem HTML-skrá</b> í valmyndinni <b>Meira…</b> fyrir hóp eða möppu."
+  },
+  "importFolderAndSubfolders": {
+    "message": "Flytja inn möppu og undirmöppur"
+  },
+  "importLinksHere": {
+    "message": "Flytja tengla inn hér"
+  },
+  "importLinksHereMenuItemHelp": {
+    "message": "Þú getur límt inn lista yfir veftengla eða flutt inn bókamerki vafrans."
+  },
+  "importNotesTruncatedNotice": {
+    "message": "Sumar innfluttar athugasemdir voru lengri en {MAX} stafa hámarkið, svo endarnir voru klipptir af."
+  },
+  "importReadingList": {
+    "message": "Flytja inn leslista"
+  },
+  "importText": {
+    "message": "Flytja inn texta"
+  },
+  "importUrls": {
+    "message": "Flytja inn vefslóðir"
+  },
+  "includeGroupedTabs": {
+    "message": "Hafa flipa í flipahópum með"
+  },
+  "includeNotes": {
+    "message": "Hafa athugasemdir með"
+  },
+  "includePinnedTabs": {
+    "message": "Hafa festa flipa með"
+  },
+  "includeStarRatings": {
+    "message": "Hafa stjörnur með"
+  },
+  "includeTabsAlreadyStored": {
+    "message": "Hafa flipa sem þú hefur þegar vistað með"
+  },
+  "includeTabsFromDomains": {
+    "message": "Hafa flipa frá EXAMPLE.COM með"
+  },
+  "incogitoPermissionRequired": {
+    "message": "OneTab þarf heimild til að búa til huliðsglugga."
+  },
+  "incognitoWindows": {
+    "message": "Huliðsgluggar"
+  },
+  "invertSelection": {
+    "message": "Snúa vali við"
+  },
+  "itemTextTruncatedNotice": {
+    "message": "Textinn var lengri en hámarkið (athugasemdir geta innihaldið {NOTESMAX} stafi og titlar {TITLEMAX}), svo endinn var klipptur af."
+  },
+  "justNow": {
+    "message": "rétt í þessu"
+  },
+  "kbdNavBackspaceInfo": {
+    "message": "Fara í yfirmöppu"
+  },
+  "kbdNavEnterInfo": {
+    "message": "Endurheimta flipa eða opna möppu"
+  },
+  "kbdNavEscInfo": {
+    "message": "Ljúka lyklaborðsleiðsögn"
+  },
+  "kbdNavFocusInfo": {
+    "message": "Færa fókus milli hópa og flipa"
+  },
+  "kbdNavFoldInfo": {
+    "message": "Fella hóp saman / opna hann"
+  },
+  "kbdNavMoveInfo": {
+    "message": "Færa milli atriða"
+  },
+  "kbdNavTabInfo": {
+    "message": "Hefja lyklaborðsleiðsögn"
+  },
+  "keyboardShortcutsColon": {
+    "message": "Flýtilyklar:"
+  },
+  "languageTitle": {
+    "message": "Tungumál:"
+  },
+  "licenseAlreadyHaveKey": {
+    "message": "Ég er þegar með leyfislykil"
+  },
+  "licenseAlreadySetUpRestarting": {
+    "message": "Þetta leyfi hefur þegar verið sett upp og því tengjum við þetta tæki við núverandi uppsetningu. Nýr kóði hefur verið sendur á skráða netfangið."
+  },
+  "licenseBackLink": {
+    "message": "Til baka"
+  },
+  "licenseBrowserOnOs": {
+    "message": "{BROWSER} í {OS}"
+  },
+  "licenseBrowsersActiveOn": {
+    "message": "Virkur {DATE}"
+  },
+  "licenseBrowsersActiveToday": {
+    "message": "Virkur í dag"
+  },
+  "licenseBrowsersAdded": {
+    "message": "Bætt við {DATE}"
+  },
+  "licenseBrowsersThisBrowser": {
+    "message": "Þessi vafri"
+  },
+  "licenseBrowserUnknown": {
+    "message": "Vafri"
+  },
+  "licenseChangeEmail": {
+    "message": "Breyta netfangi"
+  },
+  "licenseChangeEmailWebLink": {
+    "message": "Breyta netfangi"
+  },
+  "licenseChooseRecoveryTitle": {
+    "message": "Veldu hvernig dulkóðunarlykillinn þinn er varinn"
+  },
+  "licenseCloseModal": {
+    "message": "Loka"
+  },
+  "licenseCodeExpired": {
+    "message": "Þessi kóði er útrunninn. Biddu um nýjan tölvupóst."
+  },
+  "licenseCodeIncorrectTriesRemaining": {
+    "message": "Rangur kóði. Tilraunir eftir: {COUNT}."
+  },
+  "licenseCodeInvalidFormat": {
+    "message": "Sláðu inn 6 stafa kóðann úr tölvupóstinum."
+  },
+  "licenseCodePlaceholder": {
+    "message": "6 stafa kóði"
+  },
+  "licenseCodeSentTo": {
+    "message": "Sláðu inn 6 stafa kóðann sem við sendum á {EMAIL}."
+  },
+  "licenseCodeSourceDeviceOption": {
+    "message": "Fá kóða úr vafra sem er þegar tengdur"
+  },
+  "licenseCodeSourceDeviceOptionDescription": {
+    "message": "Opnaðu Afritun og samstilling þar og smelltu á „Tengja annan vafra eða notandasnið“."
+  },
+  "licenseCodeSourceEmailOption": {
+    "message": "Senda kóða á {EMAIL}"
+  },
+  "licenseCodeSourceTitle": {
+    "message": "Fá staðfestingarkóða"
+  },
+  "licenseCodeTriesExhausted": {
+    "message": "Engar tilraunir eru eftir fyrir þennan kóða. Biddu um nýjan tölvupóst."
+  },
+  "licenseConnectAnotherBrowser": {
+    "message": "Tengja annan vafra eða notandasnið"
+  },
+  "licenseConnectedBrowsers": {
+    "message": "Tengdir vafrar"
+  },
+  "licenseDeviceAddConnected": {
+    "message": "{BROWSER} tengdist leyfinu þínu."
+  },
+  "licenseDeviceAddExpired": {
+    "message": "Þessi kóði er útrunninn."
+  },
+  "licenseDeviceAddExpiresIn": {
+    "message": "Rennur út eftir {TIME}"
+  },
+  "licenseDeviceAddGetNewCode": {
+    "message": "Fá nýjan kóða"
+  },
+  "licenseDeviceAddIntro": {
+    "message": "Til að tengja annan vafra eða notandasnið skaltu slá inn leyfislykilinn þar og síðan þennan kóða þegar beðið er um hann."
+  },
+  "licenseDeviceAddKeyReminder": {
+    "message": "Þú þarft samt leyfislykilinn þinn — hann er ekki sýndur hér. Hann er í tölvupóstinum sem hann barst upphaflega með eða á greiðslusíðunni þinni."
+  },
+  "licenseDeviceAddNeverShare": {
+    "message": "Notaðu þennan kóða aðeins í nýja vafranum þínum. Deildu honum aldrei með neinum — OneTab mun aldrei biðja þig um hann. Hann virkar aðeins fyrir leyfið í þessum vafra."
+  },
+  "licenseDeviceCodeInsteadLink": {
+    "message": "Fá kóða úr tengdum vafra í staðinn"
+  },
+  "licenseDeviceCodePrompt": {
+    "message": "Í vafra sem er þegar tengdur leyfinu þínu skaltu opna Afritun og samstilling og smella á „Tengja annan vafra eða notandasnið“. Sláðu inn 6 stafa kóðann sem birtist þar."
+  },
+  "licenseDeviceLimitReached": {
+    "message": "Þetta leyfi hefur náð hámarksfjölda tækja."
+  },
+  "licenseDoneButton": {
+    "message": "Lokið"
+  },
+  "licenseEasyOptionDescription": {
+    "message": "Dulkóðunarlykillinn þinn er geymdur á öruggan hátt hjá þjóninum svo þú getir endurheimt hann með tölvupósti."
+  },
+  "licenseEasyOptionLabel": {
+    "message": "Einfalt"
+  },
+  "licenseEmailCodeInsteadLink": {
+    "message": "Senda mér kóða í tölvupósti í staðinn"
+  },
+  "licenseEmailPlaceholder": {
+    "message": "Netfang"
+  },
+  "licenseEmailPrompt": {
+    "message": "Netfangið þitt"
+  },
+  "licenseForgotKeyBack": {
+    "message": "Til baka til að slá inn leyfislykil"
+  },
+  "licenseForgotKeyEnterKeyButton": {
+    "message": "Slá inn leyfislykil"
+  },
+  "licenseForgotKeyLink": {
+    "message": "Gleymdirðu leyfislyklinum?"
+  },
+  "licenseForgotKeyNoEmailOnRecord": {
+    "message": "Enginn leyfislykill er tengdur þessu netfangi. Athugaðu hvort innsláttarvilla sé í því eða prófaðu annað netfang sem þú kannt að hafa notað."
+  },
+  "licenseForgotKeyPrompt": {
+    "message": "Sláðu inn netfangið þitt. Ef leyfislykill er skráður á það sendum við lykilinn þangað í tölvupósti."
+  },
+  "licenseForgotKeySendButton": {
+    "message": "Senda"
+  },
+  "licenseForgotKeySentTo": {
+    "message": "Við höfum sent leyfislykilinn þinn á {EMAIL}. Þegar hann berst geturðu slegið hann inn hér."
+  },
+  "licenseForgotKeyTooManyRequests": {
+    "message": "Leyfislykillinn þinn hefur þegar verið sendur nokkrum sinnum á þetta netfang nýlega. Athugaðu ruslpóstmöppuna eða reyndu aftur á morgun."
+  },
+  "licenseGenericError": {
+    "message": "Eitthvað fór úrskeiðis. Reyndu aftur."
+  },
+  "licenseGoButton": {
+    "message": "Áfram"
+  },
+  "licenseInvalidEmail": {
+    "message": "Sláðu inn gilt netfang."
+  },
+  "licenseKeyInvalidFormat": {
+    "message": "Þetta virðist ekki vera gildur leyfislykill. Hann á að vera 20 bókstafir (A–F) og tölustafir, til dæmis XXXX-XXXX-XXXX-XXXX-XXXX."
+  },
+  "licenseKeyNotFound": {
+    "message": "Leyfislykill fannst ekki. Athugaðu hann og reyndu aftur."
+  },
+  "licenseNoLongerActiveError": {
+    "message": "Þetta leyfi er ekki lengur virkt. Ef þú telur að þetta séu mistök skaltu hafa samband við aðstoð."
+  },
+  "licenseRateLimitedError": {
+    "message": "Of margar misheppnaðar tilraunir hafa borist frá netkerfinu þínu. Bíddu um stund og reyndu aftur."
+  },
+  "licenseResendEmail": {
+    "message": "Senda nýjan tölvupóst"
+  },
+  "licenseServiceProblemTryLater": {
+    "message": "Ekki er hægt að ljúka þessu núna vegna vandamáls hjá okkur. Reyndu aftur síðar — ef þetta heldur áfram skaltu hafa samband við aðstoð."
+  },
+  "licenseSuccess": {
+    "message": "Tókst! Vistuðu fliparnir þínir verða nú dulkóðaðir og afritaðir á öruggan hátt í skýinu."
+  },
+  "licenseSuccessJoin": {
+    "message": "Tókst! Þessi vafri hefur tengst dulkóðaða afritinu þínu. Vistuðu fliparnir héðan og úr hinum vöfrunum þínum verða nú samstilltir."
+  },
+  "licenseSuggestedEmailIntro": {
+    "message": "Leyfislykillinn þinn var sendur á netfangið:"
+  },
+  "licenseSuggestedEmailNote": {
+    "message": "Staðfestingarkóðar og endurheimt reiknings nota þetta netfang, svo gakktu úr skugga um að það sé þitt."
+  },
+  "licenseSuspendedBillingError": {
+    "message": "Ekki er hægt að tengja þetta leyfi núna vegna vandamáls með greiðslu. Ef þú sérð um greiðslumálin skaltu skrá þig inn á one-tab.com til að leysa það — annars skaltu hafa samband við þann sem keypti leyfið þitt."
+  },
+  "licenseUltraKeyConfirmCheckbox": {
+    "message": "Ég hef vistað afrit af lyklinum mínum og skil að hann verður aldrei sýndur aftur."
+  },
+  "licenseUltraKeyConfirmRequired": {
+    "message": "Staðfestu að þú hafir vistað afrit af lyklinum þínum."
+  },
+  "licenseUltraKeyEnterPrompt": {
+    "message": "Sláðu inn dulkóðunarlykilinn þinn til að ljúka við að tengja þetta tæki."
+  },
+  "licenseUltraKeyIntro": {
+    "message": "Þetta er dulkóðunarlykillinn þinn. Geymdu öruggt afrit af honum, til dæmis í lykilorðastjóra, svo þú getir endurheimt gögnin þín ef tölvan bilar eða henni er stolið."
+  },
+  "licenseUltraKeyMismatch": {
+    "message": "Þessi lykill er ekki réttur fyrir þetta leyfi. Athugaðu hann og reyndu aftur."
+  },
+  "licenseUltraKeyNeverShownAgain": {
+    "message": "Þessi lykill verður ALDREI sýndur aftur."
+  },
+  "licenseUltraKeyPlaceholder": {
+    "message": "Dulkóðunarlykill"
+  },
+  "licenseUltraOptionDescription": {
+    "message": "Aðeins þú geymir dulkóðunarlykilinn og ekki er hægt að endurheimta hann ef þú glatar honum. Veldu þennan valkost aðeins ef þú ert viss um að þú getir varðveitt öruggt afrit af honum."
+  },
+  "licenseUltraOptionLabel": {
+    "message": "Ítrasta persónuvernd"
+  },
+  "licenseUseDifferentEmail": {
+    "message": "Nota annað netfang"
+  },
+  "lightTheme": {
+    "message": "Ljóst þema"
+  },
+  "localBackupRestoredModal": {
+    "message": "Hluti notandasniðs vafrans þar sem gögn OneTab eru geymd skemmdist eða var eytt. Þetta getur gerst eftir að vafrinn hrynur eða þegar bilaður hugbúnaður til að hreinsa kerfið eða persónugögn fjarlægir vafragögn."
+  },
+  "localBackupRestoredModalRecovery": {
+    "message": "Þú hafðir heppnina með þér í þetta sinn: Skemmdirnar náðu ekki til þess aðskilda hluta notandasniðsins þar sem OneTab geymir vikulegt afrit og því hafa fliparnir þínir verið endurheimtir úr afritinu sem var tekið {DATE}. Ekki var hægt að endurheimta neitt sem þú vistaðir eða breyttir eftir þá dagsetningu. Ef allt notandasniðið hefði glatast eða afritið einnig skemmst hefði ekkert verið til að endurheimta úr."
+  },
+  "localBackupRestoredModalTitle": {
+    "message": "OneTab endurheimti flipana þína eftir gagnatap"
+  },
+  "localeId": {
+    "message": "is"
+  },
+  "locationColon": {
+    "message": "Staðsetning:"
+  },
+  "lock": {
+    "message": "Læsa"
+  },
+  "lockedGroupUnlockHelp": {
+    "message": "Til að aflæsa skaltu nota valmyndina „Meira…“. Þegar hópur er læstur geturðu ekki eytt hópnum eða flipum hans og ekki er hægt að endurraða flipum."
+  },
+  "lockMenuItemHelp": {
+    "message": "Þegar hópur er læstur geturðu ekki fjarlægt eða endurraðað atriðum innan hópsins (fyrr en þú aflæsir hópnum)."
+  },
+  "makeThisATask": {
+    "message": "Gera þetta að verkefni"
+  },
+  "manifestDescription": {
+    "message": "Sparaðu allt að 95% minni og dragðu úr flipafargani"
+  },
+  "markAsArchived": {
+    "message": "Setja í geymslu"
+  },
+  "markAsArchivedMenuItemHelp": {
+    "message": "Þegar þú setur atriði í geymslu fær það gráan bakgrunn. Þetta er sjónræn vísbending um að þú sért búinn með þetta atriði (til dæmis ef það er grein sem þú hefur lokið við að lesa). Ef þú setur í geymslu eitthvað sem er merkt sem verkefni birtist verkefnið ekki lengur í verkefnadálknum á OneTab-síðunni þinni."
+  },
+  "markAsDoneTask": {
+    "message": "Merkja sem lokið verkefni"
+  },
+  "markAsDoneTaskMenuItemHelp": {
+    "message": "Sýna sjónrænt að verkefni sé lokið"
+  },
+  "markAsPendingTask": {
+    "message": "Merkja sem verkefni í vinnslu"
+  },
+  "markAsPendingTaskMenuItemHelp": {
+    "message": "Sýna sjónrænt að þetta atriði sé verkefni. Verkefnatákn birtist og þú getur smellt á það til að sýna sjónrænt að verkefninu sé lokið. Öll verkefni (nema þau séu sett í geymslu) birtast einnig í verkefnadálknum á OneTab-síðunni þinni."
+  },
+  "matchCount_few": {
+    "message": "{COUNT} samsvaranir"
+  },
+  "matchCount_many": {
+    "message": "{COUNT} samsvaranir"
+  },
+  "matchCount_one": {
+    "message": "{COUNT} samsvörun"
+  },
+  "matchCount_other": {
+    "message": "{COUNT} samsvaranir"
+  },
+  "matchCount_two": {
+    "message": "{COUNT} samsvaranir"
+  },
+  "matchCount_zero": {
+    "message": "{COUNT} samsvaranir"
+  },
+  "matchWholeWordsOnly": {
+    "message": "Aðeins heil orð"
+  },
+  "mayNeedToRestartBrowser": {
+    "message": "Ef þú sérð þessi skilaboð í hvert skipti skaltu uppfæra og endurræsa vafrann."
+  },
+  "mergeIntoParent": {
+    "message": "Sameina við yfiratriði"
+  },
+  "mergeOpenTabsHere_few": {
+    "message": "Sameina {COUNT} opna flipa hér"
+  },
+  "mergeOpenTabsHere_many": {
+    "message": "Sameina {COUNT} opna flipa hér"
+  },
+  "mergeOpenTabsHere_one": {
+    "message": "Sameina {COUNT} opinn flipa hér"
+  },
+  "mergeOpenTabsHere_other": {
+    "message": "Sameina {COUNT} opna flipa hér"
+  },
+  "mergeOpenTabsHere_two": {
+    "message": "Sameina {COUNT} opna flipa hér"
+  },
+  "mergeOpenTabsHere_zero": {
+    "message": "Sameina {COUNT} opna flipa hér"
+  },
+  "mergeSelectedTabsHere_few": {
+    "message": "Sameina {COUNT} valda flipa hér"
+  },
+  "mergeSelectedTabsHere_many": {
+    "message": "Sameina {COUNT} valda flipa hér"
+  },
+  "mergeSelectedTabsHere_one": {
+    "message": "Sameina {COUNT} valinn flipa hér"
+  },
+  "mergeSelectedTabsHere_other": {
+    "message": "Sameina {COUNT} valda flipa hér"
+  },
+  "mergeSelectedTabsHere_two": {
+    "message": "Sameina {COUNT} valda flipa hér"
+  },
+  "mergeSelectedTabsHere_zero": {
+    "message": "Sameina {COUNT} valda flipa hér"
+  },
+  "mergeWithInnerGroups": {
+    "message": "Sameina við innri hópa"
+  },
+  "modalMoveToTrashHintExampleGroupTitle": {
+    "message": "Dæmi um titil hóps"
+  },
+  "modalMoveToTrashHintHeading": {
+    "message": "Ábending: Færðu bendilinn yfir titil hóps og smelltu svo á X til að færa hann í ruslið."
+  },
+  "modalOptionAutoActionOnOpenHeading": {
+    "message": "Eftir endurheimt flipa:"
+  },
+  "modalOptionAutoActionOnOpenOpenDesc": {
+    "message": "Eyða handvirkt þegar lokið er"
+  },
+  "modalOptionAutoActionOnOpenTrashDesc": {
+    "message": "Auðveldar fljótlega vistun og endurheimt"
+  },
+  "modalRemigrationDontAskAgain": {
+    "message": "Ekki spyrja aftur"
+  },
+  "modalRemigrationFooterHtml": {
+    "message": "Smelltu á <b>Já</b>, nema flutningurinn hafi þegar farið fram og þú hafir vísvitandi eytt fluttu flipunum."
+  },
+  "modalRemigrationNotNow": {
+    "message": "Ekki núna"
+  },
+  "modalRemigrationTabsFoundPrompt_few": {
+    "message": "Fundust {COUNT} flipar úr OneTab v1. Flytja þá?"
+  },
+  "modalRemigrationTabsFoundPrompt_many": {
+    "message": "Fundust {COUNT} flipar úr OneTab v1. Flytja þá?"
+  },
+  "modalRemigrationTabsFoundPrompt_one": {
+    "message": "Fannst {COUNT} flipi úr OneTab v1. Flytja hann?"
+  },
+  "modalRemigrationTabsFoundPrompt_other": {
+    "message": "Fundust {COUNT} flipar úr OneTab v1. Flytja þá?"
+  },
+  "modalRemigrationTabsFoundPrompt_two": {
+    "message": "Fundust {COUNT} flipar úr OneTab v1. Flytja þá?"
+  },
+  "modalRemigrationTabsFoundPrompt_zero": {
+    "message": "Fundust {COUNT} flipar úr OneTab v1. Flytja þá?"
+  },
+  "modalRemigrationYes": {
+    "message": "Já"
+  },
+  "modalUpdateToV2Heading": {
+    "message": "OneTab hefur verið uppfært"
+  },
+  "modalUpdateToV2QuickTourHtml": {
+    "message": "Viltu stutta kynningu? Smelltu á <b>Hjálp</b> efst."
+  },
+  "modalUpdateToV2UseOneTabLikeBefore": {
+    "message": "Þú getur áfram notað OneTab eins og áður — vistað flipana þína með einum smelli."
+  },
+  "modifySharing": {
+    "message": "Breyta deilingu"
+  },
+  "moreEllipsis": {
+    "message": "Meira…"
+  },
+  "moreSearchFilters": {
+    "message": "Fleiri leitarsíur"
+  },
+  "move": {
+    "message": "Færa"
+  },
+  "moveBack": {
+    "message": "Færa til baka"
+  },
+  "moveToTrash": {
+    "message": "Færa í ruslið"
+  },
+  "namedOnly": {
+    "message": "Aðeins atriði með heiti"
+  },
+  "navigationFilter": {
+    "message": "Leiðsagnarsía"
+  },
+  "navigationFilterColumnOnlyNote": {
+    "message": "Þessi sía gildir aðeins fyrir leiðsagnardálkinn."
+  },
+  "newExclamation": {
+    "message": "Nýtt!"
+  },
+  "noDupsExistExceptForColon": {
+    "message": "Engar tvítekningar finnast, nema:"
+  },
+  "noDupsFoundHere": {
+    "message": "Engar tvítekningar fundust hér"
+  },
+  "noMatches": {
+    "message": "Engar samsvaranir"
+  },
+  "noMatchesFound": {
+    "message": "Engar samsvaranir fundust"
+  },
+  "nonArchived": {
+    "message": "Ekki í geymslu"
+  },
+  "nonTabPinFlagHelp": {
+    "message": "Þetta atriði er fest efst í möppunni. Smelltu á þetta tákn til að losa það."
+  },
+  "noOpenTabsToStore": {
+    "message": "Engir opnir flipar eru í þessum glugga til að vista."
+  },
+  "noReadingListEntries": {
+    "message": "Engar færslur fundust á leslistanum"
+  },
+  "noTabsInOneTabYet": {
+    "message": "Þú ert ekki enn með neina flipa í OneTab"
+  },
+  "noTabsMeetCriteriaUseCheckboxes": {
+    "message": "Engir opnir flipar uppfylla skilyrðin þín. Notaðu gátreitina hér að ofan."
+  },
+  "notAssigned": {
+    "message": "Ekki úthlutað"
+  },
+  "notes": {
+    "message": "Athugasemdir"
+  },
+  "notesAboutTheLinkOptional": {
+    "message": "Athugasemdir um tengilinn (valfrjálst)"
+  },
+  "notesAboutTheSecondLinkOptional": {
+    "message": "Athugasemdir um seinni tengilinn (valfrjálst)"
+  },
+  "noTextHasBeenEntered": {
+    "message": "Enginn texti hefur verið sleginn inn"
+  },
+  "ok": {
+    "message": "Í lagi"
+  },
+  "omniboxShortcutInfo": {
+    "message": "Til að leita í OneTab-listanum þínum úr hvaða flipa sem er: Farðu í veffangastiku vafrans, sláðu inn 11, síðan bil og síðan leitarorð. Til að gera venjulega leit (ekki OneTab-leit) sem byrjar á 11 skaltu ýta á 11, síðan bil og síðan Backspace"
+  },
+  "OneTabAlsoAvailableForFirefox": {
+    "message": "OneTab er einnig fáanlegt fyrir Firefox"
+  },
+  "oneTabDesignedToProtectPrivacy": {
+    "message": "OneTab hefur verið hannað til að vernda persónuvernd þína. Flipunum þínum er ekki miðlað til okkar."
+  },
+  "oneTabExportPageTitle": {
+    "message": "OneTab-útflutningur"
+  },
+  "oneTabFolderSlashShortcutInfo": {
+    "message": "Setja fókus á leitarreitinn og leita aðeins í núverandi möppu"
+  },
+  "oneTabImportExportPageTitle": {
+    "message": "Inn-/útflutningur OneTab"
+  },
+  "oneTabNeedsPermissionToAccessYourTabs": {
+    "message": "OneTab þarf heimild til að fá aðgang að flipunum þínum."
+  },
+  "oneTabOptionsPageTitle": {
+    "message": "Valkostir OneTab"
+  },
+  "oneTabPermissionRequired": {
+    "message": "OneTab – heimildar krafist"
+  },
+  "oneTabRestartRequired": {
+    "message": "Endurræsa þarf OneTab. Engum öðrum flipum verður lokað."
+  },
+  "oneTabSlashShortcutInfo": {
+    "message": "Setja fókus á leitarreitinn"
+  },
+  "open": {
+    "message": "Opna"
+  },
+  "openActionPopup": {
+    "message": "OneTab-aðgerð (jafngildir því að smella á OneTab-táknið á tækjastikunni)"
+  },
+  "openAsCollapsedTabGroup": {
+    "message": "Opna sem „felldan saman“ flipahóp"
+  },
+  "openAsCollapsedTabGroupMenuItemHelp": {
+    "message": "Ef þú opnar þessa flipa sem „felldan saman“ flipahóp verður aðeins merki hópsins sýnt þar til þú smellir á það til að sýna flipana í honum."
+  },
+  "openAsPinnedTab": {
+    "message": "Festa flipa þegar hann er opnaður"
+  },
+  "openAsPinnedTabMenuItemHelp": {
+    "message": "Þegar þessi flipi er endurheimtur verður hann endurheimtur sem festur flipi í vafranum. Festir flipar birtast alltaf fyrst í vafraglugganum."
+  },
+  "openAsTabGroup": {
+    "message": "Opna sem flipahóp í vafra"
+  },
+  "openAsTabGroupMenuItemHelp": {
+    "message": "Vafrinn þinn gerir kleift að hópa flipa í lituðum „flipahópum“ innan glugga."
+  },
+  "openFolder": {
+    "message": "Opna möppu"
+  },
+  "openGroupsLimitNotice_few": {
+    "message": "Til að koma í veg fyrir að vafrinn þinn verði ofhlaðinn verða aðeins fyrstu {COUNT} hóparnir opnaðir."
+  },
+  "openGroupsLimitNotice_many": {
+    "message": "Til að koma í veg fyrir að vafrinn þinn verði ofhlaðinn verða aðeins fyrstu {COUNT} hóparnir opnaðir."
+  },
+  "openGroupsLimitNotice_one": {
+    "message": "Til að koma í veg fyrir að vafrinn þinn verði ofhlaðinn verður aðeins fyrsti {COUNT} hópurinn opnaður."
+  },
+  "openGroupsLimitNotice_other": {
+    "message": "Til að koma í veg fyrir að vafrinn þinn verði ofhlaðinn verða aðeins fyrstu {COUNT} hóparnir opnaðir."
+  },
+  "openGroupsLimitNotice_two": {
+    "message": "Til að koma í veg fyrir að vafrinn þinn verði ofhlaðinn verða aðeins fyrstu {COUNT} hóparnir opnaðir."
+  },
+  "openGroupsLimitNotice_zero": {
+    "message": "Til að koma í veg fyrir að vafrinn þinn verði ofhlaðinn verða aðeins fyrstu {COUNT} hóparnir opnaðir."
+  },
+  "openInIncognitoWindow": {
+    "message": "Endurheimta í nýjum huliðsglugga"
+  },
+  "openInNewWindow": {
+    "message": "Endurheimta í nýjum glugga"
+  },
+  "openInThisWindow": {
+    "message": "Endurheimta í þessum glugga"
+  },
+  "openOneTab": {
+    "message": "Opna OneTab"
+  },
+  "openOneTabAfter": {
+    "message": "Opna OneTab eftir að flipar eru vistaðir"
+  },
+  "openONETABLogo": {
+    "message": "Opna ONETAB"
+  },
+  "openParentFolder": {
+    "message": "Opna yfirmöppu"
+  },
+  "openTabFromWebsite": {
+    "message": "Opnaðu flipa og farðu á vefsvæðið"
+  },
+  "openTabLimit_few": {
+    "message": "Til að koma í veg fyrir að vafrinn þinn verði ofhlaðinn er hægt að opna að hámarki {COUNT} flipa í einu."
+  },
+  "openTabLimit_many": {
+    "message": "Til að koma í veg fyrir að vafrinn þinn verði ofhlaðinn er hægt að opna að hámarki {COUNT} flipa í einu."
+  },
+  "openTabLimit_one": {
+    "message": "Til að koma í veg fyrir að vafrinn þinn verði ofhlaðinn er hægt að opna að hámarki {COUNT} flipa í einu."
+  },
+  "openTabLimit_other": {
+    "message": "Til að koma í veg fyrir að vafrinn þinn verði ofhlaðinn er hægt að opna að hámarki {COUNT} flipa í einu."
+  },
+  "openTabLimit_two": {
+    "message": "Til að koma í veg fyrir að vafrinn þinn verði ofhlaðinn er hægt að opna að hámarki {COUNT} flipa í einu."
+  },
+  "openTabLimit_zero": {
+    "message": "Til að koma í veg fyrir að vafrinn þinn verði ofhlaðinn er hægt að opna að hámarki {COUNT} flipa í einu."
+  },
+  "openTabsAlreadyStoredHere_few": {
+    "message": "{COUNT} opnir flipar eru þegar vistaðir hér:"
+  },
+  "openTabsAlreadyStoredHere_many": {
+    "message": "{COUNT} opnir flipar eru þegar vistaðir hér:"
+  },
+  "openTabsAlreadyStoredHere_one": {
+    "message": "{COUNT} opinn flipi er þegar vistaður hér:"
+  },
+  "openTabsAlreadyStoredHere_other": {
+    "message": "{COUNT} opnir flipar eru þegar vistaðir hér:"
+  },
+  "openTabsAlreadyStoredHere_two": {
+    "message": "{COUNT} opnir flipar eru þegar vistaðir hér:"
+  },
+  "openTabsAlreadyStoredHere_zero": {
+    "message": "{COUNT} opnir flipar eru þegar vistaðir hér:"
+  },
+  "openTabsConfirm_few": {
+    "message": "Þú ert að fara að opna {COUNT} flipa. Ertu viss?"
+  },
+  "openTabsConfirm_many": {
+    "message": "Þú ert að fara að opna {COUNT} flipa. Ertu viss?"
+  },
+  "openTabsConfirm_one": {
+    "message": "Þú ert að fara að opna {COUNT} flipa. Ertu viss?"
+  },
+  "openTabsConfirm_other": {
+    "message": "Þú ert að fara að opna {COUNT} flipa. Ertu viss?"
+  },
+  "openTabsConfirm_two": {
+    "message": "Þú ert að fara að opna {COUNT} flipa. Ertu viss?"
+  },
+  "openTabsConfirm_zero": {
+    "message": "Þú ert að fara að opna {COUNT} flipa. Ertu viss?"
+  },
+  "openTabsNotStoredInOneTab_few": {
+    "message": "{COUNT} opnir flipar eru ekki vistaðir í OneTab"
+  },
+  "openTabsNotStoredInOneTab_many": {
+    "message": "{COUNT} opnir flipar eru ekki vistaðir í OneTab"
+  },
+  "openTabsNotStoredInOneTab_one": {
+    "message": "{COUNT} opinn flipi er ekki vistaður í OneTab"
+  },
+  "openTabsNotStoredInOneTab_other": {
+    "message": "{COUNT} opnir flipar eru ekki vistaðir í OneTab"
+  },
+  "openTabsNotStoredInOneTab_two": {
+    "message": "{COUNT} opnir flipar eru ekki vistaðir í OneTab"
+  },
+  "openTabsNotStoredInOneTab_zero": {
+    "message": "{COUNT} opnir flipar eru ekki vistaðir í OneTab"
+  },
+  "optionAutoActionOnOpenArchiveDesc": {
+    "message": "Þegar flipar eru settir í geymslu fá þeir gráan röndóttan bakgrunn. Þetta gefur sjónræna vísbendingu um að þú hafir lesið eða lokið við flipana."
+  },
+  "optionAutoActionOnOpenArchiveTitle": {
+    "message": "Setja þá í geymslu"
+  },
+  "optionAutoActionOnOpenHeading": {
+    "message": "Við endurheimt flipa:"
+  },
+  "optionAutoActionOnOpenNote": {
+    "message": "Læstir hópar halda alltaf flipunum sínum"
+  },
+  "optionAutoActionOnOpenOpenDesc": {
+    "message": "Til að merkja flipana sem í geymslu þegar þeir eru endurheimtir skaltu halda Alt- eða Option-lyklinum inni"
+  },
+  "optionAutoActionOnOpenOpenTitle": {
+    "message": "Halda þeim á listanum þínum"
+  },
+  "optionAutoActionOnOpenTrashDesc": {
+    "message": "Til að halda flipunum á listanum þegar þeir eru endurheimtir skaltu halda Ctrl- eða Cmd-lyklinum inni"
+  },
+  "optionAutoActionOnOpenTrashTitle": {
+    "message": "Fjarlægja þá af listanum þínum"
+  },
+  "optionBrowserActionHeading": {
+    "message": "Þegar þú smellir á táknið fyrir OneTab á tækjastikunni:"
+  },
+  "optionBrowserActionOpenPopupDesc": {
+    "message": "Aðgerðasprettiglugginn sýnir lista yfir opna flipa og gerir þér kleift að velja nákvæmlega hvaða flipa þú vilt senda til OneTab. Þar getur þú sett titil á hópinn af flipum sem þú ert að vista, svo þú þurfir ekki að gera það síðar á síðunni í OneTab. Sprettiglugginn veitir þér einnig greiðan aðgang að flýtlistanum úr hvaða vafraglugga sem er."
+  },
+  "optionBrowserActionOpenPopupDesc2": {
+    "message": "Velja nákvæmlega hvaða flipa á að vista"
+  },
+  "optionBrowserActionOpenPopupTitle": {
+    "message": "Sýna aðgerðasprettiglugga OneTab"
+  },
+  "optionBrowserActionSendCurrentTabDesc": {
+    "message": "Flipinn verður settur í fyrsta hópinn efst á síðunni þinni í OneTab (hópar sem eru festir eða læstir eru hunsaðir)"
+  },
+  "optionBrowserActionSendCurrentTabTitle": {
+    "message": "Senda aðeins núverandi flipa til OneTab"
+  },
+  "optionBrowserActionSendTabsInWindowDesc": {
+    "message": "Flipunum þínum verður lokað og þeir vistaðir á listanum þínum í OneTab. Ef þú hefur valið marga flipa á flipastiku vafrans (með Cmd, Ctrl eða Shift) verða aðeins valdir flipar sendir til OneTab. Ef þú notar eiginleika vafrans fyrir flipahópa verður aðeins núverandi flipahópur sendur til OneTab."
+  },
+  "optionBrowserActionSendTabsInWindowDesc2": {
+    "message": "Fljótlegasta leiðin til að vista flipa"
+  },
+  "optionBrowserActionSendTabsInWindowTitle": {
+    "message": "Senda flipa í núverandi glugga til OneTab"
+  },
+  "optionBrowserActionSendWholeWindowDesc": {
+    "message": "Sama og hér að ofan, nema að allur glugginn verður vistaður í staðinn fyrir aðeins núverandi flipahóp"
+  },
+  "optionBrowserActionSendWholeWindowTitle": {
+    "message": "Senda núverandi glugga til OneTab, ásamt öllum flipum og flipahópum"
+  },
+  "optionCopyToClipboardFormatHeading": {
+    "message": "Afritun tengla á klippiborð:"
+  },
+  "optionCopyToClipboardFormatMarkdownTitle": {
+    "message": "Markdown"
+  },
+  "optionCopyToClipboardFormatNote": {
+    "message": "Þessi stilling gildir þegar þú notar aðgerðina „Afrita á klippiborð“. Þú getur einnig dregið flipa og hópa beint úr OneTab inn í skjal."
+  },
+  "optionCopyToClipboardFormatRichTextDesc": {
+    "message": "Í forritum á borð við ritvinnsluforrit geturðu límt inn sniðinn texta. Ef það er ekki stutt verður ósniðinn texti límdur inn í staðinn."
+  },
+  "optionCopyToClipboardFormatRichTextTitle": {
+    "message": "Sniðinn texti, ef í boði"
+  },
+  "optionCopyToClipboardFormatTitleUrlTitle": {
+    "message": "Titill og vefslóð"
+  },
+  "optionCopyToClipboardFormatUrlOnlyTitle": {
+    "message": "Aðeins vefslóð"
+  },
+  "optionCopyToClipboardFormatUrlTitleTitle": {
+    "message": "Vefslóð og titill"
+  },
+  "optionDefaultTabGroupOpenTypeCurrentWindow": {
+    "message": "Opna flipahópinn í núverandi glugga"
+  },
+  "optionDefaultTabGroupOpenTypeHeading": {
+    "message": "Þegar smellt er til að opna hóp flipa sem er stilltur til að opnast sem „flipahópur“ í vafra:"
+  },
+  "optionDefaultTabGroupOpenTypeNewWindow": {
+    "message": "Opna flipahópinn í nýjum glugga"
+  },
+  "optionDefaultTabGroupOpenTypeNote": {
+    "message": "Ef þú notar fellilistann til að velja tiltekinn valkost (eins og að opna flipa í huliðsglugga) verður sá valkostur vistaður fyrir þann tiltekna hóp."
+  },
+  "optionDefaultWindowGroupOpenTypeCurrentWindow": {
+    "message": "Opna flipana í núverandi glugga"
+  },
+  "optionDefaultWindowGroupOpenTypeHeading": {
+    "message": "Þegar hópur flipa er endurheimtur:"
+  },
+  "optionDefaultWindowGroupOpenTypeNewWindow": {
+    "message": "Opna flipana í nýjum glugga, nema OneTab sé eini flipinn í núverandi glugga"
+  },
+  "optionDefaultWindowGroupOpenTypeNewWindowAlways": {
+    "message": "Opna flipana í nýjum glugga"
+  },
+  "optionDefaultWindowGroupOpenTypeNote": {
+    "message": "Endurheimtarval sem þú velur í valmyndinni „Meira…“ fyrir hóp er vistað fyrir þann hóp."
+  },
+  "optionDiscardNonActiveTabOnOpenHeading": {
+    "message": "Spara minni (RAM) strax þegar flipar eru fyrst opnaðir:"
+  },
+  "optionDiscardNonActiveTabOnOpenNote": {
+    "message": "Ef þessi stilling er virk losar hún flipa strax úr minni þegar þú opnar þá fyrst af OneTab-listanum þínum. Þetta er gagnlegt ef þú opnar oft tugi flipa í einu, því það kemur í veg fyrir að allir hlaðist inn í minni þar til þú ferð í þá. Ef þessi stilling er óvirk munu margir vafrar samt sjálfkrafa losa flipa úr minni ef þú ert ekki að nota þá."
+  },
+  "optionDisplayContextMenuHeading": {
+    "message": "Hægrismelltu inni á vefsíðu til að opna samhengisvalmynd OneTab:"
+  },
+  "optionDisplayContextMenuNote": {
+    "message": "Ef þú gerir valmyndina óvirka geturðu ekki notað eiginleikann „Útiloka vefsvæði frá OneTab“"
+  },
+  "optionDuplicatesAllow": {
+    "message": "Leyfa tvítekningar"
+  },
+  "optionDuplicatesReject": {
+    "message": "Hafna tvítekningum án tilkynningar"
+  },
+  "optionDuplicatesRejectDesc": {
+    "message": "Ef OneTab inniheldur flipann nú þegar verður honum ekki bætt við aftur."
+  },
+  "optionDuplicatesTitle": {
+    "message": "Tvítekningar:"
+  },
+  "optionGroupTitleClickActionEditTitle": {
+    "message": "Breyta titlinum"
+  },
+  "optionGroupTitleClickActionHeading": {
+    "message": "Þegar þú smellir á titil hóps eða möppu:"
+  },
+  "optionGroupTitleClickActionOpenDesc": {
+    "message": "Þú getur samt endurnefnt hóp í valmyndinni „Meira…“ fyrir hann."
+  },
+  "optionGroupTitleClickActionOpenTitle": {
+    "message": "Endurheimta hópinn eða opna möppuna"
+  },
+  "optionMoveOneTabToCurrentWindowOnOpenFalseTitle": {
+    "message": "Skipta yfir í gluggann þar sem OneTab-flipinn er þegar opinn"
+  },
+  "optionMoveOneTabToCurrentWindowOnOpenHeading": {
+    "message": "Aðgerðin „Opna OneTab“:"
+  },
+  "optionMoveOneTabToCurrentWindowOnOpenNote": {
+    "message": "Aðgerðin „Opna OneTab“:"
+  },
+  "optionMoveOneTabToCurrentWindowOnOpenTrueTitle": {
+    "message": "Færa OneTab-flipa sem er þegar opinn í núverandi glugga"
+  },
+  "optionPinnedTabsAllow": {
+    "message": "Leyfa að festir flipar séu sendir til OneTab"
+  },
+  "optionPinnedTabsDontSend": {
+    "message": "Ekki senda festa flipa til OneTab"
+  },
+  "optionPinnedTabsDontSendDesc": {
+    "message": "Þú getur samt sent festan flipa handvirkt til OneTab með því að hægrismella á vefsíðuna til að opna valmynd OneTab og smella svo á „Senda aðeins þennan flipa til OneTab“"
+  },
+  "optionPinnedTabsNote": {
+    "message": "Athugið:  Flipi verður „festur“ þegar þú hægrismellir á flipann og smellir á „Festa flipa“. Sumum finnst gott að festa vefsvæði eins og Facebook eða Gmail svo auðvelt sé að finna þau. OneTab man hvort flipi var festur þegar þú endurheimtir hann."
+  },
+  "optionPinnedTabsTitle": {
+    "message": "Festir flipar:"
+  },
+  "options": {
+    "message": "Valkostir"
+  },
+  "optionStartupLaunchDisplay": {
+    "message": "Opna OneTab sjálfkrafa"
+  },
+  "optionStartupLaunchNone": {
+    "message": "Ekki opna OneTab sjálfkrafa"
+  },
+  "optionStartupLaunchNoneDesc3": {
+    "message": "Til að opna OneTab handvirkt geturðu hægrismellt inni á hvaða vefsíðu sem er og smellt á „Opna OneTab“ í OneTab-valmyndinni."
+  },
+  "optionStartupLaunchTitle": {
+    "message": "Við ræsingu vafrans:"
+  },
+  "optionSwitchToOpenedTabFalseTitle": {
+    "message": "Opna flipann og vera áfram í OneTab"
+  },
+  "optionSwitchToOpenedTabHeading": {
+    "message": "Þegar flipar eru endurheimtir af OneTab-síðunni:"
+  },
+  "optionSwitchToOpenedTabNote": {
+    "message": "Ef þú heldur Shift inni þegar þú smellir opnast flipinn í nýjum glugga"
+  },
+  "optionSwitchToOpenedTabTrueTitle": {
+    "message": "Opna flipann og skipta yfir í hann (nema þú haldir Command ⌘/Ctrl inni þegar þú smellir)"
+  },
+  "optionUpdateTitleOnDuplicateKeep": {
+    "message": "Halda núverandi titli"
+  },
+  "optionUpdateTitleOnDuplicateKeepDesc": {
+    "message": "Þú getur endurnefnt flipann í OneTab og sérsniðni titillinn þinn varðveitist."
+  },
+  "optionUpdateTitleOnDuplicateNote": {
+    "message": "Titlum og athugasemdum er deilt á milli allra eintaka af sama flipa."
+  },
+  "optionUpdateTitleOnDuplicateTitle": {
+    "message": "Þegar flipi sem er þegar í OneTab er vistaður:"
+  },
+  "optionUpdateTitleOnDuplicateUpdate": {
+    "message": "Nota nýjasta titilinn"
+  },
+  "optionUpdateTitleOnDuplicateUpdateDesc": {
+    "message": "Uppfæra vistaða titilinn til samræmis við flipann sem þú sendir rétt í þessu."
+  },
+  "optionUrlAbbr": {
+    "message": "Stytt"
+  },
+  "optionUrlDisplayTitle": {
+    "message": "Birting vefslóða:"
+  },
+  "optionUrlDomain": {
+    "message": "Aðeins lén"
+  },
+  "optionUrlFull": {
+    "message": "Óstytt"
+  },
+  "optionUrlNone": {
+    "message": "Engin"
+  },
+  "otherCopiesColon": {
+    "message": "Önnur eintök:"
+  },
+  "pasteRichOrPlainTextBelow": {
+    "message": "Þú getur límt sniðinn eða ósniðinn texta hér að neðan."
+  },
+  "pendingTaskCount_few": {
+    "message": "{COUNT} í bið"
+  },
+  "pendingTaskCount_many": {
+    "message": "{COUNT} í bið"
+  },
+  "pendingTaskCount_one": {
+    "message": "{COUNT} í bið"
+  },
+  "pendingTaskCount_other": {
+    "message": "{COUNT} í bið"
+  },
+  "pendingTaskCount_two": {
+    "message": "{COUNT} í bið"
+  },
+  "pendingTaskCount_zero": {
+    "message": "{COUNT} í bið"
+  },
+  "pendingTaskFlagHelp": {
+    "message": "Þetta atriði er verkefni. Smelltu á þetta tákn til að merkja það sem lokið."
+  },
+  "permissionRequiredPleaseTryAgain": {
+    "message": "Til að búa til deilda síðu sem hægt er að opna úr hvaða tölvu sem er þarf heimild til að eiga samskipti við OneTab-vefþjóninn. Reyndu aftur."
+  },
+  "pinnedTabs": {
+    "message": "festir flipar"
+  },
+  "pinToTopOfFolder": {
+    "message": "Festa efst í möppu"
+  },
+  "pinToTopOfFolderMenuItemHelp": {
+    "message": "Festa þennan hóp þannig að hann sé alltaf efst á lista möppunnar"
+  },
+  "pinToTopOfList": {
+    "message": "Festa efst á lista"
+  },
+  "placeholderAndOtherLocations_few": {
+    "message": "PLACEHOLDER og {COUNT} aðrar staðsetningar"
+  },
+  "placeholderAndOtherLocations_many": {
+    "message": "PLACEHOLDER og {COUNT} aðrar staðsetningar"
+  },
+  "placeholderAndOtherLocations_one": {
+    "message": "PLACEHOLDER og {COUNT} önnur staðsetning"
+  },
+  "placeholderAndOtherLocations_other": {
+    "message": "PLACEHOLDER og {COUNT} aðrar staðsetningar"
+  },
+  "placeholderAndOtherLocations_two": {
+    "message": "PLACEHOLDER og {COUNT} aðrar staðsetningar"
+  },
+  "placeholderAndOtherLocations_zero": {
+    "message": "PLACEHOLDER og {COUNT} aðrar staðsetningar"
+  },
+  "placeholderExplanation": {
+    "message": "Vegna öryggisreglna vafra má OneTab ekki endurheimta þessa síðu beint. Afritaðu vefslóðina og límdu hana í veffangastiku vafrans."
+  },
+  "plainTextLineFormat": {
+    "message": "Ef þú límir ósniðinn texta skaltu ganga úr skugga um að hver vefslóð hafi tilgreinda samskiptareglu (https://wikipedia.org, í staðinn fyrir aðeins wikipedia.org). Hver lína ætti að vera á eftirfarandi sniði:"
+  },
+  "pleaseWaitTripleDot": {
+    "message": "Bíddu aðeins…"
+  },
+  "popupSlashShortcutInfo": {
+    "message": "Ef aðgerðasprettigluggi OneTab er virkur, opna áfangastaðaval og setja fókus á leitarreitinn"
+  },
+  "printUseSaveTabsAsHtmlFileAlertHtml": {
+    "message": "Til að ná sem bestum prentunarniðurstöðum skaltu nota aðgerðina <b>Vista sem HTML-skrá</b> í valmyndinni <b>Meira…</b> fyrir möppuna og prenta síðan sóttu HTML-skrána."
+  },
+  "privacyAssurance": {
+    "message": "Trygg persónuvernd"
+  },
+  "privacyAssuranceDetail": {
+    "message": "Listanum þínum yfir flipa er aldrei miðlað til forritara OneTab eða annarra aðila. Eina undantekningin er ef þú notar vísvitandi eiginleikann „Deila sem vefsíðu“ til að hlaða listanum þínum yfir flipa inn á vefsíðu til að deila honum með öðrum."
+  },
+  "privacyFirst": {
+    "message": "Persónuvernd í fyrirrúmi"
+  },
+  "privacyFirstMessage": {
+    "message": "OneTab hefur verið hannað til að vernda persónulegu gögnin þín. Fliparnir þínir eru aðeins vistaðir á tölvunni þinni og þeim er aldrei deilt með forriturum OneTab eða neinum öðrum aðila.\nEf þú notar afritunar-/samstillingareiginleikann okkar verða gögnin þín dulkóðuð enda á milli með öflugri AES-256-dulkóðun. Þetta gerir forriturum OneTab ómögulegt að sjá flipana sem þú hefur afritað eða samstillt milli tækja, því aðeins þú ert með dulkóðunarlykilinn. \nEina undantekningin er ef þú ákveður vísvitandi að deila einhverjum af flipunum þínum með öðru fólki með eiginleikanum okkar „Deila sem vefsíðu“.\nVið trúum á að persónuvernd sé í fyrirrúmi."
+  },
+  "privateBrowsingPermissionRequired": {
+    "message": "OneTab þarf heimild til að búa til huliðsglugga."
+  },
+  "privateBrowsingWindows": {
+    "message": "Huliðsgluggar"
+  },
+  "quickList": {
+    "message": "Flýtlisti"
+  },
+  "readingList": {
+    "message": "Leslisti"
+  },
+  "readingListPermissionNecesssary": {
+    "message": "Heimild til leslista er nauðsynleg til að OneTab geti flutt inn atriði af leslistanum þínum. Ef þessi eiginleiki virkar ekki styður vafrinn þinn hugsanlega ekki leslista."
+  },
+  "recent": {
+    "message": "Nýlegt"
+  },
+  "recentDestinationsColon": {
+    "message": "Nýlegir áfangastaðir:"
+  },
+  "recentDuplicateRetainedHelp": {
+    "message": "Ef flipi kemur fyrir oftar en einu sinni verður aðeins nýjasta eintakið varðveitt"
+  },
+  "recentFolders": {
+    "message": "Nýlegar möppur"
+  },
+  "recentGroups": {
+    "message": "Nýlegir hópar"
+  },
+  "recentlyAccessed": {
+    "message": "Nýlega opnað"
+  },
+  "recentlyCreated": {
+    "message": "Nýlega búið til"
+  },
+  "recentlyModified": {
+    "message": "Nýlega breytt"
+  },
+  "reduceMemoryUsageBy95Pct": {
+    "message": "Minnka minnisnotkun um 95%"
+  },
+  "removeDuplicates": {
+    "message": "Fjarlægja tvítekningar"
+  },
+  "removeDuplicatesMenuItemHelp": {
+    "message": "Þú getur fjarlægt tvítekningar sem eru til hér en ekki annars staðar, eða annars staðar en ekki hér."
+  },
+  "removeDuplicateTabsHere_few": {
+    "message": "Fjarlægja {COUNT} tvítekna flipa hér"
+  },
+  "removeDuplicateTabsHere_many": {
+    "message": "Fjarlægja {COUNT} tvítekna flipa hér"
+  },
+  "removeDuplicateTabsHere_one": {
+    "message": "Fjarlægja {COUNT} tvítekinn flipa hér"
+  },
+  "removeDuplicateTabsHere_other": {
+    "message": "Fjarlægja {COUNT} tvítekna flipa hér"
+  },
+  "removeDuplicateTabsHere_two": {
+    "message": "Fjarlægja {COUNT} tvítekna flipa hér"
+  },
+  "removeDuplicateTabsHere_zero": {
+    "message": "Fjarlægja {COUNT} tvítekna flipa hér"
+  },
+  "removeFromQuickList": {
+    "message": "Fjarlægja af flýtlista"
+  },
+  "removeFromQuickListMenuItemHelp": {
+    "message": "Atriðið verður ekki sent í ruslið, heldur aðeins fjarlægt af flýtlistanum þínum."
+  },
+  "removeStar": {
+    "message": "Fjarlægja stjörnuna"
+  },
+  "removeTabsElsewhereAlsoHere_few": {
+    "message": "Fjarlægja {COUNT} flipa annars staðar sem eru einnig til hér"
+  },
+  "removeTabsElsewhereAlsoHere_many": {
+    "message": "Fjarlægja {COUNT} flipa annars staðar sem eru einnig til hér"
+  },
+  "removeTabsElsewhereAlsoHere_one": {
+    "message": "Fjarlægja {COUNT} flipa annars staðar sem er einnig til hér"
+  },
+  "removeTabsElsewhereAlsoHere_other": {
+    "message": "Fjarlægja {COUNT} flipa annars staðar sem eru einnig til hér"
+  },
+  "removeTabsElsewhereAlsoHere_two": {
+    "message": "Fjarlægja {COUNT} flipa annars staðar sem eru einnig til hér"
+  },
+  "removeTabsElsewhereAlsoHere_zero": {
+    "message": "Fjarlægja {COUNT} flipa annars staðar sem eru einnig til hér"
+  },
+  "removeTabsHereAlsoElsewhere_few": {
+    "message": "Fjarlægja {COUNT} flipa hér sem eru einnig til annars staðar"
+  },
+  "removeTabsHereAlsoElsewhere_many": {
+    "message": "Fjarlægja {COUNT} flipa hér sem eru einnig til annars staðar"
+  },
+  "removeTabsHereAlsoElsewhere_one": {
+    "message": "Fjarlægja {COUNT} flipa hér sem er einnig til annars staðar"
+  },
+  "removeTabsHereAlsoElsewhere_other": {
+    "message": "Fjarlægja {COUNT} flipa hér sem eru einnig til annars staðar"
+  },
+  "removeTabsHereAlsoElsewhere_two": {
+    "message": "Fjarlægja {COUNT} flipa hér sem eru einnig til annars staðar"
+  },
+  "removeTabsHereAlsoElsewhere_zero": {
+    "message": "Fjarlægja {COUNT} flipa hér sem eru einnig til annars staðar"
+  },
+  "rename": {
+    "message": "Endurnefna"
+  },
+  "renameOrAddNote": {
+    "message": "Endurnefna / bæta við athugasemd"
+  },
+  "restore": {
+    "message": "Endurheimta"
+  },
+  "restoreAll": {
+    "message": "Endurheimta allt"
+  },
+  "restrictSearchToFolderColon": {
+    "message": "Takmarka leitina við eftirfarandi möppu:"
+  },
+  "results": {
+    "message": "Niðurstöður"
+  },
+  "returnToOneTab": {
+    "message": "Fara aftur í OneTab"
+  },
+  "reverse": {
+    "message": "Öfug röð"
+  },
+  "rightClickAndOpenOneTabMenu": {
+    "message": "Hægrismelltu inni á vefsíðunni og farðu í OneTab-valmyndina"
+  },
+  "rightClickMenuDisabledNote": {
+    "message": "Athugið: Þú hefur gert hægrismellsvalmynd OneTab óvirka. Virkjaðu hana á valkostasíðu OneTab."
+  },
+  "rightClickSelectionOptionsTip": {
+    "message": "Ábending: Þegar þú hefur hakað við atriði skaltu hægrismella á gátmerkið til að sýna fleiri valmöguleika"
+  },
+  "rightClickTickTip": {
+    "message": "Ábending: Hægrismelltu á gátmerkið við hvern flipa til að sýna valverkfæri"
+  },
+  "safariApproveOneTabInSettings": {
+    "message": "Farðu í Stillingar og veittu OneTab aðgang að öllum vefsvæðum."
+  },
+  "save95PctReduceTabClutterGoogleChrome": {
+    "message": "Sparaðu allt að 95% minni og dragðu úr flipafargani í Google Chrome"
+  },
+  "saveChoice": {
+    "message": "Vista val"
+  },
+  "saveTabsAsHtmlFile": {
+    "message": "Vista sem HTML-skrá"
+  },
+  "saveTabsAsHtmlFileMenuItemHelp": {
+    "message": "Búa til og sækja HTML-skrá sem inniheldur alla hópa með flipum í þessari möppu."
+  },
+  "searchHere": {
+    "message": "Leita hér"
+  },
+  "searchOneTab": {
+    "message": "Leita í OneTab"
+  },
+  "secondExampleLink": {
+    "message": "Annar dæmistengill"
+  },
+  "secondExampleLinkTitle": {
+    "message": "Annað dæmi um titil tengils"
+  },
+  "secondExampleLinkTitleOptional": {
+    "message": "Annað dæmi um titil tengils (valfrjálst)"
+  },
+  "seeOtherTabsInThisGroup_few": {
+    "message": "Sýna {COUNT} aðra flipa í þessum hópi"
+  },
+  "seeOtherTabsInThisGroup_many": {
+    "message": "Sýna {COUNT} aðra flipa í þessum hópi"
+  },
+  "seeOtherTabsInThisGroup_one": {
+    "message": "Sýna {COUNT} annan flipa í þessum hópi"
+  },
+  "seeOtherTabsInThisGroup_other": {
+    "message": "Sýna {COUNT} aðra flipa í þessum hópi"
+  },
+  "seeOtherTabsInThisGroup_two": {
+    "message": "Sýna {COUNT} aðra flipa í þessum hópi"
+  },
+  "seeOtherTabsInThisGroup_zero": {
+    "message": "Sýna {COUNT} aðra flipa í þessum hópi"
+  },
+  "seePasteInstructions": {
+    "message": "Sjá leiðbeiningar um límingu…"
+  },
+  "seeTabsInThisGroup_few": {
+    "message": "Sýna {COUNT} flipa í þessum hópi"
+  },
+  "seeTabsInThisGroup_many": {
+    "message": "Sýna {COUNT} flipa í þessum hópi"
+  },
+  "seeTabsInThisGroup_one": {
+    "message": "Sýna {COUNT} flipa í þessum hópi"
+  },
+  "seeTabsInThisGroup_other": {
+    "message": "Sýna {COUNT} flipa í þessum hópi"
+  },
+  "seeTabsInThisGroup_two": {
+    "message": "Sýna {COUNT} flipa í þessum hópi"
+  },
+  "seeTabsInThisGroup_zero": {
+    "message": "Sýna {COUNT} flipa í þessum hópi"
+  },
+  "selectAll": {
+    "message": "Velja allt"
+  },
+  "selectAllExceptThis": {
+    "message": "Velja allt nema þetta"
+  },
+  "selectedItemCount_few": {
+    "message": "{COUNT} atriði"
+  },
+  "selectedItemCount_many": {
+    "message": "{COUNT} atriði"
+  },
+  "selectedItemCount_one": {
+    "message": "{COUNT} atriði"
+  },
+  "selectedItemCount_other": {
+    "message": "{COUNT} atriði"
+  },
+  "selectedItemCount_two": {
+    "message": "{COUNT} atriði"
+  },
+  "selectedItemCount_zero": {
+    "message": "{COUNT} atriði"
+  },
+  "selection": {
+    "message": "Val"
+  },
+  "selectThisAndAbove": {
+    "message": "Velja þetta og allt fyrir ofan"
+  },
+  "selectThisAndBelow": {
+    "message": "Velja þetta og allt fyrir neðan"
+  },
+  "sendAllTabsAllWindows": {
+    "message": "Senda alla flipa úr öllum gluggum"
+  },
+  "sendAllTabsAllWindowsToOneTab": {
+    "message": "Senda alla flipa úr öllum gluggum til OneTab"
+  },
+  "sendAllTabsExceptThis": {
+    "message": "Senda alla flipa nema þennan flipa"
+  },
+  "sendAllTabsExceptThisToOneTab": {
+    "message": "Senda alla flipa nema þennan flipa til OneTab"
+  },
+  "sendAllTabsInGroup": {
+    "message": "Senda alla flipa í þessum flipahópi"
+  },
+  "sendAllTabsInGroupToOneTab": {
+    "message": "Senda alla flipa í þessum flipahópi til OneTab"
+  },
+  "sendAllTabsInWindow": {
+    "message": "Senda alla flipa í þessum glugga"
+  },
+  "sendAllTabsInWindowToOneTab": {
+    "message": "Senda alla flipa í þessum glugga til OneTab"
+  },
+  "sendCurrentTabToOneTab": {
+    "message": "Senda núverandi flipa til OneTab"
+  },
+  "sendLeftTabs": {
+    "message": "Senda flipa vinstra megin"
+  },
+  "sendLeftTabsToOneTab": {
+    "message": "Senda flipa vinstra megin til OneTab"
+  },
+  "sendOnlyThisTab": {
+    "message": "Senda aðeins þennan flipa"
+  },
+  "sendOnlyThisTabToOneTab": {
+    "message": "Senda aðeins þennan flipa til OneTab"
+  },
+  "sendRightTabs": {
+    "message": "Senda flipa hægra megin"
+  },
+  "sendRightTabsToOneTab": {
+    "message": "Senda flipa hægra megin til OneTab"
+  },
+  "sendSelectedTabs": {
+    "message": "Senda valda flipa"
+  },
+  "sendSelectedTabsToOneTab": {
+    "message": "Senda valda flipa til OneTab"
+  },
+  "sendThisWebLink": {
+    "message": "Senda þennan veftengil"
+  },
+  "sendThisWebLinkToOneTab": {
+    "message": "Senda þennan veftengil til OneTab"
+  },
+  "serverUnreachable": {
+    "message": "Ekki næst í þjóninn. Athugaðu nettenginguna."
+  },
+  "share": {
+    "message": "Deila"
+  },
+  "shareAsAWebPage": {
+    "message": "Deila sem vefsíðu"
+  },
+  "shareAsAWebPageMenuItemHelp": {
+    "message": "Þetta býr til vefsíðu með flipunum þínum svo þú getir deilt síðunni með öðrum, einkalega eða opinberlega."
+  },
+  "shared": {
+    "message": "Deilt"
+  },
+  "sharedExpiresColon": {
+    "message": "Deilt sem vefsíðu. Rennur út:"
+  },
+  "sharedPageOptions": {
+    "message": "Valkostir deildrar síðu"
+  },
+  "sharedPageTabLimit_few": {
+    "message": "Sameiginlegar síður eru takmarkaðar við {COUNT} flipa"
+  },
+  "sharedPageTabLimit_many": {
+    "message": "Sameiginlegar síður eru takmarkaðar við {COUNT} flipa"
+  },
+  "sharedPageTabLimit_one": {
+    "message": "Sameiginlegar síður eru takmarkaðar við {COUNT} flipa"
+  },
+  "sharedPageTabLimit_other": {
+    "message": "Sameiginlegar síður eru takmarkaðar við {COUNT} flipa"
+  },
+  "sharedPageTabLimit_two": {
+    "message": "Sameiginlegar síður eru takmarkaðar við {COUNT} flipa"
+  },
+  "sharedPageTabLimit_zero": {
+    "message": "Deildar síður eru takmarkaðar við {COUNT} flipa"
+  },
+  "sharedPageWillAutomaticallyExpire": {
+    "message": "Deilda síðan rennur sjálfkrafa út, en þú getur framlengt gildistíma hennar hvenær sem er."
+  },
+  "showEverything": {
+    "message": "Sýna allt"
+  },
+  "showFoldersOnly": {
+    "message": "Sýna aðeins möppur"
+  },
+  "showNamedItemsOnly": {
+    "message": "Sýna aðeins atriði með heiti"
+  },
+  "showNamedOnly": {
+    "message": "Sýna aðeins atriði með heiti"
+  },
+  "showNextCount_few": {
+    "message": "Næstu {COUNT} atriði"
+  },
+  "showNextCount_many": {
+    "message": "Næstu {COUNT} atriði"
+  },
+  "showNextCount_one": {
+    "message": "Næsta {COUNT} atriði"
+  },
+  "showNextCount_other": {
+    "message": "Næstu {COUNT} atriði"
+  },
+  "showNextCount_two": {
+    "message": "Næstu {COUNT} atriði"
+  },
+  "showNextCount_zero": {
+    "message": "Næstu {COUNT} atriði"
+  },
+  "showPreviousCount_few": {
+    "message": "Fyrri {COUNT} atriði"
+  },
+  "showPreviousCount_many": {
+    "message": "Fyrri {COUNT} atriði"
+  },
+  "showPreviousCount_one": {
+    "message": "Fyrra {COUNT} atriði"
+  },
+  "showPreviousCount_other": {
+    "message": "Fyrri {COUNT} atriði"
+  },
+  "showPreviousCount_two": {
+    "message": "Fyrri {COUNT} atriði"
+  },
+  "showPreviousCount_zero": {
+    "message": "Fyrri {COUNT} atriði"
+  },
+  "soon": {
+    "message": "bráðlega"
+  },
+  "sort": {
+    "message": "Röðun"
+  },
+  "sortByColon": {
+    "message": "Raða eftir:"
+  },
+  "sortGroups": {
+    "message": "Raða hópum"
+  },
+  "sortGroupsMenuFooterNote": {
+    "message": "Þetta raðar hópunum í þessari möppu. Það raðar ekki flipunum inni í þeim."
+  },
+  "sourceColon": {
+    "message": "Uppruni:"
+  },
+  "star": {
+    "message": "Stjörnumerkja"
+  },
+  "starFlagHelp": {
+    "message": "Þetta atriði er stjörnumerkt til að sýna sjónrænt að það sé mikilvægt. Smelltu á þetta tákn til að fjarlægja stjörnuna."
+  },
+  "starMenuItemHelp": {
+    "message": "Notaðu stjörnuna sem sjónræna vísbendingu um að eitthvað sé mikilvægt"
+  },
+  "starred": {
+    "message": "Stjörnumerkt"
+  },
+  "storeAllOpenWindowsHere": {
+    "message": "Vista alla opna glugga hér"
+  },
+  "storeAllOpenWindowsHereMenuItemHelp": {
+    "message": "Loka öllum opnum vafragluggum og vista þá í þessari möppu"
+  },
+  "storeSelectedTabsInONETAB_few": {
+    "message": "Vista {COUNT} valda flipa í ONETAB"
+  },
+  "storeSelectedTabsInONETAB_many": {
+    "message": "Vista {COUNT} valda flipa í ONETAB"
+  },
+  "storeSelectedTabsInONETAB_one": {
+    "message": "Vista {COUNT} valinn flipa í ONETAB"
+  },
+  "storeSelectedTabsInONETAB_other": {
+    "message": "Vista {COUNT} valda flipa í ONETAB"
+  },
+  "storeSelectedTabsInONETAB_two": {
+    "message": "Vista {COUNT} valda flipa í ONETAB"
+  },
+  "storeSelectedTabsInONETAB_zero": {
+    "message": "Vista {COUNT} valda flipa í ONETAB"
+  },
+  "storeTabsInAdditionalLocation_few": {
+    "message": "Vista flipana samt aftur"
+  },
+  "storeTabsInAdditionalLocation_many": {
+    "message": "Vista flipana samt aftur"
+  },
+  "storeTabsInAdditionalLocation_one": {
+    "message": "Vista flipann samt aftur"
+  },
+  "storeTabsInAdditionalLocation_other": {
+    "message": "Vista flipana samt aftur"
+  },
+  "storeTabsInAdditionalLocation_two": {
+    "message": "Vista flipana samt aftur"
+  },
+  "storeTabsInAdditionalLocation_zero": {
+    "message": "Vista flipana samt aftur"
+  },
+  "storeTabsInONETAB_few": {
+    "message": "Vista flipa í ONETAB"
+  },
+  "storeTabsInONETAB_many": {
+    "message": "Vista flipa í ONETAB"
+  },
+  "storeTabsInONETAB_one": {
+    "message": "Vista flipa í ONETAB"
+  },
+  "storeTabsInONETAB_other": {
+    "message": "Vista flipa í ONETAB"
+  },
+  "storeTabsInONETAB_two": {
+    "message": "Vista flipa í ONETAB"
+  },
+  "storeTabsInONETAB_zero": {
+    "message": "Vista flipa í ONETAB"
+  },
+  "subFoldersNotShared": {
+    "message": "Athugaðu að undirmöppum er ekki deilt. Aðeins hópum með flipum sem eru beint í möppunni er deilt."
+  },
+  "tab": {
+    "message": "flipi"
+  },
+  "tabAlreadyStoredHere": {
+    "message": "Opni flipinn þinn er þegar vistaður hér:"
+  },
+  "tabCaretTooltipTitleNotes": {
+    "message": "Breyta titli og athugasemdum flipans"
+  },
+  "tabCaretTooltipTitleNotesUrl": {
+    "message": "Breyta titli, vefslóð og athugasemdum flipans"
+  },
+  "tabCount_few": {
+    "message": "{COUNT} flipar"
+  },
+  "tabCount_many": {
+    "message": "{COUNT} flipar"
+  },
+  "tabCount_one": {
+    "message": "{COUNT} flipi"
+  },
+  "tabCount_other": {
+    "message": "{COUNT} flipar"
+  },
+  "tabCount_two": {
+    "message": "{COUNT} flipar"
+  },
+  "tabCount_zero": {
+    "message": "{COUNT} flipar"
+  },
+  "tabGroupColorColon": {
+    "message": "Litur flipahóps:"
+  },
+  "tabGroupIndicatorTooltipHelp": {
+    "message": "Þessi hópur er stilltur til að opnast sem flipahópur í vafra. Þú getur breytt þessari stillingu í valmyndinni „Meira…“"
+  },
+  "tabPinFlagHelp": {
+    "message": "Þessi flipi verður endurheimtur sem festur flipi í vafranum. Smelltu á þetta tákn til að losa hann."
+  },
+  "tabs": {
+    "message": "Flipar"
+  },
+  "tabsFromExcludedDomains": {
+    "message": "flipar frá útilokuðum lénum"
+  },
+  "tabsInTabGroups": {
+    "message": "flipar í flipahópum"
+  },
+  "tabTotalCount_few": {
+    "message": "Samtals: {COUNT} flipar"
+  },
+  "tabTotalCount_many": {
+    "message": "Samtals: {COUNT} flipar"
+  },
+  "tabTotalCount_one": {
+    "message": "Samtals: {COUNT} flipi"
+  },
+  "tabTotalCount_other": {
+    "message": "Samtals: {COUNT} flipar"
+  },
+  "tabTotalCount_two": {
+    "message": "Samtals: {COUNT} flipar"
+  },
+  "tabTotalCount_zero": {
+    "message": "Samtals: {COUNT} flipar"
+  },
+  "tasks": {
+    "message": "Verkefni"
+  },
+  "tasksDone": {
+    "message": "Verkefni (lokið)"
+  },
+  "tasksPending": {
+    "message": "Verkefni (í vinnslu)"
+  },
+  "tasksWillAppearHere": {
+    "message": "Ef þú merkir einhverja flipa eða hópa sem verkefni birtast þau hér."
+  },
+  "taskTotalCount_few": {
+    "message": "{COUNT} samtals"
+  },
+  "taskTotalCount_many": {
+    "message": "{COUNT} samtals"
+  },
+  "taskTotalCount_one": {
+    "message": "{COUNT} samtals"
+  },
+  "taskTotalCount_other": {
+    "message": "{COUNT} samtals"
+  },
+  "taskTotalCount_two": {
+    "message": "{COUNT} samtals"
+  },
+  "taskTotalCount_zero": {
+    "message": "{COUNT} samtals"
+  },
+  "themeQuickSwitchHint": {
+    "message": "Til að skipta fljótt um þema skaltu halda Ctrl eða Cmd inni þegar þú smellir á þematáknið"
+  },
+  "thenClickToolbarIcon": {
+    "message": "Smelltu síðan aftur á OneTab-táknið á tækjastikunni til að nota OneTab."
+  },
+  "thisFolderIsEmpty": {
+    "message": "Þessi mappa er tóm"
+  },
+  "thisTab": {
+    "message": "Þessi flipi"
+  },
+  "thisTabGroup": {
+    "message": "Þessi flipahópur"
+  },
+  "thisTabNotStored": {
+    "message": "Þessi flipi er ekki vistaður í OneTab"
+  },
+  "thisWindow": {
+    "message": "Þessi gluggi"
+  },
+  "tickOrUntickToExclude": {
+    "message": "Hakaðu við eða taktu hakið úr útilokunarvalkostinum fyrir vefsvæðið"
+  },
+  "title": {
+    "message": "Titill"
+  },
+  "toAddOrRemoveExclusions": {
+    "message": "Til að bæta vefsvæði við útilokunarlistann eða fjarlægja það af honum:"
+  },
+  "toAllowOneTabInIncognito": {
+    "message": "Til að leyfa OneTab-tákninu að birtast í huliðsgluggum: "
+  },
+  "toImportBrowserBookmarksUseMenuOption": {
+    "message": "Til að flytja inn úr bókamerkjum vafrans skaltu nota valmyndarkostinn „Flytja tengla inn hér“ á OneTab-síðunni þinni"
+  },
+  "toMakeOpenButtonWorkApprovePermission": {
+    "message": "Til að hnappurinn „Opna“ virki á deildum síðum skaltu samþykkja heimildarbeiðnina."
+  },
+  "tooManyTabsSpeedUpFirefox": {
+    "message": "Of margir flipar? Breyttu flipunum í lista og flýttu fyrir Firefox"
+  },
+  "tooManyTabsSpeedUpSafari": {
+    "message": "Of margir flipar? Breyttu flipunum í lista og flýttu fyrir Safari"
+  },
+  "toSaveChangesClickButton": {
+    "message": "Til að vista breytingarnar skaltu smella á hnappinn"
+  },
+  "total0Tabs": {
+    "message": "Samtals: 0 flipar"
+  },
+  "trash": {
+    "message": "Ruslið"
+  },
+  "unfoldGroup": {
+    "message": "Opna hóp"
+  },
+  "unlock": {
+    "message": "Aflæsa"
+  },
+  "unmarkAsArchived": {
+    "message": "Fjarlægja geymslumerkingu"
+  },
+  "unMarkAsTask": {
+    "message": "Fjarlægja verkefnamerkingu"
+  },
+  "unpin": {
+    "message": "Losa"
+  },
+  "unshare": {
+    "message": "Hætta að deila"
+  },
+  "untitled": {
+    "message": "Ónefnt"
+  },
+  "update": {
+    "message": "Uppfæra"
+  },
+  "userLanguage": {
+    "message": "Íslenska"
+  },
+  "website": {
+    "message": "Vefsvæði"
+  },
+  "yearCount_few": {
+    "message": "{COUNT} ár"
+  },
+  "yearCount_many": {
+    "message": "{COUNT} ár"
+  },
+  "yearCount_one": {
+    "message": "{COUNT} ár"
+  },
+  "yearCount_other": {
+    "message": "{COUNT} ár"
+  },
+  "yearCount_two": {
+    "message": "{COUNT} ár"
+  },
+  "yearCount_zero": {
+    "message": "{COUNT} ár"
+  },
+  "yourTabAlreadyStoredHere": {
+    "message": "Flipinn þinn er þegar vistaður hér:"
+  }
+}

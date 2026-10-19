@@ -1,0 +1,98 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+  "manifest_version": 3,
+
+  "name": "OneTab",
+  "description": "__MSG_manifestDescription__",
+  "version": "2.24",
+  "default_locale": "en",
+  "minimum_chrome_version": "120",
+
+
+  "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDs2r/nSa4MRBoDT1pBx+Q9gI0JaTBaIrsD4uKT9oA4HUF2xboeOA1BDw3lmoJ4G8BL0tAbJTcEnxlkTsCY7C413MojaeDZy4pza3RJqkMAKiJisl8t8eiP+c0ox3l1syb1xmI7EEIouXIxlCX8LGoguB0AuWtunGLCjiLoM2vJLQIDAQAB",
+
+  "commands": {
+    "display-onetab": {
+      "suggested_key": {
+        "default": "Alt+Shift+1"
+      },
+      "description": "__MSG_openOneTab__"
+    },
+    "send-current-tab-to-onetab": {
+      "description": "__MSG_sendCurrentTabToOneTab__"
+    },
+    "send-all-tabs-in-current-window-to-onetab": {
+      "description": "__MSG_sendAllTabsInWindowToOneTab__"
+    },
+    "send-all-tabs-in-current-tab-group-to-onetab": {
+      "description": "__MSG_sendAllTabsInGroupToOneTab__"
+    },
+    "send-all-tabs-except-this-to-onetab": {
+      "description": "__MSG_sendAllTabsExceptThisToOneTab__"
+    },
+    "send-left-tabs-to-onetab": {
+      "description": "__MSG_sendLeftTabsToOneTab__"
+    },
+    "send-right-tabs-to-onetab": {
+      "description": "__MSG_sendRightTabsToOneTab__"
+    },
+    "send-all-tabs-in-all-windows-to-onetab": {
+      "description": "__MSG_sendAllTabsAllWindowsToOneTab__"
+    }
+  },
+
+  "options_ui": {
+     "page": "options.html",
+     "open_in_tab": true
+   },
+  "icons": {
+    "128": "images/extension-icon128.png",
+    "64": "images/extension-icon64.png",
+    "48": "images/extension-icon48.png",
+    "32": "images/extension-icon32.png",
+    "16": "images/extension-icon16.png"
+   },
+
+  "optional_permissions": [
+    "readingList",
+    "tabGroups",
+    "bookmarks"
+  ],
+
+  "permissions": [
+    "favicon",
+    "unlimitedStorage",
+    "storage",
+    "tabs",
+     "activeTab",     "scripting",                                       "contextMenus",
+    "alarms"
+  ],
+              "host_permissions": [
+    "https://dav.jianguoyun.com/*"
+  ],
+              "optional_host_permissions": [
+    "https://www.one-tab.com/*",
+    "https://*/*",
+    "http://*/*"
+      ],
+
+  "action": {
+    "default_icon": {
+      "19": "images/icon19.png",
+      "38": "images/icon38.png"
+    },
+    "default_popup": "popup.html"
+  },
+
+  "omnibox": { "keyword" : "11" },
+
+  "background": {
+    "service_worker" : "ext-onetab-concatenated-sources-background.js"
+  },
+
+  "content_security_policy": {
+  "extension_pages": "script-src 'self'; object-src 'self'; img-src 'self' data: https://t2.gstatic.com;"    }
+
+
+}

@@ -1,0 +1,2330 @@
+{
+  "95PctMemoryReduction": {
+    "message": "95% reduktim i përdorimit të kujtesës"
+  },
+  "about": {
+    "message": "Rreth"
+  },
+  "actionPopupOverrideNote": {
+    "message": "Ky cilësim mund të anashkalohet brenda dritares kërcyese të veprimit (nëse e keni aktivizuar dritaren kërcyese të veprimit)."
+  },
+  "aDashZ": {
+    "message": "A-Z"
+  },
+  "addOneTabNow": {
+    "message": "Shto OneTab tani"
+  },
+  "all": {
+    "message": "Të gjitha"
+  },
+  "allBookmarks": {
+    "message": "Të gjithë faqeshënuesit"
+  },
+  "allOpenTabsAlreadyStoredHere_few": {
+    "message": "Të gjitha skedat e hapura janë ruajtur tashmë këtu:"
+  },
+  "allOpenTabsAlreadyStoredHere_many": {
+    "message": "Të gjitha skedat e hapura janë ruajtur tashmë këtu:"
+  },
+  "allOpenTabsAlreadyStoredHere_one": {
+    "message": "Të gjitha skedat e hapura janë ruajtur tashmë këtu:"
+  },
+  "allOpenTabsAlreadyStoredHere_other": {
+    "message": "Të gjitha skedat e hapura janë ruajtur tashmë këtu:"
+  },
+  "allOpenTabsAlreadyStoredHere_two": {
+    "message": "Të gjitha skedat e hapura janë ruajtur tashmë këtu:"
+  },
+  "allOpenTabsAlreadyStoredHere_zero": {
+    "message": "Të gjitha skedat e hapura janë ruajtur tashmë këtu:"
+  },
+  "allowFileAccessInstructions": {
+    "message": "Për të lejuar që skedarët të hapen drejtpërdrejt, shkoni te Cilësimet ➝ Shtesat ➝ OneTab ➝ Detajet ➝ Lejo qasjen te URL-të e skedarëve"
+  },
+  "alreadyExistingOpenTabsWillBeClosedAfterMerge": {
+    "message": "Të gjitha skedat e hapura që ekzistojnë tashmë në këtë grup do të mbyllen pas bashkimit."
+  },
+  "alternatePlainTextFormat": {
+    "message": "Përndryshe, teksti i thjeshtë mund të jetë në formatin:"
+  },
+  "approve": {
+    "message": "Mirato"
+  },
+  "archived": {
+    "message": "Të arkivuara"
+  },
+  "autoTheme": {
+    "message": "Automatike (përdor cilësimin e sistemit operativ)"
+  },
+  "backupAndSync": {
+    "message": "Rezervim dhe sinkronizim"
+  },
+  "betaReleaseReportBugsHere": {
+    "message": "Beta - Raporto gabimet këtu"
+  },
+  "bookmarkCount_few": {
+    "message": "{COUNT} faqeshënues"
+  },
+  "bookmarkCount_many": {
+    "message": "{COUNT} faqeshënues"
+  },
+  "bookmarkCount_one": {
+    "message": "{COUNT} faqeshënues"
+  },
+  "bookmarkCount_other": {
+    "message": "{COUNT} faqeshënues"
+  },
+  "bookmarkCount_two": {
+    "message": "{COUNT} faqeshënues"
+  },
+  "bookmarkCount_zero": {
+    "message": "{COUNT} faqeshënues"
+  },
+  "bookmarksPermissionNecesssary": {
+    "message": "Leja për faqeshënuesit është e nevojshme që OneTab të importojë faqeshënuesit e shfletuesit tuaj"
+  },
+  "bulkActions": {
+    "message": "Veprime në masë"
+  },
+  "cancel": {
+    "message": "Anulo"
+  },
+  "canDragTextNote": {
+    "message": "Shënim: Është gjithashtu e mundur të tërheqësh dhe të lëshosh tekst që përmban lidhje uebi drejtpërdrejt nga një faqe tjetër uebi ose nga një dokument. Mund ta tërheqësh tekstin drejtpërdrejt në faqen tënde të OneTab, pa pasur nevojë të përdorësh këtë fushë importimi."
+  },
+  "cannotConnectToServerDeletionRequestQueued": {
+    "message": "Nuk mund të lidhemi me serverin e OneTab. Të lutem kontrollo lidhjen tënde të internetit. Kërkesa jote për fshirjen e faqes së shpërndarë është vendosur në radhë lokalisht dhe do të transmetohet automatikisht te serveri OneTab sapo ai të jetë sërish i arritshëm."
+  },
+  "cannotCreateTabGroupInTabGroup": {
+    "message": "Destinacioni i zgjedhur është një grup skedash. Nuk mund të krijoni një grup skedash brenda një grupi ekzistues skedash. Ju lutemi zgjidhni një destinacion tjetër."
+  },
+  "cannotMixTabsGroupsFoldersDuringDrag": {
+    "message": "Nuk është e mundur të përzihen skedat, grupet dhe dosjet gjatë tërheqjes. Kjo ndodh sepse, për shembull, nuk mund ta tërheqësh një dosje në të njëjtat vende ku mund të tërheqësh një skedë."
+  },
+  "cannotMoveItemAncestorHere": {
+    "message": "Një artikull prind nuk mund të zhvendoset brenda fëmijës së vet, sepse kjo do të krijonte një cikël."
+  },
+  "cannotMoveItemIntoItself": {
+    "message": "Një artikull nuk mund të zhvendoset brenda vetes."
+  },
+  "canPasteWebContentForExample": {
+    "message": "Mund të ngjitësh tekst të kopjuar nga një faqe uebi ose dokument dhe lidhjet do të nxirren automatikisht. Për shembull:"
+  },
+  "caseSensitive": {
+    "message": "Ndjeshme ndaj shkronjave të mëdha/të vogla"
+  },
+  "changesMadeSinceSharedPageCreation": {
+    "message": "Skedat e tua të ruajtura kanë ndryshuar që kur e shpërndave këtë faqe. Kliko butonin “Përditëso” për të përditësuar faqen ekzistuese të shpërndarë."
+  },
+  "changeThisSettingAtAnyTimeInfo": {
+    "message": "Mund ta ndryshosh këtë cilësim në çdo kohë duke klikuar butonin “Opsione” në krye të faqes sate të OneTab."
+  },
+  "changeThisSettingAtAnyTimeInfoHtml": {
+    "message": "Mund ta ndryshoni këtë më vonë te <b>Opsione</b>."
+  },
+  "checkboxesDeterminePinnedAndGroupedTabMergeInclusion": {
+    "message": "Kutitë e zgjedhjes në krye të kësaj faqeje përcaktojnë nëse në bashkim përfshihen skedat e fiksuara ose skedat në grupet e skedave."
+  },
+  "chooseALocation": {
+    "message": "Zgjidh një vendndodhje"
+  },
+  "chooseALocationToImportTo": {
+    "message": "Zgjidh vendndodhjen për importim"
+  },
+  "chooseExportLocation": {
+    "message": "Zgjidh vendndodhjen për eksportim"
+  },
+  "chooseLightDarkTheme": {
+    "message": "Zgjidh temën e çelët/të errët"
+  },
+  "chooseLocationToCopyTo": {
+    "message": "Zgjidh vendndodhjen për kopjim"
+  },
+  "chooseLocationToMoveTo": {
+    "message": "Zgjidh vendndodhjen për zhvendosje"
+  },
+  "chooseLocationToRestoreTo": {
+    "message": "Zgjidh vendndodhjen për rikthim"
+  },
+  "chooseToIncludeNotes": {
+    "message": "Nëse keni shtuar shënime te skedat ose grupet, zgjidhni nëse do t’i përfshini në faqen e shpërndarë të uebit"
+  },
+  "chooseToIncludeRatings": {
+    "message": "Nëse keni shtuar yje te skedat ose grupet, zgjidhni nëse do t’i përfshini në faqen e shpërndarë të uebit"
+  },
+  "chromeIncognitoInstructions": {
+    "message": "Te cilësimet e shfletuesit tënd, shko te “Cilësimet” → “Shtesat” → “OneTab” → “Detajet”, dhe më pas aktivizo “Lejo në modalitetin e fshehtë”."
+  },
+  "clickButtonToAllowTabAccess": {
+    "message": "Kliko butonin më poshtë për ta lejuar OneTab të ketë qasje te skedat e tua të hapura."
+  },
+  "clickHereToContinue": {
+    "message": "Kliko këtu për të vazhduar."
+  },
+  "clickOneTabIconToStoreTabsHere": {
+    "message": "Kliko ikonën OneTab në shiritin e veglave të shfletuesit tënd për t’i ruajtur këtu skedat e tua të hapura."
+  },
+  "closeSelectedTabs_few": {
+    "message": "Mbyll {COUNT} skeda të zgjedhura"
+  },
+  "closeSelectedTabs_many": {
+    "message": "Mbyll {COUNT} skeda të zgjedhura"
+  },
+  "closeSelectedTabs_one": {
+    "message": "Mbyll {COUNT} skedë të zgjedhur"
+  },
+  "closeSelectedTabs_other": {
+    "message": "Mbyll {COUNT} skeda të zgjedhura"
+  },
+  "closeSelectedTabs_two": {
+    "message": "Mbyll {COUNT} skeda të zgjedhura"
+  },
+  "closeSelectedTabs_zero": {
+    "message": "Mbyll {COUNT} skeda të zgjedhura"
+  },
+  "closeSelectedTabsAndStoreInONETAB_few": {
+    "message": "Mbyll {COUNT} skeda të zgjedhura dhe ruaji në ONETAB"
+  },
+  "closeSelectedTabsAndStoreInONETAB_many": {
+    "message": "Mbyll {COUNT} skeda të zgjedhura dhe ruaji në ONETAB"
+  },
+  "closeSelectedTabsAndStoreInONETAB_one": {
+    "message": "Mbyll {COUNT} skedë të zgjedhur dhe ruaje në ONETAB"
+  },
+  "closeSelectedTabsAndStoreInONETAB_other": {
+    "message": "Mbyll {COUNT} skeda të zgjedhura dhe ruaji në ONETAB"
+  },
+  "closeSelectedTabsAndStoreInONETAB_two": {
+    "message": "Mbyll {COUNT} skeda të zgjedhura dhe ruaji në ONETAB"
+  },
+  "closeSelectedTabsAndStoreInONETAB_zero": {
+    "message": "Mbyll {COUNT} skeda të zgjedhura dhe ruaji në ONETAB"
+  },
+  "closeTabs_few": {
+    "message": "Mbyll skedat"
+  },
+  "closeTabs_many": {
+    "message": "Mbyll skedat"
+  },
+  "closeTabs_one": {
+    "message": "Mbyll skedën"
+  },
+  "closeTabs_other": {
+    "message": "Mbyll skedat"
+  },
+  "closeTabs_two": {
+    "message": "Mbyll skedat"
+  },
+  "closeTabs_zero": {
+    "message": "Mbyll skedat"
+  },
+  "closeTabsAfterMerge": {
+    "message": "Mbyll skedat pas bashkimit"
+  },
+  "closeTabsAlreadyStoredInOneTab_few": {
+    "message": "Mbyll {COUNT} skeda të ruajtura tashmë në OneTab"
+  },
+  "closeTabsAlreadyStoredInOneTab_many": {
+    "message": "Mbyll {COUNT} skeda të ruajtura tashmë në OneTab"
+  },
+  "closeTabsAlreadyStoredInOneTab_one": {
+    "message": "Mbyll {COUNT} skedë të ruajtur tashmë në OneTab"
+  },
+  "closeTabsAlreadyStoredInOneTab_other": {
+    "message": "Mbyll {COUNT} skeda të ruajtura tashmë në OneTab"
+  },
+  "closeTabsAlreadyStoredInOneTab_two": {
+    "message": "Mbyll {COUNT} skeda të ruajtura tashmë në OneTab"
+  },
+  "closeTabsAlreadyStoredInOneTab_zero": {
+    "message": "Mbyll {COUNT} skeda të ruajtura tashmë në OneTab"
+  },
+  "closeTabsAndStore_few": {
+    "message": "Mbyll skedat dhe ruaji në ONETAB"
+  },
+  "closeTabsAndStore_many": {
+    "message": "Mbyll skedat dhe ruaji në ONETAB"
+  },
+  "closeTabsAndStore_one": {
+    "message": "Mbyll skedën dhe ruaje në ONETAB"
+  },
+  "closeTabsAndStore_other": {
+    "message": "Mbyll skedat dhe ruaji në ONETAB"
+  },
+  "closeTabsAndStore_two": {
+    "message": "Mbyll skedat dhe ruaji në ONETAB"
+  },
+  "closeTabsAndStore_zero": {
+    "message": "Mbyll skedat dhe ruaji në ONETAB"
+  },
+  "closeTheseDuplicates_few": {
+    "message": "Mbyll këto dublikata"
+  },
+  "closeTheseDuplicates_many": {
+    "message": "Mbyll këto dublikata"
+  },
+  "closeTheseDuplicates_one": {
+    "message": "Mbyll këtë dublikatë"
+  },
+  "closeTheseDuplicates_other": {
+    "message": "Mbyll këto dublikata"
+  },
+  "closeTheseDuplicates_two": {
+    "message": "Mbyll këto dublikata"
+  },
+  "closeTheseDuplicates_zero": {
+    "message": "Mbyll këto dublikata"
+  },
+  "completedTaskFlagHelp": {
+    "message": "Ky artikull është detyrë. Kliko këtë ikonë për ta shënuar si në pritje (jo të përfunduar)."
+  },
+  "completeEditingShortcutInfo": {
+    "message": "Kur redakton një fushë shënimesh, përfundo redaktimin"
+  },
+  "configureShortcuts": {
+    "message": "Konfiguro shkurtoret"
+  },
+  "conflictingShortcutsHint": {
+    "message": "Nëse ndonjë nga shkurtoret e tastierës më sipër nuk funksionon ose bie ndesh me ndonjë aplikacion tjetër, mund të konfiguroni një shkurtore tjetër."
+  },
+  "continue": {
+    "message": "Vazhdo"
+  },
+  "convertTabsIntoAList": {
+    "message": "Shndërro skedat në listë"
+  },
+  "copiedToClipboard": {
+    "message": "U kopjua në kujtesën e fragmenteve"
+  },
+  "copy": {
+    "message": "Kopjo"
+  },
+  "copyLinksToClipboard": {
+    "message": "Kopjo lidhjet në kujtesën e fragmenteve"
+  },
+  "copySharedPageUrl": {
+    "message": "Kopjo URL-në e faqes së shpërndarë"
+  },
+  "copyToClipboard": {
+    "message": "Kopjo në kujtesën e fragmenteve"
+  },
+  "copyToClipboardMenuItemHelp": {
+    "message": "Kopjo këto lidhje uebi në kujtesën e fragmenteve, që t’i ngjitësh në aplikacione të tjera. Mund ta ndryshosh formatin e tekstit të kujtesës së fragmenteve në faqen Opsione të OneTab."
+  },
+  "createANewGroupHere": {
+    "message": "Krijo një grup të ri këtu"
+  },
+  "createdOnDate": {
+    "message": "Krijuar më {DATE}"
+  },
+  "createdOnOrAfterColon": {
+    "message": "Krijuar më ose pas:"
+  },
+  "createdOnOrBeforeColon": {
+    "message": "Krijuar më ose para:"
+  },
+  "createFolderAbove": {
+    "message": "Krijo dosje sipër"
+  },
+  "createFolderAboveBelow": {
+    "message": "Krijo dosje sipër / poshtë"
+  },
+  "createFolderAboveWithinBelow": {
+    "message": "Krijo dosje sipër / brenda / poshtë"
+  },
+  "createFolderBelow": {
+    "message": "Krijo dosje poshtë"
+  },
+  "createFolderWithin": {
+    "message": "Krijo dosje brenda"
+  },
+  "createFolderWithinMenuItemHelp": {
+    "message": "Dosjet shërbejnë për organizimin e grupeve me skeda. Dosjet përmbajnë grupe dhe grupet përmbajnë skeda."
+  },
+  "createGroupAbove": {
+    "message": "Krijo grup sipër"
+  },
+  "createGroupAboveBelow": {
+    "message": "Krijo grup sipër / poshtë"
+  },
+  "createGroupAboveWithinBelow": {
+    "message": "Krijo grup sipër / brenda / poshtë"
+  },
+  "createGroupBelow": {
+    "message": "Krijo grup poshtë"
+  },
+  "createGroupInsideDestination": {
+    "message": "Krijo grup të ri brenda destinacionit"
+  },
+  "createGroupInsideDestinationHelp": {
+    "message": "Nëse nuk është shënuar, skedat e tua do të shtohen drejtpërdrejt në grupin e destinacionit. Nëse është shënuar, do të krijohet një grup i ri skedash i shfletuesit për skedat e tua brenda grupit të destinacionit. Shënoje këtë kuti vetëm nëse dëshiron të përdorësh funksionin “grupet e skedave” të shfletuesit tënd."
+  },
+  "createGroupMenuItemHelp": {
+    "message": "Krijo një grup të ri bosh. Një grup përmban një listë skedash, të cilat mund të rikthehen së bashku në një dritare."
+  },
+  "createGroupWithin": {
+    "message": "Krijo grup brenda"
+  },
+  "createNewGroupTip": {
+    "message": "Për të krijuar një grup të ri, së pari hiq shënimin nga “Shfaq vetëm dosjet”. Kjo bëhet që të mund ta shohësh grupin e sapokrijuar në listë."
+  },
+  "darkTheme": {
+    "message": "Tema e errët"
+  },
+  "dayCount_few": {
+    "message": "{COUNT} ditë"
+  },
+  "dayCount_many": {
+    "message": "{COUNT} ditë"
+  },
+  "dayCount_one": {
+    "message": "{COUNT} ditë"
+  },
+  "dayCount_other": {
+    "message": "{COUNT} ditë"
+  },
+  "dayCount_two": {
+    "message": "{COUNT} ditë"
+  },
+  "dayCount_zero": {
+    "message": "{COUNT} ditë"
+  },
+  "delete": {
+    "message": "Fshi"
+  },
+  "deleteAllTrash": {
+    "message": "Fshi gjithçka në kosh"
+  },
+  "deleteThisCopy": {
+    "message": "Fshi këtë kopje"
+  },
+  "deselectAll": {
+    "message": "Çzgjidh të gjitha"
+  },
+  "destinationColon": {
+    "message": "Destinacioni:"
+  },
+  "disabled": {
+    "message": "Çaktivizuar"
+  },
+  "doneTaskCount_few": {
+    "message": "{COUNT} të përfunduara"
+  },
+  "doneTaskCount_many": {
+    "message": "{COUNT} të përfunduara"
+  },
+  "doneTaskCount_one": {
+    "message": "{COUNT} e përfunduar"
+  },
+  "doneTaskCount_other": {
+    "message": "{COUNT} të përfunduara"
+  },
+  "doneTaskCount_two": {
+    "message": "{COUNT} të përfunduara"
+  },
+  "doneTaskCount_zero": {
+    "message": "{COUNT} të përfunduara"
+  },
+  "dontCloseGroupedTabs": {
+    "message": "Mos mbyll asnjë skedë brenda grupeve të skedave"
+  },
+  "dontClosePinnedTabs": {
+    "message": "Mos mbyll asnjë skedë të fiksuar"
+  },
+  "dontCloseTabsFromDomains": {
+    "message": "Mos mbyll asnjë skedë nga EXAMPLE.COM"
+  },
+  "dragCopyKeysHtml": {
+    "message": "<x-key>{CTRL}</x-key> ose <x-key>{ALT}</x-key>"
+  },
+  "dragCopyModifierInfo": {
+    "message": "Mbaj shtypur tastin Ctrl ose Alt kur tërheq një skedë për të krijuar një kopje të saj në vend që ta zhvendosësh."
+  },
+  "dragTabsHereForQuickList": {
+    "message": "Tërhiq këtu skedat ose grupet e tua të ruajtura. Ato do të shtohen në listën tënde të shpejtë."
+  },
+  "editTabGroupTitleAndNotes": {
+    "message": "Redakto titullin dhe shënimet e grupit të skedave"
+  },
+  "emojiShortcutInfo": {
+    "message": "Kur redakton një fushë shënimesh, hap zgjedhësin e emoji-ve"
+  },
+  "emptyInBrackets": {
+    "message": "(bosh)"
+  },
+  "emptyOneTabInfoMsg": {
+    "message": "Kur të kesh disa skeda të hapura, kliko ikonën OneTab në shiritin e veglave të shfletuesit dhe skedat e tua të hapura do të shfaqen këtu."
+  },
+  "enabled": {
+    "message": "Aktivizuar"
+  },
+  "everything": {
+    "message": "Gjithçka"
+  },
+  "exampleLink": {
+    "message": "Lidhje shembull"
+  },
+  "exampleLinkTitle": {
+    "message": "Titull shembull i lidhjes"
+  },
+  "exampleLinkTitleOptional": {
+    "message": "Titull shembull i lidhjes (opsionale)"
+  },
+  "exampleRichTextParagraph": {
+    "message": "Paragraf shembull teksti me PLACEHOLDER dhe PLACEHOLDER"
+  },
+  "exampleWebsitePageTitle": {
+    "message": "Titull shembull i një faqeje uebi"
+  },
+  "excludeDomainFromOneTab": {
+    "message": "Përjashto EXAMPLE.COM nga OneTab"
+  },
+  "excludeWebSiteFromOneTab": {
+    "message": "Përjashto këtë sajt uebi nga OneTab"
+  },
+  "expiresColon": {
+    "message": "Skadon:"
+  },
+  "export": {
+    "message": "Eksporto"
+  },
+  "exportImportUrls": {
+    "message": "Eksporto / importo URL-të"
+  },
+  "exportThenImportNote": {
+    "message": "Lista e mëposhtme e URL-ve mund të importohet sërish në OneTab në këtë ose në një kompjuter tjetër"
+  },
+  "exportUrls": {
+    "message": "Eksporto URL-të"
+  },
+  "feedback": {
+    "message": "Komente"
+  },
+  "filter": {
+    "message": "Filtër"
+  },
+  "firefoxIncognitoInstructions": {
+    "message": "Te cilësimet e shfletuesit tënd, shko te “Cilësime” → “Zgjerime dhe tema” → “Zgjerime” → “OneTab” → “...” → “Menaxho”, dhe më pas aktivizo “Ekzekuto në dritare private”."
+  },
+  "firefoxIndexedDbUnavailable": {
+    "message": "OneTab nuk mund të ruajë ose të marrë të dhëna. Nëse e ke konfiguruar Firefox-in që të mos mbajë mend kurrë historikun, kjo do ta pengojë OneTab të funksionojë siç duhet. Përndryshe, na kontakto nëpërmjet sajtit tonë të uebit dhe mund të të ndihmojmë."
+  },
+  "firefoxShortcutConfigInstructions": {
+    "message": "Fut URL-në \"about:addons?type=extension\" në shiritin e adresave të shfletuesit tënd. Kur të shfaqet faqja, kliko ikonën e ingranazhit, pastaj zgjidh “Menaxho shkurtoret e zgjerimeve”"
+  },
+  "Folder": {
+    "message": "Dosje"
+  },
+  "folderCount_few": {
+    "message": "{COUNT} dosje"
+  },
+  "folderCount_many": {
+    "message": "{COUNT} dosje"
+  },
+  "folderCount_one": {
+    "message": "{COUNT} dosje"
+  },
+  "folderCount_other": {
+    "message": "{COUNT} dosje"
+  },
+  "folderCount_two": {
+    "message": "{COUNT} dosje"
+  },
+  "folderCount_zero": {
+    "message": "{COUNT} dosje"
+  },
+  "folders": {
+    "message": "Dosje"
+  },
+  "foldersOnly": {
+    "message": "Vetëm dosjet"
+  },
+  "foldGroup": {
+    "message": "Palos grupin"
+  },
+  "gettingStarted": {
+    "message": "Hapat e parë"
+  },
+  "gotIt": {
+    "message": "E kuptova"
+  },
+  "goToParentFolder": {
+    "message": "Shko te dosja prind"
+  },
+  "groupCount_few": {
+    "message": "{COUNT} grupe"
+  },
+  "groupCount_many": {
+    "message": "{COUNT} grupe"
+  },
+  "groupCount_one": {
+    "message": "{COUNT} grup"
+  },
+  "groupCount_other": {
+    "message": "{COUNT} grupe"
+  },
+  "groupCount_two": {
+    "message": "{COUNT} grupe"
+  },
+  "groupCount_zero": {
+    "message": "{COUNT} grupe"
+  },
+  "groups": {
+    "message": "Grupe"
+  },
+  "hasNotes": {
+    "message": "Me shënime"
+  },
+  "help": {
+    "message": "Ndihmë"
+  },
+  "hideArchivedItems": {
+    "message": "Fshih artikujt e arkivuar"
+  },
+  "import": {
+    "message": "Importo"
+  },
+  "importAndExport": {
+    "message": "Importo dhe eksporto"
+  },
+  "importBookmarks": {
+    "message": "Importo faqeshënuesit"
+  },
+  "importedBookmarks": {
+    "message": "Faqeshënues të importuar"
+  },
+  "importExportShareMenuNoteHtml": {
+    "message": "Mund t’i eksportosh skedat e tua edhe si faqe uebi të ndashme ose si skedar HTML, duke përdorur opsionet <b>Ndaje si faqe uebi</b> dhe <b>Ruaj si skedar HTML</b> në menynë <b>Më shumë…</b> të një grupi ose dosjeje."
+  },
+  "importFolderAndSubfolders": {
+    "message": "Importo dosjen dhe nëndosjet"
+  },
+  "importLinksHere": {
+    "message": "Importo lidhjet këtu"
+  },
+  "importLinksHereMenuItemHelp": {
+    "message": "Mund të ngjitësh një listë lidhjesh uebi ose të importosh faqeshënuesit e shfletuesit."
+  },
+  "importNotesTruncatedNotice": {
+    "message": "Disa shënime të importuara ishin më të gjata se kufiri prej {MAX} karakteresh, ndaj fundet e tyre u shkurtuan."
+  },
+  "importReadingList": {
+    "message": "Importo listën e leximit"
+  },
+  "importText": {
+    "message": "Importo tekst"
+  },
+  "importUrls": {
+    "message": "Importo URL-të"
+  },
+  "includeGroupedTabs": {
+    "message": "Përfshi skedat e grupuara"
+  },
+  "includeNotes": {
+    "message": "Përfshi shënimet"
+  },
+  "includePinnedTabs": {
+    "message": "Përfshi skedat e fiksuara"
+  },
+  "includeStarRatings": {
+    "message": "Përfshi yjet"
+  },
+  "includeTabsAlreadyStored": {
+    "message": "Përfshi skedat që i ke ruajtur tashmë"
+  },
+  "includeTabsFromDomains": {
+    "message": "Përfshi skedat nga EXAMPLE.COM"
+  },
+  "incogitoPermissionRequired": {
+    "message": "OneTab ka nevojë për leje për të krijuar dritare të fshehta."
+  },
+  "incognitoWindows": {
+    "message": "Dritare të fshehta"
+  },
+  "invertSelection": {
+    "message": "Përmbys përzgjedhjen"
+  },
+  "itemTextTruncatedNotice": {
+    "message": "Teksti ishte më i gjatë se kufiri (shënimet mund të përmbajnë {NOTESMAX} karaktere, ndërsa titujt {TITLEMAX}), ndaj fundi u shkurtua."
+  },
+  "justNow": {
+    "message": "sapo"
+  },
+  "kbdNavBackspaceInfo": {
+    "message": "Shko te dosja prind"
+  },
+  "kbdNavEnterInfo": {
+    "message": "Rikthe skedat ose hap dosjen"
+  },
+  "kbdNavEscInfo": {
+    "message": "Përfundo navigimin me tastierë"
+  },
+  "kbdNavFocusInfo": {
+    "message": "Ndrysho fokusin nga grupet te skedat"
+  },
+  "kbdNavFoldInfo": {
+    "message": "Palos / zgjero një grup"
+  },
+  "kbdNavMoveInfo": {
+    "message": "Lëviz mes artikujve"
+  },
+  "kbdNavTabInfo": {
+    "message": "Nis navigimin me tastierë"
+  },
+  "keyboardShortcutsColon": {
+    "message": "Shkurtoret e tastierës:"
+  },
+  "languageTitle": {
+    "message": "Gjuha:"
+  },
+  "licenseAlreadyHaveKey": {
+    "message": "Kam tashmë një çelës licence"
+  },
+  "licenseAlreadySetUpRestarting": {
+    "message": "Kjo licencë është konfiguruar tashmë, ndaj do ta lidhim këtë pajisje me konfigurimin ekzistues. Një kod i ri është dërguar me email në adresën e regjistruar."
+  },
+  "licenseBackLink": {
+    "message": "Prapa"
+  },
+  "licenseBrowserOnOs": {
+    "message": "{BROWSER} në {OS}"
+  },
+  "licenseBrowsersActiveOn": {
+    "message": "Aktiv më {DATE}"
+  },
+  "licenseBrowsersActiveToday": {
+    "message": "Aktiv sot"
+  },
+  "licenseBrowsersAdded": {
+    "message": "Shtuar më {DATE}"
+  },
+  "licenseBrowsersThisBrowser": {
+    "message": "Ky shfletues"
+  },
+  "licenseBrowserUnknown": {
+    "message": "Shfletues"
+  },
+  "licenseChangeEmail": {
+    "message": "Ndrysho adresën e emailit"
+  },
+  "licenseChangeEmailWebLink": {
+    "message": "Ndrysho adresën e emailit"
+  },
+  "licenseChooseRecoveryTitle": {
+    "message": "Zgjidh si të mbrohet çelësi yt i enkriptimit"
+  },
+  "licenseCloseModal": {
+    "message": "Mbyll"
+  },
+  "licenseCodeExpired": {
+    "message": "Ky kod ka skaduar. Kërko një email të ri."
+  },
+  "licenseCodeIncorrectTriesRemaining": {
+    "message": "Kod i pasaktë. Përpjekje të mbetura: {COUNT}."
+  },
+  "licenseCodeInvalidFormat": {
+    "message": "Fut kodin me 6 shifra nga emaili."
+  },
+  "licenseCodePlaceholder": {
+    "message": "Kodi me 6 shifra"
+  },
+  "licenseCodeSentTo": {
+    "message": "Fut kodin me 6 shifra që të dërguam me email te {EMAIL}."
+  },
+  "licenseCodeSourceDeviceOption": {
+    "message": "Merr kod nga një shfletues tashmë i lidhur"
+  },
+  "licenseCodeSourceDeviceOptionDescription": {
+    "message": "Hap atje Rezervimin dhe sinkronizimin dhe kliko “Lidh një shfletues ose profil tjetër”."
+  },
+  "licenseCodeSourceEmailOption": {
+    "message": "Dërgo një kod me email te {EMAIL}"
+  },
+  "licenseCodeSourceTitle": {
+    "message": "Merr një kod verifikimi"
+  },
+  "licenseCodeTriesExhausted": {
+    "message": "Nuk ke më përpjekje për këtë kod. Kërko një email të ri."
+  },
+  "licenseConnectAnotherBrowser": {
+    "message": "Lidh një shfletues ose profil tjetër"
+  },
+  "licenseConnectedBrowsers": {
+    "message": "Shfletuesit e lidhur"
+  },
+  "licenseDeviceAddConnected": {
+    "message": "{BROWSER} sapo u lidh me licencën tënde."
+  },
+  "licenseDeviceAddExpired": {
+    "message": "Ky kod ka skaduar."
+  },
+  "licenseDeviceAddExpiresIn": {
+    "message": "Skadon pas {TIME}"
+  },
+  "licenseDeviceAddGetNewCode": {
+    "message": "Merr një kod të ri"
+  },
+  "licenseDeviceAddIntro": {
+    "message": "Për të lidhur një shfletues ose profil tjetër: fut atje çelësin e licencës, pastaj fut këtë kod kur të kërkohet."
+  },
+  "licenseDeviceAddKeyReminder": {
+    "message": "Do të të duhet ende çelësi i licencës — ai nuk shfaqet këtu. Gjendet në emailin me të cilin të erdhi fillimisht ose në faqen tënde të faturimit."
+  },
+  "licenseDeviceAddNeverShare": {
+    "message": "Përdore këtë kod vetëm në shfletuesin tënd të ri. Mos ia jep kurrë askujt — OneTab nuk do të ta kërkojë kurrë. Ai funksionon vetëm për licencën e këtij shfletuesi."
+  },
+  "licenseDeviceCodeInsteadLink": {
+    "message": "Merr kod nga një shfletues i lidhur"
+  },
+  "licenseDeviceCodePrompt": {
+    "message": "Në një shfletues tashmë të lidhur me licencën tënde, hap Rezervimin dhe sinkronizimin dhe kliko “Lidh një shfletues ose profil tjetër”. Fut kodin me 6 shifra që shfaqet atje."
+  },
+  "licenseDeviceLimitReached": {
+    "message": "Kjo licencë ka arritur kufirin e pajisjeve."
+  },
+  "licenseDoneButton": {
+    "message": "U krye"
+  },
+  "licenseEasyOptionDescription": {
+    "message": "Çelësi yt i enkriptimit ruhet në mënyrë të sigurt në server, që të mund ta rikuperosh me email."
+  },
+  "licenseEasyOptionLabel": {
+    "message": "E lehtë"
+  },
+  "licenseEmailCodeInsteadLink": {
+    "message": "Ma dërgo kodin me email"
+  },
+  "licenseEmailPlaceholder": {
+    "message": "Adresa e emailit"
+  },
+  "licenseEmailPrompt": {
+    "message": "Adresa jote e emailit"
+  },
+  "licenseForgotKeyBack": {
+    "message": "Kthehu te futja e çelësit të licencës"
+  },
+  "licenseForgotKeyEnterKeyButton": {
+    "message": "Fut çelësin e licencës"
+  },
+  "licenseForgotKeyLink": {
+    "message": "E harrove çelësin e licencës?"
+  },
+  "licenseForgotKeyNoEmailOnRecord": {
+    "message": "Asnjë çelës licence nuk lidhet me këtë adresë emaili. Kontrollo për gabime shkrimi ose provo një adresë tjetër që mund të kesh përdorur."
+  },
+  "licenseForgotKeyPrompt": {
+    "message": "Fut adresën tënde të emailit. Nëse është e regjistruar për një çelës licence, do të ta dërgojmë çelësin me email."
+  },
+  "licenseForgotKeySendButton": {
+    "message": "Dërgo"
+  },
+  "licenseForgotKeySentTo": {
+    "message": "Ta dërguam çelësin e licencës me email te {EMAIL}. Pasi të mbërrijë, mund ta futësh këtu."
+  },
+  "licenseForgotKeyTooManyRequests": {
+    "message": "Çelësi yt i licencës është dërguar disa herë kohët e fundit në këtë adresë. Kontrollo dosjen e mesazheve të padëshiruara ose provo përsëri nesër."
+  },
+  "licenseGenericError": {
+    "message": "Diçka shkoi keq. Provo përsëri."
+  },
+  "licenseGoButton": {
+    "message": "Vazhdo"
+  },
+  "licenseInvalidEmail": {
+    "message": "Fut një adresë emaili të vlefshme."
+  },
+  "licenseKeyInvalidFormat": {
+    "message": "Ky nuk duket si çelës licence i vlefshëm. Duhet të përmbajë 20 shkronja (A-F) dhe shifra, si XXXX-XXXX-XXXX-XXXX-XXXX."
+  },
+  "licenseKeyNotFound": {
+    "message": "Çelësi i licencës nuk u gjet. Kontrolloje dhe provo përsëri."
+  },
+  "licenseNoLongerActiveError": {
+    "message": "Kjo licencë nuk është më aktive. Nëse mendon se ky është gabim, kontakto mbështetjen."
+  },
+  "licenseRateLimitedError": {
+    "message": "Ka pasur shumë përpjekje të dështuara nga rrjeti yt. Prit pak dhe provo përsëri."
+  },
+  "licenseResendEmail": {
+    "message": "Dërgo një email të ri"
+  },
+  "licenseServiceProblemTryLater": {
+    "message": "Kjo nuk mund të përfundohet tani për shkak të një problemi nga ana jonë. Provo përsëri më vonë — nëse problemi vazhdon, kontakto mbështetjen."
+  },
+  "licenseSuccess": {
+    "message": "Sukses! Skedat e tua të ruajtura tani do të enkriptohen dhe do të rezervohen në mënyrë të sigurt në re."
+  },
+  "licenseSuccessJoin": {
+    "message": "Sukses! Ky shfletues iu bashkua kopjes sate rezervë të enkriptuar. Skedat e tua të ruajtura këtu dhe në shfletuesit e tjerë tani do të mbeten të sinkronizuara."
+  },
+  "licenseSuggestedEmailIntro": {
+    "message": "Çelësi yt i licencës u dërgua me email te:"
+  },
+  "licenseSuggestedEmailNote": {
+    "message": "Kodet e verifikimit dhe rikuperimi i llogarisë do të përdorin këtë adresë, ndaj sigurohu që të jetë e jotja."
+  },
+  "licenseSuspendedBillingError": {
+    "message": "Kjo licencë nuk mund të lidhet tani për shkak të një problemi me faturimin. Nëse ti e menaxhon faturimin, identifikohu në one-tab.com për ta zgjidhur — përndryshe, kontakto personin përgjegjës për blerjen e licencës sate."
+  },
+  "licenseUltraKeyConfirmCheckbox": {
+    "message": "Kam ruajtur një kopje të çelësit tim dhe e kuptoj se ai nuk do të shfaqet më kurrë."
+  },
+  "licenseUltraKeyConfirmRequired": {
+    "message": "Konfirmo që ke ruajtur një kopje të çelësit tënd."
+  },
+  "licenseUltraKeyEnterPrompt": {
+    "message": "Fut çelësin tënd të enkriptimit për të përfunduar lidhjen e kësaj pajisjeje."
+  },
+  "licenseUltraKeyIntro": {
+    "message": "Ky është çelësi yt i enkriptimit. Ruaj një kopje të tij në mënyrë të sigurt, për shembull në një menaxher fjalëkalimesh, që të mund t’i rikuperosh të dhënat pas prishjes ose vjedhjes së kompjuterit."
+  },
+  "licenseUltraKeyMismatch": {
+    "message": "Ky çelës nuk është i saktë për këtë licencë. Kontrolloje dhe provo përsëri."
+  },
+  "licenseUltraKeyNeverShownAgain": {
+    "message": "Ky çelës nuk do të shfaqet më KURRË."
+  },
+  "licenseUltraKeyPlaceholder": {
+    "message": "Çelësi i enkriptimit"
+  },
+  "licenseUltraOptionDescription": {
+    "message": "Vetëm ti e mban çelësin e enkriptimit dhe ai nuk mund të rikuperohet nëse e humbet. Zgjidhe këtë opsion vetëm nëse je i sigurt se mund të ruash një kopje të tij në mënyrë të sigurt."
+  },
+  "licenseUltraOptionLabel": {
+    "message": "Privatësi maksimale"
+  },
+  "licenseUseDifferentEmail": {
+    "message": "Përdor një adresë tjetër emaili"
+  },
+  "lightTheme": {
+    "message": "Tema e çelët"
+  },
+  "localBackupRestoredModal": {
+    "message": "Pjesa e profilit të shfletuesit tënd ku ruhen të dhënat e OneTab u dëmtua ose u fshi. Kjo mund të ndodhë pas një ndërprerjeje të papritur të shfletuesit ose kur një program me defekt për pastrimin e sistemit ose privatësisë heq të dhënat e shfletuesit."
+  },
+  "localBackupRestoredModalRecovery": {
+    "message": "Këtë herë pate fat: dëmtimi nuk arriti te pjesa e veçantë e profilit ku OneTab mban një kopje rezervë javore, ndaj skedat e tua u rikthyen nga kopja rezervë e krijuar më {DATE}. Çdo gjë që ruajte ose ndryshove pas asaj date nuk mund të rikuperohej. Nëse do të kishte humbur i gjithë profili ose do të ishte dëmtuar edhe kopja rezervë, nuk do të kishte asgjë nga e cila të bëhej rikthimi."
+  },
+  "localBackupRestoredModalTitle": {
+    "message": "OneTab rikuperoi skedat e tua pas humbjes së të dhënave"
+  },
+  "localeId": {
+    "message": "sq"
+  },
+  "locationColon": {
+    "message": "Vendndodhja:"
+  },
+  "lock": {
+    "message": "Kyç"
+  },
+  "lockedGroupUnlockHelp": {
+    "message": "Për ta shkyçur, përdor menynë Më shumë…. Kur një grup është i kyçur, nuk mund ta fshish grupin ose skedat e tij, dhe skedat nuk mund të rirenditen."
+  },
+  "lockMenuItemHelp": {
+    "message": "Kur një grup është i kyçur, nuk mund të heqësh ose rirenditësh artikujt brenda grupit (derisa ta shkyçësh grupin)."
+  },
+  "makeThisATask": {
+    "message": "Shëno si detyrë"
+  },
+  "manifestDescription": {
+    "message": "Kurse deri në 95% kujtesë dhe zvogëlo rrëmujën e skedave"
+  },
+  "markAsArchived": {
+    "message": "Shëno si të arkivuar"
+  },
+  "markAsArchivedMenuItemHelp": {
+    "message": "Kur shënon një artikull si të arkivuar, ai do të ketë sfond gri. Ky është tregues vizual se ke mbaruar me këtë artikull (për shembull, është një artikull që ke përfunduar së lexuari). Nëse arkivon diçka që është shënuar si detyrë, detyra nuk do të shfaqet më në kolonën e detyrave në faqen tënde të OneTab."
+  },
+  "markAsDoneTask": {
+    "message": "Shëno si detyrë të përfunduar"
+  },
+  "markAsDoneTaskMenuItemHelp": {
+    "message": "Trego vizualisht se një detyrë është përfunduar"
+  },
+  "markAsPendingTask": {
+    "message": "Shëno si detyrë në pritje"
+  },
+  "markAsPendingTaskMenuItemHelp": {
+    "message": "Trego vizualisht se ky artikull është detyrë. Do të shfaqet një ikonë detyre, të cilën pastaj mund ta klikosh për të treguar vizualisht se detyra është përfunduar. Të gjitha detyrat (përveç atyre të shënuara si të arkivuara) do të shfaqen gjithashtu në kolonën e detyrave në faqen tënde të OneTab."
+  },
+  "matchCount_few": {
+    "message": "{COUNT} përputhje"
+  },
+  "matchCount_many": {
+    "message": "{COUNT} përputhje"
+  },
+  "matchCount_one": {
+    "message": "{COUNT} përputhje"
+  },
+  "matchCount_other": {
+    "message": "{COUNT} përputhje"
+  },
+  "matchCount_two": {
+    "message": "{COUNT} përputhje"
+  },
+  "matchCount_zero": {
+    "message": "{COUNT} përputhje"
+  },
+  "matchWholeWordsOnly": {
+    "message": "Vetëm fjalë të plota"
+  },
+  "mayNeedToRestartBrowser": {
+    "message": "Nëse e sheh këtë mesazh çdo herë, përditëso dhe rinis shfletuesin."
+  },
+  "mergeIntoParent": {
+    "message": "Bashko me prindin"
+  },
+  "mergeOpenTabsHere_few": {
+    "message": "Bashko këtu {COUNT} skeda të hapura"
+  },
+  "mergeOpenTabsHere_many": {
+    "message": "Bashko këtu {COUNT} skeda të hapura"
+  },
+  "mergeOpenTabsHere_one": {
+    "message": "Bashko këtu {COUNT} skedë të hapur"
+  },
+  "mergeOpenTabsHere_other": {
+    "message": "Bashko këtu {COUNT} skeda të hapura"
+  },
+  "mergeOpenTabsHere_two": {
+    "message": "Bashko këtu {COUNT} skeda të hapura"
+  },
+  "mergeOpenTabsHere_zero": {
+    "message": "Bashko këtu {COUNT} skeda të hapura"
+  },
+  "mergeSelectedTabsHere_few": {
+    "message": "Bashko këtu {COUNT} skeda të zgjedhura"
+  },
+  "mergeSelectedTabsHere_many": {
+    "message": "Bashko këtu {COUNT} skeda të zgjedhura"
+  },
+  "mergeSelectedTabsHere_one": {
+    "message": "Bashko këtu {COUNT} skedë të zgjedhur"
+  },
+  "mergeSelectedTabsHere_other": {
+    "message": "Bashko këtu {COUNT} skeda të zgjedhura"
+  },
+  "mergeSelectedTabsHere_two": {
+    "message": "Bashko këtu {COUNT} skeda të zgjedhura"
+  },
+  "mergeSelectedTabsHere_zero": {
+    "message": "Bashko këtu {COUNT} skeda të zgjedhura"
+  },
+  "mergeWithInnerGroups": {
+    "message": "Bashko me grupet e brendshme"
+  },
+  "modalMoveToTrashHintExampleGroupTitle": {
+    "message": "Titull shembull i grupit"
+  },
+  "modalMoveToTrashHintHeading": {
+    "message": "Këshillë: Vendos kursorin mbi titullin e një grupi, pastaj kliko X për ta zhvendosur në kosh."
+  },
+  "modalOptionAutoActionOnOpenHeading": {
+    "message": "Pas rikthimit të skedave:"
+  },
+  "modalOptionAutoActionOnOpenOpenDesc": {
+    "message": "Fshini manualisht kur të keni mbaruar"
+  },
+  "modalOptionAutoActionOnOpenTrashDesc": {
+    "message": "Më e lehtë për ruajtje dhe rikthim të shpejtë"
+  },
+  "modalRemigrationDontAskAgain": {
+    "message": "Mos pyet përsëri"
+  },
+  "modalRemigrationFooterHtml": {
+    "message": "Klikoni <b>Po</b>, përveç nëse migrimi ka ndodhur tashmë dhe i keni fshirë qëllimisht skedat e migruara."
+  },
+  "modalRemigrationNotNow": {
+    "message": "Jo tani"
+  },
+  "modalRemigrationTabsFoundPrompt_few": {
+    "message": "U gjetën {COUNT} skeda nga OneTab v1. Të migrohen?"
+  },
+  "modalRemigrationTabsFoundPrompt_many": {
+    "message": "U gjetën {COUNT} skeda nga OneTab v1. Të migrohen?"
+  },
+  "modalRemigrationTabsFoundPrompt_one": {
+    "message": "U gjet {COUNT} skedë nga OneTab v1. Të migrohet?"
+  },
+  "modalRemigrationTabsFoundPrompt_other": {
+    "message": "U gjetën {COUNT} skeda nga OneTab v1. Të migrohen?"
+  },
+  "modalRemigrationTabsFoundPrompt_two": {
+    "message": "U gjetën {COUNT} skeda nga OneTab v1. Të migrohen?"
+  },
+  "modalRemigrationTabsFoundPrompt_zero": {
+    "message": "U gjetën {COUNT} skeda nga OneTab v1. Të migrohen?"
+  },
+  "modalRemigrationYes": {
+    "message": "Po"
+  },
+  "modalUpdateToV2Heading": {
+    "message": "OneTab është përditësuar"
+  },
+  "modalUpdateToV2QuickTourHtml": {
+    "message": "Dëshironi një prezantim të shpejtë? Klikoni <b>Ndihmë</b> në krye."
+  },
+  "modalUpdateToV2UseOneTabLikeBefore": {
+    "message": "Mund ta përdorni ende OneTab njësoj si më parë — ruani skedat tuaja me një klikim të vetëm."
+  },
+  "modifySharing": {
+    "message": "Modifiko shpërndarjen"
+  },
+  "moreEllipsis": {
+    "message": "Më shumë…"
+  },
+  "moreSearchFilters": {
+    "message": "Më shumë filtra kërkimi"
+  },
+  "move": {
+    "message": "Zhvendos"
+  },
+  "moveBack": {
+    "message": "Rikthe…"
+  },
+  "moveToTrash": {
+    "message": "Zhvendos në kosh"
+  },
+  "namedOnly": {
+    "message": "Vetëm artikujt me emër"
+  },
+  "navigationFilter": {
+    "message": "Filtri i navigimit"
+  },
+  "navigationFilterColumnOnlyNote": {
+    "message": "Ky filtër zbatohet vetëm te kolona e navigimit."
+  },
+  "newExclamation": {
+    "message": "E re!"
+  },
+  "noDupsExistExceptForColon": {
+    "message": "Nuk ka dublikata, përveç:"
+  },
+  "noDupsFoundHere": {
+    "message": "Nuk u gjetën dublikata këtu"
+  },
+  "noMatches": {
+    "message": "Nuk ka përputhje"
+  },
+  "noMatchesFound": {
+    "message": "Nuk u gjetën përputhje"
+  },
+  "nonArchived": {
+    "message": "Jo të arkivuara"
+  },
+  "nonTabPinFlagHelp": {
+    "message": "Ky artikull është fiksuar në krye të dosjes. Kliko këtë ikonë për ta çfiksuar."
+  },
+  "noOpenTabsToStore": {
+    "message": "Në këtë dritare nuk ka skeda të hapura për t’u ruajtur."
+  },
+  "noReadingListEntries": {
+    "message": "Nuk u gjet asnjë hyrje në listën e leximit"
+  },
+  "noTabsInOneTabYet": {
+    "message": "Nuk ke ende asnjë skedë në OneTab"
+  },
+  "noTabsMeetCriteriaUseCheckboxes": {
+    "message": "Asnjë skedë e hapur nuk përmbush kriteret e tua. Të lutemi përdor kutitë e zgjedhjes më sipër."
+  },
+  "notAssigned": {
+    "message": "E pacaktuar"
+  },
+  "notes": {
+    "message": "Shënime"
+  },
+  "notesAboutTheLinkOptional": {
+    "message": "Shënime rreth lidhjes (opsionale)"
+  },
+  "notesAboutTheSecondLinkOptional": {
+    "message": "Shënime rreth lidhjes së dytë (opsionale)"
+  },
+  "noTextHasBeenEntered": {
+    "message": "Nuk është futur asnjë tekst"
+  },
+  "ok": {
+    "message": "OK"
+  },
+  "omniboxShortcutInfo": {
+    "message": "Për të kërkuar në listën tënde të OneTab nga çdo skedë: shko te shiriti i adresave të shfletuesit, shkruaj 11, pastaj hapësirë, pastaj një fjalë kyçe kërkimi. Për të bërë një kërkim të zakonshëm (jo në OneTab) që fillon me 11, shtyp 11, pastaj hapësirë, pastaj Backspace"
+  },
+  "OneTabAlsoAvailableForFirefox": {
+    "message": "OneTab është i disponueshëm edhe për Firefox"
+  },
+  "oneTabDesignedToProtectPrivacy": {
+    "message": "OneTab është projektuar për të mbrojtur privatësinë tënde. Skedat e tua nuk na zbulohen."
+  },
+  "oneTabExportPageTitle": {
+    "message": "Eksportimi i OneTab"
+  },
+  "oneTabFolderSlashShortcutInfo": {
+    "message": "Fokuso kutinë e kërkimit dhe kërko vetëm brenda dosjes aktuale"
+  },
+  "oneTabImportExportPageTitle": {
+    "message": "Importi/eksporti i OneTab"
+  },
+  "oneTabNeedsPermissionToAccessYourTabs": {
+    "message": "OneTab ka nevojë për leje për të hyrë te skedat e tua."
+  },
+  "oneTabOptionsPageTitle": {
+    "message": "Opsionet e OneTab"
+  },
+  "oneTabPermissionRequired": {
+    "message": "OneTab - Kërkohet leje"
+  },
+  "oneTabRestartRequired": {
+    "message": "OneTab duhet të riniset. Asnjë skedë tjetër nuk do të mbyllet."
+  },
+  "oneTabSlashShortcutInfo": {
+    "message": "Fokuso kutinë e kërkimit"
+  },
+  "open": {
+    "message": "Hap"
+  },
+  "openActionPopup": {
+    "message": "Veprimi i OneTab (i barasvlershëm me klikimin e ikonës OneTab në shiritin e veglave)"
+  },
+  "openAsCollapsedTabGroup": {
+    "message": "Hape si grup skedash i palosur"
+  },
+  "openAsCollapsedTabGroupMenuItemHelp": {
+    "message": "Nëse i hap këto skeda si një “grup skedash” i palosur, do të shfaqet vetëm etiketa e grupit derisa të klikosh mbi të për të shfaqur skedat brenda."
+  },
+  "openAsPinnedTab": {
+    "message": "Fikso skedën kur hapet"
+  },
+  "openAsPinnedTabMenuItemHelp": {
+    "message": "Kur të rikthehet kjo skedë, riktheje si skedë të fiksuar të shfletuesit. Skedat e fiksuara do të shfaqen gjithmonë të parat në dritaren e shfletuesit."
+  },
+  "openAsTabGroup": {
+    "message": "Hape si grup skedash i shfletuesit"
+  },
+  "openAsTabGroupMenuItemHelp": {
+    "message": "Shfletuesi yt lejon që skedat të grupohen në “grupet e skedave” me ngjyra brenda një dritareje."
+  },
+  "openFolder": {
+    "message": "Hap dosjen"
+  },
+  "openGroupsLimitNotice_few": {
+    "message": "Për të parandaluar mbingarkimin e shfletuesit tënd, do të hapen vetëm {COUNT} grupet e para."
+  },
+  "openGroupsLimitNotice_many": {
+    "message": "Për të parandaluar mbingarkimin e shfletuesit tënd, do të hapen vetëm {COUNT} grupet e para."
+  },
+  "openGroupsLimitNotice_one": {
+    "message": "Për të parandaluar mbingarkimin e shfletuesit tënd, do të hapet vetëm {COUNT} grup."
+  },
+  "openGroupsLimitNotice_other": {
+    "message": "Për të parandaluar mbingarkimin e shfletuesit tënd, do të hapen vetëm {COUNT} grupet e para."
+  },
+  "openGroupsLimitNotice_two": {
+    "message": "Për të parandaluar mbingarkimin e shfletuesit tënd, do të hapen vetëm {COUNT} grupet e para."
+  },
+  "openGroupsLimitNotice_zero": {
+    "message": "Për të parandaluar mbingarkimin e shfletuesit tënd, do të hapen vetëm {COUNT} grupe."
+  },
+  "openInIncognitoWindow": {
+    "message": "Rikthe në një dritare të re të fshehtë"
+  },
+  "openInNewWindow": {
+    "message": "Rikthe në një dritare të re"
+  },
+  "openInThisWindow": {
+    "message": "Rikthe në këtë dritare"
+  },
+  "openOneTab": {
+    "message": "Hap OneTab"
+  },
+  "openOneTabAfter": {
+    "message": "Hap OneTab pas ruajtjes së skedave"
+  },
+  "openONETABLogo": {
+    "message": "Hap ONETAB"
+  },
+  "openParentFolder": {
+    "message": "Hap dosjen prind"
+  },
+  "openTabFromWebsite": {
+    "message": "Hap një skedë dhe shko te sajti i uebit"
+  },
+  "openTabLimit_few": {
+    "message": "Për të parandaluar mbingarkimin e shfletuesit tënd, mund të hapen njëkohësisht maksimumi {COUNT} skeda."
+  },
+  "openTabLimit_many": {
+    "message": "Për të parandaluar mbingarkimin e shfletuesit tënd, mund të hapen njëkohësisht maksimumi {COUNT} skeda."
+  },
+  "openTabLimit_one": {
+    "message": "Për të parandaluar mbingarkimin e shfletuesit tënd, mund të hapet njëkohësisht maksimumi {COUNT} skedë."
+  },
+  "openTabLimit_other": {
+    "message": "Për të parandaluar mbingarkimin e shfletuesit tënd, mund të hapen njëkohësisht maksimumi {COUNT} skeda."
+  },
+  "openTabLimit_two": {
+    "message": "Për të parandaluar mbingarkimin e shfletuesit tënd, mund të hapen njëkohësisht maksimumi {COUNT} skeda."
+  },
+  "openTabLimit_zero": {
+    "message": "Për të parandaluar mbingarkimin e shfletuesit tënd, mund të hapen njëkohësisht maksimumi {COUNT} skeda."
+  },
+  "openTabsAlreadyStoredHere_few": {
+    "message": "{COUNT} skeda të hapura të ruajtura tashmë këtu:"
+  },
+  "openTabsAlreadyStoredHere_many": {
+    "message": "{COUNT} skeda të hapura të ruajtura tashmë këtu:"
+  },
+  "openTabsAlreadyStoredHere_one": {
+    "message": "{COUNT} skedë e hapur e ruajtur tashmë këtu:"
+  },
+  "openTabsAlreadyStoredHere_other": {
+    "message": "{COUNT} skeda të hapura të ruajtura tashmë këtu:"
+  },
+  "openTabsAlreadyStoredHere_two": {
+    "message": "{COUNT} skeda të hapura të ruajtura tashmë këtu:"
+  },
+  "openTabsAlreadyStoredHere_zero": {
+    "message": "{COUNT} skeda të hapura të ruajtura tashmë këtu:"
+  },
+  "openTabsConfirm_few": {
+    "message": "Do të hapësh {COUNT} skeda. Vërtet dëshiron të vazhdosh?"
+  },
+  "openTabsConfirm_many": {
+    "message": "Do të hapësh {COUNT} skeda. Vërtet dëshiron të vazhdosh?"
+  },
+  "openTabsConfirm_one": {
+    "message": "Do të hapësh {COUNT} skedë. Vërtet dëshiron të vazhdosh?"
+  },
+  "openTabsConfirm_other": {
+    "message": "Do të hapësh {COUNT} skeda. Vërtet dëshiron të vazhdosh?"
+  },
+  "openTabsConfirm_two": {
+    "message": "Do të hapësh {COUNT} skeda. Vërtet dëshiron të vazhdosh?"
+  },
+  "openTabsConfirm_zero": {
+    "message": "Do të hapësh {COUNT} skeda. Vërtet dëshiron të vazhdosh?"
+  },
+  "openTabsNotStoredInOneTab_few": {
+    "message": "{COUNT} skeda të hapura të paruajtura në OneTab"
+  },
+  "openTabsNotStoredInOneTab_many": {
+    "message": "{COUNT} skeda të hapura të paruajtura në OneTab"
+  },
+  "openTabsNotStoredInOneTab_one": {
+    "message": "{COUNT} skedë e hapur e paruajtur në OneTab"
+  },
+  "openTabsNotStoredInOneTab_other": {
+    "message": "{COUNT} skeda të hapura të paruajtura në OneTab"
+  },
+  "openTabsNotStoredInOneTab_two": {
+    "message": "{COUNT} skeda të hapura të paruajtura në OneTab"
+  },
+  "openTabsNotStoredInOneTab_zero": {
+    "message": "{COUNT} skeda të hapura të paruajtura në OneTab"
+  },
+  "optionAutoActionOnOpenArchiveDesc": {
+    "message": "Shënimi i skedave si të arkivuara u jep atyre një sfond gri me vija. Kjo ofron një tregues vizual se i ke lexuar ose ke përfunduar punë me skedat."
+  },
+  "optionAutoActionOnOpenArchiveTitle": {
+    "message": "Shënoji si të arkivuara"
+  },
+  "optionAutoActionOnOpenHeading": {
+    "message": "Kur riktheni skedat:"
+  },
+  "optionAutoActionOnOpenNote": {
+    "message": "Grupet e kyçura i mbajnë gjithmonë skedat e tyre"
+  },
+  "optionAutoActionOnOpenOpenDesc": {
+    "message": "Për t’i shënuar skedat si të arkivuara kur i rikthen, mbaj shtypur tastin Alt ose Option"
+  },
+  "optionAutoActionOnOpenOpenTitle": {
+    "message": "Mbaji në listën tënde"
+  },
+  "optionAutoActionOnOpenTrashDesc": {
+    "message": "Për t’i mbajtur skedat në listën tënde kur i rikthen, mbaj shtypur tastin Ctrl ose Cmd"
+  },
+  "optionAutoActionOnOpenTrashTitle": {
+    "message": "Hiqi nga lista jote"
+  },
+  "optionBrowserActionHeading": {
+    "message": "Kur klikon ikonën OneTab në shiritin e veglave:"
+  },
+  "optionBrowserActionOpenPopupDesc": {
+    "message": "Dritarja kërcyese do të të shfaqë një listë të skedave të hapura dhe do të të lejojë të zgjedhësh saktësisht cilat skeda dëshiron t’i dërgosh në OneTab. Ajo do të të lejojë të vendosësh një titull për grupin e skedave që po ruan, që të mos të duhet ta bësh këtë më vonë brenda faqes së OneTab. Dritarja kërcyese do të të japë gjithashtu qasje të lehtë te lista jote e shpejtë nga çdo dritare shfletuesi."
+  },
+  "optionBrowserActionOpenPopupDesc2": {
+    "message": "Zgjidh saktësisht cilat skeda të ruhen"
+  },
+  "optionBrowserActionOpenPopupTitle": {
+    "message": "Shfaq dritaren kërcyese të OneTab"
+  },
+  "optionBrowserActionSendCurrentTabDesc": {
+    "message": "Skeda do të vendoset brenda grupit të parë në faqen tënde të OneTab (duke shpërfillur çdo grup që është i fiksuar ose i kyçur)"
+  },
+  "optionBrowserActionSendCurrentTabTitle": {
+    "message": "Dërgo vetëm skedën aktuale në OneTab"
+  },
+  "optionBrowserActionSendTabsInWindowDesc": {
+    "message": "Skedat e tua do të mbyllen dhe do të ruhen në listën tënde të OneTab. Nëse ke zgjedhur disa skeda në shiritin e skedave të shfletuesit (duke përdorur tastin Cmd, Ctrl ose Shift), vetëm skedat e zgjedhura do të dërgohen në OneTab. Nëse po përdor funksionin e grupeve të skedave të shfletuesit, vetëm grupi aktual i skedave do të dërgohet në OneTab."
+  },
+  "optionBrowserActionSendTabsInWindowDesc2": {
+    "message": "Mënyra më e shpejtë për të ruajtur skedat"
+  },
+  "optionBrowserActionSendTabsInWindowTitle": {
+    "message": "Dërgo skedat e dritares aktuale në OneTab"
+  },
+  "optionBrowserActionSendWholeWindowDesc": {
+    "message": "Njësoj si më sipër, por do të ruhet e gjithë dritarja, jo vetëm grupi aktual i skedave"
+  },
+  "optionBrowserActionSendWholeWindowTitle": {
+    "message": "Dërgo dritaren aktuale në OneTab, duke përfshirë të gjitha skedat dhe grupet e skedave"
+  },
+  "optionCopyToClipboardFormatHeading": {
+    "message": "Kopjimi i lidhjeve në kujtesën e fragmenteve:"
+  },
+  "optionCopyToClipboardFormatMarkdownTitle": {
+    "message": "Markdown"
+  },
+  "optionCopyToClipboardFormatNote": {
+    "message": "Ky cilësim zbatohet kur përdor veprimin “Kopjo në kujtesën e fragmenteve”. Mund t’i tërheqësh gjithashtu skedat dhe grupet drejtpërdrejt nga OneTab në një dokument."
+  },
+  "optionCopyToClipboardFormatRichTextDesc": {
+    "message": "Aplikacione si përpunuesit e tekstit do të të lejojnë të ngjitësh tekst të formatuar. Nëse nuk mbështetet, do të ngjitet tekst i thjeshtë."
+  },
+  "optionCopyToClipboardFormatRichTextTitle": {
+    "message": "Tekst i formatuar, kur disponohet"
+  },
+  "optionCopyToClipboardFormatTitleUrlTitle": {
+    "message": "Titulli dhe URL-ja"
+  },
+  "optionCopyToClipboardFormatUrlOnlyTitle": {
+    "message": "Vetëm URL-ja"
+  },
+  "optionCopyToClipboardFormatUrlTitleTitle": {
+    "message": "URL-ja dhe titulli"
+  },
+  "optionDefaultTabGroupOpenTypeCurrentWindow": {
+    "message": "Hape grupin e skedave të shfletuesit në dritaren aktuale"
+  },
+  "optionDefaultTabGroupOpenTypeHeading": {
+    "message": "Kur klikon për të hapur një grup skedash që është konfiguruar të hapet si “grup skedash i shfletuesit”:"
+  },
+  "optionDefaultTabGroupOpenTypeNewWindow": {
+    "message": "Hape grupin e skedave të shfletuesit në një dritare të re"
+  },
+  "optionDefaultTabGroupOpenTypeNote": {
+    "message": "Nëse përdor menynë rënëse për të zgjedhur një opsion të caktuar (si hapja e skedave në një dritare të fshehtë), ai opsion do të mbahet mend për atë grup të caktuar."
+  },
+  "optionDefaultWindowGroupOpenTypeCurrentWindow": {
+    "message": "Hapi skedat në dritaren aktuale"
+  },
+  "optionDefaultWindowGroupOpenTypeHeading": {
+    "message": "Kur riktheni një grup skedash:"
+  },
+  "optionDefaultWindowGroupOpenTypeNewWindow": {
+    "message": "Hapi skedat në një dritare të re, përveç nëse OneTab është e vetmja skedë në dritaren aktuale"
+  },
+  "optionDefaultWindowGroupOpenTypeNewWindowAlways": {
+    "message": "Hapi skedat në një dritare të re"
+  },
+  "optionDefaultWindowGroupOpenTypeNote": {
+    "message": "Zgjedhjet e rikthimit të bëra nga menyja “Më shumë…” e një grupi mbahen mend për atë grup."
+  },
+  "optionDiscardNonActiveTabOnOpenHeading": {
+    "message": "Kurse kujtesën (RAM) menjëherë kur skedat hapen për herë të parë:"
+  },
+  "optionDiscardNonActiveTabOnOpenNote": {
+    "message": "Nëse ky cilësim është i aktivizuar, ai do t’i çngarkojë menjëherë skedat nga memoria kur i hap për herë të parë nga lista jote e OneTab. Kjo është e dobishme nëse hap shpesh dhjetëra skeda njëherësh, pasi do të parandalojë që të gjitha të ngarkohen në memorie derisa t’u qasesh. Nëse ky cilësim është i çaktivizuar, shumë shfletues uebi do të zgjedhin ende automatikisht t’i çngarkojnë skedat nga memoria nëse nuk po i përdor aktualisht."
+  },
+  "optionDisplayContextMenuHeading": {
+    "message": "Kliko me të djathtën brenda një faqeje uebi për të hyrë në menynë kontekstuale të OneTab:"
+  },
+  "optionDisplayContextMenuNote": {
+    "message": "Nëse e çaktivizon menynë, nuk do të mund të përdorësh funksionin “Përjashto sajtin e uebit nga OneTab”"
+  },
+  "optionDuplicatesAllow": {
+    "message": "Lejo dublikatat"
+  },
+  "optionDuplicatesReject": {
+    "message": "Refuzo në heshtje dublikatat"
+  },
+  "optionDuplicatesRejectDesc": {
+    "message": "Nëse OneTab e përmban tashmë skedën, ajo nuk do të shtohet përsëri."
+  },
+  "optionDuplicatesTitle": {
+    "message": "Dublikatat:"
+  },
+  "optionGroupTitleClickActionEditTitle": {
+    "message": "Redakto titullin"
+  },
+  "optionGroupTitleClickActionHeading": {
+    "message": "Kur klikon titullin e një grupi ose dosjeje:"
+  },
+  "optionGroupTitleClickActionOpenDesc": {
+    "message": "Mund ta riemërtosh ende një grup nga menyja e tij “Më shumë…”."
+  },
+  "optionGroupTitleClickActionOpenTitle": {
+    "message": "Rikthe grupin ose hap dosjen"
+  },
+  "optionMoveOneTabToCurrentWindowOnOpenFalseTitle": {
+    "message": "Kalo te dritarja ku skeda e OneTab është tashmë e hapur"
+  },
+  "optionMoveOneTabToCurrentWindowOnOpenHeading": {
+    "message": "Veprimi \"Hap OneTab\":"
+  },
+  "optionMoveOneTabToCurrentWindowOnOpenNote": {
+    "message": "Veprimi \"Hap OneTab\":"
+  },
+  "optionMoveOneTabToCurrentWindowOnOpenTrueTitle": {
+    "message": "Zhvendos çdo skedë ekzistuese të OneTab në dritaren aktuale"
+  },
+  "optionPinnedTabsAllow": {
+    "message": "Lejo që skedat e fiksuara të dërgohen në OneTab"
+  },
+  "optionPinnedTabsDontSend": {
+    "message": "Mos i dërgo skedat e fiksuara në OneTab"
+  },
+  "optionPinnedTabsDontSendDesc": {
+    "message": "Mund të dërgosh ende manualisht një skedë të fiksuar në OneTab duke klikuar me të djathtën brenda faqes së uebit për të hapur menynë OneTab dhe më pas duke klikuar “Dërgo vetëm këtë skedë në OneTab”"
+  },
+  "optionPinnedTabsNote": {
+    "message": "Shënim: Një skedë bëhet “e fiksuar” kur klikon me të djathtën mbi skedë dhe klikon “Fikso skedën”. Disa persona pëlqejnë t’i fiksojnë sajte si Facebook ose Gmail që t’i gjejnë lehtë. OneTab do të mbajë mend nëse një skedë ishte e fiksuar kur ta rikthesh."
+  },
+  "optionPinnedTabsTitle": {
+    "message": "Skedat e fiksuara:"
+  },
+  "options": {
+    "message": "Opsione"
+  },
+  "optionStartupLaunchDisplay": {
+    "message": "Hap OneTab automatikisht"
+  },
+  "optionStartupLaunchNone": {
+    "message": "Mos e hap OneTab automatikisht"
+  },
+  "optionStartupLaunchNoneDesc3": {
+    "message": "Për ta hapur OneTab manualisht, mund të klikoni me të djathtën brenda çdo faqeje uebi dhe të klikoni 'Hap OneTab' brenda menysë së OneTab."
+  },
+  "optionStartupLaunchTitle": {
+    "message": "Në nisjen e shfletuesit:"
+  },
+  "optionSwitchToOpenedTabFalseTitle": {
+    "message": "Hape skedën dhe qëndro në OneTab"
+  },
+  "optionSwitchToOpenedTabHeading": {
+    "message": "Kur rikthen skedat nga faqja e OneTab:"
+  },
+  "optionSwitchToOpenedTabNote": {
+    "message": "Nëse mban shtypur Shift kur klikon, skeda do të hapet në një dritare të re"
+  },
+  "optionSwitchToOpenedTabTrueTitle": {
+    "message": "Hape skedën dhe kalo te ajo (përveç nëse mban shtypur Command ⌘/Ctrl kur klikon)"
+  },
+  "optionUpdateTitleOnDuplicateKeep": {
+    "message": "Mbaj titullin ekzistues"
+  },
+  "optionUpdateTitleOnDuplicateKeepDesc": {
+    "message": "Mund ta riemërtosh skedën në OneTab dhe titulli yt i personalizuar do të ruhet."
+  },
+  "optionUpdateTitleOnDuplicateNote": {
+    "message": "Titujt dhe shënimet janë të përbashkëta për të gjitha kopjet e së njëjtës skedë."
+  },
+  "optionUpdateTitleOnDuplicateTitle": {
+    "message": "Kur ruan një skedë që është tashmë në OneTab:"
+  },
+  "optionUpdateTitleOnDuplicateUpdate": {
+    "message": "Përdor titullin më të fundit"
+  },
+  "optionUpdateTitleOnDuplicateUpdateDesc": {
+    "message": "Përditëso titullin e ruajtur që të përputhet me skedën që sapo dërgove."
+  },
+  "optionUrlAbbr": {
+    "message": "E shkurtuar"
+  },
+  "optionUrlDisplayTitle": {
+    "message": "Shfaqja e URL-së:"
+  },
+  "optionUrlDomain": {
+    "message": "Vetëm domeni"
+  },
+  "optionUrlFull": {
+    "message": "E plotë"
+  },
+  "optionUrlNone": {
+    "message": "Asnjë"
+  },
+  "otherCopiesColon": {
+    "message": "Kopje të tjera:"
+  },
+  "pasteRichOrPlainTextBelow": {
+    "message": "Mund të ngjitësh tekst të formatuar ose tekst të thjeshtë më poshtë."
+  },
+  "pendingTaskCount_few": {
+    "message": "{COUNT} në pritje"
+  },
+  "pendingTaskCount_many": {
+    "message": "{COUNT} në pritje"
+  },
+  "pendingTaskCount_one": {
+    "message": "{COUNT} në pritje"
+  },
+  "pendingTaskCount_other": {
+    "message": "{COUNT} në pritje"
+  },
+  "pendingTaskCount_two": {
+    "message": "{COUNT} në pritje"
+  },
+  "pendingTaskCount_zero": {
+    "message": "{COUNT} në pritje"
+  },
+  "pendingTaskFlagHelp": {
+    "message": "Ky artikull është detyrë. Kliko këtë ikonë për ta shënuar si të përfunduar."
+  },
+  "permissionRequiredPleaseTryAgain": {
+    "message": "Për të krijuar një faqe të shpërndarë që mund të hapet nga çdo kompjuter, kërkohet leje për komunikim me serverin e uebit të OneTab. Të lutem provo përsëri."
+  },
+  "pinnedTabs": {
+    "message": "skeda të fiksuara"
+  },
+  "pinToTopOfFolder": {
+    "message": "Fikso në krye të dosjes"
+  },
+  "pinToTopOfFolderMenuItemHelp": {
+    "message": "Fikso këtë grup që të renditet gjithmonë në krye të dosjes"
+  },
+  "pinToTopOfList": {
+    "message": "Fikso në krye të listës"
+  },
+  "placeholderAndOtherLocations_few": {
+    "message": "PLACEHOLDER dhe {COUNT} të tjera"
+  },
+  "placeholderAndOtherLocations_many": {
+    "message": "PLACEHOLDER dhe {COUNT} të tjera"
+  },
+  "placeholderAndOtherLocations_one": {
+    "message": "PLACEHOLDER dhe {COUNT} tjetër"
+  },
+  "placeholderAndOtherLocations_other": {
+    "message": "PLACEHOLDER dhe {COUNT} të tjera"
+  },
+  "placeholderAndOtherLocations_two": {
+    "message": "PLACEHOLDER dhe {COUNT} të tjera"
+  },
+  "placeholderAndOtherLocations_zero": {
+    "message": "PLACEHOLDER dhe {COUNT} të tjera"
+  },
+  "placeholderExplanation": {
+    "message": "Për shkak të rregullave të sigurisë së shfletuesit të uebit, OneTab nuk lejohet ta rikthejë drejtpërdrejt këtë faqe. Të lutem kopjo URL-në dhe ngjite në shiritin e adresave të shfletuesit."
+  },
+  "plainTextLineFormat": {
+    "message": "Nëse ngjit tekst të thjeshtë, sigurohu që çdo URL të ketë një protokoll të specifikuar (https://wikipedia.org, në vend të vetëm wikipedia.org). Çdo rresht duhet të jetë në formatin e mëposhtëm:"
+  },
+  "pleaseWaitTripleDot": {
+    "message": "Të lutem prit…"
+  },
+  "popupSlashShortcutInfo": {
+    "message": "Nëse e ke aktivizuar dritaren kërcyese të veprimit të OneTab, hap zgjedhësin e destinacionit dhe fokuso kutinë e kërkimit"
+  },
+  "printUseSaveTabsAsHtmlFileAlertHtml": {
+    "message": "Për rezultatet më të mira të printimit, përdorni veprimin <b>Ruaj si skedar HTML</b> në menynë <b>Më shumë…</b> të dosjes, pastaj printoni skedarin HTML të shkarkuar."
+  },
+  "privacyAssurance": {
+    "message": "Sigurimi i privatësisë"
+  },
+  "privacyAssuranceDetail": {
+    "message": "Lista juaj e skedave nuk transmetohet ose zbulohet kurrë te zhvilluesit e OneTab apo te ndonjë palë tjetër. Përjashtimi i vetëm nga kjo është nëse përdorni qëllimisht funksionin 'ndaje si faqe uebi' për ta ngarkuar listën tuaj të skedave në një faqe uebi, me qëllim që t'i ndani me të tjerët."
+  },
+  "privacyFirst": {
+    "message": "Privatësia së pari"
+  },
+  "privacyFirstMessage": {
+    "message": "OneTab është projektuar për të mbrojtur të dhënat e tua private. Skedat e tua ruhen vetëm në kompjuterin tënd dhe nuk ndahen kurrë me zhvilluesit e OneTab ose me ndonjë palë tjetër.\nNëse përdor funksionin tonë të rezervimit/sinkronizimit, të dhënat e tua do të enkriptohen nga skaji në skaj me enkriptim të fortë AES-256. Kjo e bën të pamundur që zhvilluesit e OneTab të shohin skedat që ke rezervuar ose sinkronizuar midis pajisjeve, sepse vetëm ti e ke çelësin e enkriptimit. \nPërjashtimi i vetëm është nëse vendos qëllimisht të ndash disa nga skedat e tua me njerëz të tjerë duke përdorur funksionin tonë “Ndaje si faqe uebi”.\nNe besojmë te privatësia në radhë të parë."
+  },
+  "privateBrowsingPermissionRequired": {
+    "message": "OneTab ka nevojë për leje për të krijuar dritare të shfletimit privat."
+  },
+  "privateBrowsingWindows": {
+    "message": "Dritare të shfletimit privat"
+  },
+  "quickList": {
+    "message": "Lista e shpejtë"
+  },
+  "readingList": {
+    "message": "Lista e leximit"
+  },
+  "readingListPermissionNecesssary": {
+    "message": "Leja për listën e leximit është e nevojshme që OneTab të importojë artikuj nga lista juaj e leximit. Nëse ky funksion nuk punon, shfletuesi juaj mund të mos i mbështesë listat e leximit."
+  },
+  "recent": {
+    "message": "Të fundit"
+  },
+  "recentDestinationsColon": {
+    "message": "Destinacionet e fundit:"
+  },
+  "recentDuplicateRetainedHelp": {
+    "message": "Nëse një skedë shfaqet më shumë se një herë, do të mbahet vetëm dublikata më e fundit"
+  },
+  "recentFolders": {
+    "message": "Dosjet e fundit"
+  },
+  "recentGroups": {
+    "message": "Grupet e fundit"
+  },
+  "recentlyAccessed": {
+    "message": "Të qasura së fundi"
+  },
+  "recentlyCreated": {
+    "message": "Të krijuara së fundi"
+  },
+  "recentlyModified": {
+    "message": "Të modifikuara së fundi"
+  },
+  "reduceMemoryUsageBy95Pct": {
+    "message": "Ul përdorimin e kujtesës me 95%"
+  },
+  "removeDuplicates": {
+    "message": "Hiq dublikatat"
+  },
+  "removeDuplicatesMenuItemHelp": {
+    "message": "Do të mund të heqësh dublikatat nga këtu, por jo nga vende të tjera, ose nga vende të tjera, por jo nga këtu."
+  },
+  "removeDuplicateTabsHere_few": {
+    "message": "Hiq këtu {COUNT} skeda të dublikuara"
+  },
+  "removeDuplicateTabsHere_many": {
+    "message": "Hiq këtu {COUNT} skeda të dublikuara"
+  },
+  "removeDuplicateTabsHere_one": {
+    "message": "Hiq këtu {COUNT} skedë të dublikuar"
+  },
+  "removeDuplicateTabsHere_other": {
+    "message": "Hiq këtu {COUNT} skeda të dublikuara"
+  },
+  "removeDuplicateTabsHere_two": {
+    "message": "Hiq këtu {COUNT} skeda të dublikuara"
+  },
+  "removeDuplicateTabsHere_zero": {
+    "message": "Hiq këtu {COUNT} skeda të dublikuara"
+  },
+  "removeFromQuickList": {
+    "message": "Hiq nga lista e shpejtë"
+  },
+  "removeFromQuickListMenuItemHelp": {
+    "message": "Artikulli nuk do të dërgohet në kosh - do të hiqet vetëm nga lista juaj e shpejtë."
+  },
+  "removeStar": {
+    "message": "Hiq yllin"
+  },
+  "removeTabsElsewhereAlsoHere_few": {
+    "message": "Hiq nga vende të tjera {COUNT} skeda që ekzistojnë edhe këtu"
+  },
+  "removeTabsElsewhereAlsoHere_many": {
+    "message": "Hiq nga vende të tjera {COUNT} skeda që ekzistojnë edhe këtu"
+  },
+  "removeTabsElsewhereAlsoHere_one": {
+    "message": "Hiq nga vende të tjera {COUNT} skedë që ekziston edhe këtu"
+  },
+  "removeTabsElsewhereAlsoHere_other": {
+    "message": "Hiq nga vende të tjera {COUNT} skeda që ekzistojnë edhe këtu"
+  },
+  "removeTabsElsewhereAlsoHere_two": {
+    "message": "Hiq nga vende të tjera {COUNT} skeda që ekzistojnë edhe këtu"
+  },
+  "removeTabsElsewhereAlsoHere_zero": {
+    "message": "Hiq nga vende të tjera {COUNT} skeda që ekzistojnë edhe këtu"
+  },
+  "removeTabsHereAlsoElsewhere_few": {
+    "message": "Hiq nga këtu {COUNT} skeda që ekzistojnë edhe diku tjetër"
+  },
+  "removeTabsHereAlsoElsewhere_many": {
+    "message": "Hiq nga këtu {COUNT} skeda që ekzistojnë edhe diku tjetër"
+  },
+  "removeTabsHereAlsoElsewhere_one": {
+    "message": "Hiq nga këtu {COUNT} skedë që ekziston edhe diku tjetër"
+  },
+  "removeTabsHereAlsoElsewhere_other": {
+    "message": "Hiq nga këtu {COUNT} skeda që ekzistojnë edhe diku tjetër"
+  },
+  "removeTabsHereAlsoElsewhere_two": {
+    "message": "Hiq nga këtu {COUNT} skeda që ekzistojnë edhe diku tjetër"
+  },
+  "removeTabsHereAlsoElsewhere_zero": {
+    "message": "Hiq nga këtu {COUNT} skeda që ekzistojnë edhe diku tjetër"
+  },
+  "rename": {
+    "message": "Riemërto"
+  },
+  "renameOrAddNote": {
+    "message": "Riemërto / Shto shënim"
+  },
+  "restore": {
+    "message": "Rikthe"
+  },
+  "restoreAll": {
+    "message": "Rikthe të gjitha"
+  },
+  "restrictSearchToFolderColon": {
+    "message": "Kufizo kërkimin te dosja e mëposhtme:"
+  },
+  "results": {
+    "message": "Rezultatet"
+  },
+  "returnToOneTab": {
+    "message": "Kthehu te OneTab"
+  },
+  "reverse": {
+    "message": "Anasjelltas"
+  },
+  "rightClickAndOpenOneTabMenu": {
+    "message": "Kliko me të djathtën brenda faqes së uebit dhe shko te menyja OneTab"
+  },
+  "rightClickMenuDisabledNote": {
+    "message": "Shënim: E ke çaktivizuar menynë OneTab me klikim të djathtë. Të lutemi aktivizoje te faqja e opsioneve të OneTab."
+  },
+  "rightClickSelectionOptionsTip": {
+    "message": "Këshillë: Pasi të shënosh një artikull, kliko me të djathtën mbi ikonën e shenjës së kontrollit për të shfaqur më shumë opsione përzgjedhjeje"
+  },
+  "rightClickTickTip": {
+    "message": "Këshillë: Kliko me të djathtën mbi ikonën e shenjës së kontrollit pranë çdo skede për veglat e përzgjedhjes"
+  },
+  "safariApproveOneTabInSettings": {
+    "message": "Të lutem shko te Cilësimet dhe lejo OneTab të ketë qasje në të gjitha sajtet e uebit."
+  },
+  "save95PctReduceTabClutterGoogleChrome": {
+    "message": "Kurse deri në 95% kujtesë dhe zvogëlo rrëmujën e skedave në Google Chrome"
+  },
+  "saveChoice": {
+    "message": "Ruaj zgjedhjen"
+  },
+  "saveTabsAsHtmlFile": {
+    "message": "Ruaj si skedar HTML"
+  },
+  "saveTabsAsHtmlFileMenuItemHelp": {
+    "message": "Krijoni dhe shkarkoni një skedar HTML që përmban të gjitha grupet me skeda në këtë dosje."
+  },
+  "searchHere": {
+    "message": "Kërko këtu"
+  },
+  "searchOneTab": {
+    "message": "Kërko në OneTab"
+  },
+  "secondExampleLink": {
+    "message": "Lidhje e dytë shembull"
+  },
+  "secondExampleLinkTitle": {
+    "message": "Titull i dytë shembull i lidhjes"
+  },
+  "secondExampleLinkTitleOptional": {
+    "message": "Titull i dytë shembull i lidhjes (opsionale)"
+  },
+  "seeOtherTabsInThisGroup_few": {
+    "message": "Shfaq {COUNT} skeda të tjera në këtë grup"
+  },
+  "seeOtherTabsInThisGroup_many": {
+    "message": "Shfaq {COUNT} skeda të tjera në këtë grup"
+  },
+  "seeOtherTabsInThisGroup_one": {
+    "message": "Shfaq {COUNT} skedë tjetër në këtë grup"
+  },
+  "seeOtherTabsInThisGroup_other": {
+    "message": "Shfaq {COUNT} skeda të tjera në këtë grup"
+  },
+  "seeOtherTabsInThisGroup_two": {
+    "message": "Shfaq {COUNT} skeda të tjera në këtë grup"
+  },
+  "seeOtherTabsInThisGroup_zero": {
+    "message": "Shfaq {COUNT} skeda të tjera në këtë grup"
+  },
+  "seePasteInstructions": {
+    "message": "Shih udhëzimet e ngjitjes…"
+  },
+  "seeTabsInThisGroup_few": {
+    "message": "Shfaq {COUNT} skeda në këtë grup"
+  },
+  "seeTabsInThisGroup_many": {
+    "message": "Shfaq {COUNT} skeda në këtë grup"
+  },
+  "seeTabsInThisGroup_one": {
+    "message": "Shfaq {COUNT} skedë në këtë grup"
+  },
+  "seeTabsInThisGroup_other": {
+    "message": "Shfaq {COUNT} skeda në këtë grup"
+  },
+  "seeTabsInThisGroup_two": {
+    "message": "Shfaq {COUNT} skeda në këtë grup"
+  },
+  "seeTabsInThisGroup_zero": {
+    "message": "Shfaq {COUNT} skeda në këtë grup"
+  },
+  "selectAll": {
+    "message": "Zgjidh të gjitha"
+  },
+  "selectAllExceptThis": {
+    "message": "Zgjidh të gjitha përveç këtij artikulli"
+  },
+  "selectedItemCount_few": {
+    "message": "{COUNT} artikuj"
+  },
+  "selectedItemCount_many": {
+    "message": "{COUNT} artikuj"
+  },
+  "selectedItemCount_one": {
+    "message": "{COUNT} artikull"
+  },
+  "selectedItemCount_other": {
+    "message": "{COUNT} artikuj"
+  },
+  "selectedItemCount_two": {
+    "message": "{COUNT} artikuj"
+  },
+  "selectedItemCount_zero": {
+    "message": "{COUNT} artikuj"
+  },
+  "selection": {
+    "message": "Përzgjedhja"
+  },
+  "selectThisAndAbove": {
+    "message": "Zgjidh këtë artikull dhe të gjithë artikujt sipër"
+  },
+  "selectThisAndBelow": {
+    "message": "Zgjidh këtë artikull dhe të gjithë artikujt poshtë"
+  },
+  "sendAllTabsAllWindows": {
+    "message": "Dërgo të gjitha skedat nga të gjitha dritaret"
+  },
+  "sendAllTabsAllWindowsToOneTab": {
+    "message": "Dërgo të gjitha skedat nga të gjitha dritaret në OneTab"
+  },
+  "sendAllTabsExceptThis": {
+    "message": "Dërgo të gjitha skedat përveç kësaj skede"
+  },
+  "sendAllTabsExceptThisToOneTab": {
+    "message": "Dërgo të gjitha skedat përveç kësaj skede në OneTab"
+  },
+  "sendAllTabsInGroup": {
+    "message": "Dërgo të gjitha skedat e këtij grupi të skedave"
+  },
+  "sendAllTabsInGroupToOneTab": {
+    "message": "Dërgo të gjitha skedat e këtij grupi të skedave në OneTab"
+  },
+  "sendAllTabsInWindow": {
+    "message": "Dërgo të gjitha skedat e kësaj dritareje"
+  },
+  "sendAllTabsInWindowToOneTab": {
+    "message": "Dërgo të gjitha skedat e kësaj dritareje në OneTab"
+  },
+  "sendCurrentTabToOneTab": {
+    "message": "Dërgo skedën aktuale në OneTab"
+  },
+  "sendLeftTabs": {
+    "message": "Dërgo skedat në të majtë"
+  },
+  "sendLeftTabsToOneTab": {
+    "message": "Dërgo në OneTab skedat në të majtë"
+  },
+  "sendOnlyThisTab": {
+    "message": "Dërgo vetëm këtë skedë"
+  },
+  "sendOnlyThisTabToOneTab": {
+    "message": "Dërgo vetëm këtë skedë në OneTab"
+  },
+  "sendRightTabs": {
+    "message": "Dërgo skedat në të djathtë"
+  },
+  "sendRightTabsToOneTab": {
+    "message": "Dërgo në OneTab skedat në të djathtë"
+  },
+  "sendSelectedTabs": {
+    "message": "Dërgo skedat e zgjedhura"
+  },
+  "sendSelectedTabsToOneTab": {
+    "message": "Dërgo skedat e zgjedhura në OneTab"
+  },
+  "sendThisWebLink": {
+    "message": "Dërgo këtë lidhje uebi"
+  },
+  "sendThisWebLinkToOneTab": {
+    "message": "Dërgo këtë lidhje uebi në OneTab"
+  },
+  "serverUnreachable": {
+    "message": "Serveri është i paarritshëm. Të lutem kontrollo lidhjen tënde të internetit."
+  },
+  "share": {
+    "message": "Ndaj"
+  },
+  "shareAsAWebPage": {
+    "message": "Ndaje si faqe uebi"
+  },
+  "shareAsAWebPageMenuItemHelp": {
+    "message": "Kjo krijon një faqe uebi që përmban skedat tuaja, që të mund ta ndani faqen privatisht ose publikisht me të tjerë."
+  },
+  "shared": {
+    "message": "Të shpërndara"
+  },
+  "sharedExpiresColon": {
+    "message": "Shpërndarë si faqe uebi. Skadon:"
+  },
+  "sharedPageOptions": {
+    "message": "Opsionet e faqes së shpërndarë"
+  },
+  "sharedPageTabLimit_few": {
+    "message": "Faqet e shpërndara janë të kufizuara në {COUNT} skeda"
+  },
+  "sharedPageTabLimit_many": {
+    "message": "Faqet e shpërndara janë të kufizuara në {COUNT} skeda"
+  },
+  "sharedPageTabLimit_one": {
+    "message": "Faqet e shpërndara janë të kufizuara në {COUNT} skedë"
+  },
+  "sharedPageTabLimit_other": {
+    "message": "Faqet e shpërndara janë të kufizuara në {COUNT} skeda"
+  },
+  "sharedPageTabLimit_two": {
+    "message": "Faqet e shpërndara janë të kufizuara në {COUNT} skeda"
+  },
+  "sharedPageTabLimit_zero": {
+    "message": "Faqet e shpërndara janë të kufizuara në {COUNT} skeda"
+  },
+  "sharedPageWillAutomaticallyExpire": {
+    "message": "Faqja e shpërndarë do të skadojë automatikisht, por mund ta zgjasni datën e skadimit në çdo kohë."
+  },
+  "showEverything": {
+    "message": "Shfaq gjithçka"
+  },
+  "showFoldersOnly": {
+    "message": "Shfaq vetëm dosjet"
+  },
+  "showNamedItemsOnly": {
+    "message": "Shfaq vetëm artikujt me emër"
+  },
+  "showNamedOnly": {
+    "message": "Shfaq vetëm artikujt me emër"
+  },
+  "showNextCount_few": {
+    "message": "{COUNT} artikuj të radhës"
+  },
+  "showNextCount_many": {
+    "message": "{COUNT} artikuj të radhës"
+  },
+  "showNextCount_one": {
+    "message": "{COUNT} artikull i radhës"
+  },
+  "showNextCount_other": {
+    "message": "{COUNT} artikuj të radhës"
+  },
+  "showNextCount_two": {
+    "message": "{COUNT} artikuj të radhës"
+  },
+  "showNextCount_zero": {
+    "message": "{COUNT} artikuj të radhës"
+  },
+  "showPreviousCount_few": {
+    "message": "{COUNT} artikuj të mëparshëm"
+  },
+  "showPreviousCount_many": {
+    "message": "{COUNT} artikuj të mëparshëm"
+  },
+  "showPreviousCount_one": {
+    "message": "{COUNT} artikull i mëparshëm"
+  },
+  "showPreviousCount_other": {
+    "message": "{COUNT} artikuj të mëparshëm"
+  },
+  "showPreviousCount_two": {
+    "message": "{COUNT} artikuj të mëparshëm"
+  },
+  "showPreviousCount_zero": {
+    "message": "{COUNT} artikuj të mëparshëm"
+  },
+  "soon": {
+    "message": "së shpejti"
+  },
+  "sort": {
+    "message": "Renditja"
+  },
+  "sortByColon": {
+    "message": "Rendit sipas:"
+  },
+  "sortGroups": {
+    "message": "Rendit grupet"
+  },
+  "sortGroupsMenuFooterNote": {
+    "message": "Kjo rendit grupet në këtë dosje. Nuk rendit skedat brenda tyre."
+  },
+  "sourceColon": {
+    "message": "Burimi:"
+  },
+  "star": {
+    "message": "Vendos yll"
+  },
+  "starFlagHelp": {
+    "message": "Ky artikull është shënuar me yll për të treguar vizualisht rëndësinë e tij. Kliko këtë ikonë për t’ia hequr yllin."
+  },
+  "starMenuItemHelp": {
+    "message": "Përdor yllin si tregues vizual se diçka është e rëndësishme"
+  },
+  "starred": {
+    "message": "Me yll"
+  },
+  "storeAllOpenWindowsHere": {
+    "message": "Ruaj këtu të gjitha dritaret e hapura"
+  },
+  "storeAllOpenWindowsHereMenuItemHelp": {
+    "message": "Mbyll të gjitha dritaret e hapura të shfletuesit dhe ruaji në këtë dosje"
+  },
+  "storeSelectedTabsInONETAB_few": {
+    "message": "Ruaj {COUNT} skeda të zgjedhura në ONETAB"
+  },
+  "storeSelectedTabsInONETAB_many": {
+    "message": "Ruaj {COUNT} skeda të zgjedhura në ONETAB"
+  },
+  "storeSelectedTabsInONETAB_one": {
+    "message": "Ruaj {COUNT} skedë të zgjedhur në ONETAB"
+  },
+  "storeSelectedTabsInONETAB_other": {
+    "message": "Ruaj {COUNT} skeda të zgjedhura në ONETAB"
+  },
+  "storeSelectedTabsInONETAB_two": {
+    "message": "Ruaj {COUNT} skeda të zgjedhura në ONETAB"
+  },
+  "storeSelectedTabsInONETAB_zero": {
+    "message": "Ruaj {COUNT} skeda të zgjedhura në ONETAB"
+  },
+  "storeTabsInAdditionalLocation_few": {
+    "message": "Ruaj përsëri skedat gjithsesi"
+  },
+  "storeTabsInAdditionalLocation_many": {
+    "message": "Ruaj përsëri skedat gjithsesi"
+  },
+  "storeTabsInAdditionalLocation_one": {
+    "message": "Ruaj përsëri skedën gjithsesi"
+  },
+  "storeTabsInAdditionalLocation_other": {
+    "message": "Ruaj përsëri skedat gjithsesi"
+  },
+  "storeTabsInAdditionalLocation_two": {
+    "message": "Ruaj përsëri skedat gjithsesi"
+  },
+  "storeTabsInAdditionalLocation_zero": {
+    "message": "Ruaj përsëri skedat gjithsesi"
+  },
+  "storeTabsInONETAB_few": {
+    "message": "Ruaj skedat në ONETAB"
+  },
+  "storeTabsInONETAB_many": {
+    "message": "Ruaj skedat në ONETAB"
+  },
+  "storeTabsInONETAB_one": {
+    "message": "Ruaj skedën në ONETAB"
+  },
+  "storeTabsInONETAB_other": {
+    "message": "Ruaj skedat në ONETAB"
+  },
+  "storeTabsInONETAB_two": {
+    "message": "Ruaj skedat në ONETAB"
+  },
+  "storeTabsInONETAB_zero": {
+    "message": "Ruaj skedat në ONETAB"
+  },
+  "subFoldersNotShared": {
+    "message": "Kini parasysh se nëndosjet nuk shpërndahen. Shpërndahen vetëm grupet me skeda që ndodhen drejtpërdrejt brenda dosjes."
+  },
+  "tab": {
+    "message": "skedë"
+  },
+  "tabAlreadyStoredHere": {
+    "message": "Skeda juaj e hapur është ruajtur tashmë këtu:"
+  },
+  "tabCaretTooltipTitleNotes": {
+    "message": "Redakto titullin dhe shënimet e skedës"
+  },
+  "tabCaretTooltipTitleNotesUrl": {
+    "message": "Redakto titullin, URL-në dhe shënimet e skedës"
+  },
+  "tabCount_few": {
+    "message": "{COUNT} skeda"
+  },
+  "tabCount_many": {
+    "message": "{COUNT} skeda"
+  },
+  "tabCount_one": {
+    "message": "{COUNT} skedë"
+  },
+  "tabCount_other": {
+    "message": "{COUNT} skeda"
+  },
+  "tabCount_two": {
+    "message": "{COUNT} skeda"
+  },
+  "tabCount_zero": {
+    "message": "{COUNT} skeda"
+  },
+  "tabGroupColorColon": {
+    "message": "Ngjyra e grupit të skedave:"
+  },
+  "tabGroupIndicatorTooltipHelp": {
+    "message": "Ky grup është konfiguruar të hapet si grup skedash i shfletuesit. Mund ta ndryshosh këtë cilësim në menynë “Më shumë…”"
+  },
+  "tabPinFlagHelp": {
+    "message": "Kjo skedë do të rikthehet si skedë e fiksuar e shfletuesit. Kliko këtë ikonë për ta çfiksuar."
+  },
+  "tabs": {
+    "message": "Skeda"
+  },
+  "tabsFromExcludedDomains": {
+    "message": "skeda nga domenet e përjashtuara"
+  },
+  "tabsInTabGroups": {
+    "message": "skeda në grupet e skedave"
+  },
+  "tabTotalCount_few": {
+    "message": "Gjithsej: {COUNT} skeda"
+  },
+  "tabTotalCount_many": {
+    "message": "Gjithsej: {COUNT} skeda"
+  },
+  "tabTotalCount_one": {
+    "message": "Gjithsej: {COUNT} skedë"
+  },
+  "tabTotalCount_other": {
+    "message": "Gjithsej: {COUNT} skeda"
+  },
+  "tabTotalCount_two": {
+    "message": "Gjithsej: {COUNT} skeda"
+  },
+  "tabTotalCount_zero": {
+    "message": "Gjithsej: {COUNT} skeda"
+  },
+  "tasks": {
+    "message": "Detyra"
+  },
+  "tasksDone": {
+    "message": "Detyra (të përfunduara)"
+  },
+  "tasksPending": {
+    "message": "Detyra (në pritje)"
+  },
+  "tasksWillAppearHere": {
+    "message": "Nëse shënon ndonjë nga skedat ose grupet e tua si detyra, ato do të shfaqen këtu."
+  },
+  "taskTotalCount_few": {
+    "message": "{COUNT} gjithsej"
+  },
+  "taskTotalCount_many": {
+    "message": "{COUNT} gjithsej"
+  },
+  "taskTotalCount_one": {
+    "message": "{COUNT} gjithsej"
+  },
+  "taskTotalCount_other": {
+    "message": "{COUNT} gjithsej"
+  },
+  "taskTotalCount_two": {
+    "message": "{COUNT} gjithsej"
+  },
+  "taskTotalCount_zero": {
+    "message": "{COUNT} gjithsej"
+  },
+  "themeQuickSwitchHint": {
+    "message": "Për të ndërruar shpejt temat, mbani shtypur ctrl ose cmd kur klikoni ikonën e temës"
+  },
+  "thenClickToolbarIcon": {
+    "message": "Pastaj, kliko përsëri ikonën OneTab në shiritin e veglave për të përdorur OneTab."
+  },
+  "thisFolderIsEmpty": {
+    "message": "Kjo dosje është bosh"
+  },
+  "thisTab": {
+    "message": "Kjo skedë"
+  },
+  "thisTabGroup": {
+    "message": "Ky grup skedash"
+  },
+  "thisTabNotStored": {
+    "message": "Kjo skedë nuk është ruajtur në OneTab"
+  },
+  "thisWindow": {
+    "message": "Kjo dritare"
+  },
+  "tickOrUntickToExclude": {
+    "message": "Shëno ose hiq shënimin për ta përjashtuar sajtin e uebit"
+  },
+  "title": {
+    "message": "Titulli"
+  },
+  "toAddOrRemoveExclusions": {
+    "message": "Për të shtuar ose hequr një sajt uebi nga lista e përjashtimeve:"
+  },
+  "toAllowOneTabInIncognito": {
+    "message": "Për të lejuar që ikona OneTab të shfaqet në dritaret e fshehta: "
+  },
+  "toImportBrowserBookmarksUseMenuOption": {
+    "message": "Për të importuar nga faqeshënuesit e shfletuesit, përdor opsionin e menysë “Importo lidhjet këtu” në faqen tënde të OneTab"
+  },
+  "toMakeOpenButtonWorkApprovePermission": {
+    "message": "Që butoni “Hap” në faqet e shpërndara të funksionojë, të lutemi mirato kërkesën për leje."
+  },
+  "tooManyTabsSpeedUpFirefox": {
+    "message": "Ke shumë skeda? Shndërroji skedat e tua në listë dhe shpejto Firefox-in"
+  },
+  "tooManyTabsSpeedUpSafari": {
+    "message": "Ke shumë skeda? Shndërroji skedat e tua në listë dhe shpejto Safari-n"
+  },
+  "toSaveChangesClickButton": {
+    "message": "Për të ruajtur ndryshimet, kliko butonin"
+  },
+  "total0Tabs": {
+    "message": "Gjithsej: 0 skeda"
+  },
+  "trash": {
+    "message": "Kosh"
+  },
+  "unfoldGroup": {
+    "message": "Zgjero grupin"
+  },
+  "unlock": {
+    "message": "Shkyç"
+  },
+  "unmarkAsArchived": {
+    "message": "Hiq shënimin si të arkivuar"
+  },
+  "unMarkAsTask": {
+    "message": "Hiq shënimin si detyrë"
+  },
+  "unpin": {
+    "message": "Çfikso"
+  },
+  "unshare": {
+    "message": "Hiq shpërndarjen"
+  },
+  "untitled": {
+    "message": "Pa titull"
+  },
+  "update": {
+    "message": "Përditëso"
+  },
+  "userLanguage": {
+    "message": "Shqip"
+  },
+  "website": {
+    "message": "Sajti i uebit"
+  },
+  "yearCount_few": {
+    "message": "{COUNT} vite"
+  },
+  "yearCount_many": {
+    "message": "{COUNT} vite"
+  },
+  "yearCount_one": {
+    "message": "{COUNT} vit"
+  },
+  "yearCount_other": {
+    "message": "{COUNT} vite"
+  },
+  "yearCount_two": {
+    "message": "{COUNT} vite"
+  },
+  "yearCount_zero": {
+    "message": "{COUNT} vite"
+  },
+  "yourTabAlreadyStoredHere": {
+    "message": "Skeda jote është ruajtur tashmë këtu:"
+  }
+}
