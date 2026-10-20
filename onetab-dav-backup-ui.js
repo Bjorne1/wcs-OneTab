@@ -185,9 +185,10 @@
         return message("davBackupInterval30");
       case 360:
         return message("davBackupInterval360");
-      case 1440:
-        return message("davBackupInterval1440");
       default:
+        if (minutes % 1440 === 0) {
+          return `${minutes / 1440} ${message("davBackupInterval1440")}`;
+        }
         return `${minutes / 60} ${message("davBackupInterval60")}`;
     }
   }
@@ -961,6 +962,10 @@
                   <option value="60" selected>1 ${message("davBackupInterval60")}</option>
                   <option value="360">6 ${message("davBackupInterval60")}</option>
                   <option value="1440">1 ${message("davBackupInterval1440")}</option>
+                  <option value="4320">3 ${message("davBackupInterval1440")}</option>
+                  <option value="7200">5 ${message("davBackupInterval1440")}</option>
+                  <option value="10080">7 ${message("davBackupInterval1440")}</option>
+                  <option value="21600">15 ${message("davBackupInterval1440")}</option>
                 </select>
               </label>
               <label>${message("davBackupKeep")}

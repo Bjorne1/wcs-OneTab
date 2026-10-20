@@ -63,7 +63,7 @@
     settings.password = String(settings.password ?? "");
     settings.remoteDir = normalizeRemoteDir(settings.remoteDir);
     settings.autoBackup = settings.autoBackup === true || settings.autoBackup === "true";
-    settings.intervalMinutes = clampInteger(settings.intervalMinutes, 60, 15, 10080);
+    settings.intervalMinutes = clampInteger(settings.intervalMinutes, 60, 15, 21600);
     settings.keepCount = clampInteger(settings.keepCount, 8, 1, 60);
 
     if (!settings.url) throw new Error("请填写 WebDAV 服务器地址");
